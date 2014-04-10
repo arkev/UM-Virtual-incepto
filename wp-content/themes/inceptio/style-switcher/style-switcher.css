@@ -1,0 +1,172 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ---------------------------------------------------------------------- */
+/* Style Switcher
+/* ---------------------------------------------------------------------- */
+#style-switcher {
+    font-size: 12px;
+    color: #333;
+    background-color: #fff;
+    width: 195px;
+    position: fixed;
+    left: 0;
+    top: 110px;
+    z-index: 600;
+    display: block !important; /* mobile devices */
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.05);
+}
+
+#style-switcher h2 {
+    font-size: 16px;
+    color: #fff;
+    background-color: #1a1a1a;
+    margin: 0;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 10px;
+    border: none;
+}
+
+#style-switcher h2 a {
+    display: block;
+    background: #1a1a1a url(style-switcher.png) no-repeat center center;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    right: -40px;
+    text-indent: -9999px;
+    border-radius: 0 3px 3px 0;
+}
+
+#style-switcher h3 {
+    font-size: 13px;
+    margin-bottom: 0;
+}
+
+#ss-options {
+    padding: 15px 10px;
+    border-right: 1px solid #dbdbdb;
+}
+
+#ss-reset {
+    padding: 0 10px 15px;
+    border-bottom: 1px solid #dbdbdb;
+    border-right: 1px solid #dbdbdb;
+}
+
+.ss-thumbs {
+    list-style: none;
+    margin: 10px 0 15px 0;
+}
+
+.ss-thumbs,
+#ss-layout-switcher {
+    border-bottom: 1px solid #dbdbdb;
+    padding: 0 0 15px 0;
+}
+
+.ss-thumbs:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.ss-thumbs li {
+    float: left;
+    margin: 0 5px 5px 0;
+}
+
+.ss-thumbs li a {
+    display: block;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    box-shadow: 0 0 0 1px #333 inset;
+}
+
+.ss-thumbs.ss-thumbs-mobile li a {
+    width: 30px;
+    height: 30px;
+}
+
+.ss-thumbs li a.active {
+    box-shadow: 0 0 0 2px #333 inset;
+}
+
+#ss-layout-switcher {
+    margin-top: 10px;
+}
+
+#ss-layout-switcher a {
+    background-color: #fff;
+    border: 2px solid #ccc !important;
+    padding: 5px 13px;
+    color: #333 !important;
+    margin-bottom: 0;
+    border-radius: 0;
+    text-shadow: none;
+    background-image: none;
+}
+
+#ss-layout-switcher a:hover,
+#ss-layout-switcher a.active {
+    border-color: #333 !important;
+}
+
+#ss-reset a {
+    margin: 0;
+}
+
+/* Predefined Colors */
+
+.blue { background-color: #2A8FBD; }
+.indigo { background-color: #4c6192; }
+.green { background-color: #93ac12; }
+.orange { background-color: #F78E0C; }
+.pink { background-color: #BD2346; }
+.purple { background-color: #723F8E; }
+.red { background-color: #E64141; }
+.retro-green { background-color: #6D8D5B; }
+.teal { background-color: #4FA29A; }
+.yellow { background-color: #FBB829; }
+
+/* Background Patterns */
+
+.ss-bg-patterns li a {
+    background-color: #fff;
+}
+
+.boxed-bg-1 { background-image: url(../images/background-patterns/boxed/wild_oliva.png); }
+.boxed-bg-2 { background-image: url(../images/background-patterns/boxed/first_aid_kit.png); }
+.boxed-bg-3 { background-image: url(../images/background-patterns/boxed/graphy.png); }
+.boxed-bg-4 { background-image: url(../images/background-patterns/boxed/bedge_grunge.png); }
+.boxed-bg-5 { background-image: url(../images/background-patterns/boxed/norwegian_rose.png); }
+.boxed-bg-6 { background-image: url(../images/background-patterns/boxed/cubes.png); }
+.boxed-bg-7 { background-image: url(../images/background-patterns/boxed/debut_dark.png); }
+.boxed-bg-8 { background-image: url(../images/background-patterns/boxed/diagonal-noise.png); }
+.boxed-bg-9 { background-image: url(../images/background-patterns/boxed/lghtmesh.png); }
+.boxed-bg-10 { background-image: url(../images/background-patterns/boxed/light_alu.png); }
+.boxed-bg-11 { background-image: url(../images/background-patterns/boxed/noisy_grid.png); }
+.boxed-bg-12 { background-image: url(../images/background-patterns/boxed/farmer.png); }
+.boxed-bg-13 { background-image: url(../images/background-patterns/boxed/rough_diagonal.png); }
+.boxed-bg-14 { background-image: url(../images/background-patterns/boxed/mirrored_squares.png); }
+.boxed-bg-15 { background-image: url(../images/background-patterns/boxed/nasty_fabric.png); }
+.boxed-bg-16 { background-image: url(../images/background-patterns/boxed/otis_redding.png); }
+.boxed-bg-17 { background-image: url(../images/background-patterns/boxed/ravenna.png); }
+.boxed-bg-18 { background-image: url(../images/background-patterns/boxed/soft_wallpaper.png); }
+.boxed-bg-19 { background-image: url(../images/background-patterns/boxed/shattered.png); }
+.boxed-bg-20 { background-image: url(../images/background-patterns/boxed/wavecut.png); }
+.boxed-bg-21 { background-image: url(../images/background-patterns/boxed/grid.png); }
+
+.wide-bg-1 { background-image: url(../images/background-patterns/wide/dots-3x3.png); }
+.wide-bg-2 { background-image: url(../images/background-patterns/wide/dots-6x6.png); }
+.wide-bg-3 { background-image: url(../images/background-patterns/wide/brillant.png); }
+.wide-bg-4 { background-image: url(../images/background-patterns/wide/cream_dust.png); }
+.wide-bg-5 { background-image: url(../images/background-patterns/wide/subtle_dots.png); }
+.wide-bg-6 { background-image: url(../images/background-patterns/wide/swirl.png); }
+
+@media only screen and (max-width: 1029px) {#style-switcher {display: none;}}

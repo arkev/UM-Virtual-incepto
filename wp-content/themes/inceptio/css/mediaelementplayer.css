@@ -1,0 +1,51 @@
+/* BEGIN CUSTOM */
+
+.mejs-controls .mejs-volume-button .mejs-volume-slider {
+	height: 83px;
+	top: -83px;	
+}
+
+.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-total {
+	height: 67px;	
+}
+
+.ie8 .me-plugin {
+    position: static;
+    height: 0;
+}
+
+.mejs-overlay-button {
+    width: 65px !important;
+    height: 40px !important;
+    margin: -20px 0 0 -32px !important;
+	background: url(../images/media-player/bigplay.png) no-repeat !important;
+}
+.mejs-overlay:hover .mejs-overlay-button{
+    background-position: 0 -41px !important;
+}
+
+.mejs-controls .mejs-time-rail .mejs-time-current {
+	width: 0;
+	background: #fff !important;
+	background: rgba(255,255,255,0.8) !important;
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(255,255,255,0.9)), to(rgba(200,200,200,0.8))) !important;
+	background: -webkit-linear-gradient(top, rgba(255,255,255,0.9), rgba(200,200,200,0.8)) !important;
+	background: -moz-linear-gradient(top, rgba(255,255,255,0.9), rgba(200,200,200,0.8)) !important;
+	background: -o-linear-gradient(top, rgba(255,255,255,0.9), rgba(200,200,200,0.8)) !important;
+	background: -ms-linear-gradient(top, rgba(255,255,255,0.9), rgba(200,200,200,0.8)) !important
+	background: linear-gradient(rgba(255,255,255,0.9), rgba(200,200,200,0.8)) !important;
+}
+
+.mejs-controls .mejs-captions-button .mejs-captions-selector ul {
+	list-style-type: none !important;
+}
+.mejs-controls .mejs-captions-button .mejs-captions-selector ul li{
+	list-style-type: none !important;
+}
+
+.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul {
+	list-style-type: none !important;
+}
+.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul li{
+	list-style-type: none !important;
+}
