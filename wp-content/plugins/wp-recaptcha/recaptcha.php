@@ -398,11 +398,7 @@ COMMENT_FORM;
 
                 $use_ssl = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on");
 
-                if(array_key_exists('rerror', $_GET)){
-                    $escaped_error = htmlentities($_GET['rerror'], ENT_QUOTES);
-                }else{
-                    $escaped_error = '';
-                }
+                $escaped_error = htmlentities($_GET['rerror'], ENT_QUOTES);
 
                 echo $recaptcha_js_opts . $this->get_recaptcha_html(isset($escaped_error) ? $escaped_error : null, $use_ssl) . $comment_string;
            }
@@ -482,8 +478,8 @@ JS;
             if (!is_single() && !is_page())
                 return;
             
-            $comment_id = array_key_exists('rcommentid', $_REQUEST)? $_REQUEST['rcommentid'] : '';
-            $comment_hash = array_key_exists('rchash', $_REQUEST)? $_REQUEST['rchash'] : '';
+            $comment_id = $_REQUEST['rcommentid'];
+            $comment_hash = $_REQUEST['rchash'];
             
             if (empty($comment_id) || empty($comment_hash))
                return;
