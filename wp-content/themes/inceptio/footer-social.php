@@ -1,4 +1,5 @@
 <?php if(inc_is_display_sn_icons_in_footer_enabled()) {?>
+<a href="http://www.um.edu.mx"><img src="/wp-content/themes/inceptio/images/um.png" alt="um" id="UM-Logo"></a>
 <ul class="social-links">
     <?php if(inc_get_sn_data(OPTION_SN_TWITTER_USERNAME)) {?>
     <li class="<?php echo inc_get_footer_sn_class('twitter'); ?>"><a href="https://twitter.com/#!/<?php echo inc_get_sn_data(OPTION_SN_TWITTER_USERNAME); ?>" title="<?php _e('Twitter', INCEPTIO_THEME_NAME) ?>" target="_blank"><?php _e('Twitter', INCEPTIO_THEME_NAME) ?></a></li>
@@ -40,4 +41,5 @@
     <li class="<?php echo inc_get_footer_sn_class('rss'); ?>"><a href="<?php echo inc_get_rss_url(); ?>" title="<?php _e('RSS', INCEPTIO_THEME_NAME) ?>" target="_blank"><?php _e('RSS', INCEPTIO_THEME_NAME) ?></a></li>
     <?php } ?>
 </ul>
+
 <?php } ?>
