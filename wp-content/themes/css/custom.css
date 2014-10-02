@@ -18,7 +18,7 @@
 .pricing-box.featured .title,
 .project-list .entry:hover .entry-meta,
 .iconbox > a:hover {
-  border-color: #635286;
+  border-color: #2e194a;
 }
 ul#navlist li.current a,
 .ddsubmenustyle li a,
@@ -54,7 +54,7 @@ ul#navlist li.current a,
 .button.black:hover,
 .arrow-box-hover,
 #footer-featured {
-  background-color: #635286;
+  background-color: #2e194a;
 }
 a,
 a > *,
@@ -77,7 +77,7 @@ ol.comment-list .comment-author a:hover,
 .content-featured a:hover,
 #breadcrumbs a:hover,
 .language-options ul li a:hover {
-  color: #635286;
+  color: #2e194a;
 }
 #logo {
   margin-top: 20px;
