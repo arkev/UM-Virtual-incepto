@@ -8,14 +8,37 @@
               ~"only screen and (min-device-pixel-ratio: 1.5)";
 @MobilePortrait: ~"only screen and (max-width: 320px)";
 @Mobilelandscape: ~"only screen and (max-width: 480px)";
+@Smalltabletportrait: ~"only screen and (max-width: 600px)";
+@Smalltabletlandscape: ~"only screen and (max-width: 800px)";
+@Tabletlandscape: ~"only screen and (max-width: 1024px)";
+@base-url: "http://arkev.local:5757/wp-content/themes/inceptio-child/";
 
-.ddsubmenustyle > ul {top: 32px !important;}
-#ix-s, #s {top: 40px;}
-#UM-Logo{
-	float: right;
-	width: 150px;
-	margin: -12px 0 0 6px;
+//Generales
+@font-face {
+  font-family: "umvirtual";
+  src:url("@{base-url}fonts/umvirtual.eot");
+  src:url("@{base-url}fonts/umvirtual.eot?#iefix") format("embedded-opentype"),
+    url("@{base-url}fonts/umvirtual.woff") format("woff"),
+    url("@{base-url}fonts/umvirtual.ttf") format("truetype"),
+    url("@{base-url}fonts/umvirtual.svg#umvirtual") format("svg");
+  font-weight: normal;
+  font-style: normal;
 }
+
+//Mixins
+.iwf_umvirtual() {
+  font-family: "umvirtual" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+//DarkViolet
 #wrap, #footer-top, .infobox, .ui-tabs .ui-tabs-nav li.ui-state-active a, .pricing-box.featured .price, .pricing-box.featured .title, .project-list .entry:hover .entry-meta, .iconbox > a:hover {
 border-color: @darkviolet;
 }
@@ -25,10 +48,67 @@ background-color:@darkviolet;
 a, a > *, .intro strong, .introbox strong, .iconbox > a:hover .iconbox-title, .entry-title a:hover, .project-list li:hover .entry-title, ul#search-results h2 a:hover, ul#search-results h2 a:hover strong, .widget ul.menu li > a:hover, .widget ul.menu li.current-menu-item > a, .ui-tabs .ui-tabs-nav li a:hover, .ui-tabs .ui-tabs-nav li.ui-state-active a, .ui-accordion .ui-accordion-header:hover, .ui-accordion .ui-accordion-header.ui-state-active, ol.comment-list .comment-author a:hover, .post-carousel .entry-meta a:hover, .iconbox .call-to-action, .content-featured a:hover, #breadcrumbs a:hover, .language-options ul li a:hover {
 color:@darkviolet;
 }
+
+//Header
+#header {
+	margin-bottom: 40px;
+}
 #logo {
-	margin-top: 20px;
+	margin-top: 12px;
 	a img {width: 350px;}
 }
+ul#navlist li a {
+    font-size: 1em;
+    padding: 25px 10px 25px;
+}
+#nav, .tinynav {
+    @media @Smalltabletlandscape{
+		width: 320px;
+	}
+    @media @Smalltabletportrait{
+		width: 370px;
+	}
+    @media @Mobilelandscape{
+		width: 369px;
+	}
+    @media @MobilePortrait{
+		width: 250px;
+	}
+}
+.ddsubmenustyle > ul {top: 32px !important;}
+#search-form, .tinynav {
+    margin-top: 20px;
+    @media @Smalltabletlandscape{
+		margin-top: 15px;
+	}
+}
+#ix-s, #s {
+    margin-top:12px;
+    @media @Smalltabletlandscape{
+		right: 50px;
+        width: 298px;
+        margin-top:0;
+	}
+    @media @Smalltabletportrait{
+		top: 35px;
+        width: 348px;
+	}
+    @media @Mobilelandscape{
+		width:397px;
+        top: 40px;
+        right: 0;
+	}
+    @media @MobilePortrait{
+		width: 278px;
+	}
+}
+#UM-Logo{
+	float: right;
+	width: 150px;
+	margin: -12px 0 0 6px;
+}
+
+//Slider del home
 .tp-caption.Gold.sfr.stb.tp-resizeme.start{
 	@media @MobilePortrait{
 		top: 90px!important;
@@ -47,11 +127,105 @@ color:@darkviolet;
 	#accep strong{font-size: 1em!important;}
 }
 .tp-caption.skewfromright.stt.start[data-start="800"]{
+    @media @Smalltabletportrait {
+        top: 40px!important;
+	}
 	@media @Mobilelandscape {
 		left: 260px!important;
 		top: 15px!important;
 	}
 	@media @MobilePortrait {
 		left: 190px!important;
+	}
+}
+.tp-caption.sft.stl.start[data-x="center"]{
+    @media @Smalltabletportrait{
+		top: 40px!important;
+        left: 75px!important;
+	}
+    @media @MobilePortrait {
+        left: 25px!important;
+        top: 30px!important;
+	}
+    @media @Mobilelandscape {
+		left: 25px!important;
+        top: 15px!important;
+	}
+}
+#recono{
+    @media @Smalltabletportrait {
+        position: absolute;
+		left: 60px;
+        top: -30px;
+	}
+    @media @Mobilelandscape {
+        top: -40px;
+	}
+    @media @MobilePortrait {
+        position: absolute;
+        left: 95px;
+        top: -25px;
+	}
+}
+.tp-caption.lfr.str.start{
+    @media @Smalltabletportrait {
+        top: 50px!important;
+        left: 290px!important;
+	}
+    @media @Mobilelandscape {
+        left: 250px!important;
+	}
+    @media @MobilePortrait {
+        left: 180px!important;
+        top: 20px!important;
+	} 
+}
+#flexi{
+    @media @Smalltabletportrait {
+        top: -20px;
+        right: 50px;
+        position: absolute;
+        strong{font-size: 1em!important;}
+	}
+    @media @Mobilelandscape {
+        top: 30px;
+        right: 230px;
+	}
+    @media @MobilePortrait {
+        top: 10px;
+        right: 290px;
+	}
+}
+
+//Oferta académica home
+#oferta-home {
+    margin-bottom:0;
+    h2{margin-top: 1.8em;}
+    .iconbox-title{margin-top: 0;}
+}
+#pregrado .iconbox-icon, #posgrado .iconbox-icon, #diplomados .iconbox-icon, #cursos-cortos .iconbox-icon,{
+    img{display: none;}
+    &:before {
+        .iwf_umvirtual();
+        font-size: 10em;
+    }
+}
+#pregrado .iconbox-icon:before{content: "b";}
+#posgrado .iconbox-icon:before{content: "c";}
+#diplomados .iconbox-icon:before{
+    content: "a";
+    font-size: 9em;
+    line-height: 1.16em;
+}
+#cursos-cortos .iconbox-icon:before{
+    content: "d";
+    font-size: 8em;
+    line-height: 1.32em;
+}
+
+//Modelo educativo
+.arrowbox-title {
+    @media @Tabletlandscape{
+		font-size: 1.3em;
 	}
 }

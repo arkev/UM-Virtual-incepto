@@ -1291,3 +1291,10 @@ jQuery(document).ready(function ($) {
     }
 
 });
+
+/* ---------------------------------------------------------------------- */
+/* Fecha en el footer
+/* ---------------------------------------------------------------------- */
+var ano = (new Date).getFullYear();
+
+document.getElementById("fecha").innerHTML = ano;
