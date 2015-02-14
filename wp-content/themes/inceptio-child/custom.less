@@ -10,6 +10,7 @@
 @Mobilelandscape: ~"only screen and (max-width: 480px)";
 @Smalltabletportrait: ~"only screen and (max-width: 600px)";
 @Smalltabletlandscape: ~"only screen and (max-width: 800px)";
+@Tabletportrait: ~"only screen and (max-width: 959px)";
 @Tabletlandscape: ~"only screen and (max-width: 1024px)";
 @base-url: "http://arkev.local:5757/wp-content/themes/inceptio-child/";
 
@@ -62,6 +63,9 @@ ul#navlist li a {
     padding: 25px 10px 25px;
 }
 #nav, .tinynav {
+    @media @Tabletportrait{
+		width: 340px;
+	}
     @media @Smalltabletlandscape{
 		width: 320px;
 	}
@@ -69,9 +73,6 @@ ul#navlist li a {
 		width: 370px;
 	}
     @media @Mobilelandscape{
-		width: 369px;
-	}
-    @media @MobilePortrait{
 		width: 250px;
 	}
 }
@@ -94,12 +95,9 @@ ul#navlist li a {
         width: 348px;
 	}
     @media @Mobilelandscape{
-		width:397px;
+		width: 278px;
         top: 40px;
         right: 0;
-	}
-    @media @MobilePortrait{
-		width: 278px;
 	}
 }
 #UM-Logo{
@@ -233,19 +231,6 @@ ul#navlist li a {
     width: 100%;
     max-width: 720px;
     margin: 0 auto;
-}
-
-#admision{
-    height: 580px;
-    @media @Smalltabletlandscape{
-         height: 590px;
-    }
-    @media @Smalltabletportrait {
-        height: 620px;
-	}
-    @media @MobilePortrait {
-        height: 650px;
-	}
 }
 
 section div.map{height: 400px!important;}
