@@ -35,7 +35,7 @@ if (!function_exists('inc_portfolio_sidebar_image_settings')) {
                 <!-- begin project description -->
                 <div>
                     <div class="project-description">
-                        <h2><?php _e('Project Description', INCEPTIO_THEME_NAME) ?></h2>
+                        <!--<h2><?php /*_e('Project Description', INCEPTIO_THEME_NAME) */?></h2>-->
                         <?php the_content(); ?>
                     </div>
                 </div>

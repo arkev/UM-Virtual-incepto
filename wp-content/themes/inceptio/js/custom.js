@@ -1314,3 +1314,8 @@ jQuery(document).ready(function ($) {
 var ano = (new Date).getFullYear();
 
 document.getElementById("fecha").innerHTML = ano;
+
+// Iframe
+iFrameResize({
+    log: true,// Enable console logging
+});

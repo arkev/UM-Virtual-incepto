@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Inceptio\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-30 18:50+0100\n"
-"PO-Revision-Date: 2014-01-30 18:50+0100\n"
+"PO-Revision-Date: 2015-02-17 18:09-0600\n"
 "Last-Translator: ixtendo <info@ixtendo.com>\n"
 "Language-Team: Ixtendo <info@ixtendo.com>\n"
 "Language: es_ES\n"
@@ -12,12 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr__\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.5.5\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../404.php:9
 msgid "The page requested was not found."
-msgstr ""
+msgstr "La página solicitada no se encuentra"
 
 #: ../404.php:10
 msgid "It seems that the page you were looking for doesn't exist."
@@ -58,7 +58,7 @@ msgstr ""
 
 #: ../breadcrumb.php:16
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #: ../category.php:7
 #, php-format
@@ -193,7 +193,7 @@ msgstr ""
 #: ../functions.php:199 ../functions.php:200
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:493
 msgid "Portfolio"
-msgstr ""
+msgstr "Portafolio"
 
 #: ../functions.php:565
 msgid "The default sidebar"
@@ -242,7 +242,7 @@ msgstr ""
 
 #: ../portfolio-footer.php:11
 msgid "Related Projects"
-msgstr ""
+msgstr "Cursos y diplomados relacionados"
 
 #: ../post-sharing-sharethis.php:3 ../post-sharing.php:4
 msgid "Share This Story"
@@ -286,7 +286,7 @@ msgstr ""
 
 #: ../single.php:23
 msgid "Related Posts"
-msgstr ""
+msgstr "Artículos relacionados"
 
 #: ../tag.php:7
 #, php-format
@@ -306,7 +306,7 @@ msgstr ""
 #: ../template-portfolio-nosidebar.php:38
 #: ../template-portfolio-rsidebar2.php:47
 msgid "Project Description"
-msgstr ""
+msgstr "Descripción del programa"
 
 #: ../api/comments-util.php:7
 msgid "Leave a Comment"

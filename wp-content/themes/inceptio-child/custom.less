@@ -26,6 +26,8 @@
   font-style: normal;
 }
 
+h2 {margin-top: 10px;}
+
 //Mixins
 .iwf_umvirtual() {
   font-family: "umvirtual" !important;
@@ -83,7 +85,8 @@ ul#navlist li a {
 		margin-top: 15px;
 	}
 }
-#ix-s, #s {
+
+#ix-s{
     margin-top:12px;
     @media @Smalltabletlandscape{
 		right: 50px;
@@ -100,6 +103,7 @@ ul#navlist li a {
         right: 0;
 	}
 }
+
 #UM-Logo{
 	float: right;
 	width: 150px;
@@ -201,7 +205,7 @@ ul#navlist li a {
     h2{margin-top: 1.8em;}
     .iconbox-title{margin-top: 0;}
 }
-#pregrado .iconbox-icon, #posgrado .iconbox-icon, #diplomados .iconbox-icon, #cursos-cortos .iconbox-icon,{
+#educacion-continua .iconbox-icon, #educacion-formal .iconbox-icon, #pregrado .iconbox-icon, #posgrado .iconbox-icon, #diplomados .iconbox-icon, #cursos-cortos .iconbox-icon{
     img{display: none;}
     &:before {
         .iwf_umvirtual();
@@ -220,6 +224,12 @@ ul#navlist li a {
     font-size: 8em;
     line-height: 1.32em;
 }
+#educacion-formal .iconbox-icon:before{content: "c";}
+#educacion-continua .iconbox-icon:before{
+    content: "a";
+    font-size: 9em;
+    line-height: 1.16em;
+}
 
 //Modelo educativo
 .arrowbox-title {
@@ -232,7 +242,7 @@ ul#navlist li a {
     max-width: 720px;
     margin: 0 auto;
 }
-
+//mapa
 section div.map{height: 400px!important;}
 //Contacto
 #contacto .column-last br{display: none;}
@@ -242,4 +252,80 @@ section div.map{height: 400px!important;}
 }
 .content-form input, .wpcf7-form input{
     width: 90%;
+}
+//Desaparecer
+.page-id-410 .filter, .page-id-421 .filter a[data-filter=".diplomados"], .page-id-512 .filter a[data-filter=".cursos"], .column-last br, .postid-471 #content .container section:nth-child(2), .postid-412 #content .container section:nth-child(2), .postid-466 #content .container section:nth-child(2), .postid-468 #content .container section:nth-child(2), .postid-415 #content .container section:nth-child(2){display: none;}
+//mostrar
+.project-description .column-last, .jcarousel-container a.entry-image.lightbox{display: block!important;}
+//Sidebar
+aside #newsletter-form input#newsletter{
+    background-color:white;
+    border: 1px solid #d9d9d9;
+}
+//tablas
+.tabla {
+    display: inline-table;
+    width: 94%;
+    margin: 0 0 2em;
+    td {
+        padding: 0 0 0 3%;
+        text-align: left;
+    }
+    th {text-align: center;}
+    tr{
+        background: #eee;
+        &:nth-child(odd) {
+            background: #d9d9d9;
+        }
+        &:first-child {
+            background:@darkviolet;
+            color: #fff;
+        }
+        &:nth-child(2) {
+            background:(@darkviolet + 30);
+            color: #eee;
+        }
+        &:last-child td{
+            font-weight: bold;
+        }
+    }
+}
+.modulos tr{
+        &:nth-child(2) {
+            background: #eee!important;
+            color: #333!important;
+        }
+}
+.gen-table caption{
+    font-size: 1.2em;
+    font-weight: 600;
+    font-style: inherit;
+}
+#plan-teologia .tabla{
+    float: left;
+    max-width:435px;
+    margin: 0 3% 2em 0;
+    @media @Tabletportrait{
+        max-width:350px;
+    }
+    @media @Smalltabletportrait{
+        max-width: 395px;
+    }
+}
+//LigthBox
+.fancybox-opened {
+    width: 90%!important;
+    top: 6em!important;
+    max-width: 1140px;
+}
+.fancybox-inner {
+    width: 100%!important;
+    height: auto!important;
+}
+#content a.entry-image.lightbox{display: none;}
+//Tabla de acreditaciones
+.postid-360 .project-description table{
+    margin-bottom: 4em;
+    img {margin-top: 10px;margin-right: 5%;}
+    td{vertical-align: middle;}
 }
