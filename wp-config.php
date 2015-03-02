@@ -25,7 +25,7 @@ define('DB_USER', 'umv');
 define('DB_PASSWORD', 'sitioNuevoUMVirt.15');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define('DB_HOST', 'http://umv.um.edu.mx');
+define('DB_HOST', 'localhost');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8');
