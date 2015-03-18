@@ -2,6 +2,29 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18493",
 "files": {
+	"\/bower_components\/components-modernizr\/modernizr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/components-modernizr\/modernizr.js",
+		"outputAbbreviatedPath": "\/bower_components\/components-modernizr\/min\/modernizr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/components-modernizr\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/components-modernizr\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/components-modernizr\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/bower_components\/iframe-resizer\/js\/iframeResizer.contentWindow.min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -45,6 +68,39 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/normalize-css\/LICENSE.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/normalize-css\/LICENSE.md",
+		"outputAbbreviatedPath": "\/bower_components\/normalize-css\/LICENSE.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/normalize-css\/normalize.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/normalize-css\/normalize.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/normalize-css\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/normalize-css\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/normalize-css\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/documentacion\/slider\/assets\/css\/documenter_style.css": {
 		"fileType": 16,
@@ -2064,6 +2120,55 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/proiectum\/educacion\/css\/styles.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/proiectum\/educacion\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/proiectum\/educacion\/css\/styles.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/proiectum\/educacion\/css\/styles.less",
+		"outputAbbreviatedPath": "\/proiectum\/educacion\/css\/styles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/proiectum\/educacion\/images\/bkg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5852,
+		"inputAbbreviatedPath": "\/proiectum\/educacion\/images\/bkg.jpg",
+		"outputAbbreviatedPath": "\/proiectum\/educacion\/images\/bkg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/proiectum\/educacion\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/proiectum\/educacion\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -5990,6 +6095,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/wp-config-sample.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-config.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -24002,6 +24116,116 @@
 		"initialSize": 88435,
 		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-940x598.jpg",
 		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-940x598.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico-1024x723.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83822,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-1024x723.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-1024x723.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5718,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico-220x140.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6956,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-220x140.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-220x140.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico-300x212.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12006,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-300x212.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-300x212.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico-460x292.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23342,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-460x292.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-460x292.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico-700x300.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35802,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-700x300.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-700x300.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico-700x445.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45685,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-700x445.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-700x445.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico-940x400.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54650,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-940x400.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-940x400.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico-940x598.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70424,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-940x598.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico-940x598.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/evangelismo-tecnologico.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 365177,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/evangelismo-tecnologico.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

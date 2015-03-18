@@ -306,7 +306,6 @@ aside #newsletter-form input#newsletter{
     font-style: inherit;
 }
 #plan-teologia .tabla{
-    float: left;
     max-width:435px;
     margin: 0 3% 2em 0;
     @media @Tabletportrait{
@@ -357,3 +356,12 @@ aside #newsletter-form input#newsletter{
         display: block;
     }
 }
+
+//Eliminar flash
+.touch .page-id-2 #advanced_iframe{
+    @media @MobilePortrait{display: none;}
+    @media only screen and (min-width: 1025px){display: none;}
+}
+
+//Eliminar cursos y diplomados relacionados de las licenciaturas
+.postid-360 .container section:nth-child(2), .postid-758 .container section:nth-child(2){display: none;}
