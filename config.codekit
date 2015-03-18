@@ -102,6 +102,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/media-queries.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/media-queries.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/documentacion\/slider\/assets\/css\/documenter_style.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -2124,34 +2133,16 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/proiectum\/educacion\/css\/styles.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/proiectum\/educacion\/css\/styles.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/proiectum\/educacion\/css\/styles.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
+	"\/proiectum\/educacion\/images\/bkg-title.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/proiectum\/educacion\/css\/styles.less",
-		"outputAbbreviatedPath": "\/proiectum\/educacion\/css\/styles.css",
+		"initialSize": 4878,
+		"inputAbbreviatedPath": "\/proiectum\/educacion\/images\/bkg-title.jpg",
+		"outputAbbreviatedPath": "\/proiectum\/educacion\/images\/bkg-title.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
+		"processed": 0
 		},
 	"\/proiectum\/educacion\/images\/bkg.jpg": {
 		"fileType": 16384,
@@ -2164,14 +2155,49 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/proiectum\/educacion\/index.html": {
-		"fileType": 8192,
+	"\/proiectum\/educacion\/images\/hr1.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/proiectum\/educacion\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"initialSize": 7669,
+		"inputAbbreviatedPath": "\/proiectum\/educacion\/images\/hr1.jpg",
+		"outputAbbreviatedPath": "\/proiectum\/educacion\/images\/hr1.jpg",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/proiectum\/educacion\/images\/hr2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7882,
+		"inputAbbreviatedPath": "\/proiectum\/educacion\/images\/hr2.jpg",
+		"outputAbbreviatedPath": "\/proiectum\/educacion\/images\/hr2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/proiectum\/educacion\/images\/hr3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8035,
+		"inputAbbreviatedPath": "\/proiectum\/educacion\/images\/hr3.jpg",
+		"outputAbbreviatedPath": "\/proiectum\/educacion\/images\/hr3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/proiectum\/educacion\/images\/ninos-aburridos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 184288,
+		"inputAbbreviatedPath": "\/proiectum\/educacion\/images\/ninos-aburridos.jpg",
+		"outputAbbreviatedPath": "\/proiectum\/educacion\/images\/ninos-aburridos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/readme.html": {
 		"fileType": 8192,
