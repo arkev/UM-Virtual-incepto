@@ -1,0 +1,119 @@
+.ddsubmenustyle > ul {
+  top: 32px !important;
+}
+#ix-s,
+#s {
+  top: 40px;
+}
+#UM-Logo {
+  float: right;
+  width: 150px;
+  margin: -12px 0 0 6px;
+}
+#wrap,
+#footer-top,
+.infobox,
+.ui-tabs .ui-tabs-nav li.ui-state-active a,
+.pricing-box.featured .price,
+.pricing-box.featured .title,
+.project-list .entry:hover .entry-meta,
+.iconbox > a:hover {
+  border-color: #2e194a;
+}
+ul#navlist li.current a,
+.ddsubmenustyle li a,
+.flex-direction-nav a:hover,
+.flex-direction-nav a:active,
+.tp-leftarrow.default:hover,
+.tp-rightarrow.default:hover,
+.ie8 .flex-direction-nav a:hover,
+.ie8 .flex-direction-nav a:active,
+.ie8 .rev_slider_wrapper .tp-leftarrow.default:hover,
+.ie8 .rev_slider_wrapper .tp-rightarrow.default:hover,
+.iconbox.icon-left > a:hover .iconbox-icon,
+.jcarousel-prev:hover,
+.jcarousel-prev:focus,
+.jcarousel-next:hover,
+.jcarousel-next:focus,
+#toTop:hover,
+.page-nav li.current,
+.page-nav a:hover,
+.pricing-box.featured .price,
+.pricing-box.featured .title,
+.filter a:hover,
+.filter a.selected,
+.tags a:hover,
+.rev_slider_wrapper .colored,
+.tp-bullets .bullet:hover,
+.tp-bullets .bullet.selected,
+#newsletter-form input.button:hover,
+.button,
+.content-form input.button,
+#comment-form #submit,
+.wpcf7-submit,
+.button.black:hover,
+.arrow-box-hover,
+#footer-featured {
+  background-color: #2e194a;
+}
+a,
+a > *,
+.intro strong,
+.introbox strong,
+.iconbox > a:hover .iconbox-title,
+.entry-title a:hover,
+.project-list li:hover .entry-title,
+ul#search-results h2 a:hover,
+ul#search-results h2 a:hover strong,
+.widget ul.menu li > a:hover,
+.widget ul.menu li.current-menu-item > a,
+.ui-tabs .ui-tabs-nav li a:hover,
+.ui-tabs .ui-tabs-nav li.ui-state-active a,
+.ui-accordion .ui-accordion-header:hover,
+.ui-accordion .ui-accordion-header.ui-state-active,
+ol.comment-list .comment-author a:hover,
+.post-carousel .entry-meta a:hover,
+.iconbox .call-to-action,
+.content-featured a:hover,
+#breadcrumbs a:hover,
+.language-options ul li a:hover {
+  color: #2e194a;
+}
+#logo {
+  margin-top: 20px;
+}
+#logo a img {
+  width: 350px;
+}
+@media only screen and (max-width: 320px) {
+  .tp-caption.Gold.sfr.stb.tp-resizeme.start {
+    top: 90px!important;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .tp-caption.Violeta-TC.lft.str.tp-resizeme.start {
+    left: 250px!important;
+    top: 60px!important;
+    text-align: left;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .tp-caption.Violeta-TC.lft.str.tp-resizeme.start {
+    left: 175px!important;
+    top: 45px!important;
+  }
+}
+.tp-caption.Violeta-TC.lft.str.tp-resizeme.start #accep strong {
+  font-size: 1em!important;
+}
+@media only screen and (max-width: 480px) {
+  .tp-caption.skewfromright.stt.start[data-start="800"] {
+    left: 260px!important;
+    top: 15px!important;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .tp-caption.skewfromright.stt.start[data-start="800"] {
+    left: 190px!important;
+  }
+}

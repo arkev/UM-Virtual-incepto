@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Inceptio\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-30 18:50+0100\n"
-"PO-Revision-Date: 2014-01-30 18:50+0100\n"
-"Last-Translator: ixtendo <info@ixtendo.com>\n"
+"PO-Revision-Date: 2015-02-25 16:18-0600\n"
+"Last-Translator: Allen Zapien <yosoy@arkev.com>\n"
 "Language-Team: Ixtendo <info@ixtendo.com>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -12,447 +12,460 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr__\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.5.5\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../404.php:9
 msgid "The page requested was not found."
-msgstr ""
+msgstr "La página solicitada no se encuentra"
 
 #: ../404.php:10
 msgid "It seems that the page you were looking for doesn't exist."
 msgstr ""
+"Parece que ha habido un error con la página que estabas buscando.Es posible "
+"que haya sido eliminada o que la dirección es incorrecta"
 
 #: ../404.php:11
 msgid "Perhaps one of the links below can help."
-msgstr ""
+msgstr "Tal vez uno de los siguientes enlaces puedan ayudarte"
 
 #: ../archive.php:8
 #, php-format
 msgid "Daily Archives: %s"
-msgstr ""
+msgstr "Archivos Diarios: %s"
 
 #: ../archive.php:10
 #, php-format
 msgid "Monthly Archives: %s"
-msgstr ""
+msgstr "Archivos mensuales: %s"
 
 #: ../archive.php:12
 #, php-format
 msgid "Yearly Archives: %s"
-msgstr ""
+msgstr "Archivos Anuales: %s"
 
 #: ../archive.php:14 ../api/shortcode/Inc_Site_Map_Shortcode.php:31
 msgid "Blog Archives"
-msgstr ""
+msgstr "Artículos"
 
 #: ../archive.php:40 ../author.php:32 ../category.php:32 ../index.php:60
 #: ../tag.php:32
 msgid "No posts found"
-msgstr ""
+msgstr "No se han encontrado entradas"
 
 #: ../author.php:7
 #, php-format
 msgid "Author Archives: %s"
-msgstr ""
+msgstr "Archivos del autor: %s"
 
 #: ../breadcrumb.php:16
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #: ../category.php:7
 #, php-format
 msgid "Category Archives: %s"
-msgstr ""
+msgstr "Archivos de la categoría: %s"
 
 #: ../comments.php:5
 msgid ""
 "This post is password protected. Enter the password to view any comments."
 msgstr ""
+"Esta entrada está protegida. Introduzca la contraseña para ver los "
+"comentarios."
 
 #: ../comments.php:22
 msgid "&laquo; Newer Comments"
-msgstr ""
+msgstr "&laquo; Comentarios recientes"
 
 #: ../comments.php:23
 msgid "Older Comments &raquo;"
-msgstr ""
+msgstr "Comentarios más antiguos &raquo;"
 
 #: ../content-single.php:41 ../content.php:52
 #: ../api/shortcode/Inc_News_Shortcode.php:69
 #: ../api/shortcode/Inc_News_Shortcode.php:114
 msgid "No Comments"
-msgstr ""
+msgstr "Sin comentarios"
 
 #: ../content-single.php:41 ../content.php:52
 #: ../api/shortcode/Inc_News_Shortcode.php:69
 #: ../api/shortcode/Inc_News_Shortcode.php:116
 msgid "1 Comment"
-msgstr ""
+msgstr "1 comentarios"
 
 #: ../content-single.php:41 ../content.php:52
 #: ../api/shortcode/Inc_News_Shortcode.php:69
 #: ../api/shortcode/Inc_News_Shortcode.php:112
 msgid "% Comments"
-msgstr ""
+msgstr "% Comentarios"
 
 #: ../content-single.php:57 ../api/util/Blog_Overview_Manager.php:41
 #: ../api/widget/Inc_Tag_Cloud_Widget.php:19
 msgid "Tags"
-msgstr ""
+msgstr "Etiquetas"
 
 #: ../content-single.php:114
 msgid "About the Author"
-msgstr ""
+msgstr "Acerca del autor"
 
 #: ../content.php:62 ../api/util.php:668 ../api/util.php:684
 #: ../api/util.php:700
 msgid "read more"
-msgstr ""
+msgstr "Leer más"
 
 #: ../footer-social.php:4
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ../footer-social.php:7
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: ../footer-social.php:10
 msgid "Google+"
-msgstr ""
+msgstr "Google+"
 
 #: ../footer-social.php:13
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #: ../footer-social.php:16
 msgid "Vimeo"
-msgstr ""
+msgstr "Vimeo"
 
 #: ../footer-social.php:19
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #: ../footer-social.php:22
 msgid "Skype"
-msgstr ""
+msgstr "Skype"
 
 #: ../footer-social.php:25
 msgid "Digg"
-msgstr ""
+msgstr "Digg"
 
 #: ../footer-social.php:28
 msgid "Delicious"
-msgstr ""
+msgstr "Delicious"
 
 #: ../footer-social.php:31
 msgid "Tumbler"
-msgstr ""
+msgstr "Tumbler"
 
 #: ../footer-social.php:34
 msgid "Dribbble"
-msgstr ""
+msgstr "Dribbble"
 
 #: ../footer-social.php:37
 msgid "StumbleUpon"
-msgstr ""
+msgstr "StumbleUpon"
 
 #: ../footer-social.php:40 ../api/shortcode/Inc_Social_Icons_Shortcode.php:60
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ../footer.php:26
 msgid "about {p1} days ago"
-msgstr ""
+msgstr "Hace {p1} días atras"
 
 #: ../footer.php:27
 msgid "about a day ago"
-msgstr ""
+msgstr "Hace un día atras"
 
 #: ../footer.php:28
 msgid "about {p1} hours ago"
-msgstr ""
+msgstr "Hace {p1} horas atras"
 
 #: ../footer.php:29
 msgid "about an hour ago"
-msgstr ""
+msgstr "Hace una hora atras"
 
 #: ../footer.php:30
 msgid "about {p1} minutes ago"
-msgstr ""
+msgstr "Hace {p1} minutos atras"
 
 #: ../footer.php:31
 msgid "about {p1} seconds ago"
-msgstr ""
+msgstr "Hace {p1} segundos atras"
 
 #: ../footer.php:32
 msgid "just now"
-msgstr ""
+msgstr "Justo ahora"
 
 #: ../functions.php:199 ../functions.php:200
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:493
 msgid "Portfolio"
-msgstr ""
+msgstr "Portafolio"
 
 #: ../functions.php:565
 msgid "The default sidebar"
-msgstr ""
+msgstr "El sidebar por defecto"
 
 #: ../functions.php:575
 msgid "The footer sidebar"
-msgstr ""
+msgstr "El footer sidebar"
 
 #: ../functions.php:585
 msgid "The portfolio category sidebar"
-msgstr ""
+msgstr "La categoría del portafolio"
 
 #: ../functions.php:682 ../api/util/Blog_Overview_Manager.php:40
 #: ../api/widget/Inc_Categories_Widget.php:14
 msgid "Categories"
-msgstr ""
+msgstr "Categorías"
 
 #: ../header.php:61 ../header.php:62 ../searchform.php:3 ../searchform.php:4
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: ../image.php:43
 msgid "&lsaquo; Previous Image"
-msgstr ""
+msgstr "&lsaquo; Imagen previa"
 
 #: ../image.php:46
 msgid "Next Image &rsaquo;"
-msgstr ""
+msgstr "Siguiente imagen &rsaquo;"
 
 #: ../index.php:8
 msgid "Blog"
-msgstr ""
+msgstr "Artículos"
 
 #: ../language-switcher.php:20
 msgid "Change Language"
-msgstr ""
+msgstr "Cambiar lenguaje"
 
 #: ../page-title.php:20
 msgid "404 Error Page"
-msgstr ""
+msgstr "Error 404"
 
 #: ../page-title.php:22
 msgid "Search Results"
-msgstr ""
+msgstr "Resultados de tu búsqueda"
 
 #: ../portfolio-footer.php:11
 msgid "Related Projects"
-msgstr ""
+msgstr "Cursos y diplomados relacionados"
 
 #: ../post-sharing-sharethis.php:3 ../post-sharing.php:4
 msgid "Share This Story"
-msgstr ""
+msgstr "Compartir este artículo"
 
 #: ../posts-navigation.php:12
 msgid "&lsaquo; Previous"
-msgstr ""
+msgstr "&lsaquo; Previos"
 
 #: ../posts-navigation.php:13
 msgid "Next &rsaquo;"
-msgstr ""
+msgstr "Siguiente &rsaquo;"
 
 #: ../search.php:10
 msgid "results found for"
-msgstr ""
+msgstr "resultados encontrados para"
 
 #: ../search.php:28
 msgid "Sorry, no posts matched your criteria. Please try and search again."
 msgstr ""
+"Lo sentimos, no hay entradas con estos términos. Por favor intente buscar de "
+"nuevo."
 
 #: ../sidebar-portfolio.php:8 ../api/admin/admin-page-config.php:12
 msgid "Project Details"
-msgstr ""
+msgstr "Detalles del proyecto"
 
 #: ../sidebar-portfolio.php:11 ../api/admin/admin-page-config.php:19
 msgid "Customer"
-msgstr ""
+msgstr "Cliente"
 
 #: ../sidebar-portfolio.php:22 ../api/admin/admin-page-config.php:25
 msgid "Year"
-msgstr ""
+msgstr "Año"
 
 #: ../sidebar-portfolio.php:27
 msgid "Technology"
-msgstr ""
+msgstr "Tecnología"
 
 #: ../sidebar-portfolio.php:41
 msgid "Visit Website"
-msgstr ""
+msgstr "Página web"
 
 #: ../single.php:23
 msgid "Related Posts"
-msgstr ""
+msgstr "Artículos relacionados"
 
 #: ../tag.php:7
 #, php-format
 msgid "Tag Archives: %s"
-msgstr ""
+msgstr "Archivos de la etiqueta:  %s"
 
 #: ../template-portfolio-category.php:7
 #, php-format
 msgid "Portfolio Category: %s"
-msgstr ""
+msgstr "Categoría del portafolio: %s"
 
 #: ../template-portfolio-category.php:32
 msgid "No portfolios found"
-msgstr ""
+msgstr "No se encontraron portafolios"
 
 #: ../template-portfolio-default.php:38 ../template-portfolio-fullwidth.php:38
 #: ../template-portfolio-nosidebar.php:38
 #: ../template-portfolio-rsidebar2.php:47
 msgid "Project Description"
-msgstr ""
+msgstr "Descripción del programa"
 
 #: ../api/comments-util.php:7
 msgid "Leave a Comment"
-msgstr ""
+msgstr "Déjanos tus comentarios"
 
 #: ../api/comments-util.php:8
 msgid ""
 "We would be glad to get your feedback. Take a moment to comment and tell us "
 "what you think."
 msgstr ""
+"Estaremos encantados de recibir tus comentarios. Toma un momento para "
+"comentar y decirnos lo que piensas."
 
 #: ../api/comments-util.php:10
 msgid "Message"
-msgstr ""
+msgstr "Mensaje"
 
 #: ../api/comments-util.php:23 ../api/plugin/Inc_Sidebar_Manager_Plugin.php:50
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:82
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: ../api/comments-util.php:24 ../api/shortcode/Inc_Contact_Shortcode.php:49
 #: ../api/shortcode/Inc_Contact_Shortcode.php:88
 #: ../api/widget/Inc_Contact_Details_Widget.php:48
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ../api/comments-util.php:25
 msgid "Website"
-msgstr ""
+msgstr "Página web"
 
 #: ../api/comments-util.php:41 ../api/util/Blog_Overview_Manager.php:50
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ../api/comments-util.php:44
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s en %2$s"
 
 #: ../api/comments-util.php:53
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: ../api/comments-util.php:62
 msgid "(Your comment is awaiting moderation.)"
-msgstr ""
+msgstr "(Tu comentario está esperando ser moderado.)"
 
 #: ../api/comments-util.php:64
 msgid "Reply"
-msgstr ""
+msgstr "Contestar"
 
 #: ../api/form-processor.php:28
 msgid "The reCAPTCHA code wasn't entered correctly."
-msgstr ""
+msgstr "El código de reCAPTCHA No se ha introducido correctamente."
 
 #: ../api/form-processor.php:83
 msgid ""
 "Your email address couldn't be subscribed because a server error occurred."
 msgstr ""
+"Su dirección de correo no se ha podido agregar porque se ha producido un "
+"error en el servidor."
 
 #: ../api/form-processor.php:88
 msgid "The MailChimp Plugin is not enabled."
-msgstr ""
+msgstr "El plugin de MailChimp no está habilitado."
 
 #: ../api/theme-options.php:64
 msgid "Theme Options"
-msgstr ""
+msgstr "Opciones del tema"
 
 #: ../api/theme-options.php:161
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:127
 msgid "Save Changes"
-msgstr ""
+msgstr "Salvar cambios"
 
 #: ../api/theme-options.php:162
 msgid "Restore Defaults"
-msgstr ""
+msgstr "Restaurar valores por defecto"
 
 #: ../api/util.php:665 ../api/util.php:681 ../api/util.php:697
 msgid "Read More"
-msgstr ""
+msgstr "Leer más"
 
 #: ../api/util.php:1091
 msgid "First"
-msgstr ""
+msgstr "Primero"
 
 #: ../api/util.php:1092
 msgid "Last"
-msgstr ""
+msgstr "último"
 
 #: ../api/util.php:1093 ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:494
 msgid "Page"
-msgstr ""
+msgstr "Página"
 
 #: ../api/util.php:1094
 msgid "of"
-msgstr ""
+msgstr "de"
 
 #: ../api/util.php:1103
 msgid "&laquo; Previous"
-msgstr ""
+msgstr "&laquo; Previos"
 
 #: ../api/util.php:1104
 msgid "Next &raquo;"
-msgstr ""
+msgstr "Siguiente &raquo;"
 
 #: ../api/admin/admin-page-config.php:22
 msgid "The customer details"
-msgstr ""
+msgstr "Los datos del cliente"
 
 #: ../api/admin/admin-page-config.php:28
 msgid "The year of the project creation"
-msgstr ""
+msgstr "El año de la creación del proyecto"
 
 #: ../api/admin/admin-page-config.php:31
 msgid "Technologies Used"
-msgstr ""
+msgstr "Tecnologías utilizadas"
 
 #: ../api/admin/admin-page-config.php:34
 msgid "The technologies used in this project (one per line)"
-msgstr ""
+msgstr "Las tecnologías utilizadas en este proyecto (uno por línea)"
 
 #: ../api/admin/admin-page-config.php:37
 msgid "Project URL"
-msgstr ""
+msgstr "URL del proyecto"
 
 #: ../api/admin/admin-page-config.php:40
 msgid ""
 "The project page URL. Optional, after the url you can add the target link "
 "separated by |. Example: <strong>http://www.ixtendo.com|blank</strong>"
 msgstr ""
+"La URL de la página del proyecto. Opcional, después de la url puede agregar "
+"el enlace de destino separados por |. Ejemplo: <strong> http: //www."
+"midominio.com | blanco </ strong>"
 
 #: ../api/admin/admin-page-config.php:47
 msgid "Page Attributes"
-msgstr ""
+msgstr "Atributos de página"
 
 #: ../api/admin/admin-page-config.php:60
 msgid "Content Featured Settings"
-msgstr ""
+msgstr "Ajustes de contenido destacado"
 
 #: ../api/admin/admin-page-config.php:67
 msgid "Content Featured"
-msgstr ""
+msgstr "Contenido destacado"
 
 #: ../api/admin/admin-page-config.php:77
 msgid "Footer Featured Settings"
-msgstr ""
+msgstr "Ajustes del Footer destacado"
 
 #: ../api/admin/admin-page-config.php:84
 #: ../api/shortcode/Inc_Contact_Shortcode.php:72
@@ -469,88 +482,88 @@ msgstr ""
 #: ../api/widget/Inc_Newsletter_Subscription_Widget.php:72
 #: ../api/widget/Inc_Shortcode_Eval_Widget.php:46
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 #: ../api/admin/admin-page-config.php:89
 msgid "Body"
-msgstr ""
+msgstr "Cuerpo"
 
 #: ../api/admin/admin-page-config.php:94
 #: ../api/shortcode/Inc_Button_Shortcode.php:72
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:122
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:94
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../api/admin/admin-page-config.php:99
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:126
 msgid "Icon Source"
-msgstr ""
+msgstr "Fuente del ícono "
 
 #: ../api/admin/admin-page-config.php:104
 msgid "Override Entire Content"
-msgstr ""
+msgstr "Invalidar contenido completo"
 
 #: ../api/admin/admin-page-config.php:114
 msgid "SEO Settings"
-msgstr ""
+msgstr "Ajustes de SEO"
 
 #: ../api/admin/admin-page-config.php:121
 msgid "Meta description"
-msgstr ""
+msgstr "Descripción Meta"
 
 #: ../api/admin/admin-page-config.php:126
 msgid "Meta keywords"
-msgstr ""
+msgstr "Palabres clave Meta"
 
 #: ../api/admin/admin-page-config.php:131
 msgid "Meta application-name"
-msgstr ""
+msgstr "Nombre de aplicación Meta"
 
 #: ../api/admin/admin-page-config.php:136
 msgid "Meta generator"
-msgstr ""
+msgstr "Generador de Meta"
 
 #: ../api/admin/admin-page-config.php:145
 msgid "Sidebar &amp; Header Attributes"
-msgstr ""
+msgstr "Sidebar & amp; Atributos de cabecera"
 
 #: ../api/admin/page/Page_Customizer.php:23
 msgid "Sidebar"
-msgstr ""
+msgstr "Sidebar"
 
 #: ../api/admin/page/Page_Customizer.php:25
 msgid "Default Sidebar"
-msgstr ""
+msgstr "Sidebar por defecto"
 
 #: ../api/admin/page/Page_Customizer.php:36
 msgid "Title Bar Visibility"
-msgstr ""
+msgstr "Barra de título Visibilidad"
 
 #: ../api/admin/page/Page_Customizer.php:38
 msgid "Visible"
-msgstr ""
+msgstr "Visible"
 
 #: ../api/admin/page/Page_Customizer.php:39
 msgid "Hidden"
-msgstr ""
+msgstr "Esconder"
 
 #: ../api/admin/page/Portfolio_Page_Customizer.php:37
 msgid "Right Sidebar - Style 1"
-msgstr ""
+msgstr "Sidebar derecho - Estilo 1"
 
 #: ../api/admin/page/Portfolio_Page_Customizer.php:38
 msgid "Right Sidebar - Style 2"
-msgstr ""
+msgstr "Sidebar derecho - Estilo 2"
 
 #: ../api/admin/page/Portfolio_Page_Customizer.php:39
 #: ../api/shortcode/Inc_Container_Shortcode.php:75
 msgid "Full Width"
-msgstr ""
+msgstr "Ancho completo"
 
 #: ../api/admin/page/Portfolio_Page_Customizer.php:40
 msgid "No Sidebar"
-msgstr ""
+msgstr "Sin Sidebar"
 
 #: ../api/admin/page/Portfolio_Page_Customizer.php:45
 #: ../api/admin/page/Portfolio_Page_Customizer.php:46
@@ -558,122 +571,122 @@ msgstr ""
 #: ../api/shortcode/Inc_Tabs_Shortcode.php:105
 #: ../api/shortcode/Inc_Toggles_Shortcode.php:130
 msgid "Template"
-msgstr ""
+msgstr "Plantilla"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:13
 msgid "Slider updated"
-msgstr ""
+msgstr "Slider actualizado"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:38
 msgid "Slider Manager"
-msgstr ""
+msgstr "Slider Administrador"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:38
 msgid "Add New Slider"
-msgstr ""
+msgstr "Agregar un nuevo Slider"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:38
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:108
 msgid "Add New"
-msgstr ""
+msgstr "Agregar nuevo"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:50
 msgid "Flex Slider"
-msgstr ""
+msgstr "Flex Slider"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:69
 #: ../api/util/Page_Media_Manager.php:27
 msgid "Edit Slider"
-msgstr ""
+msgstr "Editar Slider"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:69
 msgid "Add Image Slide"
-msgstr ""
+msgstr "Agregar imagen"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:90
 msgid "Designer"
-msgstr ""
+msgstr "Diseñador"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:105
 msgid "No Image Available"
-msgstr ""
+msgstr "No hay imagen disponible"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:112
 msgid "Delete Slide"
-msgstr ""
+msgstr "Borrar Slide"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:114
 msgid "Edit Meta"
-msgstr ""
+msgstr "Editar Meta"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:121
 msgid "Settings"
-msgstr ""
+msgstr "Ajustes"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:172
 #: ../api/shortcode/Inc_Slider_Shortcode.php:152
 msgid "Animation"
-msgstr ""
+msgstr "Animación"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:174
 #: ../api/shortcode/Inc_Slider_Shortcode.php:155
 msgid "Fade"
-msgstr ""
+msgstr "Fade"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:175
 #: ../api/shortcode/Inc_Slider_Shortcode.php:154
 msgid "Slide"
-msgstr ""
+msgstr "Slide"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:179
 msgid "Animation speed"
-msgstr ""
+msgstr "Velocidad de la animación"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:195
 msgid "Slideshow"
-msgstr ""
+msgstr "Slideshow"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:199
 msgid "Slideshow speed"
-msgstr ""
+msgstr "Velocidad del Slideshow"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:207
 msgid "Pause on hover"
-msgstr ""
+msgstr "Detener en hover"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:218
 msgid "Slider Title"
-msgstr ""
+msgstr "Título del Slider"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:226
 msgid "Add Slider"
-msgstr ""
+msgstr "Agregar Slider"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:238
 msgid "The slider title must not be empty"
-msgstr ""
+msgstr "El título del slider no debe estar vacío"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:295
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:311
 msgid "The slider ID must not be empty"
-msgstr ""
+msgstr "El ID del slider no debe estar vacío"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:364
 msgid "Image ID"
-msgstr ""
+msgstr "ID de la imagen"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:368
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:286
 msgid "Image Link"
-msgstr ""
+msgstr "Link de la imagen"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:372
 msgid "Caption Title"
-msgstr ""
+msgstr "Leyenda del título"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:376
 msgid "Caption Content"
-msgstr ""
+msgstr "Leyenda del contenido"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:380
 #: ../api/util/Blog_Overview_Manager.php:93
@@ -682,7 +695,7 @@ msgstr ""
 #: ../api/util/Page_Media_Manager.php:177
 #: ../api/util/Posts_Overview_Manager.php:89
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: ../api/plugin/Inc_Flex_Slider_Manager_Plugin.php:381
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:291
@@ -693,51 +706,51 @@ msgstr ""
 #: ../api/util/Page_Media_Manager.php:178
 #: ../api/util/Posts_Overview_Manager.php:90
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:23
 msgid "Google Font URL or the Font-Family name"
-msgstr ""
+msgstr "URL de la fuente de Google o el nombre de la Font-Family"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:26
 msgid "An example of URL font is"
-msgstr ""
+msgstr "Un ejemplo de fuente URL es"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:27
 msgid "The google fonts can be selected from here"
-msgstr ""
+msgstr "Las fuentes de Google pueden ser seleccionadas desde aquí"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:28
 msgid "An example of Font-Family can be: \"Times New Roman\" or \"Georgia\""
-msgstr ""
+msgstr "Un ejemplo de Font-Family puede ser: \"Times New Roman\" o \"Georgia\""
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:34
 msgid "Add Font"
-msgstr ""
+msgstr "Agregar fuente"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:46
 msgid "The font URL must not be empty!"
-msgstr ""
+msgstr "La URL de la fuente no puede estar vacío!"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:51
 msgid "This font already exists as a default one."
-msgstr ""
+msgstr "Esta fuente ya existe como opción por defecto."
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:55
 msgid "This font already exists."
-msgstr ""
+msgstr "Ya existe esta fuente."
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:72
 msgid "The font id must not be empty!"
-msgstr ""
+msgstr "El ID de la fuente no puede estar vacío!"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:108
 msgid "Font Manager"
-msgstr ""
+msgstr "Administrador de fuentes"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:108
 msgid "Add New Font"
-msgstr ""
+msgstr "Agregar nueva fuente"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:123
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:132
@@ -749,69 +762,69 @@ msgstr ""
 #: ../api/shortcode/Inc_Intro_Shortcode.php:94
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:52
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:124
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:133
 msgid "Font Name"
-msgstr ""
+msgstr "Nombre de la fuente"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:125
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:134
 msgid "Font URL"
-msgstr ""
+msgstr "URL de la fuente"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:126
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:135
 msgid "Preview"
-msgstr ""
+msgstr "Vista previa"
 
 #: ../api/plugin/Inc_Font_Manager_Plugin.php:162
 msgid "Theme Fonts"
-msgstr ""
+msgstr "Tema de fuentes"
 
 #: ../api/plugin/Inc_Help_Manager_Plugin.php:27
 msgid "Documentation"
-msgstr ""
+msgstr "Documentación"
 
 #: ../api/plugin/Inc_Import_Manager_Plugin.php:19
 #: ../api/plugin/Inc_Import_Manager_Plugin.php:36
 #: ../api/plugin/Inc_Import_Manager_Plugin.php:63
 msgid "Import Demo"
-msgstr ""
+msgstr "Importar demo"
 
 #: ../api/plugin/Inc_Import_Manager_Plugin.php:46
 msgid "Site Address (URL)"
-msgstr ""
+msgstr "Página web (URL)"
 
 #: ../api/plugin/Inc_Import_Manager_Plugin.php:50
 msgid "E-mail Address"
-msgstr ""
+msgstr "E-mail"
 
 #: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:37
 msgid "Sidebars"
-msgstr ""
+msgstr "Sidebars"
 
 #: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:54
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:90
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:62
 msgid "Add Sidebar"
-msgstr ""
+msgstr "Agregar sidebar"
 
 #: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:74
 msgid "The sidebar name not be empty!"
-msgstr ""
+msgstr "El nombre del sidebar no puede estar vacío"
 
 #: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:77
 msgid "The sidebar description not be empty!"
-msgstr ""
+msgstr "La descripción no puede vacía!"
 
 #: ../api/plugin/Inc_Sidebar_Manager_Plugin.php:84
 msgid "A sidebar with the same name already exists."
-msgstr ""
+msgstr "Ya hay un sidebar con ese nombre."
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:32
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:244
@@ -819,7 +832,7 @@ msgstr ""
 #: ../api/shortcode/Inc_Slider_Shortcode.php:144
 #: ../api/shortcode/Inc_Video_Shortcode.php:56
 msgid "Align"
-msgstr ""
+msgstr "Alinear"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:34
 #: ../api/shortcode/Inc_Audio_Shortcode.php:84
@@ -832,7 +845,7 @@ msgstr ""
 #: ../api/shortcode/Inc_Video_Shortcode.php:123
 #: ../api/util/Blog_Overview_Manager.php:57
 msgid "None"
-msgstr ""
+msgstr "Ninguno"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:35
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:136
@@ -841,7 +854,7 @@ msgstr ""
 #: ../api/shortcode/Inc_Slider_Shortcode.php:147
 #: ../api/shortcode/Inc_Video_Shortcode.php:59
 msgid "Left"
-msgstr ""
+msgstr "Izquierda"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:36
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:248
@@ -849,75 +862,75 @@ msgstr ""
 #: ../api/shortcode/Inc_Slider_Shortcode.php:148
 #: ../api/shortcode/Inc_Video_Shortcode.php:60
 msgid "Right"
-msgstr ""
+msgstr "Derecha"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:40
 msgid "Source Type"
-msgstr ""
+msgstr "Tipo de fuente"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:42
 #: ../api/shortcode/Inc_Video_Shortcode.php:68
 msgid "Single Source"
-msgstr ""
+msgstr "Fuente sencilla"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:43
 #: ../api/shortcode/Inc_Video_Shortcode.php:69
 msgid "Source with Fallbacks"
-msgstr ""
+msgstr "Fuente con retrocesos"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:48
 #: ../api/shortcode/Inc_Video_Shortcode.php:79
 msgid "Source URL"
-msgstr ""
+msgstr "URL fuente"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:53
 msgid "MP3 URL"
-msgstr ""
+msgstr "MP3 URL"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:57
 msgid "MP4A URL"
-msgstr ""
+msgstr "MP3 URL"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:61
 msgid "OGG URL"
-msgstr ""
+msgstr "OGG URL"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:65
 msgid "WAV URL"
-msgstr ""
+msgstr "WAV URL"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:69
 msgid "WMA URL"
-msgstr ""
+msgstr "WMA URL"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:75
 #: ../api/shortcode/Inc_Video_Shortcode.php:114
 msgid "Loop"
-msgstr ""
+msgstr "Loop"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:79
 #: ../api/shortcode/Inc_Video_Shortcode.php:118
 msgid "Auto-Play"
-msgstr ""
+msgstr "Auto-Play"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:82
 #: ../api/shortcode/Inc_Video_Shortcode.php:121
 msgid "Preload"
-msgstr ""
+msgstr "Precargar"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:85
 #: ../api/shortcode/Inc_Video_Shortcode.php:124
 msgid "Metadata"
-msgstr ""
+msgstr "Metadata"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:86
 #: ../api/shortcode/Inc_Video_Shortcode.php:125
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:90
 msgid "Insert Audio"
-msgstr ""
+msgstr "Insertar audio"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:99
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:309
@@ -925,11 +938,11 @@ msgstr ""
 #: ../api/shortcode/Inc_Slider_Shortcode.php:241
 #: ../api/shortcode/Inc_Video_Shortcode.php:147
 msgid "Media"
-msgstr ""
+msgstr "Medios"
 
 #: ../api/shortcode/Inc_Audio_Shortcode.php:104
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:114
 #: ../api/shortcode/Inc_Container_Shortcode.php:66
@@ -941,46 +954,46 @@ msgstr ""
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:60
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:144
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:116
 #: ../api/shortcode/Inc_Divider_Shortcode.php:41
 #: ../api/shortcode/Inc_Dropcap_Shortcode.php:44
 #: ../api/shortcode/Inc_Intro_Shortcode.php:100
 msgid "Simple"
-msgstr ""
+msgstr "Simple"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:117
 msgid "Speech Bubble"
-msgstr ""
+msgstr "Burbuja del discurso"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:121
 msgid "Author Name"
-msgstr ""
+msgstr "Nombre del autor"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:125
 msgid "Author Gender"
-msgstr ""
+msgstr "Genero del autor"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:127
 msgid "Unknown"
-msgstr ""
+msgstr "Desconocido"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:128
 msgid "Male"
-msgstr ""
+msgstr "Hombre"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:129
 msgid "Female"
-msgstr ""
+msgstr "Mujer"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:133
 msgid "Author Profession"
-msgstr ""
+msgstr "Profesión del autor"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:137
 msgid "Company"
-msgstr ""
+msgstr "Compañía"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:141
 #: ../api/shortcode/Inc_Computer_Code_Shortcode.php:29
@@ -991,11 +1004,11 @@ msgstr ""
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:56
 #: ../api/shortcode/Inc_Tooltip_Shortcode.php:50
 msgid "Content"
-msgstr ""
+msgstr "Contenido"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:145
 msgid "Insert Blockquote"
-msgstr ""
+msgstr "Insertar cita"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:155
 #: ../api/shortcode/Inc_Button_Shortcode.php:118
@@ -1008,88 +1021,88 @@ msgstr ""
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:160
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:176
 msgid "Elements"
-msgstr ""
+msgstr "Elementos"
 
 #: ../api/shortcode/Inc_Blockquote_Shortcode.php:160
 msgid "Blockquote (Testimonial)"
-msgstr ""
+msgstr "Cita (Testimonial)"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:76
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:80
 msgid "Bg Color"
-msgstr ""
+msgstr "Color de fondo"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:89
 #: ../api/shortcode/Inc_Horizontal_Space_Shortocode.php:25
 msgid "Size"
-msgstr ""
+msgstr "Medida"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:91
 #: ../api/shortcode/Inc_Infobox_Shortcode.php:89
 msgid "Normal Button"
-msgstr ""
+msgstr "Botón normal"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:92
 #: ../api/shortcode/Inc_Infobox_Shortcode.php:88
 msgid "Large Button"
-msgstr ""
+msgstr "Botón largo"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:96
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:98
 msgid "Target Window"
-msgstr ""
+msgstr "Ventana de destino"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:98
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:100
 msgid "Same Window"
-msgstr ""
+msgstr "Misma ventana"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:99
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:101
 msgid "New Window"
-msgstr ""
+msgstr "Nueva ventana"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:100
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:102
 msgid "Parent Window"
-msgstr ""
+msgstr "Ventana padre"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:101
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:103
 msgid "Full Body of the Window"
-msgstr ""
+msgstr "Todo el cuerpo de la Ventana"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:105
 #: ../api/shortcode/Inc_Tooltip_Shortcode.php:70
 msgid "Tooltip"
-msgstr ""
+msgstr "Tooltip"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:109
 msgid "Insert Button"
-msgstr ""
+msgstr "Insertar botón"
 
 #: ../api/shortcode/Inc_Button_Shortcode.php:123
 msgid "Button"
-msgstr ""
+msgstr "Botón"
 
 #: ../api/shortcode/Inc_Clients_Shortcode.php:88
 msgid "Include in carousel"
-msgstr ""
+msgstr "Incluir en el carrusel"
 
 #: ../api/shortcode/Inc_Clients_Shortcode.php:91
 msgid "Insert Clients"
-msgstr ""
+msgstr "Insertar clientes"
 
 #: ../api/shortcode/Inc_Clients_Shortcode.php:105
 msgid "Clients"
-msgstr ""
+msgstr "Clientes"
 
 #: ../api/shortcode/Inc_Computer_Code_Shortcode.php:33
 msgid "Insert Computer Code"
-msgstr ""
+msgstr "Insertar código de computadora"
 
 #: ../api/shortcode/Inc_Computer_Code_Shortcode.php:43
 #: ../api/shortcode/Inc_Divider_Shortcode.php:55
@@ -1098,11 +1111,11 @@ msgstr ""
 #: ../api/shortcode/Inc_Horizontal_Space_Shortocode.php:43
 #: ../api/shortcode/Inc_List_Shortcode.php:58
 msgid "Typography"
-msgstr ""
+msgstr "Tipografía"
 
 #: ../api/shortcode/Inc_Computer_Code_Shortcode.php:48
 msgid "Computer Code"
-msgstr ""
+msgstr "Código de computadora"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:37
 #: ../api/shortcode/Inc_Contact_Shortcode.php:100
@@ -1111,42 +1124,42 @@ msgstr ""
 #: ../api/widget/Inc_Contact_Details_Widget.php:37
 #: ../api/widget/Inc_Contact_Details_Widget.php:89
 msgid "Address"
-msgstr ""
+msgstr "Dirección"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:40
 #: ../api/shortcode/Inc_Contact_Shortcode.php:76
 #: ../api/widget/Inc_Contact_Details_Widget.php:39
 msgid "Phone"
-msgstr ""
+msgstr "Teléfono"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:43
 #: ../api/shortcode/Inc_Contact_Shortcode.php:80
 #: ../api/widget/Inc_Contact_Details_Widget.php:42
 msgid "Mobile"
-msgstr ""
+msgstr "Móvil"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:46
 #: ../api/shortcode/Inc_Contact_Shortcode.php:84
 #: ../api/widget/Inc_Contact_Details_Widget.php:45
 msgid "Fax"
-msgstr ""
+msgstr "Fax"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:52
 #: ../api/widget/Inc_Contact_Details_Widget.php:51
 msgid "Business Hours"
-msgstr ""
+msgstr "Horario de trabajo"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:92
 msgid "Timetable Separator"
-msgstr ""
+msgstr "Separador de Horarios"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:96
 msgid "Timetable (one per line)"
-msgstr ""
+msgstr "Horarios (uno por línea)"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:105
 msgid "Insert Contact"
-msgstr ""
+msgstr "Insertar contácto"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:114
 #: ../api/shortcode/Inc_Form_Shortcode.php:220
@@ -1154,341 +1167,343 @@ msgstr ""
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:161
 #: ../api/shortcode/Inc_Tooltip_Shortcode.php:65
 msgid "Others"
-msgstr ""
+msgstr "otros"
 
 #: ../api/shortcode/Inc_Contact_Shortcode.php:119
 msgid "Contact"
-msgstr ""
+msgstr "Contácto"
 
 #: ../api/shortcode/Inc_Container_Shortcode.php:73
 #: ../api/shortcode/Inc_List_Shortcode.php:20
 #: ../api/shortcode/Inc_List_Shortcode.php:33
 msgid "Style"
-msgstr ""
+msgstr "Estilo "
 
 #: ../api/shortcode/Inc_Container_Shortcode.php:76
 msgid "Centered"
-msgstr ""
+msgstr "Centrado"
 
 #: ../api/shortcode/Inc_Container_Shortcode.php:84
 msgid "Title HTML Tag"
-msgstr ""
+msgstr "Título de la etiqueta HTML"
 
 #: ../api/shortcode/Inc_Container_Shortcode.php:96
 msgid "Insert Container"
-msgstr ""
+msgstr "insertar contenedor"
 
 #: ../api/shortcode/Inc_Container_Shortcode.php:105
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:90
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:122
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 #: ../api/shortcode/Inc_Container_Shortcode.php:110
 msgid "Container / Wrapper"
-msgstr ""
+msgstr "Contenedor / Wrapper"
 
 #: ../api/shortcode/Inc_Divider_Shortcode.php:42
 msgid "Double"
-msgstr ""
+msgstr "Doble"
 
 #: ../api/shortcode/Inc_Divider_Shortcode.php:46
 msgid "Insert Divider"
-msgstr ""
+msgstr "Insertar divisor"
 
 #: ../api/shortcode/Inc_Divider_Shortcode.php:60
 msgid "Divider"
-msgstr ""
+msgstr "Divisor"
 
 #: ../api/shortcode/Inc_Dropcap_Shortcode.php:45
 msgid "With Background"
-msgstr ""
+msgstr "Con fondo"
 
 #: ../api/shortcode/Inc_Dropcap_Shortcode.php:49
 msgid "Content Wrapper"
-msgstr ""
+msgstr "Wrapper contenido"
 
 #: ../api/shortcode/Inc_Dropcap_Shortcode.php:52
 msgid "Paragraph"
-msgstr ""
+msgstr "Parrafo"
 
 #: ../api/shortcode/Inc_Dropcap_Shortcode.php:53
 msgid "Div"
-msgstr ""
+msgstr "Div"
 
 #: ../api/shortcode/Inc_Dropcap_Shortcode.php:54
 msgid "Span"
-msgstr ""
+msgstr "Span"
 
 #: ../api/shortcode/Inc_Dropcap_Shortcode.php:62
 msgid "Insert Dropcap"
-msgstr ""
+msgstr "Insertar dropcap"
 
 #: ../api/shortcode/Inc_Dropcap_Shortcode.php:77
 msgid "Dropcap"
-msgstr ""
+msgstr "Dropcap"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:52
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:53
 msgid "The form has been successfully submitted"
-msgstr ""
+msgstr "El formulario se ha enviado correctamente"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:54
 msgid ""
 "The form couldn't be submitted because a server error occurred. Please try "
 "again later."
 msgstr ""
+"El formulario no pudo enviarse porque se ha producido un error en el "
+"servidor. Inténtalo de nuevo más tarde."
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:80
 msgid "Required fields"
-msgstr ""
+msgstr "Campos requeridos"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:177
 #: ../api/shortcode/Inc_Tabs_Shortcode.php:97
 #: ../api/shortcode/Inc_Toggles_Shortcode.php:122
 msgid "Example Type"
-msgstr ""
+msgstr "Ejemplo"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:179
 msgid "Contact Form Example"
-msgstr ""
+msgstr "Ejemplo de formulario de contacto"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:180
 msgid "Basic Form Example"
-msgstr ""
+msgstr "Ejemplo de formulario básico"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:188
 msgid "Action"
-msgstr ""
+msgstr "Acción"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:192
 msgid "Submit Label"
-msgstr ""
+msgstr "Etiqueta de envío"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:196
 msgid "Success Message"
-msgstr ""
+msgstr "Mensaje de éxito"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:200
 msgid "Error Message"
-msgstr ""
+msgstr "Mensaje de error"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:205
 msgid "Display Legend"
-msgstr ""
+msgstr "Mostrar Leyenda"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:210
 msgid "Insert Form"
-msgstr ""
+msgstr "Insertar fomulario"
 
 #: ../api/shortcode/Inc_Form_Shortcode.php:225
 msgid "Form"
-msgstr ""
+msgstr "Formulario"
 
 #: ../api/shortcode/Inc_GMap_Shortcode.php:60
 #: ../api/util/Page_Contact_Manager.php:75
 msgid "Localization Type"
-msgstr ""
+msgstr "Tipo de localización"
 
 #: ../api/shortcode/Inc_GMap_Shortcode.php:62
 #: ../api/util/Page_Contact_Manager.php:77
 msgid "By Address"
-msgstr ""
+msgstr "Por dirección"
 
 #: ../api/shortcode/Inc_GMap_Shortcode.php:63
 #: ../api/util/Page_Contact_Manager.php:78
 msgid "By Coordinates"
-msgstr ""
+msgstr "Por cordenadas"
 
 #: ../api/shortcode/Inc_GMap_Shortcode.php:73
 #: ../api/util/Page_Contact_Manager.php:88
 msgid "Latitude"
-msgstr ""
+msgstr "Latitud"
 
 #: ../api/shortcode/Inc_GMap_Shortcode.php:77
 #: ../api/util/Page_Contact_Manager.php:92
 msgid "Longitude"
-msgstr ""
+msgstr "Longitud"
 
 #: ../api/shortcode/Inc_GMap_Shortcode.php:82
 msgid "Map Zoom"
-msgstr ""
+msgstr "Zoom de mapa"
 
 #: ../api/shortcode/Inc_GMap_Shortcode.php:86
 msgid "Map Height"
-msgstr ""
+msgstr "Alto de mapa"
 
 #: ../api/shortcode/Inc_GMap_Shortcode.php:91
 msgid "Insert Google Map"
-msgstr ""
+msgstr "Insertar mapa de Google"
 
 #: ../api/shortcode/Inc_GMap_Shortcode.php:106
 msgid "Google Map"
-msgstr ""
+msgstr "Mapa de Google"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:92
 #: ../api/shortcode/Inc_Process_Shortcode.php:127
 msgid "Two Columns"
-msgstr ""
+msgstr "Dos columnas"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:93
 msgid "Tree Columns"
-msgstr ""
+msgstr "Tres columnas"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:94
 #: ../api/shortcode/Inc_Process_Shortcode.php:129
 msgid "Four Columns"
-msgstr ""
+msgstr "Cuatro columnas"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:95
 msgid "One Third - Two Thirds"
-msgstr ""
+msgstr "Un tercio - Dos Tercios"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:96
 msgid "Two Thirds - One Third"
-msgstr ""
+msgstr "Dos Tercios - un tercio"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:97
 msgid "One Fourth - Three Fourths"
-msgstr ""
+msgstr "Un Cuarto - tres cuartos"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:98
 msgid "Three Fourths - One Fourth"
-msgstr ""
+msgstr "Tres cuartos - un cuarto"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:102
 msgid "HTML Tag"
-msgstr ""
+msgstr "Etiqueta HTML"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:109
 #: ../api/shortcode/Inc_Table_Shortcode.php:119
 msgid "Column Separator"
-msgstr ""
+msgstr "Separador de columna"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:113
 msgid "Insert Grid Columns"
-msgstr ""
+msgstr "Insertar Columnas de cuadrícula"
 
 #: ../api/shortcode/Inc_Grid_Columns_Shortcode.php:127
 msgid "Grid Columns"
-msgstr ""
+msgstr "Insertar columnas de retícula"
 
 #: ../api/shortcode/Inc_Highlight_Shortcode.php:37
 msgid "Colored"
-msgstr ""
+msgstr "Coloreado"
 
 #: ../api/shortcode/Inc_Highlight_Shortcode.php:38
 msgid "Black"
-msgstr ""
+msgstr "Negro"
 
 #: ../api/shortcode/Inc_Highlight_Shortcode.php:46
 msgid "Insert Highlight Text"
-msgstr ""
+msgstr "Insertar texto resaltado"
 
 #: ../api/shortcode/Inc_Highlight_Shortcode.php:61
 msgid "Highlight Text"
-msgstr ""
+msgstr "Texto resaltado"
 
 #: ../api/shortcode/Inc_Horizontal_Space_Shortocode.php:33
 msgid "Insert Space"
-msgstr ""
+msgstr "Insertar espacio"
 
 #: ../api/shortcode/Inc_Horizontal_Space_Shortocode.php:48
 msgid "Horizontal Space"
-msgstr ""
+msgstr "Espacio horizontal"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:41
 #: ../api/shortcode/Inc_News_Shortcode.php:73
 msgid "Learn More"
-msgstr ""
+msgstr "Aprender más"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:130
 msgid "Icon Size"
-msgstr ""
+msgstr "Medida del ícono"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:134
 msgid "Icon Position"
-msgstr ""
+msgstr "Posición del ícono"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:137
 msgid "Top"
-msgstr ""
+msgstr "Arriba"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:141
 msgid "Highlighted Text"
-msgstr ""
+msgstr "Texto resaltado"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:145
 msgid "Display Learn More Button"
-msgstr ""
+msgstr "Mostrar botón de aprender más"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:147
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:514
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:519
 #: ../api/util/Posts_Overview_Manager.php:85
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:148
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:515
 #: ../api/util/Posts_Overview_Manager.php:86
 msgid "Hide"
-msgstr ""
+msgstr "Esconder"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:152
 msgid "Learn More Text"
-msgstr ""
+msgstr "Texto de aprende más"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:160
 msgid "Insert Icon Box"
-msgstr ""
+msgstr "Insertar caja de ícono"
 
 #: ../api/shortcode/Inc_Iconbox_Shortcode.php:175
 msgid "Icon Box"
-msgstr ""
+msgstr "Caja de ícono"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:206
 msgid "Gallery Name"
-msgstr ""
+msgstr "Nombre de galería"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:210
 #: ../api/shortcode/Inc_Image_Shortcode.php:154
 #: ../api/shortcode/Inc_Slider_Shortcode.php:134
 msgid "Image Size"
-msgstr ""
+msgstr "Medida de la imagen"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:212
 #: ../api/shortcode/Inc_Image_Shortcode.php:156
 #: ../api/shortcode/Inc_Slider_Shortcode.php:136
 msgid "Original Size"
-msgstr ""
+msgstr "Medida original"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:213
 #: ../api/shortcode/Inc_Image_Shortcode.php:157
 #: ../api/shortcode/Inc_Slider_Shortcode.php:137
 msgid "Thumbnail Size (150 x 150)"
-msgstr ""
+msgstr "Medida de la vista previa (150 x 150)"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:214
 #: ../api/shortcode/Inc_Image_Shortcode.php:158
 #: ../api/shortcode/Inc_Slider_Shortcode.php:138
 msgid "Small Size (220 x 140)"
-msgstr ""
+msgstr "Medida pequeña (220 x 140)"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:215
 #: ../api/shortcode/Inc_Image_Shortcode.php:159
 #: ../api/shortcode/Inc_Slider_Shortcode.php:139
 msgid "Medium Size (300 x 300)"
-msgstr ""
+msgstr "Medida mediana (300 x 300)"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:216
 #: ../api/shortcode/Inc_Image_Shortcode.php:160
 #: ../api/shortcode/Inc_Slider_Shortcode.php:140
 msgid "Large Size (640 x 640)"
-msgstr ""
+msgstr "Medida grande (640 x 640)"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:220
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:109
@@ -1496,222 +1511,222 @@ msgstr ""
 #: ../api/shortcode/Inc_Table_Shortcode.php:123
 #: ../api/util/Posts_Overview_Manager.php:55
 msgid "No. of Columns"
-msgstr ""
+msgstr "Número de columnas"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:230
 msgid "Enable Lightbox"
-msgstr ""
+msgstr "Activar Lightbox"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:234
 msgid "Enable Caption"
-msgstr ""
+msgstr "Activar pie de foto"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:237
 #: ../api/shortcode/Inc_Image_Shortcode.php:177
 msgid "Caption Type"
-msgstr ""
+msgstr "Tipo de pie de foto"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:239
 #: ../api/shortcode/Inc_Image_Shortcode.php:179
 msgid "Outer"
-msgstr ""
+msgstr "Exterior"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:240
 #: ../api/shortcode/Inc_Image_Shortcode.php:180
 msgid "Inner"
-msgstr ""
+msgstr "Interior"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:255
 #: ../api/shortcode/Inc_Slider_Shortcode.php:184
 msgid "Insert Image Gallery"
-msgstr ""
+msgstr "Insertar galería de imágenes "
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:256
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:261
 msgid "Add New Image"
-msgstr ""
+msgstr "Agregar una nueva imagen"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:267
 #: ../api/shortcode/Inc_Slider_Shortcode.php:203
 msgid "Image Source"
-msgstr ""
+msgstr "Fuente de la imagen"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:269
 #: ../api/shortcode/Inc_Image_Shortcode.php:145
 #: ../api/shortcode/Inc_Slider_Shortcode.php:205
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:73
 msgid "Select Image ..."
-msgstr ""
+msgstr "Selecionar imagen ..."
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:278
 #: ../api/shortcode/Inc_Image_Shortcode.php:184
 #: ../api/shortcode/Inc_Table_Shortcode.php:111
 msgid "Caption"
-msgstr ""
+msgstr "Pie de foto"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:290
 msgid "Add Image to Gallery"
-msgstr ""
+msgstr "Agregar imagen a la galería"
 
 #: ../api/shortcode/Inc_Image_Gallery_Shortcode.php:314
 msgid "Image Gallery"
-msgstr ""
+msgstr "Galería de imágenes "
 
 #: ../api/shortcode/Inc_Image_Shortcode.php:143
 msgid "Image Name"
-msgstr ""
+msgstr "nombre de la imagen"
 
 #: ../api/shortcode/Inc_Image_Shortcode.php:165
 msgid "Use Lightbox"
-msgstr ""
+msgstr "Usar Lightbox"
 
 #: ../api/shortcode/Inc_Image_Shortcode.php:168
 msgid "Image URL"
-msgstr ""
+msgstr "URL de la imagen"
 
 #: ../api/shortcode/Inc_Image_Shortcode.php:173
 msgid "Image Title"
-msgstr ""
+msgstr "Título de la imagen"
 
 #: ../api/shortcode/Inc_Image_Shortcode.php:196
 msgid "Insert Image"
-msgstr ""
+msgstr "Insertar imagen"
 
 #: ../api/shortcode/Inc_Image_Shortcode.php:218
 #: ../api/shortcode/Inc_Slider_Shortcode.php:198
 msgid "Image"
-msgstr ""
+msgstr "Imagen"
 
 #: ../api/shortcode/Inc_Infobox_Shortcode.php:78
 msgid "Button URL"
-msgstr ""
+msgstr "URL del Botón"
 
 #: ../api/shortcode/Inc_Infobox_Shortcode.php:82
 msgid "Button Text"
-msgstr ""
+msgstr "Texto del botón"
 
 #: ../api/shortcode/Inc_Infobox_Shortcode.php:86
 msgid "Button Size"
-msgstr ""
+msgstr "Medida del botón"
 
 #: ../api/shortcode/Inc_Infobox_Shortcode.php:97
 msgid "Insert Info Box"
-msgstr ""
+msgstr "Insertar información de la caja"
 
 #: ../api/shortcode/Inc_Infobox_Shortcode.php:112
 msgid "Info Box"
-msgstr ""
+msgstr "Información de la caja"
 
 #: ../api/shortcode/Inc_Intro_Shortcode.php:72
 msgid "New"
-msgstr ""
+msgstr "Nuevo"
 
 #: ../api/shortcode/Inc_Intro_Shortcode.php:101
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:105
 msgid "Box"
-msgstr ""
+msgstr "Caja"
 
 #: ../api/shortcode/Inc_Intro_Shortcode.php:105
 msgid "Body Content"
-msgstr ""
+msgstr "Contenido del Body"
 
 #: ../api/shortcode/Inc_Intro_Shortcode.php:109
 msgid "Footer Content"
-msgstr ""
+msgstr "Contenido del footer"
 
 #: ../api/shortcode/Inc_Intro_Shortcode.php:113
 msgid "Ribbon Image"
-msgstr ""
+msgstr "Cintillo de la imagen"
 
 #: ../api/shortcode/Inc_Intro_Shortcode.php:119
 msgid "Insert Intro Box"
-msgstr ""
+msgstr "Insertar introducción de la caja"
 
 #: ../api/shortcode/Inc_Intro_Shortcode.php:134
 msgid "Intro Box"
-msgstr ""
+msgstr "Introducción de la caja"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:14
 msgid "Unordered List"
-msgstr ""
+msgstr "Lista desordenada"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:15
 msgid "Ordered List"
-msgstr ""
+msgstr "Lista ordenada"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:22
 msgid "Arrow"
-msgstr ""
+msgstr "Flecha"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:23
 msgid "Circle"
-msgstr ""
+msgstr "Circulo"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:24
 msgid "Square"
-msgstr ""
+msgstr "Cuadrado"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:25
 msgid "Check"
-msgstr ""
+msgstr "Check"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:26
 msgid "Green Arrow"
-msgstr ""
+msgstr "Flecha verde"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:27
 msgid "Green Plus"
-msgstr ""
+msgstr "Verde Plus"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:28
 msgid "Green Check"
-msgstr ""
+msgstr "Check verde"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:35
 msgid "Decimal"
-msgstr ""
+msgstr "Decimal"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:36
 msgid "Upper Roman"
-msgstr ""
+msgstr "Roman caja alta"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:37
 msgid "Lower Alpha"
-msgstr ""
+msgstr "Lower Alpha"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:38
 msgid "Upper Alpha"
-msgstr ""
+msgstr "Upper Alpha"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:43
 msgid "Items (one item per line)"
-msgstr ""
+msgstr "Elementos (uno por línea)"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:48
 msgid "Insert List"
-msgstr ""
+msgstr "Insertar lista"
 
 #: ../api/shortcode/Inc_List_Shortcode.php:63
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: ../api/shortcode/Inc_News_Shortcode.php:132
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:542
 msgid "Posts Count"
-msgstr ""
+msgstr "Contador de entradas"
 
 #: ../api/shortcode/Inc_News_Shortcode.php:136
 msgid "Items per Page"
-msgstr ""
+msgstr "Elementos por página"
 
 #: ../api/shortcode/Inc_News_Shortcode.php:140
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:538
 msgid "Categories (comma separated list)"
-msgstr ""
+msgstr "Categorías (Separados por comas)"
 
 #: ../api/shortcode/Inc_News_Shortcode.php:144
 msgid "Insert News"
-msgstr ""
+msgstr "Insertar noticias"
 
 #: ../api/shortcode/Inc_News_Shortcode.php:154
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:87
@@ -1719,700 +1734,706 @@ msgstr ""
 #: ../api/shortcode/Inc_Testimonials_Carousel.php:81
 #: ../api/shortcode/Inc_Toggles_Shortcode.php:143
 msgid "Dynamic Elements"
-msgstr ""
+msgstr "Elementos dinámicos"
 
 #: ../api/shortcode/Inc_News_Shortcode.php:159
 msgid "Recent Blog Posts Carousel (News)"
-msgstr ""
+msgstr "Publicaciones recientes en carrusel (Noticias)"
 
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:62
 msgid "Info"
-msgstr ""
+msgstr "Información"
 
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:63
 msgid "Success"
-msgstr ""
+msgstr "Éxito"
 
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:64
 msgid "Warning"
-msgstr ""
+msgstr "Advertencia"
 
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:65
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:70
 msgid "Display the close button"
-msgstr ""
+msgstr "mostrar botón de cierre"
 
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:74
 msgid "Display after the page is loaded"
-msgstr ""
+msgstr "Mostrar desde de que la página se haya cargado"
 
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:77
 msgid "Insert Notification Box"
-msgstr ""
+msgstr "Insertar caja de notificaciones"
 
 #: ../api/shortcode/Inc_Notification_Box_Shortcode.php:92
 msgid "Notification Box"
-msgstr ""
+msgstr "Cha de notificaciones"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:194
 msgid "Filter"
-msgstr ""
+msgstr "Filtro"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:197
 msgid "All"
-msgstr ""
+msgstr "Todo"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:490
 msgid "Post Type"
-msgstr ""
+msgstr "Tipo de entrada"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:492
 msgid "Post"
-msgstr ""
+msgstr "Entrada"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:498
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:102
 msgid "Display Mode"
-msgstr ""
+msgstr "Modo de visualización"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:500
 msgid "Gallery"
-msgstr ""
+msgstr "Galería"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:501
 msgid "Carousel"
-msgstr ""
+msgstr "Carrusel"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:505
 msgid "Display Filter"
-msgstr ""
+msgstr "Mostrar filtros"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:507
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:508
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:512
 msgid "Filter All Button"
-msgstr ""
+msgstr "filtro del Botón todos"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:521
 msgid "Latest Posts"
-msgstr ""
+msgstr "Entradas más recientes"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:522
 msgid "Specific Posts"
-msgstr ""
+msgstr "Entradas especificas"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:526
 msgid "Columns"
-msgstr ""
+msgstr "Columnas"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:534
 msgid "IDS"
-msgstr ""
+msgstr "IDS"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:546
 #: ../api/util/Blog_Overview_Manager.php:76
 msgid "Order By"
-msgstr ""
+msgstr "Ordenar por"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:548
 msgid "No order"
-msgstr ""
+msgstr "Nor ordenar"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:549
 msgid "Order by post id"
-msgstr ""
+msgstr "Ordenar por ID de la entrada"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:550
 msgid "Order by author"
-msgstr ""
+msgstr "Ordenar por autor"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:551
 msgid "Order by title"
-msgstr ""
+msgstr "Ordenar por título"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:552
 msgid "Order by post name"
-msgstr ""
+msgstr "Ordenar por nombre de la entrada"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:553
 msgid "Order by date"
-msgstr ""
+msgstr "Ordenar por fecha"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:554
 msgid "Order by last modified date"
-msgstr ""
+msgstr "Ordenar por fecha de la ultima modificación"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:555
 msgid "Order by post/page parent id"
-msgstr ""
+msgstr "Ordenar por entrada/página de ID padre"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:556
 msgid "Random order"
-msgstr ""
+msgstr "Orden aleatorio "
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:557
 msgid "Order by number of comments"
-msgstr ""
+msgstr "Ordenar por número de comentarios"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:558
 msgid "Order by Page Order"
-msgstr ""
+msgstr "Ordenar por página"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:559
 msgid "Order by meta value"
-msgstr ""
+msgstr "Ordenar por valor del meta"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:560
 msgid "Order by numeric meta value"
-msgstr ""
+msgstr "Ordenar por el valor del meta numérico "
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:561
 msgid "Preserve post ID"
-msgstr ""
+msgstr "Preservar el ID de la entrada"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:565
 msgid "Order"
-msgstr ""
+msgstr "Ordenar"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:567
 msgid "Descendent"
-msgstr ""
+msgstr "Desendente"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:568
 msgid "Ascendent"
-msgstr ""
+msgstr "Ascendente"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:572
 msgid "Container Classes"
-msgstr ""
+msgstr "Clases de contenedores"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:576
 msgid "Insert Posts Gallery"
-msgstr ""
+msgstr "Insertar entradas de galería"
 
 #: ../api/shortcode/Inc_Posts_Gallery_Shortcode.php:591
 msgid "Posts Gallery"
-msgstr ""
+msgstr "Entradas de galería"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:104
 #: ../api/shortcode/Inc_Table_Shortcode.php:145
 msgid "Table"
-msgstr ""
+msgstr "Tabla"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:111
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:120
 msgid "Two"
-msgstr ""
+msgstr "Dos"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:112
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:121
 msgid "Three"
-msgstr ""
+msgstr "Tres"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:113
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:122
 msgid "Four"
-msgstr ""
+msgstr "Cuatro"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:117
 msgid "Highlighted Columns"
-msgstr ""
+msgstr "Columnas resaltadas"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:126
 #: ../api/shortcode/Inc_Table_Shortcode.php:127
 msgid "No. of Rows"
-msgstr ""
+msgstr "Numero de filas"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:130
 msgid "Rows Separator"
-msgstr ""
+msgstr "Separador de filas"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:134
 msgid "Insert Pricing Boxes"
-msgstr ""
+msgstr "Insertar tabla de precios"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:144
 #: ../api/shortcode/Inc_Table_Shortcode.php:140
 msgid "Tables"
-msgstr ""
+msgstr "Tablas"
 
 #: ../api/shortcode/Inc_Pricing_Table_Shortcodes.php:149
 msgid "Pricing Boxes"
-msgstr ""
+msgstr "Tablas de precios"
 
 #: ../api/shortcode/Inc_Process_Shortcode.php:126
 msgid "One Column"
-msgstr ""
+msgstr "Una columnas"
 
 #: ../api/shortcode/Inc_Process_Shortcode.php:128
 msgid "Three Columns"
-msgstr ""
+msgstr "Tres columnas"
 
 #: ../api/shortcode/Inc_Process_Shortcode.php:133
 msgid "No. of Steps"
-msgstr ""
+msgstr "Numero de pasos"
 
 #: ../api/shortcode/Inc_Process_Shortcode.php:137
 msgid "Insert Process"
-msgstr ""
+msgstr "Insertar procesos"
 
 #: ../api/shortcode/Inc_Process_Shortcode.php:151
 msgid "Process (Outline of Steps)"
-msgstr ""
+msgstr "Proceso (Esquema de los pasos)"
 
 #: ../api/shortcode/Inc_Shortcode_Manager.php:18
 msgid "Add Shortcode"
-msgstr ""
+msgstr "Agregar acceso directo"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:26
 #: ../api/widget/Inc_Pages_Widget.php:13
 msgid "Pages"
-msgstr ""
+msgstr "Páginas"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:33
 msgid "Archives by Month"
-msgstr ""
+msgstr "Archivos por mes"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:48
 #, php-format
 msgid "Latest %d Posts"
-msgstr ""
+msgstr "Ultimas %d entradas"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:60
 msgid "Archives by Category"
-msgstr ""
+msgstr "Archivos por categoría"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:80
 msgid "Archives by Tag"
-msgstr ""
+msgstr "Archivos por etiqueta"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:101
 msgid "Archives by Author"
-msgstr ""
+msgstr "Archivos por autor"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:146
 msgid "Complex (Pages, Blog Archives, Latest Posts)"
-msgstr ""
+msgstr "Complejos (páginas, artículos, últimos mensajes)"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:147
 msgid "Simple (Pages)"
-msgstr ""
+msgstr "Simple (Páginas)"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:151
 msgid "Insert Site-Map"
-msgstr ""
+msgstr "Insertar mapa del sitio"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:166
 msgid "Site Map"
-msgstr ""
+msgstr "Mapa del sitio"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:159
 msgid "Animation Speed"
-msgstr ""
+msgstr "Velocidad de la animación"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:164
 msgid "Enable Slideshow"
-msgstr ""
+msgstr "Activas slideshow"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:168
 msgid "Show Navigation Arrows"
-msgstr ""
+msgstr "Mostrar flechas de navegación"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:172
 msgid "Show Pagination"
-msgstr ""
+msgstr "Mostrar paginación"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:175
 msgid "Slideshow Speed"
-msgstr ""
+msgstr "Velocidad del slideshow"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:185
 #: ../api/shortcode/Inc_Slider_Shortcode.php:190
 msgid "Add New Slide"
-msgstr ""
+msgstr "Agregar nuevo slide"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:196
 msgid "Slide Type"
-msgstr ""
+msgstr "Tipo de slide"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:199
 #: ../api/shortcode/Inc_Video_Shortcode.php:152
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:218
 #: ../api/shortcode/Inc_Video_Shortcode.php:74
 msgid "Embedded Video"
-msgstr ""
+msgstr "Incrustar video "
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:222
 msgid "Add Slide"
-msgstr ""
+msgstr "Agregar slide"
 
 #: ../api/shortcode/Inc_Slider_Shortcode.php:246
 msgid "Media Slider"
-msgstr ""
+msgstr "Media Slider"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:56
 msgid "Mail"
-msgstr ""
+msgstr "Mail"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:95
 msgid "Class"
-msgstr ""
+msgstr "Class"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:99
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:111
 msgid "Twitter URL"
-msgstr ""
+msgstr "Twitter URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:103
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:115
 msgid "Facebook URL"
-msgstr ""
+msgstr "Facebook URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:107
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:119
 msgid "Google+ URL"
-msgstr ""
+msgstr "Google+ URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:111
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:123
 msgid "LinkedIn URL"
-msgstr ""
+msgstr "LinkedIn URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:115
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:127
 msgid "Vimeo URL"
-msgstr ""
+msgstr "Vimeo URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:119
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:131
 msgid "YouTube URL"
-msgstr ""
+msgstr "YouTube URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:123
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:135
 msgid "Skype URL"
-msgstr ""
+msgstr "Skype URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:127
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:139
 msgid "Digg URL"
-msgstr ""
+msgstr "Digg URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:131
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:143
 msgid "Delicious URL"
-msgstr ""
+msgstr "Delicious URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:135
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:147
 msgid "Tumbler URL"
-msgstr ""
+msgstr "Tumbler URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:139
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:151
 msgid "Dribbble URL"
-msgstr ""
+msgstr "Dribbble URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:143
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:155
 msgid "StumbleUpon URL"
-msgstr ""
+msgstr "StumbleUpon URL"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:147
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:107
 msgid "Mail Address"
-msgstr ""
+msgstr "Dirección"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:151
 msgid "Insert Social Icons"
-msgstr ""
+msgstr "Insertar íconos sociales"
 
 #: ../api/shortcode/Inc_Social_Icons_Shortcode.php:165
 msgid "Social Icons"
-msgstr ""
+msgstr "íconos sociales"
 
 #: ../api/shortcode/Inc_Table_Shortcode.php:115
 msgid "Footer Text"
-msgstr ""
+msgstr "Texto del footer"
 
 #: ../api/shortcode/Inc_Table_Shortcode.php:131
 msgid "Insert Table"
-msgstr ""
+msgstr "Insertar tabla"
 
 #: ../api/shortcode/Inc_Tabs_Shortcode.php:99
 #: ../api/shortcode/Inc_Toggles_Shortcode.php:124
 msgid "Choose Example ..."
-msgstr ""
+msgstr "Escoger un ejemplo ..."
 
 #: ../api/shortcode/Inc_Tabs_Shortcode.php:100
 msgid "Default Example"
-msgstr ""
+msgstr "Ejemplo por defecto"
 
 #: ../api/shortcode/Inc_Tabs_Shortcode.php:101
 msgid "With Disabled Tabs"
-msgstr ""
+msgstr "Con pestañas inactivas"
 
 #: ../api/shortcode/Inc_Tabs_Shortcode.php:109
 msgid "Insert Tabs"
-msgstr ""
+msgstr "Insertar pestañas"
 
 #: ../api/shortcode/Inc_Tabs_Shortcode.php:123
 msgid "Tabs"
-msgstr ""
+msgstr "Pestañas"
 
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:71
 msgid "Photo"
-msgstr ""
+msgstr "Foto"
 
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:86
 msgid "Job Title"
-msgstr ""
+msgstr "Título del emplo"
 
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:159
 msgid "Insert Team Member"
-msgstr ""
+msgstr "Insertar miembro del equipo"
 
 #: ../api/shortcode/Inc_Team_Member_Shortcode.php:181
 msgid "Team Member"
-msgstr ""
+msgstr "Miembro del equipo"
 
 #: ../api/shortcode/Inc_Testimonials_Carousel.php:61
 msgid "Insert the page ID which contains the testimonials"
-msgstr ""
+msgstr "Insertar el ID de la página que contiene los testimonio"
 
 #: ../api/shortcode/Inc_Testimonials_Carousel.php:63
 #: ../api/util/Blog_Overview_Manager.php:49
 msgid "Post ID"
-msgstr ""
+msgstr "ID de la entrada"
 
 #: ../api/shortcode/Inc_Testimonials_Carousel.php:67
 msgid "No. of Testimonials"
-msgstr ""
+msgstr "Número de testimonio"
 
 #: ../api/shortcode/Inc_Testimonials_Carousel.php:71
 msgid "Insert Testimonials Carousel"
-msgstr ""
+msgstr "Insertar carrusel de testimonios"
 
 #: ../api/shortcode/Inc_Testimonials_Carousel.php:86
 msgid "Testimonials Carousel"
-msgstr ""
+msgstr "Carrusel de testimonios"
 
 #: ../api/shortcode/Inc_Toggles_Shortcode.php:125
 msgid "Default"
-msgstr ""
+msgstr "Por defecto"
 
 #: ../api/shortcode/Inc_Toggles_Shortcode.php:126
 msgid "Accordion"
-msgstr ""
+msgstr "Acordión"
 
 #: ../api/shortcode/Inc_Toggles_Shortcode.php:134
 msgid "Insert Toggles"
-msgstr ""
+msgstr "Insertar Toggles"
 
 #: ../api/shortcode/Inc_Toggles_Shortcode.php:148
 msgid "Toggles"
-msgstr ""
+msgstr "Toggles"
 
 #: ../api/shortcode/Inc_Tooltip_Shortcode.php:37
 msgid "Wrapper Type"
-msgstr ""
+msgstr "Tipo de Wrapper"
 
 #: ../api/shortcode/Inc_Tooltip_Shortcode.php:45
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 #: ../api/shortcode/Inc_Tooltip_Shortcode.php:55
 msgid "Insert Tooltip"
-msgstr ""
+msgstr "Insertar Tooltip"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:65
 msgid "Video Type"
-msgstr ""
+msgstr "Tipo de video"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:67
 msgid "Embedded"
-msgstr ""
+msgstr "Incrustar "
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:84
 msgid "MP4 URL"
-msgstr ""
+msgstr "MP4 URL"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:88
 msgid "M4V URL"
-msgstr ""
+msgstr "M4V URL"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:92
 msgid "WEBM URL"
-msgstr ""
+msgstr "WEBM URL"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:96
 msgid "OGV URL"
-msgstr ""
+msgstr "OGV URL"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:100
 msgid "WMV URL"
-msgstr ""
+msgstr "WMV URL"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:104
 msgid "FLV URL"
-msgstr ""
+msgstr "FLV URL"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:109
 msgid "Poster (image ID or image URL)"
-msgstr ""
+msgstr "Poster (ID de la imagen o URL de la imagen)"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:129
 msgid "Width"
-msgstr ""
+msgstr "Ancho"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:133
 msgid "Height"
-msgstr ""
+msgstr "Alto"
 
 #: ../api/shortcode/Inc_Video_Shortcode.php:138
 msgid "Insert Video"
-msgstr ""
+msgstr "Insertar video"
 
 #: ../api/util/Blog_Overview_Manager.php:22
 #: ../api/util/Posts_Overview_Manager.php:24
 msgid "Configure"
-msgstr ""
+msgstr "Configurar"
 
 #: ../api/util/Blog_Overview_Manager.php:44
 msgid "Descending"
-msgstr ""
+msgstr "Descendente"
 
 #: ../api/util/Blog_Overview_Manager.php:45
 msgid "Ascending"
-msgstr ""
+msgstr "Ascendente"
 
 #: ../api/util/Blog_Overview_Manager.php:48
 msgid "Terms Order"
-msgstr ""
+msgstr "Términos de la orden"
 
 #: ../api/util/Blog_Overview_Manager.php:52
 msgid "Post Name"
-msgstr ""
+msgstr "Nombre de la entrada"
 
 #: ../api/util/Blog_Overview_Manager.php:53
 msgid "Last Modified Date"
-msgstr ""
+msgstr "Fecha de la ultima modificación"
 
 #: ../api/util/Blog_Overview_Manager.php:54
 msgid "Page Parent ID"
-msgstr ""
+msgstr "ID de la página padre"
 
 #: ../api/util/Blog_Overview_Manager.php:55
 msgid "Random Order"
-msgstr ""
+msgstr "Orden aleatorio "
 
 #: ../api/util/Blog_Overview_Manager.php:56
 msgid "Number of Comments"
-msgstr ""
+msgstr "Número de comentarios"
 
 #: ../api/util/Blog_Overview_Manager.php:63
 msgid "Terms Type"
-msgstr ""
+msgstr "Tipo de términos"
 
 #: ../api/util/Blog_Overview_Manager.php:72
 msgid "Terms ID (comma separated values like: 5,8,14)"
-msgstr ""
+msgstr "ID de términos (valores separados por comas como: 5,8,14)"
 
 #: ../api/util/Blog_Overview_Manager.php:85
 msgid "Order Type"
-msgstr ""
+msgstr "Tipo de orden"
 
 #: ../api/util/Email_Util.php:14
 msgid "New email from"
-msgstr ""
+msgstr "Nuevo email de"
 
 #: ../api/util/Email_Util.php:23
 msgid "Error sending the email. Please check the server log for more details."
 msgstr ""
+"Error al enviar el correo electrónico. Por favor, consulte el registro del "
+"servidor para obtener más detalles."
 
 #: ../api/util/Email_Util.php:30
 msgid "The field"
-msgstr ""
+msgstr "El campo de"
 
 #: ../api/util/Email_Util.php:30
 msgid "is empty."
-msgstr ""
+msgstr "está vacío"
 
 #: ../api/util/Email_Util.php:37
 msgid "Invalid email address"
-msgstr ""
+msgstr "Email invalido"
 
 #: ../api/util/Page_Contact_Manager.php:24
 msgid "Edit Contact"
-msgstr ""
+msgstr "Editar contacto"
 
 #: ../api/util/Page_Contact_Manager.php:70
 msgid "Display Google map"
-msgstr ""
+msgstr "Mostrar mapa de Google"
 
 #: ../api/util/Page_Contact_Manager.php:85
 msgid "Change Address"
-msgstr ""
+msgstr "Cambiar dirección"
 
 #: ../api/util/Page_Contact_Manager.php:97
 msgid "Map zoom"
-msgstr ""
+msgstr "Zoom del mapa"
 
 #: ../api/util/Page_Contact_Manager.php:101
 msgid "Map height (px)"
-msgstr ""
+msgstr "Alto del mapa (px)"
 
 #: ../api/util/Page_Contact_Manager.php:185
 msgid "Send Message"
-msgstr ""
+msgstr "Enviar mensaje"
 
 #: ../api/util/Page_Contact_Manager.php:186
 msgid ""
 "Your message has been successfully sent. We will get back to you as soon as "
 "possible."
 msgstr ""
+"Su mensaje ha sido enviado con éxito. Nos pondremos en contacto con usted "
+"tan pronto como sea posible."
 
 #: ../api/util/Page_Contact_Manager.php:187
 msgid ""
 "Your message couldn't be sent because a server error occurred. Please try "
 "again."
 msgstr ""
+"Su mensaje no se pudo enviar porque se ha producido un error en el servidor. "
+"Por favor, vuelva a intentarlo."
 
 #: ../api/util/Page_Contact_Manager.php:189
 msgid "Name:"
-msgstr ""
+msgstr "Nombre:"
 
 #: ../api/util/Page_Contact_Manager.php:190
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 #: ../api/util/Page_Contact_Manager.php:191
 msgid "Website:"
-msgstr ""
+msgstr "Página web:"
 
 #: ../api/util/Page_Contact_Manager.php:192
 msgid "Subject:"
-msgstr ""
+msgstr "Asunto:"
 
 #: ../api/util/Page_Contact_Manager.php:193
 msgid "Message:"
-msgstr ""
+msgstr "Mensaje:"
 
 #: ../api/util/Page_Contact_Manager.php:196
 msgid "Contact Us"
-msgstr ""
+msgstr "Contáctanos "
 
 #: ../api/util/Page_Contact_Manager.php:197
 msgid ""
@@ -2420,290 +2441,300 @@ msgid ""
 "comment, a question, a work proposition or just a hello. You can use either "
 "the form below or the contact details on the right."
 msgstr ""
+"Estaríamos encantados de tener tu retroalimentación. Déjanos saber si se "
+"trata de un comentario, una pregunta, una propuesta o simplemente un saludo. "
+"Puedes utilizar el siguiente formulario o los datos de contacto de la "
+"derecha."
 
 #: ../api/util/Page_Media_Manager.php:33
 msgid "Edit Video"
-msgstr ""
+msgstr "Editar video"
 
 #: ../api/util/Page_Media_Manager.php:74
 msgid "Slider Type"
-msgstr ""
+msgstr "Tipo de slider"
 
 #: ../api/util/Page_Media_Manager.php:85
 msgid "Slider Layout"
-msgstr ""
+msgstr "Slider Layout"
 
 #: ../api/util/Page_Media_Manager.php:87
 msgid "Wide"
-msgstr ""
+msgstr "Ancho"
 
 #: ../api/util/Page_Media_Manager.php:88
 msgid "Boxed"
-msgstr ""
+msgstr "En caja"
 
 #: ../api/util/Page_Media_Manager.php:93
 msgid "Slider ID"
-msgstr ""
+msgstr "Slider ID"
 
 #: ../api/util/Page_Media_Manager.php:98
 msgid "Display the Slider"
-msgstr ""
+msgstr "Mostrar el Slider"
 
 #: ../api/util/Page_Media_Manager.php:100
 msgid "On all devices"
-msgstr ""
+msgstr "En todos los dispositivos"
 
 #: ../api/util/Page_Media_Manager.php:101
 msgid "Only on computers"
-msgstr ""
+msgstr "Unicamente en computadoras"
 
 #: ../api/util/Page_Media_Manager.php:102
 msgid "Only on computers and tablets"
-msgstr ""
+msgstr "Unicamente en computadoras y tablets"
 
 #: ../api/util/Page_Media_Manager.php:164
 msgid "Video ID"
-msgstr ""
+msgstr "ID del video"
 
 #: ../api/util/Page_Media_Manager.php:168
 msgid "Video Content"
-msgstr ""
+msgstr "Contenido del video"
 
 #: ../api/util/Page_Media_Manager.php:173
 msgid "Video Thumbnail"
-msgstr ""
+msgstr "Vista previa del video"
 
 #: ../api/util/Posts_Overview_Manager.php:50
 msgid "when the sidebar is displayed"
-msgstr ""
+msgstr "cuando se muestra el sidebar"
 
 #: ../api/util/Posts_Overview_Manager.php:63
 msgid "Thumbnail Click Action"
-msgstr ""
+msgstr "Acción al dar click a la vista previa"
 
 #: ../api/util/Posts_Overview_Manager.php:65
 msgid "Open the Lightbox Gallery"
-msgstr ""
+msgstr "Abrir el Lightbox de la galería"
 
 #: ../api/util/Posts_Overview_Manager.php:66
 msgid "Open the Associated Post"
-msgstr ""
+msgstr "Abrir la entrada asociada"
 
 #: ../api/util/Posts_Overview_Manager.php:70
 msgid "No. of Items (-1 for all)"
-msgstr ""
+msgstr "Número de elementos (-1 para todo)"
 
 #: ../api/util/Posts_Overview_Manager.php:72
 msgid ""
 "When pagination is used, this field represents the number of items per page. "
 "Use -1 for the default value."
 msgstr ""
+"Cuando se utiliza la paginación, este campo representa el número de "
+"elementos por página. Utilice -1 para el valor predeterminado."
 
 #: ../api/util/Posts_Overview_Manager.php:75
 msgid "Categories (comma separated slugs)"
-msgstr ""
+msgstr "Categorías (separadas por comas)"
 
 #: ../api/util/Posts_Overview_Manager.php:79
 msgid "Categories Order"
-msgstr ""
+msgstr "Orden de las categorías"
 
 #: ../api/util/Posts_Overview_Manager.php:83
 msgid "All Filter Button"
-msgstr ""
+msgstr "Botón de Filtrar todo"
 
 #: ../api/widget/Inc_Archives_Widget.php:15
 msgid "Archives"
-msgstr ""
+msgstr "Archivos"
 
 #: ../api/widget/Inc_Archives_Widget.php:24
 msgid "Select Month"
-msgstr ""
+msgstr "seleccionar mes"
 
 #: ../api/widget/Inc_Categories_Widget.php:28
 msgid "Select Category"
-msgstr ""
+msgstr "Seleccionar categoría"
 
 #: ../api/widget/Inc_Categories_Widget.php:69
 msgid "Title:"
-msgstr ""
+msgstr "Título:"
 
 #: ../api/widget/Inc_Categories_Widget.php:72
 msgid "Taxonomy:"
-msgstr ""
+msgstr "Taxonomía:"
 
 #: ../api/widget/Inc_Categories_Widget.php:76
 msgid "Display as dropdown"
-msgstr ""
+msgstr "Mostrar como desplegable"
 
 #: ../api/widget/Inc_Categories_Widget.php:79
 msgid "Show post counts"
-msgstr ""
+msgstr "Mostrar contador de entradas"
 
 #: ../api/widget/Inc_Categories_Widget.php:82
 msgid "Show hierarchy"
-msgstr ""
+msgstr "Mostrar jerarquía"
 
 #: ../api/widget/Inc_Contact_Details_Widget.php:8
 msgid "A simple widget which allows you to edit your contact details."
-msgstr ""
+msgstr "Un widget sencillo que le permite editar sus datos de contacto."
 
 #: ../api/widget/Inc_Contact_Details_Widget.php:9
 #: ../api/widget/Inc_Contact_Details_Widget.php:76
 msgid "Contact Info"
-msgstr ""
+msgstr "Información de contacto "
 
 #: ../api/widget/Inc_Contact_Details_Widget.php:87
 msgid "Use the contacts details in Theme Options"
-msgstr ""
+msgstr "Utilice los detalles contactos en opciones del tema"
 
 #: ../api/widget/Inc_Contact_Details_Widget.php:90
 msgid "Phone Number"
-msgstr ""
+msgstr "Teléfono"
 
 #: ../api/widget/Inc_Contact_Details_Widget.php:91
 msgid "Mobile Number"
-msgstr ""
+msgstr "Celular"
 
 #: ../api/widget/Inc_Contact_Details_Widget.php:92
 msgid "Fax Number"
-msgstr ""
+msgstr "Fax"
 
 #: ../api/widget/Inc_Contact_Details_Widget.php:93
 msgid "Email Address"
-msgstr ""
+msgstr "Email"
 
 #: ../api/widget/Inc_Contact_Details_Widget.php:94
 msgid "Timetable"
-msgstr ""
+msgstr "Calendario"
 
 #: ../api/widget/Inc_Flickr_Widget.php:8
 msgid "Displays the latest pictures from a Flickr account."
-msgstr ""
+msgstr "Muestra las últimas fotos desde una cuenta de Flickr."
 
 #: ../api/widget/Inc_Flickr_Widget.php:9
 msgid "Flickr Photostream"
-msgstr ""
+msgstr "Flickr Photostream"
 
 #: ../api/widget/Inc_Flickr_Widget.php:50
 msgid "The number of pictures"
-msgstr ""
+msgstr "El numero de fotografías"
 
 #: ../api/widget/Inc_Latest_Tweets_Widget.php:9
 msgid "A simple widget which displays your latest tweets."
-msgstr ""
+msgstr "Un simple widget que muestra sus últimos tweets."
 
 #: ../api/widget/Inc_Latest_Tweets_Widget.php:10
 msgid "Display Latest Tweets"
-msgstr ""
+msgstr "Mostrar los últimos tweets"
 
 #: ../api/widget/Inc_Latest_Tweets_Widget.php:44
 msgid "Latest Tweets"
-msgstr ""
+msgstr "últimos tweets"
 
 #: ../api/widget/Inc_Latest_Tweets_Widget.php:48
 msgid "Username"
-msgstr ""
+msgstr "Nombre de usuarios"
 
 #: ../api/widget/Inc_Latest_Tweets_Widget.php:49
 msgid "Change"
-msgstr ""
+msgstr "Cambiar"
 
 #: ../api/widget/Inc_Latest_Tweets_Widget.php:53
 msgid "Number of tweets(max 20)"
-msgstr ""
+msgstr "Numero de tweets (máximo 20)"
 
 #: ../api/widget/Inc_Meta_Widget.php:12
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: ../api/widget/Inc_Meta_Widget.php:21
 msgid "Syndicate this site using RSS 2.0"
-msgstr ""
+msgstr "Suscríbete a esta web utilizando RSS 2.0"
 
 #: ../api/widget/Inc_Meta_Widget.php:21
 msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
-msgstr ""
+msgstr "Entradas <abbr title=\"Sindicación realmente simple\">RSS</abbr>"
 
 #: ../api/widget/Inc_Meta_Widget.php:22
 msgid "The latest comments to all posts in RSS"
-msgstr ""
+msgstr "Los últimos comentarios a todos los artículos de RSS"
 
 #: ../api/widget/Inc_Meta_Widget.php:22
 msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
-msgstr ""
+msgstr "Comentarios <abbr title=\"Sindicación realmente simple\">RSS</abbr>"
 
 #: ../api/widget/Inc_Meta_Widget.php:23
 msgid ""
 "Powered by WordPress, state-of-the-art semantic personal publishing platform."
 msgstr ""
+"Desarrollado por WordPress, el estado de la técnica de la plataforma de "
+"publicación personal semántica."
 
 #: ../api/widget/Inc_Most_Used_Tags_Widget.php:8
 msgid "Your most used tags"
-msgstr ""
+msgstr "Tus etiquetas más usadas"
 
 #: ../api/widget/Inc_Most_Used_Tags_Widget.php:9
 msgid "Most Used Tags"
-msgstr ""
+msgstr "Las etiquetas más usadas"
 
 #: ../api/widget/Inc_Most_Used_Tags_Widget.php:55
 msgid "Number of Tags"
-msgstr ""
+msgstr "Numero de etiquetas"
 
 #: ../api/widget/Inc_Newsletter_Subscription_Widget.php:8
 msgid "MailChimp Newsletter Subscription"
-msgstr ""
+msgstr "Suscripción al newsletter de MailChimp"
 
 #: ../api/widget/Inc_Newsletter_Subscription_Widget.php:9
 msgid "Newsletter Subscription"
-msgstr ""
+msgstr "Suscripción al newsletter "
 
 #: ../api/widget/Inc_Newsletter_Subscription_Widget.php:31
 msgid ""
 "You have successfully subscribed to our newsletter. Look for the "
 "confirmation email."
 msgstr ""
+"Te has suscrito a nuestro boletín de noticias. Busca en tu email la "
+"confirmación y dale click."
 
 #: ../api/widget/Inc_Newsletter_Subscription_Widget.php:35
 msgid "Enter your email address"
-msgstr ""
+msgstr "Ingresar tu email"
 
 #: ../api/widget/Inc_Newsletter_Subscription_Widget.php:36
 msgid "Subscribe"
-msgstr ""
+msgstr "Suscribirse "
 
 #: ../api/widget/Inc_Newsletter_Subscription_Widget.php:66
 msgid "Newsletter"
-msgstr ""
+msgstr "Newsletter"
 
 #: ../api/widget/Inc_Newsletter_Subscription_Widget.php:73
 msgid "Intro Text"
-msgstr ""
+msgstr "Texto de introducción"
 
 #: ../api/widget/Inc_Newsletter_Subscription_Widget.php:74
 msgid "List ID"
-msgstr ""
+msgstr "ID de la lista"
 
 #: ../api/widget/Inc_Recent_Comments_Widget.php:28
 msgid "Recent Comments"
-msgstr ""
+msgstr "Comentarios recientes"
 
 #: ../api/widget/Inc_Recent_Comments_Widget.php:45
 #, php-format
 msgid "%1$s on %2$s"
-msgstr ""
+msgstr "%1$s en %2$s"
 
 #: ../api/widget/Inc_Recent_Posts_Widget.php:27
 msgid "Recent Posts"
-msgstr ""
+msgstr "Entradas rescientes"
 
 #: ../api/widget/Inc_Shortcode_Eval_Widget.php:7
 msgid "Shortcode Evaluator Widget"
-msgstr ""
+msgstr "Código corto para el Widget Evaluador"
 
 #: ../api/widget/Inc_Shortcode_Eval_Widget.php:8
 msgid "Shortcode Evaluator"
-msgstr ""
+msgstr "Código corto para el Evaluador"
 
 #: ../api/widget/Inc_Shortcode_Eval_Widget.php:47
 msgid "Shortcode"
-msgstr ""
+msgstr "Código corto"

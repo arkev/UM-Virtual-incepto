@@ -41,5 +41,4 @@
     <li class="<?php echo inc_get_footer_sn_class('rss'); ?>"><a href="<?php echo inc_get_rss_url(); ?>" title="<?php _e('RSS', INCEPTIO_THEME_NAME) ?>" target="_blank"><?php _e('RSS', INCEPTIO_THEME_NAME) ?></a></li>
     <?php } ?>
 </ul>
-
 <?php } ?>

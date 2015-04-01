@@ -55,5 +55,6 @@
 ?>
 <?php echo inc_get_footer_tracking_code(); ?>
 <?php wp_footer(); ?>
+<script src="/bower_components/iframe-resizer/js/iframeResizer.min.js"></script>
 </body>
 </html>
