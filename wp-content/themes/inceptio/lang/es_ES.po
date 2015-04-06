@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Inceptio\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-30 18:50+0100\n"
-"PO-Revision-Date: 2015-02-25 16:18-0600\n"
+"PO-Revision-Date: 2015-03-10 14:54-0600\n"
 "Last-Translator: Allen Zapien <yosoy@arkev.com>\n"
 "Language-Team: Ixtendo <info@ixtendo.com>\n"
 "Language: es_ES\n"
@@ -1986,7 +1986,7 @@ msgstr "Proceso (Esquema de los pasos)"
 
 #: ../api/shortcode/Inc_Shortcode_Manager.php:18
 msgid "Add Shortcode"
-msgstr "Agregar acceso directo"
+msgstr "Agregar objetos"
 
 #: ../api/shortcode/Inc_Site_Map_Shortcode.php:26
 #: ../api/widget/Inc_Pages_Widget.php:13

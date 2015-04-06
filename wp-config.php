@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY', 'roPhzK>Jw!3m^%6+Fm+VF0yxce]iKLBz*T6q63f(-/f-nQ2@XF~ee*Wn m@+a<]|'); // Cambia esto por tu frase aleatoria.
-define('SECURE_AUTH_KEY', '<=z=w7e`;?E:`ABAGx*mO)lLO+w eZGjmUej#!Em@RY_F[dt1bxyi_}Zal^y!)P)'); // Cambia esto por tu frase aleatoria.
-define('LOGGED_IN_KEY', '%4e>{os=s7TtJELbkX>:{?oG*.[c<N$,Ld;j-A0p&rNDkI#-1#x}F<QsbYKW[^^3'); // Cambia esto por tu frase aleatoria.
-define('NONCE_KEY', 'yg*WOQET[( Z5D-m;{e<@%K%|c5chW|OoZH!TH~9wgc(` 9+AKlOHV<E{7Pz3nQ9'); // Cambia esto por tu frase aleatoria.
-define('AUTH_SALT', 'FY.OGQHgp?+3wZZdM8Ie;x75qd/[{SH<+vs3>0BA4z=LG5fOg|VMx-=X:AR^}-Pd'); // Cambia esto por tu frase aleatoria.
-define('SECURE_AUTH_SALT', 'bl@T,.X}LL^tQ(wb.i`or:jRhJLz7G}`}FFO%>uK4YOQkK;5h& m~gs0VXrNLV[Z'); // Cambia esto por tu frase aleatoria.
-define('LOGGED_IN_SALT', '3hVG+Z$pb&kg2oQ -&-T6j3xt#x$AD(4U/08~Xt~/M@v.Dv%-V%_Q:5 Zd2|zcvk'); // Cambia esto por tu frase aleatoria.
-define('NONCE_SALT', 'ZH+w5GUb$^s[o!x1+t+A-=DpY>D*2?Or^|,JBN$ZaJiE&Z4 hSn<|3t/8-Dn|c]z'); // Cambia esto por tu frase aleatoria.
+define('AUTH_KEY', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
+define('SECURE_AUTH_KEY', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
+define('LOGGED_IN_KEY', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
+define('NONCE_KEY', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
+define('AUTH_SALT', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
+define('SECURE_AUTH_SALT', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
+define('LOGGED_IN_SALT', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
+define('NONCE_SALT', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
 
 /**#@-*/
 

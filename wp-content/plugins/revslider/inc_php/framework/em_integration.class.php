@@ -126,7 +126,15 @@
 			
 			$arrEvent = $event->to_array();
 			$arrLocation = $location->to_array();
-						$date_format = get_option('date_format');			$time_format = get_option('time_format');						$arrEvent["event_start_date"] = date_format(date_create_from_format('Y-m-d', $arrEvent["event_start_date"]), $date_format);			$arrEvent["event_end_date"] = date_format(date_create_from_format('Y-m-d', $arrEvent["event_end_date"]), $date_format);			$arrEvent["event_start_time"] = date_format(date_create_from_format('H:i:s', $arrEvent["event_start_time"]), $time_format);			$arrEvent["event_end_time"] = date_format(date_create_from_format('H:i:s', $arrEvent["event_end_time"]), $time_format);			
+			
+			$date_format = get_option('date_format');
+			$time_format = get_option('time_format');
+			
+			$arrEvent["event_start_date"] = date_format(date_create_from_format('Y-m-d', $arrEvent["event_start_date"]), $date_format);
+			$arrEvent["event_end_date"] = date_format(date_create_from_format('Y-m-d', $arrEvent["event_end_date"]), $date_format);
+			$arrEvent["event_start_time"] = date_format(date_create_from_format('H:i:s', $arrEvent["event_start_time"]), $time_format);
+			$arrEvent["event_end_time"] = date_format(date_create_from_format('H:i:s', $arrEvent["event_end_time"]), $time_format);
+			
 			$response = array();
 			$response["start_date"] = $arrEvent["event_start_date"];
 			$response["end_date"] = $arrEvent["event_end_date"];

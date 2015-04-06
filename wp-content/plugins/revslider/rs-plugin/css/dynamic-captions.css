@@ -25,3 +25,17 @@ border-color:rgb(0, 0, 0);
 border-style:none;
 }
 
+.tp-caption.medium_light_black {
+font-size:30px;
+line-height:36px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+

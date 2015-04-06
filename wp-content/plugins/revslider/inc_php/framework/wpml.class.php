@@ -90,7 +90,8 @@
 			
 			$html = "<ul".$props.">"."\n";
 			$html .= $htmlBefore;
-		
+		
+
 			foreach($arrLangs as $code=>$title){
 				$urlIcon = self::getFlagUrl($code);
 				
