@@ -89,6 +89,12 @@ header img {
   flex: 2 0 0;
   position: relative;
 }
+@media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 1) {
+  #imgv {
+    display: inline-block;
+    width: 60%;
+  }
+}
 @media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 2) {
   #imgv {
     display: inline-block;
@@ -142,6 +148,12 @@ header img {
 @media only screen and (min-width:768px) {
   #formulario {
     padding-bottom: 0;
+  }
+}
+@media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 1) {
+  #formulario {
+    display: inline-block;
+    width: 40%;
   }
 }
 @media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 2) {
@@ -427,6 +439,17 @@ header img {
     height: 5em;
   }
 }
+@media only screen and (min-width:320px) and (-webkit-min-device-pixel-ratio: 1) {
+  .title div {
+    display: inline-block;
+    width: 30%;
+  }
+}
+@media only screen and (min-width:320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .title div {
+    width: 55%;
+  }
+}
 @media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 2) {
   .title div {
     display: inline-block;
@@ -468,6 +491,18 @@ header img {
   .title div h2 {
     font-size: 36px;
     font-size: 3.6rem;
+  }
+}
+@media only screen and (min-width:320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .title div h2 {
+    font-size: 23px;
+    font-size: 2.3rem;
+  }
+}
+@media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 1) {
+  .title div h2 {
+    font-size: 32px;
+    font-size: 3.2rem;
   }
 }
 @media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 2) {
@@ -553,6 +588,12 @@ header img {
     width: 30%;
   }
 }
+@media only screen and (min-width:480px) and (-webkit-min-device-pixel-ratio: 1) {
+  #experto #expert div:first-child .foto {
+    display: inline-table;
+    width: 30%;
+  }
+}
 #experto #expert div:first-child .foto img {
   width: 80%;
   margin: 0 auto;
@@ -568,6 +609,12 @@ header img {
   padding: 1em;
 }
 @media only screen and (min-width:480px) and (-webkit-min-device-pixel-ratio: 2) {
+  #experto #expert div:first-child .datos {
+    display: inline-block;
+    width: 60%;
+  }
+}
+@media only screen and (min-width:480px) and (-webkit-min-device-pixel-ratio: 1) {
   #experto #expert div:first-child .datos {
     display: inline-block;
     width: 60%;
@@ -680,6 +727,12 @@ header img {
     display: inline-table;
   }
 }
+@media only screen and (min-width:480px) and (-webkit-min-device-pixel-ratio: 1) {
+  #horario #tablah #colums div {
+    width: 23%;
+    display: inline-table;
+  }
+}
 #horario #tablah #colums div .paises {
   font-weight: 700;
   text-align: center;
@@ -724,10 +777,16 @@ header img {
   text-align: center;
   line-height: .4em;
 }
+@media only screen and (min-width:320px) and (-webkit-min-device-pixel-ratio: 1) {
+  #horario #addcal .icon-calendar {
+    display: inline-block;
+    width: 80px;
+  }
+}
 @media only screen and (min-width:320px) and (-webkit-min-device-pixel-ratio: 2) {
   #horario #addcal .icon-calendar {
     display: inline-block;
-    width: 100px;
+    width: 80px;
   }
 }
 #horario #addcal .boton {
@@ -752,6 +811,11 @@ header img {
   #horario #addcal .boton {
     font-size: 18px;
     font-size: 1.8rem;
+  }
+}
+@media only screen and (min-width:320px) and (-webkit-min-device-pixel-ratio: 1) {
+  #horario #addcal .boton {
+    display: inline-block;
   }
 }
 @media only screen and (min-width:320px) and (-webkit-min-device-pixel-ratio: 2) {
@@ -801,6 +865,11 @@ footer #last-cta div img {
     margin: 1em 2em;
   }
 }
+@media only screen and (min-width:480px) and (-webkit-min-device-pixel-ratio: 1) {
+  footer #last-cta div {
+    display: inline-block;
+  }
+}
 @media only screen and (min-width:480px) and (-webkit-min-device-pixel-ratio: 2) {
   footer #last-cta div {
     display: inline-block;
@@ -822,6 +891,12 @@ footer #last-cta div img {
   footer #last-cta h2 {
     font-size: 30px;
     font-size: 3rem;
+  }
+}
+@media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 1) {
+  footer #last-cta h2 {
+    font-size: 21px;
+    font-size: 2.1rem;
   }
 }
 @media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 2) {
@@ -883,6 +958,12 @@ footer #foot {
 footer #foot #logo {
   flex: 2 0 0;
 }
+@media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 1) {
+  footer #foot #logo {
+    width: 69%;
+    display: inline-block;
+  }
+}
 @media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 2) {
   footer #foot #logo {
     width: 69%;
@@ -895,6 +976,12 @@ footer #foot #logo img {
 }
 footer #foot #redes {
   flex: 1 0 0;
+}
+@media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 1) {
+  footer #foot #redes {
+    width: 30%;
+    display: inline-block;
+  }
 }
 @media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 2) {
   footer #foot #redes {
@@ -912,6 +999,17 @@ footer #foot #redes div {
 footer #foot #redes div a {
   width: 50%;
   text-align: center;
+  display: inline-block;
+}
+@media only screen and (min-width:320px) and (-webkit-min-device-pixel-ratio: 2) {
+  footer #foot #redes div a {
+    width: 40%;
+  }
+}
+@media only screen and (min-width:768px) and (-webkit-min-device-pixel-ratio: 1) {
+  footer #foot #redes div a {
+    width: 40%;
+  }
 }
 footer #foot #redes h3 {
   color: white;

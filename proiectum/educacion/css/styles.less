@@ -8,6 +8,7 @@
 @laptop: ~"only screen and (min-width:1024px)";
 @desktop: ~"only screen and (min-width:1160px)";
 @iDevise: ~"and (-webkit-min-device-pixel-ratio: 2)";
+@sinRetina: ~"and (-webkit-min-device-pixel-ratio: 1)";
 @import url(http://fonts.googleapis.com/css?family=Raleway:900,700,500,400,300);
 
 //Mixins
@@ -147,6 +148,10 @@ header{
 #imgv{
     flex: 2 0 0; 
     position: relative;
+    @media @tablet @sinRetina{
+        display: inline-block;
+        width: 60%;
+    }
     @media @tablet @iDevise{
         display: inline-block;
         width: 60%;
@@ -184,6 +189,10 @@ header{
     }
     @media @tablet{
         padding-bottom: 0;
+    }
+    @media @tablet @sinRetina{
+        display: inline-block;
+        width: 40%;
     }
     @media @tablet @iDevise{
         display: inline-block;
@@ -363,6 +372,13 @@ header{
             @media @tablet{
                 height:5em;
             }
+            @media @mobile @sinRetina{
+                display: inline-block;
+                width: 30%;
+            }
+            @media @mobile @iDevise{
+                width: 55%;
+            }
             @media @tablet @iDevise{
                 display: inline-block;
                 width: 32%;
@@ -378,6 +394,12 @@ header{
                 }
                 @media @tablet{
                     .font-size(36);
+                }
+                @media @mobile @iDevise{
+                    .font-size(23);
+                }
+                @media @tablet @sinRetina{
+                    .font-size(32);
                 }
                 @media @tablet @iDevise{
                     .font-size(32);
@@ -443,6 +465,10 @@ header{
                     display: inline-table;
                     width: 30%;
                 }
+                @media @smalltablet @sinRetina{
+                    display: inline-table;
+                    width: 30%;
+                }
 				img{
   					width: 80%;
   					margin: 0 auto;
@@ -457,6 +483,10 @@ header{
 				line-height: 1.5em;
 				 padding: 1em;
                 @media @smalltablet @iDevise{
+                    display: inline-block;
+                    width: 60%;
+                }
+                @media @smalltablet @sinRetina{
                     display: inline-block;
                     width: 60%;
                 }
@@ -542,6 +572,10 @@ header{
 					width: 23%;
                     display: inline-table;
 				}
+                @media @smalltablet @sinRetina{
+					width: 23%;
+                    display: inline-table;
+				}
 				.paises{
 					.bold();
 					text-align: center;
@@ -576,9 +610,13 @@ header{
 			width: 1.4em;
   			text-align: center;
   			line-height: .4em;
+            @media @mobile @sinRetina{
+				display: inline-block;
+                width: 80px;
+			}
             @media @mobile @iDevise{
 				display: inline-block;
-                width: 100px;
+                width: 80px;
 			}
 		}
 		.boton{
@@ -589,6 +627,9 @@ header{
 			}
 			@media @smalltablet{
 				.font-size(18);
+			}
+            @media @mobile @sinRetina{
+				display: inline-block;
 			}
             @media @mobile @iDevise{
 				display: inline-block;
@@ -624,6 +665,9 @@ footer{
 			@media @tablet{
 				margin: 1em 2em;
 			}
+            @media @smalltablet @sinRetina{
+			    display: inline-block;
+		    }
             @media @smalltablet @iDevise{
 			    display: inline-block;
 		    }
@@ -637,6 +681,9 @@ footer{
 			}
 			@media @tablet{
 				.font-size(30);
+			}
+            @media @tablet @sinRetina{
+				.font-size(21);
 			}
             @media @tablet @iDevise{
 				.font-size(21);
@@ -671,6 +718,10 @@ footer{
 		}
 		#logo{
 			flex: 2 0 0; 
+            @media @tablet @sinRetina{
+                width: 69%;
+                display: inline-block;
+            }
             @media @tablet @iDevise{
                 width: 69%;
                 display: inline-block;
@@ -679,6 +730,10 @@ footer{
 		}
 		#redes{
 			flex: 1 0 0; 
+            @media @tablet @sinRetina{
+                width: 30%;
+                display: inline-block;
+            }
             @media @tablet @iDevise{
                 width: 30%;
                 display: inline-block;
@@ -691,6 +746,13 @@ footer{
 				a{
 					width: 50%;
 					text-align: center;
+                    display: inline-block;
+                    @media @mobile @iDevise{
+                        width: 40%;
+                    }
+                    @media @tablet @sinRetina{
+                        width: 40%;
+                    }
 				}
 			}
 			h3{
