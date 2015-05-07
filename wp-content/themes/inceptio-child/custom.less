@@ -36,7 +36,7 @@ h2 {margin-top: 10px;}
   font-variant: normal !important;
   text-transform: none !important;
   speak: none;
-  line-height: 1;
+  line-height: 1em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -347,6 +347,7 @@ aside #newsletter-form input#newsletter{
         a{float: none;}
     }
 }
+
 //mi cuenta
 .page-id-325{
     #educacion-formal .iconbox-icon:before, #educacion-continua .iconbox-icon:before {
@@ -365,3 +366,31 @@ aside #newsletter-form input#newsletter{
 
 //Eliminar cursos y diplomados relacionados de las licenciaturas
 .postid-360 .container section:nth-child(2), .postid-758 .container section:nth-child(2){display: none;}
+
+//Pantallas de las becas promocionales
+.page-id-1038{
+    .infobox-inner{
+        h2{margin-top: 0;}
+        .button{margin-top: .7em;}
+    }
+    #info-add{
+        .one-third:nth-child(2),{
+            br{display: none;}
+        }
+        small{color: #777;}
+        .acreditacion, .requisitos, .terminos{
+            .iwf_umvirtual();
+            font-size: 6em;
+            text-align: center;
+            margin: .3em auto .1em;
+        }
+        h3{
+            font-size: 1.5em;
+            text-align: center;
+        }
+        .acreditacion:before{content: "a";}
+        .requisitos:before{content: "e";}
+        .terminos:before{content: "g";}
+    }
+}
+
