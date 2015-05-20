@@ -43,7 +43,7 @@ redirect 301 /posgrado.html /posgrado
 redirect 301 /wp-content/cursomuestra/data/presentation.xml /educacion-continua
 redirect 301 /portafolio-saludEmp.html /educacion-continua
 redirect 301 /portafolio-enfermedades.html /salud-mental-y-bienestar-personal
-redirect 301 /portafolio-herramientas.html /como-disenar-actividades-que-desarrollan-competencias 
+redirect 301 /portafolio-herramientas.html /como-disenar-actividades-que-desarrollan-competencias
 redirect 301 /evangelismo-tecnologico-spot3 /evangelismo-tecnologico
 redirect 301 /portafolio-huerto.html /educacion-continua
 redirect 301 /descargas/PDF/QVS/Salud_mental.pdf /educacion-continua
@@ -68,3 +68,4 @@ redirect 301 /portafolio-familia.html /fundamentos-firmes-para-la-familia-contem
 redirect 301 /cursos_cortos.html /cursos-cortos
 redirect 301 /portafolio-vidasaludable.html /promocion-vida-saludable
 redirect 301 /Portafolio-estilos-vida.html /estilo-de-vida-saludable
+redirect 301 /portafolio-spot1.html /proiectum/salud/
