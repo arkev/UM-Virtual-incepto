@@ -51,7 +51,7 @@
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>
 					<div style="position: absolute; left: -5000px;"><input type="text" name="b_458128645c72adf41ccbd28cd_70c393376d" tabindex="-1" value=""></div>
-    <input type="submit" value="Enviar" name="subscribe" id="mc-embedded-subscribe" class="button">
+    <input type="submit" value="Enviar" name="subscribe" id="mc-embedded-subscribe" class="button" onClick="ga('send', 'event', 'boton', 'enviar');">
 				</form>
 				<h2 class="fecha">28 de mayo 2015</h2>
 				<h2 data-icon="a" class="hora icon">7.00pm</h2>
@@ -253,38 +253,5 @@ $.extend($.validator.messages, {
 		ga('create', 'UA-49916110-1', 'umvirtual.org');
 		ga('send', 'pageview');
 	</script>
-<!-- Google Code for Innova Salud Conversion Page
-In your html page, add the snippet and call
-goog_report_conversion when someone clicks on the
-chosen link or button. -->
-<script type="text/javascript">
-  /* <![CDATA[ */
-  goog_snippet_vars = function() {
-    var w = window;
-    w.google_conversion_id = 957296960;
-    w.google_conversion_label = "nHqdCO3Q01wQwOK8yAM";
-    w.google_remarketing_only = false;
-  }
-  // DO NOT CHANGE THE CODE BELOW.
-  goog_report_conversion = function(url) {
-    goog_snippet_vars();
-    window.google_conversion_format = "3";
-    window.google_is_call = true;
-    var opt = new Object();
-    opt.onload_callback = function() {
-    if (typeof(url) != 'undefined') {
-      window.location = url;
-    }
-  }
-  var conv_handler = window['google_trackConversion'];
-  if (typeof(conv_handler) == 'function') {
-    conv_handler(opt);
-  }
-}
-/* ]]> */
-</script>
-<script type="text/javascript"
-  src="//www.googleadservices.com/pagead/conversion_async.js">
-</script>
 </body>
 </html>
