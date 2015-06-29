@@ -1315,7 +1315,63 @@ var ano = (new Date).getFullYear();
 
 document.getElementById("fecha").innerHTML = ano;
 
-// Iframe
-iFrameResize({
-    log: true,// Enable console logging
-});
+/* ---------------------------------------------------------------------- */
+/* iFrame
+/* ---------------------------------------------------------------------- */
+
+/*
+		*	En la función frameResize() se redimensiona el iframe a partir de las medidas del control de la e42Lite
+		*	Al ancho del iframe le agregué un margen de 12px; eso funciona para las 3 páginas que se carguen
+		*	A la altura se agregan 30px como margen para dejar espacio para los mensajes de error que inicialmente
+		*		son invisibles
+		*/
+
+		var contador = 0;		//variable para controlar que la recarga del iframe solo sea una vez
+
+		//ésta primera función se ejecuta cuando la página se ha cargado y tiene dos funciones
+		//	1. determina si el url tiene parámetros, en cuyo caso se los agrega al src del iframe
+		//	2. ejecuta un postmessage para comunicarse con la página del e42Lite y recuperar alto y ancho de dicha página
+		$(document).ready(function () {
+			$("#ifrm").load(function () {
+				if (contador == 0) {
+					var frameParams = getParams();
+					if (frameParams != "") {
+						this.src = this.src + '?' + frameParams;
+					}
+
+					this.contentWindow.postMessage('sizing?', 'http://e42.um.edu.mx/lite');
+
+					contador = 1;
+				}
+			});
+		});
+
+		//devuelve los parámetros del url o una cadena vacía si no hay nada después de ?
+		function getParams() {
+			var params = window.location.toString().split("?")[1];
+			if (params == null)
+				params = "";
+			return params;
+		}
+
+		//en esta variable se recupera el valor de la función anónima que recupera el mensaje que responde el e42Lite
+		//ese mensaje tiene dos valores, width y height del control que queremos desplegar
+		handleSizingResponse = function (e) {
+			var action = e.data.split(':')[0];
+			if (action == 'sizing') {
+				var dimen = e.data.split(':')[1].split(',');
+				var width = dimen[0];
+				var height = dimen[1];
+				console.log(width + 'x' + height);
+				if(width > 0 && height > 0)
+					frameResize(width, height);
+			}
+		}
+		window.addEventListener('message', handleSizingResponse, false);	//listener del mensaje que envía la e42Lite
+
+		//se ejecuta el redimensionamiento del iframe, siempre que la e42Lite haya respondido con width y heigth > 0
+		function frameResize(width, height) {
+			var iframe = document.getElementById("ifrm");
+			iframe.width = width + 12;
+			iframe.height = height + 30;
+		}
