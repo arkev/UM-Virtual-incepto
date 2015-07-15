@@ -1,0 +1,59 @@
+.tp-caption.medium_thin_gray {
+font-size:21px;
+line-height:1.2em;
+font-weight:300;
+font-family:"Open Sans";
+color:#666666;
+text-decoration:none;
+text-shadow:none;
+margin:0px;
+padding:1px 4px 0px 4px;
+background-color:transparent;
+text-aling:center;
+text-align:center;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.Violeta-TC {
+color:#2e194a;
+background-color:transparent;
+font-size:21px;
+font-family:Tahoma, Geneva, sans-serif;
+text-decoration:none;
+text-shadow:none;
+width:430px;
+text-align:center;
+line-height:1.2em;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.Gold {
+font-size:24px;
+font-family:Tahoma, Geneva, sans-serif;
+color:rgb(169, 146, 110);
+text-decoration:none;
+background-color:transparent;
+text-shadow:none;
+border-width:0px;
+border-color:rgb(0, 0, 0);
+border-style:none;
+}
+
+.tp-caption.medium_light_black {
+font-size:30px;
+line-height:36px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(0, 0, 0);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+

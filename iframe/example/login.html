@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Acceso a la E42 Lite</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:700,600,400' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="bower_components/normalize-css/normalize.css">
+	<link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
+	<script src="bower_components/modernizr/modernizr.js"></script>
+</head>
+
+<body>
+	<section class="form animated flipInX">
+		<p class="valid"><strong>Datos validos.</strong> Por favor espera un momento.</p>
+		<p class="error"><strong>Error.</strong> Por favor ingresa un nombre de usuario o contraseña validos.</p>
+		<form class="loginbox" autocomplete="off">
+			<div class="icon-usuario inputUI">
+				<input placeholder="Correo electrónico o usuario E42" type="text" id="username"></input>
+			</div>
+
+			<div class="icon-candado inputUI">
+				<input placeholder="Contraseña" type="password" id="password"></input>
+				</input>
+			</div>
+
+			<div class="checkbox">
+				<input id="checkme" type="checkbox">
+				<label for="checkme">
+					Entrar directamente al curso
+				</label>
+			</div>
+
+			<!-- Simulé un nombre de usuario y contraseña para que vieras como funcionan las alertas, estos son los datos correctos: usuario: alumno / pass: e42lite2015 -->
+			<button id="submit">Acceder</button>
+			<a href="http://umvirtual.org/recuperar-contrasena">¿Olvidaste la contraseña?</a>
+		</form>
+	</section>
+	<section class="creacuenta animated bounceInUp">
+		<span>¿No tienes cuenta?</span>
+		<a href="e: http://umvirtual.org/crear-cuenta/">Crear cuenta</a>
+	</section>
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="js/min/programacion-min.js"></script>
+	<script type="text/javascript" src="http://umvirtual.org/bower_components/iframe-resizer/js/iframeResizer.contentWindow.min.js"></script> 
+</body>
+
+</html>

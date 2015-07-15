@@ -1,0 +1,341 @@
+.errordiv {
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid #555555;
+	color: #000000;
+	background-color: #f8f8f8;
+	text-align: center;
+	width: 360px;
+}
+#im_test .text, #im_test img {
+	vertical-align: middle;
+}
+.linepad p {
+	line-height: 1.3em;
+}
+.updated p, .error p {
+	line-height: 1.1;
+}
+.icon_ai {
+	float: left;
+	height: 36px;
+	margin-top: 8px;
+	margin-right: 6px;
+	margin-bottom: 0pt;
+	margin-left: 0pt;
+	width: 36px;
+	background-image: url(../img/jfu_logo_32x32.png) !important;
+	background-repeat: no-repeat;
+	background-position: -0px -0px !important;
+}
+.shortcode span {
+	font-weight: bold;
+}
+.shortcode {
+	background: #E2FFE2;
+	border: 1px solid #00FF00;
+	padding: 10px;
+	padding-bottom: 10px;
+	margin: 10px;
+}
+.signup_account_container {
+	float: left;
+	width: 225px;
+	margin-right: 20px;
+	border: 2px solid #F1F1F1;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	cursor: pointer;
+	height: 260px;
+}
+.signup_account_container#first {
+	margin-left: 50px;
+}
+.signup_account_container#last {
+	margin-right: 0px;
+	border: 2px solid #fefefe;
+}
+.signup_account_container#last .signup_inner {
+	width: 245px!important;
+}
+.signup_account_container#last {
+	width: 307px!important;
+}
+.signup_account_container:hover, .signup_account_container_active {
+	border: 2px solid #80B8D9;
+}
+.signup_button_desc {
+	color: #999;
+	font-size: 11px;
+	margin-top: 6px;
+}
+.signup_content {
+}
+.signup_inner {
+	width: 163px;
+	padding: 26px 30px;
+	border: 1px solid #EEE;
+	background: #FFF;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	height: 206px;
+}
+.signup_inner_desc {
+	color: #484848;
+	font-size: 12px;
+	margin-bottom: 16px;
+}
+.signup_inner_header {
+	color: #5E8C16;
+	font-size: 14px;
+	margin-bottom: 4px;
+}
+.signup_inner_plan {
+	color: #24536F;
+	font-size: 14px;
+	margin-bottom: 11px;
+	text-shadow: 1px 1px 1px #FFF;
+}
+.signup_inner_price {
+	color: #494949;
+	font-size: 16px;
+	margin-bottom: 11px;
+	text-shadow: 1px 1px 1px #FFF;
+}
+.signup_inner_button {
+	display: block;
+	text-align: center;
+	background: rgb(2,157,214);
+	background: -moz-linear-gradient(top,  rgba(2,157,214,1) 37%, rgba(0,119,175,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(37%,rgba(2,157,214,1)), color-stop(100%,rgba(0,119,175,1)));
+	background: -webkit-linear-gradient(top,  rgba(2,157,214,1) 37%, rgba(0,119,175,1) 100%);
+	background: -o-linear-gradient(top,  rgba(2,157,214,1) 37%, rgba(0,119,175,1) 100%);
+	background: -ms-linear-gradient(top,  rgba(2,157,214,1) 37%, rgba(0,119,175,1) 100%);
+	background: linear-gradient(to bottom,  rgba(2,157,214,1) 37%, rgba(0,119,175,1) 100%);
+	filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#029dd6', endColorstr='#0077af',GradientType=0 );
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid rgba(0,0,0,0.4);
+	-moz-box-shadow: inset 0 0 1px rgba(255,255,255,0.8);
+	-webkit-box-shadow: inset 0 0 1px rgba(255,255,255,0.8);
+	box-shadow: inset 0 0 1px rgba(255,255,255,0.8);
+	padding: 10px;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.4);
+	letter-spacing: 1px;
+	font-size: 14px;
+}
+.signup_inner:hover {
+	background: #F2F7F9;
+	border: 1px solid #FFF;
+}
+#last .signup_inner:hover {
+	background: #FFFFFF;
+	border: 1px solid #EEE;
+}
+ul.pro, ul#browser-list {
+	list-style-type: square;
+	margin-left: 1em;
+	padding-left: 0px;
+	margin-bottom: -5px;
+}
+ul#browser-list {
+	padding-left: 10px;
+}
+#last .signup_inner_desc, #last li {
+	margin-bottom: 0;
+}
+#last .signup_account_container {
+	width: auto;
+}
+#details-workaround, #details-javascript, #jquery-help, #browser-help, #jquery-gen, #all-parameters, #details-config {
+	background: #F2F7F9;
+	border: 1px solid #d2d7d9;
+	padding: 10px;
+	padding-bottom: 5px;
+	margin: 10px;
+	display: none;
+}
+#ai .nounderline a {
+	text-decoration: none;
+}
+a.signup_inner_button:active, a.signup_inner_button:hover {
+	color: #cccccc;
+}
+.left_th_colored {
+	width: 100px;
+}
+#accordion {
+	border: 1px solid #ddd;
+	border-top: none;
+	margin: 10px 0;
+	width: 100%;
+}
+#accordion > a {
+	display: block;
+	text-decoration: none;
+}
+#accordion > h1, .accordion > a {
+	background-color: #fff;
+	background-image: url(../img/gradient.jpg);
+	background-image: -moz-linear-gradient(bottom, #f1f1f1, #fff);
+	background-image: -ms-linear-gradient(bottom, #f1f1f1, #fff);
+	background-image: -o-linear-gradient(bottom, #f1f1f1, #fff);
+	background-image: -webkit-linear-gradient(bottom, #f1f1f1, #fff);
+	background-image: linear-gradient(bottom, #f1f1f1, #fff);
+	border-top: 1px solid #ddd;
+	color: #222;
+	font: 15px/30px 'Verdana', sans-serif;
+	height: 32px;
+	margin: 0;
+	padding: 0;
+	text-indent: 10px;
+	cursor: pointer
+}
+#accordion > h1:hover, .accordion > a {
+	background-color: #fff;
+	background-image: url(../img/gradient.jpg);
+	background-image: -moz-linear-gradient(bottom, #e1e1e1, #fff);
+	background-image: -ms-linear-gradient(bottom, #e1e1e1, #fff);
+	background-image: -o-linear-gradient(bottom, #e1e1e1, #fff);
+	background-image: -webkit-linear-gradient(bottom, #e1e1e1, #fff);
+	background-image: linear-gradient(bottom, #e1e1e1, #fff);
+	border-top: 1px solid #ddd;
+	color: #222;
+	font: 15px/30px 'Verdana', sans-serif;
+	height: 32px;
+	margin: 0;
+	padding: 0;
+	text-indent: 10px;
+	cursor: pointer
+}
+#accordion > div {
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #fff;
+}
+#ai input[type=text] {
+	width: 98%
+}
+.ulli li {
+	margin-left: 20px;
+	list-style-type: disc;
+}
+#wpadminbar.ai-save-bar {
+	top: auto;
+	bottom: 0px;
+	left: auto;
+	margin-left: -22px;
+	height: 46px;
+	border-top: 1px solid #aaa;
+  border-left: 1px solid #aaa;
+	background: rgb(225, 225, 225);
+	background: rgba(225, 225, 225, .5);
+	text-align: left;
+  position: fixed;
+  width:106%;
+}
+#wpadminbar.ai-save-bar>div {
+	margin: 7px;
+}
+#updated_text {
+	color: #090;
+	display: inline-block;
+	line-height: 28px;
+	margin-left: 30px;
+	margin-right: 20px;
+	padding-left: 10px;
+	border: 1px ridge #aaa;
+	background-color: #fff;
+	width: 160px;
+	font-weight: bold;
+}
+#wpbarbutton, #wpresetbutton {
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 26px;
+	border-radius: 3px;
+}
+
+#wpresetbutton {
+  margin-left:5px;
+  line-height: 28px;
+}
+
+
+#ds, #gs, #mp ,#so ,#rt ,#xss ,#ad ,#ic {
+margin-bottom:10px;
+}
+
+.ai-eye {
+    background-image:url(../img/eye.png);
+    display:inline-table;
+    height:16px;
+    text-indent:-9999px;
+    width:16px;
+    background-repeat: no-repeat;
+    margin-left: 3px;
+}
+
+.ai-eye:hover {
+    background-image:url(../img/eye-hover.png);
+}
+
+#help-header {
+display: none;
+}
+
+h4 {
+font-size:1.1em
+}
+
+#ai input[type="text"]#ai_config_id  {
+  width: 150px;
+}
+
+.config-list {
+  display:inline-table;
+  width: 220px;
+}
+
+div.ai-external-config-label {
+    float:left;
+    margin-right: 10px;
+}
+
+div.ai-external-config {
+    float:left;
+}
+div.ai-external-config {
+    width: 400px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+div.ai-external-config:hover{
+    overflow: visible; 
+    white-space: normal; 
+    width: 600px;
+    text-overflow: clip;
+}
+
+div.ai-external-config:after {
+    clear: both;
+}
+
+.anchor{
+  display: block;
+  height: 32px; 
+  margin-top: -32px; 
+  visibility: hidden;
+}
+
+
+

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Recupera tu contraseña de la E42 Lite</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:700,600,400' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="bower_components/normalize-css/normalize.css">
+	<link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
+	<script src="bower_components/modernizr/modernizr.js"></script>
+</head>
+
+<body>
+	<section id="container">
+		<section class="alerta animated zoomIn">
+			<p>No aplica para usuarios del E42</p>
+			<button id="close" class="icon-cerrar"></button>
+		</section>
+
+		<h2 class="animated fadeIn">Recupera tu contraseña</h2>
+
+		<section class="form animated flipInX">
+			<p class="valid"><strong>Datos validos.</strong> Por favor espera un momento.</p>
+			<p class="error"><strong>Error.</strong> Por favor ingresa un nombre de usuario o contraseña validos.</p>
+			<form class="loginbox" autocomplete="off">
+				<div class="icon-usuario inputUI">
+					<input placeholder="Correo electrónico o usuario E42" type="text" id="username"></input>
+				</div>
+				<button id="enviar">Enviar</button>
+			</form>
+		</section>
+
+		<section class="creacuenta animated bounceInUp">
+			<span>¿Ya tienes cuenta?</span>
+			<a href="http://umvirtual.org/mi-cuenta/e42-lite/">Acceder a tu cuenta</a>
+		</section>
+	</section>
+
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="js/min/programacion-min.js"></script>
+	<script type="text/javascript" src="http://umvirtual.org/bower_components/iframe-resizer/js/iframeResizer.contentWindow.min.js"></script>
+
+</body>
+
+</html>
