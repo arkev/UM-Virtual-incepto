@@ -1,0 +1,1 @@
+function inicio(){$(".container").stellar(),button=$(".curso"),button.click(function(){window.location="http://umvirtual.org/mi-cuenta/e42-lite/"})}$(document).on("ready",inicio),(new WOW).init();
