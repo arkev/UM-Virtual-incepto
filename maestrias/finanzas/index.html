@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<!--
+	Highlights by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+    <title>Solicitud de beca promocional | Finanzas</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+</head>
+
+<body>
+    <!-- Footer -->
+    <section id="footer">
+        <div class="container">
+            <header class="major">
+                <h2>Solicitud de beca promocional</h2>
+                <h3>Maestría en Administración con acentuación en Finanzas</h3>
+            </header>
+            <form method="post" action="send.php" accept-charset="UTF-8" id="form_contacto">
+                <div class="row uniform">
+                    <div class="6u 12u$(xsmall)">
+                        <input type="text" name="nombre" id="nombre" title="Nombre" tabindex="1" required placeholder="Nombre">
+                    </div>
+                    <div class="6u$ 12u$(xsmall)">
+                        <input type="email" name="email" id="email" placeholder="Email" title="Email" tabindex="2" required>
+                    </div>
+                    <div id="res_contacto"></div>
+                    <div class="12u$">
+                        <ul class="actions">
+                            <li>
+                                <input type="submit" value="Solicitar beca" class="special" name="submit" tabindex="3">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+        <footer>
+            <ul class="icons">
+                <li><a href="https://twitter.com/UMVirtual" class="icon alt fa-twitter"><span class="label">Twitter</span></a>
+                </li>
+                <li><a href="https://www.facebook.com/umvirtual" class="icon alt fa-facebook"><span class="label">Facebook</span></a>
+                </li>
+                <li><a href="mailto:umvirtual@um.edu.mx" class="icon alt fa-envelope"><span class="label">Email</span></a>
+                </li>
+            </ul>
+            <ul class="copyright">
+                <li>2015 © UM Virtual. Todos los derechos reservados</li>
+            </ul>
+        </footer>
+    </section>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
+    <!-- Plugin html5form -->
+    <script src="http://html5form.googlecode.com/svn/trunk/jquery.html5form-1.5-min.js"></script>
+    <script>
+        $('#form_contacto').html5form({
+            method: 'POST',
+            messages: 'es',
+            responseDiv: '#res_contacto',
+            allBrowsers: true,
+        });
+    </script>
+</body>
+
+</html>

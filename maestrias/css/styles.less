@@ -58,6 +58,7 @@ body{
 	position: relative;
 }
 
+//Header
 header{
 	background: url(../images/header.jpg) bottom center scroll no-repeat @darkslategray;
 	background-size: 100% auto;
@@ -74,39 +75,64 @@ header{
 		background-size: 100% auto;
 		span {
 			color: @gold;
-			font-size: 5vw;
-			padding: 0 0 0 4vw;
+            font-size: 5.7vw;
+            padding: 0 0 0 4vw;
 			display: block;
 			text-shadow: 1px 1px 2px rgba(0, 0, 0, .95);
+            @media @smallTablet{
+                font-size: 3.4vw;
+                padding: 2.3vh 0 0 7vw;
+            }
+            @media @tablet{
+                font-size: 3.7vw;
+                padding: 0.3vh 0 0 9vw;
+            }
 			@media @laptop{
-				font-size: 3.7vw;
-				padding: 14vh 0 0 12vw;
-				text-shadow: 2px 2px 4px rgba(0, 0, 0, .95);
+				  font-size: 3.4vw;
+                  padding: 6vh 0 0 8vw;
+                  text-shadow: 2px 2px 4px rgba(0,0,0,.95);
+			}
+            @media @laptop{
+				  font-size: 3.4vw;
+                  padding: 6vh 0 0 8vw;
+                  text-shadow: 2px 2px 4px rgba(0,0,0,.95);
+			}
+            @media @desktop{
+				  padding: 6vh 0 0 8vw;
+                  .font-size(38);
 			}
 			@media @bigScreen{
-				padding: 15vh 0 0 12vw;
-				.font-size(51);
+				padding: 8vh 0 0 12vw;
+				.font-size(44);
 				text-shadow: 3px 3px 6px rgba(0, 0, 0, .95);
 			}
 		}
 		h1 {
-			color: #fff;
-			font-size: 5.6vw;
-			padding: 0 0 5vh 9vw;
+			color: @blanco;
+			font-size: 6vw;
+            padding: 0 0 5vh 5vw;
 			line-height: 1.2em;
 			margin: 0;
 			text-shadow: 1px 1px 2px rgba(0, 0, 0, .95);
+            @media @smallTablet{
+				font-size: 5vw;
+                padding: 2.3vh 0 7vh 10vw;
+			}
 			@media @tablet{
-				padding: 0 0 6vh 10vw;
-				text-shadow: 2px 2px 4px rgba(0, 0, 0, .95);
+				padding: 2vh 0 9vh 9vw;
+                font-size: 5.6vw;
 			}
 			@media @laptop{
-				padding: 0 0 13vh 12vw;
-				font-size: 5vw;
-				text-shadow: 3px 3px 6px rgba(0, 0, 0, .95);
+				padding: 2vh 0 13vh 12vw;
+                font-size: 5vw;
+                text-shadow: 3px 3px 6px rgba(0,0,0,.95);
+			}
+            @media @desktop{
+				padding: 5vh 0 13vh 12vw;
 			}
 			@media @bigScreen{
-				.font-size(78);
+                padding: 4vh 0 16vh 12vw;
+				.font-size(74);
 				text-shadow: 4px 4px 8px rgba(0, 0, 0, .95);
 			}
 		}
