@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0; target-densitydpi=160dpi;">
+	<title>Crear cuenta en la E42 Lite</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:700,600,400' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="bower_components/normalize-css/normalize.css">
+	<link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
+	<script src="bower_components/modernizr/modernizr.js"></script>
+</head>
+
+<body>
+	<section class="alerta animated zoomIn">
+		<p>Si eres usuario del E42, no te registres; utiliza tus datos del E42 para ingresar</p>
+		<button id="close" class="icon-cerrar"></button>
+	</section>
+
+	<h2 class="animated fadeIn">Crear cuenta</h2>
+	<section class="form animated flipInX">
+		<p class="valid"><strong>Datos validos.</strong> Por favor espera un momento.</p>
+		<p class="error"><strong>Error.</strong> Por favor ingresa un nombre de usuario o contraseña validos.</p>
+		<form class="loginbox" autocomplete="off">
+			<div class="icon-email inputUI">
+				<input placeholder="Correo electrónico" type="email" id="email"></input>
+			</div>
+			<div class="icon-candado inputUI">
+				<input placeholder="Crea tu contraseña" type="password" id="pass"></input>
+			</div>
+			<div class="icon-candado inputUI">
+				<input placeholder="Confirma tu contraseña" type="password" id="confirm"></input>
+			</div>
+			<div class="icon-usuario inputUI">
+				<input placeholder="nombre completo" type="text" id="nombre"></input>
+			</div>
+			<!--<div class="icon-calendario inputUI">
+				<input type="date" id="calendario"></input>
+				<span id="fecha">fecha de nacimiento</span>
+			</div>
+
+			<div class="checkbox">
+				<strong>Sexo:</strong>
+				<input type="radio" name="sexo" value="mujer" id="mujer"></input>
+				<label for="mujer">mujer</label>
+				<input type="radio" name="sexo" value="hombre" id="hombre"></input>
+				<label for="hombre">hombre</label>
+			</div>-->
+
+			<!-- Simulé un nombre de usuario y contraseña para que vieras como funcionan las alertas, estos son los datos correctos: usuario: alumno / pass: e42lite2015 -->
+			<button id="registrar">Registrarme</button>
+		</form>
+	</section>
+
+	<section class="creacuenta animated bounceInUp">
+		<span>¿Ya tienes cuenta?</span>
+		<a href="http://umvirtual.org/mi-cuenta/e42-lite/">Acceder a tu cuenta</a>
+	</section>
+
+	<div id="modal">
+		<div id="modal_content">
+			<div class="flex-container">
+				<h1>Pasos para registrarte</h1>
+				<a href="#" title="Cerrar" class="icon-cerrar cerrar"></a> 
+			</div>
+			<img src="images/pasos.svg" alt="Pasos" width="100%">
+			
+			<div class="paso">
+				<h2>1</h2>
+				<div class="texto">
+					<h3>Manda tus datos</h3>
+					<span>Por medio del <a href="#" class="cerrar">siguiente formulario</a></span>
+				</div>
+				<img src="images/porta.svg" alt="Manda tus datos">
+				<div class="clear"></div>
+			</div>
+			
+			<div class="paso">
+				<h2>2</h2>
+				<div class="texto">
+					<h3>Confirma tu dirección</h3>
+					<span>Te llegará un correo electrónico con un link para que le des click</span>
+				</div>
+				<img src="images/sobre.svg" alt="Confirma tu dirección">
+				<div class="clear"></div>
+			</div>
+			
+			<div class="paso">
+				<h2>3</h2>
+				<div class="texto">
+					<h3>Regresa al catálogo</h3>
+					<span>Después de confirmar tu correo vuelve al <a href="http://umvirtual.org/educacion-continua">catálogo de cursos</a> para elegir los cursos que deseas inscribir</span>
+				</div>
+				<img src="images/catalogo.svg" alt="Regresa al catálogo">
+				<div class="clear"></div>
+			</div>
+			
+			<a href="" class="boton icon-cancelar cerrar"> Cerrar</a>
+  		</div>
+	</div> 
+
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="js/min/programacion-min.js"></script>
+	<script type="text/javascript" src="http://umvirtual.org/bower_components/iframe-resizer/js/iframeResizer.contentWindow.min.js"></script> 
+</body>
+
+</html>
