@@ -25,12 +25,13 @@
                 <h3>Maestría en Educacíon</h3>
             </header>
             <form method="post" action="send.php" accept-charset="UTF-8" id="form_contacto">
-                <div class="row uniform">
+                <div class="row uniform placeholder-example">
                     <div class="6u 12u$(xsmall)">
-                        <input type="text" name="nombre" id="nombre" title="Nombre" tabindex="1" required placeholder="Nombre">
+                        <input type="text" name="nombre" id="nombre" title="Nombre" tabindex="1" autocomplete="off" required>
                     </div>
                     <div class="6u$ 12u$(xsmall)">
-                        <input type="email" name="email" id="email" placeholder="Email" title="Email" tabindex="2" required>
+                        <input type="email" name="email" id="email" title="Email" tabindex="2" required>
+                        
                     </div>
                     <div id="res_contacto"></div>
                     <div class="12u$">
@@ -40,6 +41,7 @@
                             </li>
                         </ul>
                     </div>
+                    <div id="res_contacto"></div>
                 </div>
             </form>
 
@@ -67,15 +69,17 @@
     <script src="assets/js/util.js"></script>
     <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
     <script src="assets/js/main.js"></script>
-    <!-- Plugin html5form -->
+    <!-- Formulario -->
     <script src="http://html5form.googlecode.com/svn/trunk/jquery.html5form-1.5-min.js"></script>
     <script>
         $('#form_contacto').html5form({
+            allBrowsers : true,
             method: 'POST',
             messages: 'es',
             responseDiv: '#res_contacto',
-            allBrowsers: true,
         });
+        document.getElementsByName('nombre')[0].placeholder='Nombre';
+        document.getElementsByName('email')[0].placeholder='Email';
     </script>
 </body>
 

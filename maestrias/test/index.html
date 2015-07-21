@@ -26,8 +26,9 @@
 
     <!-- Signup Form -->
     <form id="signup-form" method="post" action="send.php" accept-charset="UTF-8">
-        <input type="email" name="email" id="email" placeholder="Email">
+        <input type="email" name="email" id="email" placeholder="Email" title="Email" tabindex="1" required>
         <input type="submit" value="enviar">
+        <div id="res_contacto"></div>
     </form>
 
     <!-- Footer -->
@@ -52,10 +53,10 @@
     <script src="http://html5form.googlecode.com/svn/trunk/jquery.html5form-1.5-min.js"></script>
     <script>
         $('#signup-form').html5form({
+            allBrowsers : true,
             method: 'POST',
             messages: 'es',
             responseDiv: '#res_contacto',
-            allBrowsers: true,
         });
     </script>
 </body>
