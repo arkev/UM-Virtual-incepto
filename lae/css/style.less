@@ -1,0 +1,312 @@
+//Importar
+@import "mixins";
+@import "variab";
+@import "typeimg";
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Roboto:500,900,400italic,300,700,400);
+@import url(http://fonts.googleapis.com/css?family=Sansita+One);
+
+//Variables
+@max-width:1440px;
+@light: 300;
+@normal: 400;
+@medium: 500;
+@bold: 700;
+@ultraBold: 900;
+@roboto:~"'Roboto', sans-serif";
+@sansita:~"'Sansita One', cursive;";
+@columna:28.125%;
+@cta-btn:#D9E021;
+@azulMarino:#1D253B;
+
+//Mixins
+.fontWeight(@normal){
+	font-weight:@normal;
+}
+.fontFamily(@family){
+	font-family: @family;
+}
+
+
+//Generales
+html {
+    font-size: 62.5%; /* Establece el fon-size con Base 10 */
+    height: 100%;
+}
+body{
+	.fontFamily(@roboto);
+	.fontWeight(@normal);
+    .font-size(16);
+	background: url(../images/bkg.gif) scroll center top repeat white;
+}
+.container{
+	max-width: @max-width;
+	background:white;
+	box-shadow: 0 0 30px black;
+	margin: 0 auto;
+    width:90%;
+}
+.clearfix:after { 
+   content: " "; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
+.flexcontainer() {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   /* You can set flex-wrap and flex-direction individually */
+   flex-direction: row;
+   flex-wrap: wrap;
+   /* Or do it all in one line with flex flow */
+   flex-flow: row wrap;
+   /* tweak the where items line up on the row */
+   /* valid values are: flex-start, flex-end, space-between, space-around, stretch */
+   align-content: flex-end;
+}
+.sombra(){
+    position: relative;
+    &:after {
+        width: 100%;
+        height: 30px;
+        content: " "; 
+        position: absolute;
+        background: url("http://umvirtual.org/wp-content/plugins/revslider/rs-plugin/assets/shadow1.png") no-repeat center center;
+        bottom: -30px;
+        left: 0;
+        .opacity(.6);
+    }
+}
+
+//Header
+header{
+    //Head
+    .sombra();
+    #head{
+        padding: 0 7%;
+        #um{
+            display: inline-block;
+            width:100%;
+            @media @smallTablet{
+                width:56%;
+            }
+            img{
+                max-width: 600px;
+                width: 100%;
+                margin: 1em auto;
+            }
+        }
+        #umvirtual{
+            display: inline-block;
+            width:100%;
+            @media @smallTablet{
+                width:43%;
+            }
+            img{
+                max-width: 300px;
+                float: right;
+                width: 100%;
+                margin-bottom: 1em;
+                @media @smallTablet{
+                    width:70%;
+                }
+            }
+        }
+    }
+    //Imagen vendedora
+    #ad {
+        text-align: center;
+        background-color: #3e1d25;
+        background-attachment: fixed;
+        background-image: url("../images/LAE-UMVirtual.jpg");
+        background-position: center center;
+        background-repeat: none;
+        background-size: cover;
+        .blanco();
+        h1{
+            .fontFamily(@sansita);
+            .font-size(28);
+            display: inline-block;
+            margin: 4em auto 1em;
+            width: 100%;
+            @media @smallTablet{
+                .font-size(34);
+            }
+            @media @tablet{
+                margin-top: 5em;
+            }
+            @media @laptop{
+                .font-size(44);
+            }
+            @media @desktop{
+                .font-size(48);
+            }
+            @media @bigScreen{
+                .font-size(54);
+            }
+            br{
+                display: none;
+                @media @smallTablet{
+                    display: block;
+                }
+            }
+        }
+        button{
+            .boton();
+            display: inline-block;
+            @media @laptop{
+                .font-size(24);
+            }
+            @media @bigScreen{
+                .font-size(31);
+            }
+        }
+        p{
+            margin-bottom: 2em;
+            display: inline-block;
+            width: 100%;
+            .font-size(19);
+            @media @laptop{
+                .font-size(24);
+            }
+            @media @bigScreen{
+                .font-size(31);
+            }
+            br{
+                display: none;
+                @media @smallTablet{
+                    display: block;
+                }
+            }
+        }
+    }
+    //formulario
+    #form{
+        padding: 3.3em 7% 2em;
+        background: url("../images/bkg-form.gif") repeat #101622;
+        position: relative;
+        display: none;
+        button{
+            .absoluta (9px, initial, 9px);
+            .blanco();
+            .font-size(36);
+            background: transparent;
+            border: 0;
+            outline: none;
+        }
+        input[type="text"], input[type="email"] {
+            .font-size(21);
+            .borderRadius(8);
+            .border(2px, solid, #333);
+            padding: .3em .8em;
+            margin: 0 1em 10px 0;
+            outline: none;
+            @media @laptop{
+                width: 32%;
+            }
+            @media @desktop{
+                width: 33%;
+            }
+        }
+         input[type="submit"] {
+            .boton();
+        }
+    }
+}
+
+//Beneficios
+#beneficios, #beneficios_principales{
+    color: @azulMarino;
+    text-align: center;
+    padding-bottom: 1em;
+    background-image: url(../images/bkg2.gif);
+    background-color: #c7c4bb;
+    background-attachment: fixed;
+    background-position: center center;
+    h2{
+        .fontFamily(@sansita);
+        .font-size(50);
+        display: inline-block;
+        margin: 1.5em auto 1em;
+        width: 100%;
+    }
+    #iconos{
+        .flexcontainer();
+        div{
+            width:225px;
+            height:285px;
+            span{.font-size(28);}
+        }
+    }
+}
+
+#beneficios_principales #iconos div {height: 210px;}
+
+//Más beneficios
+#mas_beneficio{
+    color:@azulMarino;
+    font-weight:@light;
+    padding: 7%;
+    .font-size(19);
+    .sombra();
+    @media @smallTablet{
+        .font-size(24);
+    }
+    @media @tablet{
+        .font-size(36);
+    }
+    @media @desktop{
+        .font-size(48);
+    }
+    ul{
+        padding-left: 1em;
+        li{
+            margin-bottom: 1em;
+        }
+    }
+}
+
+//Footer
+footer{
+    padding: 2em 7% 2em;
+    background: url("../images/bkg-form.gif") repeat #101622;
+    text-align: center;
+    .blanco();
+    margin-bottom: -20px;
+    h2{
+        .font-size(19);
+        @media @smallTablet{
+            .font-size(24);
+        }
+        @media @tablet{
+            .font-size(36);
+        }
+        @media @desktop{
+            .font-size(48);
+        }
+    }
+    button{
+        .boton();
+            display: inline-block;
+            @media @laptop{
+            .font-size(24);
+        }
+        @media @bigScreen{
+             .font-size(31);
+        }
+    }
+    .fa-lg{
+        .font-size(32);
+        .transition();
+        .fa-stack-2x {
+            .blanco();
+        }
+        .fa-inverse {
+            color:@azulMarino;
+        }
+	    &:active{.font-size(28);}
+	    &:hover {.font-size(36);}
+    }
+}
