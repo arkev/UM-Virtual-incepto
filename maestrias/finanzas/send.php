@@ -1,9 +1,10 @@
 <?php
 //Datos
-$nombre=$_POST['nombre'];
-$email=$_POST['email'];
-$to = "allenzapien@um.edu.mx";
-$subject = "$nombre está solicitando una beca en la Maestría en Finansas";
+$nombre=$_POST["nombre"];
+$email=$_POST["email"];
+$to = "umvirtual@um.edu.mx";
+$from = "Allen Zapien <allenzapien@um.edu.mx>";
+$subject = "$nombre está solicitando una beca en la Maestría en Finanzas";
 
 //Mensaje
 $message = "
@@ -14,12 +15,12 @@ $message = "
 <body>
 <table>
 <tr>
-<th>Nombre:/th>
 <th>E-mail:</th>
+<th>Nombre:</th>
 </tr>
 <tr>
-<td>$nombre</td>
 <td>$email</td>
+<td>$nombre</td>
 </tr>
 </table>
 </body>
@@ -27,12 +28,15 @@ $message = "
 ";
 
 //Headers
-$headers = "MIME-Version: 1.0" . "\r\n";
-$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-$headers .= 'From: $email' . "\r\n";
+$headers   = array();
+$headers[] = "MIME-Version: 1.0";
+$headers[] = "Content-type:text/html;charset=UTF-8";
+$headers[] = "From: $from";
+$headers[] = "Bcc: $from";
+$headers[] = "Reply-To: $nombre <$email>";
+
 
 //Funciones
-mail($to,$subject,$message,$headers);
-header('Location: gracias.html');
-exit;
+mail($to,$subject,$message,implode("\r\n", $headers));
+echo"<script>window.location='gracias.html'</script>;"
 ?>

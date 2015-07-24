@@ -1,10 +1,10 @@
 <?php
 //Datos
-$nombre=$_POST['nombre'];
-$email=$_POST['email'];
-$to = "allenzapien@um.edu.mx";
+$nombre=$_POST["nombre"];
+$email=$_POST["email"];
+$to = "umvirtual@um.edu.mx";
 $from = "Allen Zapien <allenzapien@um.edu.mx>";
-$subject = "$nombre está solicitando una beca en la Maestría en educación";
+$subject = "$nombre está solicitando una beca en la Maestría en Educación";
 
 //Mensaje
 $message = "
@@ -15,12 +15,12 @@ $message = "
 <body>
 <table>
 <tr>
-<th>Nombre:</th>
 <th>E-mail:</th>
+<th>Nombre:</th>
 </tr>
 <tr>
-<td>$nombre</td>
 <td>$email</td>
+<td>$nombre</td>
 </tr>
 </table>
 </body>
