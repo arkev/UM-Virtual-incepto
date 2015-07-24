@@ -38,6 +38,7 @@ body{
 	.fontWeight(@normal);
     .font-size(16);
 	background: url(../images/bkg.gif) scroll center top repeat white;
+    margin: 0;
 }
 .container{
 	max-width: @max-width;
@@ -187,7 +188,6 @@ header{
         padding: 3.3em 7% 2em;
         background: url("../images/bkg-form.gif") repeat #101622;
         position: relative;
-        display: none;
         button{
             .absoluta (9px, initial, 9px);
             .blanco();
@@ -212,6 +212,10 @@ header{
         }
          input[type="submit"] {
             .boton();
+        }
+        #res_contacto{
+            .blanco();
+            .font-size(19);
         }
     }
 }

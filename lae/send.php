@@ -1,7 +1,7 @@
 <?php
 //Datos
-$nombre=$_POST['nombre'];
-$email=$_POST['email'];
+$nombre=$_POST["nombre"];
+$email=$_POST["email"];
 $to = "allenzapien@um.edu.mx";
 $from = "Allen Zapien <allenzapien@um.edu.mx>";
 $subject = "$nombre está solicitando una beca en la Licenciatura en Administración 
