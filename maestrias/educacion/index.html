@@ -31,7 +31,7 @@
                     </div>
                     <div class="6u$ 12u$(xsmall)">
                         <input type="email" name="email" id="email" title="Email" tabindex="2" required>
-                        
+
                     </div>
                     <div id="res_contacto"></div>
                     <div class="12u$">
@@ -73,13 +73,13 @@
     <script src="http://html5form.googlecode.com/svn/trunk/jquery.html5form-1.5-min.js"></script>
     <script>
         $('#form_contacto').html5form({
-            allBrowsers : true,
+            allBrowsers: true,
             method: 'POST',
             messages: 'es',
             responseDiv: '#res_contacto',
         });
-        document.getElementsByName('nombre')[0].placeholder='Nombre';
-        document.getElementsByName('email')[0].placeholder='Email';
+        document.getElementsByName('nombre')[0].placeholder = 'Nombre';
+        document.getElementsByName('email')[0].placeholder = 'Email';
     </script>
     <!-- Facebook Conversion Code for maestrias -->
     <script>
@@ -101,6 +101,24 @@
         }]);
     </script>
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6031869251045&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1" />
+    </noscript>
+    <script>
+        (function () {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+            _fbq.push(['addPixelId', '954439487953611']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=954439487953611&amp;ev=PixelInitialized" />
     </noscript>
 </body>
 
