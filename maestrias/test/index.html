@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<!--
+	Eventually by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="es">
+
+<head>
+    <title>Test de elección de maestría</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header id="header">
+        <h1>Test de elección de maestría</h1>
+        <p>Dejanos tu correo eletrónico al cual te haremos llegar el test que te ayudara a tomar la decisión de que maestría estudiar</p>
+    </header>
+
+    <!-- Signup Form -->
+    <form id="signup-form" method="post" action="send.php" accept-charset="UTF-8">
+        <input type="email" name="email" id="email" placeholder="Email" title="Email" tabindex="1" required>
+        <input type="submit" value="enviar">
+        <div id="res_contacto"></div>
+    </form>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <ul class="icons">
+            <li><a href="https://twitter.com/UMVirtual" class="icon fa-twitter"><span class="label">Twitter</span></a>
+            </li>
+            <li><a href="https://www.facebook.com/umvirtual" class="icon fa-facebook"><span class="label">Facebook</span></a>
+            </li>
+            <li><a href="mailto:umvirtual@um.edu.mx" class="icon fa-envelope-o"><span class="label">Email</span></a>
+            </li>
+        </ul>
+        <ul class="copyright">
+            <li>2015 © UM Virtual. Todos los derechos reservados</li>
+        </ul>
+    </footer>
+
+    <!-- Scripts -->
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
+    <!-- Plugin html5form -->
+    <script src="http://html5form.googlecode.com/svn/trunk/jquery.html5form-1.5-min.js"></script>
+    <script>
+        $('#signup-form').html5form({
+            allBrowsers : true,
+            method: 'POST',
+            messages: 'es',
+            responseDiv: '#res_contacto',
+        });
+    </script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-49916110-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</body>
+
+</html>
