@@ -92,12 +92,11 @@
 /* Column Layout
 -------------------------------- */
 #EnlighterSettings .postbox h3{
-	background-color: #333333 !important;
+	background-color: #23282d !important;
 	color: #ffffff !important;
 	cursor: default;
 	font-style: italic;
 }
-
 
 /* Footer
 -------------------------------- */
@@ -114,4 +113,8 @@
 }
 #EnlighterTabNav a{
 	cursor: pointer;
+}
+/* Fix the Contextual Help Link */
+#screen-meta-links, #contextual-help-link-wrap, #contextual-help-link{
+    z-index: 100 !important;
 }

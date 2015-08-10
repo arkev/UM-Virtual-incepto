@@ -2,7 +2,7 @@
 
 /**
 	Enlighter Class
-	Version: 2.5
+	Version: 2.8
 	Author: Andi Dittrich
 	Author URI: http://andidittrich.de
 	Plugin URI: http://andidittrich.de/go/enlighterjs
@@ -82,7 +82,12 @@ class Enlighter{
 		'windowButton' => true,
 		'infoButton' => true,
 		'rawcodeDoubleclick' => false,
-		'enableInlineHighlighting' => true
+		'enableInlineHighlighting' => true,
+
+        'cryptexEnabled' => false,
+        'cryptexFallbackEmail' => 'mail@example.tld',
+
+		'webfontsSourceCodePro' => false
 	);
 	
 	// list of micro shortcodes (supported languages)
@@ -100,20 +105,29 @@ class Enlighter{
 		'XML' => 'xml',
 		'C' => 'c',
 		'C++' => 'cpp',
-		'C#' => 'csharp',	
+		'C#' => 'csharp',
+		'RUST' => 'rust',
+		'Matlab' => 'matlab',
 		'NSIS' => 'nsis',
-		'Diff' => 'diff',	
+		'Diff' => 'diff',
+		'VHDL' => 'vhdl',
 		'RAW' => 'raw',
+		'Avr Assembler' => 'avrasm',
+		'Ini/Conf Syntax' => 'ini',
 		'No Highlighting' => 'no-highlight',
 		'Generic Highlighting' => 'generic'	
 	);
 	
 	// list of supported themes
+	// Enlighter Godzilla Beyond Classic MooTwo Eclipse Droide Git Mocha MooTools Panic Tutti Twilight
 	private $_supportedThemes = array(
 		'Enlighter' => true,
+		'Godzilla' => true,
 		'Beyond' => true,
 		'Classic' => true,
+		'MooTwo' => true,
 		'Eclipse' => true,
+		'Droide' => true,
 		'Git' => true,
 		'Mocha' => true,
 		'MooTools' => true,
@@ -206,6 +220,9 @@ class Enlighter{
 		if (is_admin()){
 			// add admin menu handler
 			add_action('admin_menu', array($this, 'setupBackend'));
+
+            // add plugin upgrade notification
+            add_action('in_plugin_update_message-enlighter/Enlighter.php', array($this, 'showUpgradeNotification'), 10, 2);
 			
 			// load backend css+js + tinymce
 			$this->_resourceLoader->backend();		
@@ -256,6 +273,9 @@ class Enlighter{
 			// add options page
 			$optionsPage = add_options_page(__('Enlighter - Customizable Syntax Highlighter', 'enlighter'), 'Enlighter', 'administrator', __FILE__, array($this, 'settingsPage'));
 			
+			// add links
+			add_filter('plugin_row_meta', array($this, 'addPluginPageLinks'), 10, 2);
+
 			// load jquery stuff
 			add_action('admin_print_scripts-'.$optionsPage, array($this->_resourceLoader, 'appendAdminJS'));
 			add_action('admin_print_styles-'.$optionsPage, array($this->_resourceLoader, 'appendAdminCSS'));
@@ -267,6 +287,17 @@ class Enlighter{
 			$ch = new Enlighter\ContextualHelp($this->_settingsUtility);
 			add_filter('load-'.$optionsPage, array($ch, 'contextualHelp'));
 		}
+	}
+	
+	// links on the plugin page
+	public function addPluginPageLinks($links, $file){
+		// current plugin ?
+		if ($file == 'enlighter/Enlighter.php'){
+			$links[] = '<a href="'.admin_url('options-general.php?page='.plugin_basename(__FILE__)).'">'.__('Settings', 'enlighter').'</a>';
+			$links[] = '<a href="https://twitter.com/andidittrich">'.__('News & Updates', 'enlighter').'</a>';
+		}
+		
+		return $links;
 	}
 	
 	// options page
@@ -296,5 +327,27 @@ class Enlighter{
 		// include admin page
 		include(ENLIGHTER_PLUGIN_PATH.'/views/admin/SettingsPage.phtml');
 	}
-	
+
+    // gets the current EnlighterJS version from js file
+    public static function getEnlighterJSVersion(){
+        $content = file_get_contents(ENLIGHTER_PLUGIN_PATH.'/resources/EnlighterJS.min.js');
+
+        // extract version
+        $r = preg_match('#^[\S\s]+ (\d.\d.\d)#U', $content, $matches);
+
+        // valid result ?
+        if ($r!==1){
+            return 'NaN';
+        }else{
+            return $matches[1];
+        }
+    }
+
+    public function showUpgradeNotification($currentPluginMetadata, $newPluginMetadata){
+        // check "upgrade_notice"
+        if (isset($newPluginMetadata->upgrade_notice) && strlen(trim($newPluginMetadata->upgrade_notice)) > 0){
+            echo '<p style="background-color: #d54e21; padding: 10px; color: #f9f9f9; margin-top: 10px"><strong>Important Upgrade Notice:</strong> ';
+            echo esc_html($newPluginMetadata->upgrade_notice), '</p>';
+       }
+    }
 }

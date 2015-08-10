@@ -7,7 +7,7 @@ Administration include
 */
 ?>
 <?php
-$version = '6.3.1';
+$version = '6.3.7';
 $updated = false;
 $evanto = (file_exists(dirname(__FILE__) . "/includes/class-cw-envato-api.php"));
 if (is_user_logged_in() && is_admin()) {
@@ -245,7 +245,11 @@ _e('Please open the section where you want to change a default setting. Please s
 
 <div style="clear:both;"></div>
 
+<?php if ($devOptions['accordeon_menu'] == 'false') { ?>
+<div id="acc">
+<?php } else { ?>
 <div id="accordion">
+<?php } ?>
 
 <?php
 if ($devOptions['donation_bottom'] === 'false') {
