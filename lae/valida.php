@@ -1,5 +1,6 @@
 <?php
-//
+
+//variables
 $nombre=$_POST["nombre"];
 $email=$_POST["email"];
 
@@ -14,7 +15,7 @@ elseif ($nombre!="" && $email=="") {
     echo "El campo email es obligatorio";
 }
 else {
-    echo "Tu nombre es $nombre y tu correo es $email";
+    include("send.php");
 }
 
 ?>

@@ -20431,6 +20431,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/lae\/comenzar.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/lae\/comenzar.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/lae\/css\/style.css": {
 		"fileType": 16,
 		"ignore": 1,
