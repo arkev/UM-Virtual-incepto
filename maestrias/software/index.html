@@ -4,7 +4,7 @@
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
+<html lang="es">
 
 <head>
     <title>Solicitud de beca promocional | Software</title>
@@ -27,10 +27,10 @@
             <form method="post" action="send.php" accept-charset="UTF-8" id="form_contacto">
                 <div class="row uniform">
                     <div class="6u 12u$(xsmall)">
-                        <input type="text" name="nombre" id="nombre" title="Nombre" tabindex="1" required placeholder="Nombre">
+                        <input type="text" name="nombre" id="nombre" title="Nombre" tabindex="1" required>
                     </div>
                     <div class="6u$ 12u$(xsmall)">
-                        <input type="email" name="email" id="email" placeholder="Email" title="Email" tabindex="2" required>
+                        <input type="email" name="email" id="email" title="Email" tabindex="2" required>
                     </div>
                     <div id="res_contacto"></div>
                     <div class="12u$">
@@ -76,7 +76,61 @@
             responseDiv: '#res_contacto',
             allBrowsers: true,
         });
+        document.getElementsByName("nombre")[0].placeholder = "Nombre";
+        document.getElementsByName("email")[0].placeholder = "Email";
     </script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-49916110-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- Facebook Conversion Code for maestrias -->
+    <script>
+        (function () {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', '6031869251045', {
+            'value': '0.01',
+            'currency': 'USD'
+        }]);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6031869251045&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1" />
+    </noscript>
+    <script>
+        (function () {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+            _fbq.push(['addPixelId', '954439487953611']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=954439487953611&amp;ev=PixelInitialized" />
+    </noscript>
 </body>
 
 </html>

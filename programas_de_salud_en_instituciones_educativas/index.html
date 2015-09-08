@@ -22,16 +22,16 @@
             <form method="post" action="send.php" accept-charset="UTF-8" id="form_contacto">
                 <div class="row uniform">
                     <div class="6u 12u$(xsmall)">
-                        <input type="text" name="nombre" id="nombre" title="Nombre" tabindex="1" required placeholder="Nombre">
+                        <input type="text" name="nombre" id="nombre" title="Nombre" tabindex="1" required>
                     </div>
                     <div class="6u$ 12u$(xsmall)">
-                        <input type="email" name="email" id="email" placeholder="Correo electrónico" title="Email" tabindex="2" required>
+                        <input type="email" name="email" id="email" title="Email" tabindex="2" required>
                     </div>
                     <div class="6u 12u$(xsmall)">
-                        <input type="text" name="escuela" id="escuela" title="escuela" tabindex="3" placeholder="Institución en la que trabaja">
+                        <input type="text" name="escuela" id="escuela" title="escuela" tabindex="3">
                     </div>
                     <div class="6u 12u$(xsmall)">
-                        <input type="tel" name="tel" id="tel" title="tel" tabindex="4" required placeholder="Teléfono para contacto">
+                        <input type="tel" name="tel" id="tel" title="tel" tabindex="4" required>
                     </div>
                     <div id="res_contacto"></div>
                     <div class="12u$">
@@ -78,7 +78,42 @@
             responseDiv: '#res_contacto',
             allBrowsers: true,
         });
+        document.getElementsByName('nombre')[0].placeholder = 'Nombre';
+        document.getElementsByName('email')[0].placeholder = 'Correo electrónico';
+        document.getElementsByName('escuela')[0].placeholder = 'Institución en la que trabaja';
+        document.getElementsByName('tel')[0].placeholder = 'Teléfono de contacto';
     </script>
+    
+        <!-- Google Code para analitycs -->
+    <script>
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-49916110-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- Google Code para etiquetas de remarketing -->
+    <script>
+        /* <![CDATA[ */
+        var google_conversion_id = 957296960;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="Doble click" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/957296960/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+    
 </body>
 
 </html>
