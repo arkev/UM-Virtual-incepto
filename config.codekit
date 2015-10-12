@@ -43686,6 +43686,68 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/stats\/ctry_usage_201509.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2643,
+		"inputAbbreviatedPath": "\/stats\/ctry_usage_201509.png",
+		"outputAbbreviatedPath": "\/stats\/ctry_usage_201509.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stats\/daily_usage_201509.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4178,
+		"inputAbbreviatedPath": "\/stats\/daily_usage_201509.png",
+		"outputAbbreviatedPath": "\/stats\/daily_usage_201509.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stats\/hourly_usage_201509.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2488,
+		"inputAbbreviatedPath": "\/stats\/hourly_usage_201509.png",
+		"outputAbbreviatedPath": "\/stats\/hourly_usage_201509.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stats\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stats\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stats\/usage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2868,
+		"inputAbbreviatedPath": "\/stats\/usage.png",
+		"outputAbbreviatedPath": "\/stats\/usage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stats\/usage_201509.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stats\/usage_201509.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/wp-activate.php": {
 		"fileType": 8192,
 		"ignore": 0,
