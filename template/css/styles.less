@@ -1,0 +1,505 @@
+@charset "UTF-8";
+//importar
+@import "mixins";
+@import "variab";
+//Variables
+@colorBase1: #d65d38;
+@colorBase2: #169595;
+@colorBase3: #d8d816;
+@mobile: ~"only screen and (min-width:320px)";
+@smalltablet: ~"only screen and (min-width:480px)";
+@tablet: ~"only screen and (min-width:768px)";
+@laptop: ~"only screen and (min-width:1024px)";
+@desktop: ~"only screen and (min-width:1160px)";
+@maxWidth: 1230px;
+@normal: 400;
+@bold: 700;
+@Montserrat: ~"'Montserrat', sans-serif;";
+@Lato: ~"'Lato', sans-serif;";
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+//Mixins
+.font-size(@sizeValue) {
+    @remValue: (@sizeValue / 10);
+    @pxValue: @sizeValue;
+    font-size: ~"@{pxValue}px";
+    font-size: ~"@{remValue}rem";
+}
+
+.fontWeight(@normal) {
+    font-weight: @normal;
+}
+
+.fontFamily(@family) {
+    font-family: @family;
+}
+
+.ligth() {
+    font-weight: 300;
+}
+
+.normal() {
+    font-weight: 400;
+}
+
+.bold() {
+    font-weight: 700;
+}
+
+.maxWidth() {
+    max-width: @maxWidth;
+    margin: 0 auto;
+    width: 90%;
+}
+
+//Generales
+html {
+    font-size: 62.5%;
+    /* Sets up the Base 10 stuff */
+}
+
+body {
+    .fontFamily(@Lato);
+    .font-size(16);
+}
+
+.content {
+    .maxWidth();
+}
+
+//Header
+header {
+    #logos {
+        .maxWidth();
+        .box-row {
+            img {
+                @media @mobile {
+                    margin: 1em 0;
+                }
+                @media @tablet {
+                    margin: 2em 0;
+                }
+            }
+        }
+        .col-xs {
+            @media @mobile {
+                margin: 0 auto;
+                flex-grow: inherit;
+                flex-basis: inherit;
+                width: 45%;
+                &.espacio {
+                    width: 10%;
+                }
+            }
+            @media @smalltablet {
+                flex-grow: 1;
+                flex-basis: 0;
+            }
+        }
+    }
+    #campanha {
+        background: @colorBase1;
+        .start-xs {
+            .maxWidth();
+            img {
+                width: 100%;
+                margin: 1em 0;
+            }
+        }
+        .col-xs-8 {
+            @media @mobile {
+                flex-basis: 100%;
+                max-width: 100%;
+            }
+            @media @smalltablet {
+                flex-basis: 66.667%;
+                max-width: 66.667%;
+            }
+        }
+    }
+}
+
+//imgven
+#imgven {
+    background: url(../images/bkg-ebook.jpg) no-repeat center top;
+    background-size: cover;
+    display: flex;
+    .middle-xs {
+        @media @mobile {
+            padding-top: 3em;
+        }
+        @media @tablet {
+            padding-top: 12em;
+        }
+    }
+    .col-xs-3 {
+        img {
+            width: 100%;
+        }
+    }
+    .col-xs-9 {
+        h2,
+        h3 {
+            text-align: center;
+            color: white;
+            .fontFamily(@Montserrat);
+            .normal();
+            display: block;
+        }
+        h2 {
+            .font-size(56);
+            margin: 0;
+            strong {
+                .bold();
+            }
+            @media @mobile {
+                .font-size(24);
+            }
+            @media @tablet {
+                .font-size(36);
+            }
+            @media @laptop {
+                .font-size(46);
+            }
+            @media @desktop {
+                .font-size(56);
+            }
+        }
+        h3 {
+            span {color: @colorBase3;}
+            margin-top: .3em;
+            @media @mobile {
+                .font-size(21);
+            }
+            @media @tablet {
+                .font-size(26);
+            }
+            @media @laptop {
+                .font-size(36);
+            }
+            @media @desktop {
+                .font-size(46);
+            }
+        }
+        #cta {
+            .boton(white, 8px, @colorBase1, 16);
+            margin: 0 auto 20px;
+            display: block;
+            box-shadow: 4px 4px 0 darken(@colorBase1, 20%);
+            @media @smalltablet {
+                .font-size(18);
+            }
+            @media @tablet {
+                .font-size(21);
+            }
+            @media @laptop {
+                .font-size(24);
+            }
+            @media @desktop {
+                .font-size(28);
+            }
+            &:hover {
+                display: block;
+                background: @colorBase1;
+                color: white;
+                box-shadow: 4px 4px 0 darken(@colorBase1, 20%);
+            }
+            &:active {
+                display: block;
+                background: @colorBase1;
+                color: white;
+                box-shadow: 0 0 0 darken(@colorBase1, 20%);
+                margin: 24px auto 16px;
+            }
+        }
+    }
+    p {
+        text-align: center;
+        color: white;
+        @media @mobile {
+            .font-size(20);
+        }
+        @media @tablet {
+            .font-size(24);
+        }
+        @media @laptop {
+            .font-size(28);
+        }
+        @media @desktop {
+            .font-size(31);
+        }
+    }
+}
+
+//formulario
+#formulario {
+    background-color: @colorBase2;
+    background-attachment: fixed;
+    background-image: url("../images/bkg-textura.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3em 0 2em;
+    display: none;
+    .content {
+        position: relative;
+    }
+    input {
+        border-radius: 8px;
+        padding: .5em 1em;
+        border: 2px solid #333;
+        margin-bottom: .5em;
+        @media @mobile {
+            width: 90%;
+        }
+        &.boton {
+            .boton(white,
+            8px,
+            #4d4d4d,
+            16);
+            box-shadow: 4px 4px 0 darken(@colorBase1, 20%);
+            &:hover {
+                background: @colorBase1;
+                color: white;
+                box-shadow: 4px 4px 0 darken(@colorBase1, 20%);
+            }
+            &:active {
+                background: @colorBase1;
+                color: white;
+                box-shadow: 0 0 0 darken(@colorBase1, 20%);
+            }
+            @media @mobile {
+                width: 98%;
+            }
+            @media @smalltablet {
+                width: 95%;
+            }
+            @media @tablet {
+                .font-size(14);
+                padding: 0.7em 1em;
+            }
+            @media @laptop {
+                .font-size(16);
+            }
+            @media @desktop {}
+        }
+    }
+    button {
+        .absoluta (-1.2em,
+        inherit,
+        0);
+        background-color: transparent;
+        border: 0;
+        color: white;
+        .font-size(32);
+    }
+}
+
+#pregalo {
+    padding: 3em 0;
+    p {
+        .maxWidth();
+        .ligth();
+        text-align: center;
+        color: #4d4d4d;
+        line-height: 1.5em;
+        strong {
+            .normal();
+        }
+        @media @mobile {
+            .font-size(21);
+        }
+        @media @smalltablet {
+            .font-size(24);
+        }
+        @media @tablet {
+            .font-size(28);
+        }
+        @media @laptop {
+            .font-size(32);
+        }
+    }
+}
+
+#choro {
+    background-color: @colorBase1;
+    background-attachment: fixed;
+    background-image: url("../images/bkg-textura.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3em 0;
+    .container{
+        .maxWidth();
+    }
+    h2{
+        .fontFamily(@Montserrat);
+        text-align: center;
+        color: white;
+        @media @mobile {
+            .font-size(24);
+        }
+        @media @smalltablet {
+            .font-size(28);
+        }
+        @media @tablet {
+            .font-size(36);
+        }
+        @media @laptop {
+            .font-size(48);
+        }
+    }
+    p {
+        .maxWidth();
+        color:white;
+        line-height: 1.4em;
+        @media @mobile {
+            .font-size(21);
+        }
+        @media @smalltablet {
+            .font-size(24);
+        }
+        @media @tablet {
+            .font-size(28);
+        }
+        @media @laptop {
+            .font-size(32);
+        }
+    }
+}
+
+//Beneficios
+#beneficios {
+    padding: 3em 0;
+    .container {
+        .maxWidth();
+    }
+    h2 {
+        color: @colorBase2;
+        line-height: 1.2em;
+        text-align: center;
+        .fontFamily(@Montserrat);
+        .normal();
+        @media @mobile {
+            .font-size(21);
+        }
+        @media @smalltablet {
+            .font-size(24);
+        }
+        @media @tablet {
+            .font-size(28);
+        }
+        @media @laptop {
+            .font-size(32);
+        }
+    }
+    .col-xs-2,
+    .col-xs-10 {
+        margin-bottom: 2em;
+    }
+    .col-xs-10 {
+        color: #4d4d4d;
+        text-align: left;
+        @media @mobile {
+            .font-size(21);
+        }
+        @media @smalltablet {
+            .font-size(24);
+        }
+        @media @tablet {
+            .font-size(28);
+        }
+        @media @laptop {
+            .font-size(32);
+        }
+    }
+    img {
+        @media @mobile {
+            width: 125%;
+        }
+        @media @smalltablet {
+            width: 120%;
+        }
+        @media @tablet {
+            width: 100%;
+        }
+        @media @laptop {
+            width: 80%;
+        }
+    }
+}
+
+#last_cta {
+    margin-bottom: 3em;
+    .row {
+        .maxWidth();
+        img {
+            width: 100%;
+        }
+        .col-xs-8 {
+            @media @mobile {
+                flex-basis: 100%;
+                max-width: 100%;
+            }
+            @media @tablet {
+                flex-basis: 66.667%;
+                max-width: 66.667%;
+            }
+        }
+    }
+}
+
+footer {
+    background-color: @colorBase1;
+    background-attachment: fixed;
+    background-image: url("../images/bkg-textura.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3em 0;
+    margin-bottom: -20px;
+    .row {
+        .maxWidth();
+        color: white;
+        line-height: 1.4em;
+        @media @smallTablet {
+            .font-size(21);
+        }
+        .fa-lg {
+            @media @mobile {
+                .font-size(26);
+            }
+            @media @smallTablet {
+                .font-size(38);
+            }
+        }
+        .fa-stack-2x {
+            color: white;
+        }
+        .fa-inverse {
+            color: @colorBase1;
+        }
+        .col-xs-offset-2 {
+            @media @mobile {
+                margin-left: 0;
+                flex-basis: 60%;
+                max-width: 60%;
+            }
+            @media @smallTablet {
+                margin-left: 16.667%;
+                flex-basis: 60%;
+                max-width: 60%;
+            }
+        }
+        .col-xs-1{
+            @media @mobile {
+                flex-basis:20%;
+                max-width:20%;
+            }
+            @media @smallTablet {
+                flex-basis: 8.333%;
+                max-width: 8.333%;
+            }
+        }
+    }
+}

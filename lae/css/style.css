@@ -1,1 +1,479 @@
-@charset "UTF-8";@import url(http://fonts.googleapis.com/css?family=Roboto:500,900,400italic,300,700,400);@import url(http://fonts.googleapis.com/css?family=Sansita+One);a:-webkit-any-link,a:-webkit-any-link:active,a:active,a:hover{color:red}a:hover{text-decoration:none}a img{border:0 none}img{max-width:100%}img.centered{display:block;margin:0 auto}img.alignleft{float:left;margin:1em}img.alignright{float:right;margin:1em}html{font-size:62.5%;height:100%}body{font-family:Roboto,sans-serif;font-weight:400;font-size:16px;font-size:1.6rem;background:url(../images/bkg.gif)scroll center top repeat #fff;margin:0}.container{max-width:1440px;background:#fff;box-shadow:0 0 30px #000;margin:0 auto;width:90%}.clearfix:after{content:" ";visibility:hidden;display:block;height:0;clear:both}header{position:relative}header:after{width:100%;height:30px;content:" ";position:absolute;background:url(http://umvirtual.org/wp-content/plugins/revslider/rs-plugin/assets/shadow1.png)no-repeat center center;bottom:-30px;left:0;opacity:.6;-ms-filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);filter:alpha(opacity=60)}header #head{padding:0 7%}header #head #um{display:inline-block;width:100%}@media only screen and (min-width:569px){header #head #um{width:56%}}header #head #um img{max-width:600px;width:100%;margin:1em auto}header #head #umvirtual{display:inline-block;width:100%}@media only screen and (min-width:569px){header #head #umvirtual{width:43%}}header #head #umvirtual img{max-width:300px;float:right;width:100%;margin-bottom:1em}@media only screen and (min-width:569px){header #head #umvirtual img{width:70%}}header #ad{text-align:center;background-color:#3e1d25;background-attachment:fixed;background-image:url(../images/LAE-UMVirtual.jpg);background-position:center center;background-repeat:none;background-size:cover;color:#fff}header #ad h1{font-family:'Sansita One',cursive;font-size:28px;font-size:2.8rem;display:inline-block;margin:4em auto 1em;width:100%}@media only screen and (min-width:569px){header #ad h1{font-size:34px;font-size:3.4rem}}@media only screen and (min-width:768px){header #ad h1{margin-top:5em}}@media only screen and (min-width:1024px){header #ad h1{font-size:44px;font-size:4.4rem}}@media only screen and (min-width:1140px){header #ad h1{font-size:48px;font-size:4.8rem}}@media only screen and (min-width:1400px){header #ad h1{font-size:54px;font-size:5.4rem}}header #ad h1 br{display:none}@media only screen and (min-width:569px){header #ad h1 br{display:block}}header #ad button{background:#d9e021;border-radius:8px;color:#1d253b;box-shadow:4px 4px 0 #afb519;font-weight:700;font-size:19px;font-size:1.9rem;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;padding:.5em 1em;border:0;cursor:pointer;margin-bottom:16px;display:inline-block}header #ad button:hover{background:#e5ed14;box-shadow:4px 4px 0 #c5cb1c}header #ad button:active{background:#cdd32e;box-shadow:0 0 0 #999e16;margin:4px 0 12px 4px}header #ad button:focus{outline:0}@media only screen and (min-width:1024px){header #ad button{font-size:24px;font-size:2.4rem}}@media only screen and (min-width:1400px){header #ad button{font-size:31px;font-size:3.1rem}}header #ad p{margin-bottom:2em;display:inline-block;width:100%;font-size:19px;font-size:1.9rem}@media only screen and (min-width:1024px){header #ad p{font-size:24px;font-size:2.4rem}}@media only screen and (min-width:1400px){header #ad p{font-size:31px;font-size:3.1rem}}header #ad p br{display:none}@media only screen and (min-width:569px){header #ad p br{display:block}}header #form{padding:3.3em 7% 2em;background:url(../images/bkg-form.gif)repeat #101622;position:relative}header #form button{position:absolute;top:9px;left:initial;right:9px;color:#fff;font-size:36px;font-size:3.6rem;background:0 0;border:0;outline:0}header #form input[type=text],header #form input[type=email]{font-size:21px;font-size:2.1rem;border-radius:8px;border:2px solid #333;padding:.3em .8em;margin:0 1em 10px 0;outline:0}@media only screen and (min-width:1024px){header #form input[type=text],header #form input[type=email]{width:32%}}@media only screen and (min-width:1140px){header #form input[type=text],header #form input[type=email]{width:33%}}header #form input[type=submit]{background:#d9e021;border-radius:8px;color:#1d253b;box-shadow:4px 4px 0 #afb519;font-weight:700;font-size:19px;font-size:1.9rem;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;padding:.5em 1em;border:0;cursor:pointer;margin-bottom:16px}header #form input[type=submit]:hover{background:#e5ed14;box-shadow:4px 4px 0 #c5cb1c}header #form input[type=submit]:active{background:#cdd32e;box-shadow:0 0 0 #999e16;margin:4px 0 12px 4px}header #form input[type=submit]:focus{outline:0}header #form #res_contacto{color:#fff;font-size:19px;font-size:1.9rem}#beneficios,#beneficios_principales{color:#1d253b;text-align:center;padding-bottom:1em;background-image:url(../images/bkg2.gif);background-color:#c7c4bb;background-attachment:fixed;background-position:center center}#beneficios h2,#beneficios_principales h2{font-family:'Sansita One',cursive;font-size:50px;font-size:5rem;display:inline-block;margin:1.5em auto 1em;width:100%}#beneficios #iconos,#beneficios_principales #iconos{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-moz-box-orient:horizontal;-moz-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;-webkit-align-content:flex-end;-ms-flex-line-pack:end;align-content:flex-end}#beneficios #iconos div,#beneficios_principales #iconos div{width:225px;height:285px}#beneficios #iconos div span,#beneficios_principales #iconos div span{font-size:28px;font-size:2.8rem}#beneficios_principales #iconos div{height:210px}#mas_beneficio{color:#1d253b;font-weight:300;padding:7%;font-size:19px;font-size:1.9rem;position:relative}#mas_beneficio:after{width:100%;height:30px;content:" ";position:absolute;background:url(http://umvirtual.org/wp-content/plugins/revslider/rs-plugin/assets/shadow1.png)no-repeat center center;bottom:-30px;left:0;opacity:.6;-ms-filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);filter:alpha(opacity=60)}@media only screen and (min-width:569px){#mas_beneficio{font-size:24px;font-size:2.4rem}}@media only screen and (min-width:768px){#mas_beneficio{font-size:36px;font-size:3.6rem}}@media only screen and (min-width:1140px){#mas_beneficio{font-size:48px;font-size:4.8rem}}#mas_beneficio ul{padding-left:1em}#mas_beneficio ul li{margin-bottom:1em}footer{padding:2em 7% 2em;background:url(../images/bkg-form.gif)repeat #101622;text-align:center;color:#fff;margin-bottom:-20px}footer h2{font-size:19px;font-size:1.9rem}@media only screen and (min-width:569px){footer h2{font-size:24px;font-size:2.4rem}}@media only screen and (min-width:768px){footer h2{font-size:36px;font-size:3.6rem}}@media only screen and (min-width:1140px){footer h2{font-size:48px;font-size:4.8rem}}footer button{background:#d9e021;border-radius:8px;color:#1d253b;box-shadow:4px 4px 0 #afb519;font-weight:700;font-size:19px;font-size:1.9rem;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;padding:.5em 1em;border:0;cursor:pointer;margin-bottom:16px;display:inline-block}footer button:hover{background:#e5ed14;box-shadow:4px 4px 0 #c5cb1c}footer button:active{background:#cdd32e;box-shadow:0 0 0 #999e16;margin:4px 0 12px 4px}footer button:focus{outline:0}@media only screen and (min-width:1024px){footer button{font-size:24px;font-size:2.4rem}}@media only screen and (min-width:1400px){footer button{font-size:31px;font-size:3.1rem}}footer .fa-lg{font-size:32px;font-size:3.2rem;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out}footer .fa-lg .fa-stack-2x{color:#fff}footer .fa-lg .fa-inverse{color:#1d253b}footer .fa-lg:active{font-size:28px;font-size:2.8rem}footer .fa-lg:hover{font-size:36px;font-size:3.6rem}
+@charset "UTF-8";
+/* !Media Querys */
+@import url(http://fonts.googleapis.com/css?family=Roboto:500,900,400italic,300,700,400);
+@import url(http://fonts.googleapis.com/css?family=Sansita+One);
+a:active,
+a:hover,
+a:-webkit-any-link,
+a:-webkit-any-link:active {
+  color: red;
+}
+a:hover {
+  text-decoration: none;
+}
+a img {
+  border: 0 none;
+}
+/* imágenes */
+img {
+  max-width: 100%;
+}
+img.centered {
+  display: block;
+  margin: 0 auto;
+}
+img.alignleft {
+  float: left;
+  margin: 1em;
+}
+img.alignright {
+  float: right;
+  margin: 1em;
+}
+html {
+  font-size: 62.5%;
+  /* Establece el fon-size con Base 10 */
+  height: 100%;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  font-size: 1.6rem;
+  background: url(../images/bkg.gif) scroll center top repeat white;
+  margin: 0;
+}
+.container {
+  max-width: 1440px;
+  background: white;
+  box-shadow: 0 0 30px black;
+  margin: 0 auto;
+  width: 90%;
+}
+.clearfix:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+header {
+  position: relative;
+}
+header:after {
+  width: 100%;
+  height: 30px;
+  content: " ";
+  position: absolute;
+  background: url("http://umvirtual.org/wp-content/plugins/revslider/rs-plugin/assets/shadow1.png") no-repeat center center;
+  bottom: -30px;
+  left: 0;
+  opacity: 0.6;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=60);
+  filter: alpha(opacity=60);
+}
+header #head {
+  padding: 0 7%;
+}
+header #head #um {
+  display: inline-block;
+  width: 100%;
+}
+@media only screen and (min-width: 569px) {
+  header #head #um {
+    width: 56%;
+  }
+}
+header #head #um img {
+  max-width: 600px;
+  width: 100%;
+  margin: 1em auto;
+}
+header #head #umvirtual {
+  display: inline-block;
+  width: 100%;
+}
+@media only screen and (min-width: 569px) {
+  header #head #umvirtual {
+    width: 43%;
+  }
+}
+header #head #umvirtual img {
+  max-width: 300px;
+  float: right;
+  width: 100%;
+  margin-bottom: 1em;
+}
+@media only screen and (min-width: 569px) {
+  header #head #umvirtual img {
+    width: 70%;
+  }
+}
+header #ad {
+  text-align: center;
+  background-color: #3e1d25;
+  background-attachment: fixed;
+  background-image: url("../images/LAE-UMVirtual.jpg");
+  background-position: center center;
+  background-repeat: none;
+  background-size: cover;
+  color: white;
+}
+header #ad h1 {
+  font-family: 'Sansita One', cursive;;
+  font-size: 28px;
+  font-size: 2.8rem;
+  display: inline-block;
+  margin: 4em auto 1em;
+  width: 100%;
+}
+@media only screen and (min-width: 569px) {
+  header #ad h1 {
+    font-size: 34px;
+    font-size: 3.4rem;
+  }
+}
+@media only screen and (min-width: 768px) {
+  header #ad h1 {
+    margin-top: 5em;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  header #ad h1 {
+    font-size: 44px;
+    font-size: 4.4rem;
+  }
+}
+@media only screen and (min-width: 1140px) {
+  header #ad h1 {
+    font-size: 48px;
+    font-size: 4.8rem;
+  }
+}
+@media only screen and (min-width: 1400px) {
+  header #ad h1 {
+    font-size: 54px;
+    font-size: 5.4rem;
+  }
+}
+header #ad h1 br {
+  display: none;
+}
+@media only screen and (min-width: 569px) {
+  header #ad h1 br {
+    display: block;
+  }
+}
+header #ad button {
+  background: #d9e021;
+  border-radius: 8px;
+  color: #1d253b;
+  box-shadow: 4px 4px 0 #afb519;
+  font-weight: 700;
+  font-size: 19px;
+  font-size: 1.9rem;
+  transition: all 0.3s ease-in-out;
+  padding: .5em 1em;
+  border: 0;
+  cursor: pointer;
+  margin-bottom: 16px;
+  display: inline-block;
+}
+header #ad button:hover {
+  background: #e5ed14;
+  box-shadow: 4px 4px 0 #c5cb1c;
+}
+header #ad button:active {
+  background: #cdd32e;
+  box-shadow: 0 0 0 #999e16;
+  margin: 4px 0 12px 4px;
+}
+header #ad button:focus {
+  outline: none;
+}
+@media only screen and (min-width: 1024px) {
+  header #ad button {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+@media only screen and (min-width: 1400px) {
+  header #ad button {
+    font-size: 31px;
+    font-size: 3.1rem;
+  }
+}
+header #ad p {
+  margin-bottom: 2em;
+  display: inline-block;
+  width: 100%;
+  font-size: 19px;
+  font-size: 1.9rem;
+}
+@media only screen and (min-width: 1024px) {
+  header #ad p {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+@media only screen and (min-width: 1400px) {
+  header #ad p {
+    font-size: 31px;
+    font-size: 3.1rem;
+  }
+}
+header #ad p br {
+  display: none;
+}
+@media only screen and (min-width: 569px) {
+  header #ad p br {
+    display: block;
+  }
+}
+header #form {
+  padding: 3.3em 7% 2em;
+  background: url("../images/bkg-form.gif") repeat #101622;
+  position: relative;
+}
+header #form button {
+  position: absolute;
+  top: 9px;
+  left: initial;
+  right: 9px;
+  color: white;
+  font-size: 36px;
+  font-size: 3.6rem;
+  background: transparent;
+  border: 0;
+  outline: none;
+}
+header #form input[type="text"],
+header #form input[type="email"] {
+  font-size: 21px;
+  font-size: 2.1rem;
+  border-radius: 8px;
+  border: 2px solid #333333;
+  padding: .3em .8em;
+  margin: 0 1em 10px 0;
+  outline: none;
+}
+@media only screen and (min-width: 1024px) {
+  header #form input[type="text"],
+  header #form input[type="email"] {
+    width: 32%;
+  }
+}
+@media only screen and (min-width: 1140px) {
+  header #form input[type="text"],
+  header #form input[type="email"] {
+    width: 33%;
+  }
+}
+header #form input[type="submit"] {
+  background: #d9e021;
+  border-radius: 8px;
+  color: #1d253b;
+  box-shadow: 4px 4px 0 #afb519;
+  font-weight: 700;
+  font-size: 19px;
+  font-size: 1.9rem;
+  transition: all 0.3s ease-in-out;
+  padding: .5em 1em;
+  border: 0;
+  cursor: pointer;
+  margin-bottom: 16px;
+}
+header #form input[type="submit"]:hover {
+  background: #e5ed14;
+  box-shadow: 4px 4px 0 #c5cb1c;
+}
+header #form input[type="submit"]:active {
+  background: #cdd32e;
+  box-shadow: 0 0 0 #999e16;
+  margin: 4px 0 12px 4px;
+}
+header #form input[type="submit"]:focus {
+  outline: none;
+}
+header #form #res_contacto {
+  color: white;
+  font-size: 19px;
+  font-size: 1.9rem;
+}
+#beneficios,
+#beneficios_principales {
+  color: #1d253b;
+  text-align: center;
+  padding-bottom: 1em;
+  background-image: url(../images/bkg2.gif);
+  background-color: #c7c4bb;
+  background-attachment: fixed;
+  background-position: center center;
+}
+#beneficios h2,
+#beneficios_principales h2 {
+  font-family: 'Sansita One', cursive;;
+  font-size: 50px;
+  font-size: 5rem;
+  display: inline-block;
+  margin: 1.5em auto 1em;
+  width: 100%;
+}
+#beneficios #iconos,
+#beneficios_principales #iconos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* You can set flex-wrap and flex-direction individually */
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* Or do it all in one line with flex flow */
+  flex-flow: row wrap;
+  /* tweak the where items line up on the row */
+  /* valid values are: flex-start, flex-end, space-between, space-around, stretch */
+  align-content: flex-end;
+}
+#beneficios #iconos div,
+#beneficios_principales #iconos div {
+  width: 225px;
+  height: 285px;
+}
+#beneficios #iconos div span,
+#beneficios_principales #iconos div span {
+  font-size: 28px;
+  font-size: 2.8rem;
+}
+#beneficios_principales #iconos div {
+  height: 210px;
+}
+#mas_beneficio {
+  color: #1d253b;
+  font-weight: 300;
+  padding: 7%;
+  font-size: 19px;
+  font-size: 1.9rem;
+  position: relative;
+}
+#mas_beneficio:after {
+  width: 100%;
+  height: 30px;
+  content: " ";
+  position: absolute;
+  background: url("http://umvirtual.org/wp-content/plugins/revslider/rs-plugin/assets/shadow1.png") no-repeat center center;
+  bottom: -30px;
+  left: 0;
+  opacity: 0.6;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=60);
+  filter: alpha(opacity=60);
+}
+@media only screen and (min-width: 569px) {
+  #mas_beneficio {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+@media only screen and (min-width: 768px) {
+  #mas_beneficio {
+    font-size: 36px;
+    font-size: 3.6rem;
+  }
+}
+@media only screen and (min-width: 1140px) {
+  #mas_beneficio {
+    font-size: 48px;
+    font-size: 4.8rem;
+  }
+}
+#mas_beneficio ul {
+  padding-left: 1em;
+}
+#mas_beneficio ul li {
+  margin-bottom: 1em;
+}
+footer {
+  padding: 2em 7% 2em;
+  background: url("../images/bkg-form.gif") repeat #101622;
+  text-align: center;
+  color: white;
+  margin-bottom: -20px;
+}
+footer h2 {
+  font-size: 19px;
+  font-size: 1.9rem;
+}
+@media only screen and (min-width: 569px) {
+  footer h2 {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+@media only screen and (min-width: 768px) {
+  footer h2 {
+    font-size: 36px;
+    font-size: 3.6rem;
+  }
+}
+@media only screen and (min-width: 1140px) {
+  footer h2 {
+    font-size: 48px;
+    font-size: 4.8rem;
+  }
+}
+footer button {
+  background: #d9e021;
+  border-radius: 8px;
+  color: #1d253b;
+  box-shadow: 4px 4px 0 #afb519;
+  font-weight: 700;
+  font-size: 19px;
+  font-size: 1.9rem;
+  transition: all 0.3s ease-in-out;
+  padding: .5em 1em;
+  border: 0;
+  cursor: pointer;
+  margin-bottom: 16px;
+  display: inline-block;
+}
+footer button:hover {
+  background: #e5ed14;
+  box-shadow: 4px 4px 0 #c5cb1c;
+}
+footer button:active {
+  background: #cdd32e;
+  box-shadow: 0 0 0 #999e16;
+  margin: 4px 0 12px 4px;
+}
+footer button:focus {
+  outline: none;
+}
+@media only screen and (min-width: 1024px) {
+  footer button {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+@media only screen and (min-width: 1400px) {
+  footer button {
+    font-size: 31px;
+    font-size: 3.1rem;
+  }
+}
+footer .fa-lg {
+  font-size: 32px;
+  font-size: 3.2rem;
+  transition: all 0.3s ease-in-out;
+}
+footer .fa-lg .fa-stack-2x {
+  color: white;
+}
+footer .fa-lg .fa-inverse {
+  color: #1d253b;
+}
+footer .fa-lg:active {
+  font-size: 28px;
+  font-size: 2.8rem;
+}
+footer .fa-lg:hover {
+  font-size: 36px;
+  font-size: 3.6rem;
+}
