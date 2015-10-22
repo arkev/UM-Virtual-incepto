@@ -16,8 +16,11 @@
 @bold: 700;
 @Montserrat: ~"'Montserrat', sans-serif;";
 @Lato: ~"'Lato', sans-serif;";
+@gloria: ~"'Gloria Hallelujah', cursive;";
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah);
+
 //Mixins
 .font-size(@sizeValue) {
     @remValue: (@sizeValue / 10);
@@ -503,5 +506,195 @@ footer {
                 max-width: 8.333%;
             }
         }
+    }
+}
+
+#recetario{
+    background:url(../images/bkg.gif);
+    background-attachment: fixed;
+}
+
+#container{
+    background-color: #ed8d3c;
+    background-color: rgba(237,141,60, .9);
+    .maxWidth();
+    header{
+        h1{
+            .fontFamily(@gloria);
+            color: white;
+            text-align: center;
+            display:inline-block;
+            width: 100%;
+            line-height: 1.2em;
+            span{color: #f8f186;}
+            @media @mobile {
+                .font-size(45);
+            }
+            @media @smallTablet {
+                .font-size(90);
+            }
+            @media @laptop {
+                .font-size(120);
+            }
+        }
+    }
+}
+
+#pozole, #garbanzo, #verde{
+    h2{
+        .fontFamily(@Montserrat);
+        color: white;
+        text-align: center;
+        display:inline-block;
+        width: 100%;
+        span{color: #f8f186;}
+        @media @mobile {
+            .font-size(24);
+            line-height: 1.5em;
+            background: url(../images/raya.png) no-repeat center 50px;
+        }
+        @media @smallTablet {
+            .font-size(36);
+        }
+        @media @tablet {
+            .font-size(48);
+        }
+        @media @laptop {
+            .font-size(60);
+            line-height: 2em;
+            background: url(../images/raya.png) no-repeat center 90px;
+        }
+    }
+}
+
+
+
+#pozole{
+    img, #video{
+        width: 80%;
+        display: block;
+        margin: 0 auto 2em;
+    }
+}
+
+ #video{
+    @media @mobile {
+        height:29vh;
+    }
+    @media @smallTablet {
+        height: 31vh;
+    }
+    @media @laptop {
+        height: 54vh;
+    }
+}
+
+#garbanzo, #verde{
+    .receta{
+        width: 50%;
+        margin: 0 auto;
+        display: block;
+    }
+    img{
+        width: 80%;
+        display: block;
+        margin: 3em auto;
+    }
+}
+
+#receta1, #receta2{
+    .boton(#2ab97e, 8px, white, 16);
+    text-decoration: none;
+    margin: 2em auto 0;
+            @media @mobile {
+                .font-size(18);
+                display: table;
+            }
+             @media @smallTablet {
+                .font-size(18);
+                display: table;
+            }
+            @media @tablet {
+                .font-size(21);
+                display:initial;
+            }
+            @media @laptop {
+                .font-size(24);
+            }
+            @media @desktop {
+                .font-size(28);
+            }
+}
+
+#inven{
+    color:#4d4d4d;
+    p{
+        text-align: center;
+        @media @mobile {
+            .font-size(21);
+        }
+        @media @smalltablet {
+            .font-size(24);
+        }
+        @media @tablet {
+            .font-size(28);
+        }
+        @media @laptop {
+            .font-size(32);
+        }
+    }
+    h2{
+        span{color: white;}
+        @media @mobile {
+            .font-size(21);
+        }
+        @media @smalltablet {
+            .font-size(36);
+        }
+        @media @tablet {
+            .font-size(40);
+        }
+        @media @laptop {
+            .font-size(44);
+        }
+    }
+    h3{
+        @media @mobile {
+            .font-size(24);
+        }
+        @media @smalltablet {
+            .font-size(28);
+        }
+        @media @tablet {
+            .font-size(32);
+        }
+        @media @laptop {
+            .font-size(36);
+        }
+    }
+    .container{
+        width: 80%;
+        display: block;
+        margin: 0 auto 2em;
+    }
+    .curso-vegano{
+        .boton(#2ab97e, 8px, white, 16);
+        text-decoration: none;
+        margin: 2em auto;
+        @media @mobile {
+                .font-size(18);
+            }
+             @media @smallTablet {
+                .font-size(18);
+            }
+            @media @tablet {
+                .font-size(21);
+            }
+            @media @laptop {
+                .font-size(24);
+            }
+            @media @desktop {
+                .font-size(28);
+            }
     }
 }

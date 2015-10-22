@@ -2,6 +2,7 @@
 /* !Media Querys */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah);
 html {
   font-size: 62.5%;
   /* Sets up the Base 10 stuff */
@@ -641,5 +642,342 @@ footer .row .fa-inverse {
   footer .row .col-xs-1 {
     flex-basis: 8.333%;
     max-width: 8.333%;
+  }
+}
+#recetario {
+  background: url(../images/bkg.gif);
+  background-attachment: fixed;
+}
+#container {
+  background-color: #ed8d3c;
+  background-color: rgba(237, 141, 60, 0.9);
+  max-width: 1230px;
+  margin: 0 auto;
+  width: 90%;
+}
+#container header h1 {
+  font-family: 'Gloria Hallelujah', cursive;;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  line-height: 1.2em;
+}
+#container header h1 span {
+  color: #f8f186;
+}
+@media only screen and (min-width:320px) {
+  #container header h1 {
+    font-size: 45px;
+    font-size: 4.5rem;
+  }
+}
+@media only screen and (min-width: 569px) {
+  #container header h1 {
+    font-size: 90px;
+    font-size: 9rem;
+  }
+}
+@media only screen and (min-width:1024px) {
+  #container header h1 {
+    font-size: 120px;
+    font-size: 12rem;
+  }
+}
+#pozole h2,
+#garbanzo h2,
+#verde h2 {
+  font-family: 'Montserrat', sans-serif;;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
+#pozole h2 span,
+#garbanzo h2 span,
+#verde h2 span {
+  color: #f8f186;
+}
+@media only screen and (min-width:320px) {
+  #pozole h2,
+  #garbanzo h2,
+  #verde h2 {
+    font-size: 24px;
+    font-size: 2.4rem;
+    line-height: 1.5em;
+    background: url(../images/raya.png) no-repeat center 50px;
+  }
+}
+@media only screen and (min-width: 569px) {
+  #pozole h2,
+  #garbanzo h2,
+  #verde h2 {
+    font-size: 36px;
+    font-size: 3.6rem;
+  }
+}
+@media only screen and (min-width:768px) {
+  #pozole h2,
+  #garbanzo h2,
+  #verde h2 {
+    font-size: 48px;
+    font-size: 4.8rem;
+  }
+}
+@media only screen and (min-width:1024px) {
+  #pozole h2,
+  #garbanzo h2,
+  #verde h2 {
+    font-size: 60px;
+    font-size: 6rem;
+    line-height: 2em;
+    background: url(../images/raya.png) no-repeat center 90px;
+  }
+}
+#pozole img,
+#pozole #video {
+  width: 80%;
+  display: block;
+  margin: 0 auto 2em;
+}
+@media only screen and (min-width:320px) {
+  #video {
+    height: 29vh;
+  }
+}
+@media only screen and (min-width: 569px) {
+  #video {
+    height: 31vh;
+  }
+}
+@media only screen and (min-width:1024px) {
+  #video {
+    height: 54vh;
+  }
+}
+#garbanzo .receta,
+#verde .receta {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+#garbanzo img,
+#verde img {
+  width: 80%;
+  display: block;
+  margin: 3em auto;
+}
+#receta1,
+#receta2 {
+  background: #2ab97e;
+  border-radius: 8px;
+  color: white;
+  box-shadow: 4px 4px 0 #218f62;
+  font-weight: 700;
+  font-size: 16px;
+  font-size: 1.6rem;
+  transition: all 0.3s ease-in-out;
+  padding: .5em 1em;
+  border: 0;
+  cursor: pointer;
+  margin-bottom: 16px;
+  text-decoration: none;
+  margin: 2em auto 0;
+}
+#receta1:hover,
+#receta2:hover {
+  background: #1fc480;
+  box-shadow: 4px 4px 0 #25a470;
+}
+#receta1:active,
+#receta2:active {
+  background: #35ae7c;
+  box-shadow: 0 0 0 #1c7b54;
+  margin: 4px 0 12px 4px;
+}
+#receta1:focus,
+#receta2:focus {
+  outline: none;
+}
+@media only screen and (min-width:320px) {
+  #receta1,
+  #receta2 {
+    font-size: 18px;
+    font-size: 1.8rem;
+    display: table;
+  }
+}
+@media only screen and (min-width: 569px) {
+  #receta1,
+  #receta2 {
+    font-size: 18px;
+    font-size: 1.8rem;
+    display: table;
+  }
+}
+@media only screen and (min-width:768px) {
+  #receta1,
+  #receta2 {
+    font-size: 21px;
+    font-size: 2.1rem;
+    display: initial;
+  }
+}
+@media only screen and (min-width:1024px) {
+  #receta1,
+  #receta2 {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+@media only screen and (min-width:1160px) {
+  #receta1,
+  #receta2 {
+    font-size: 28px;
+    font-size: 2.8rem;
+  }
+}
+#inven {
+  color: #4d4d4d;
+}
+#inven p {
+  text-align: center;
+}
+@media only screen and (min-width:320px) {
+  #inven p {
+    font-size: 21px;
+    font-size: 2.1rem;
+  }
+}
+@media only screen and (min-width:480px) {
+  #inven p {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+@media only screen and (min-width:768px) {
+  #inven p {
+    font-size: 28px;
+    font-size: 2.8rem;
+  }
+}
+@media only screen and (min-width:1024px) {
+  #inven p {
+    font-size: 32px;
+    font-size: 3.2rem;
+  }
+}
+#inven h2 span {
+  color: white;
+}
+@media only screen and (min-width:320px) {
+  #inven h2 {
+    font-size: 21px;
+    font-size: 2.1rem;
+  }
+}
+@media only screen and (min-width:480px) {
+  #inven h2 {
+    font-size: 36px;
+    font-size: 3.6rem;
+  }
+}
+@media only screen and (min-width:768px) {
+  #inven h2 {
+    font-size: 40px;
+    font-size: 4rem;
+  }
+}
+@media only screen and (min-width:1024px) {
+  #inven h2 {
+    font-size: 44px;
+    font-size: 4.4rem;
+  }
+}
+@media only screen and (min-width:320px) {
+  #inven h3 {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+@media only screen and (min-width:480px) {
+  #inven h3 {
+    font-size: 28px;
+    font-size: 2.8rem;
+  }
+}
+@media only screen and (min-width:768px) {
+  #inven h3 {
+    font-size: 32px;
+    font-size: 3.2rem;
+  }
+}
+@media only screen and (min-width:1024px) {
+  #inven h3 {
+    font-size: 36px;
+    font-size: 3.6rem;
+  }
+}
+#inven .container {
+  width: 80%;
+  display: block;
+  margin: 0 auto 2em;
+}
+#inven .curso-vegano {
+  background: #2ab97e;
+  border-radius: 8px;
+  color: white;
+  box-shadow: 4px 4px 0 #218f62;
+  font-weight: 700;
+  font-size: 16px;
+  font-size: 1.6rem;
+  transition: all 0.3s ease-in-out;
+  padding: .5em 1em;
+  border: 0;
+  cursor: pointer;
+  margin-bottom: 16px;
+  text-decoration: none;
+  margin: 2em auto;
+}
+#inven .curso-vegano:hover {
+  background: #1fc480;
+  box-shadow: 4px 4px 0 #25a470;
+}
+#inven .curso-vegano:active {
+  background: #35ae7c;
+  box-shadow: 0 0 0 #1c7b54;
+  margin: 4px 0 12px 4px;
+}
+#inven .curso-vegano:focus {
+  outline: none;
+}
+@media only screen and (min-width:320px) {
+  #inven .curso-vegano {
+    font-size: 18px;
+    font-size: 1.8rem;
+  }
+}
+@media only screen and (min-width: 569px) {
+  #inven .curso-vegano {
+    font-size: 18px;
+    font-size: 1.8rem;
+  }
+}
+@media only screen and (min-width:768px) {
+  #inven .curso-vegano {
+    font-size: 21px;
+    font-size: 2.1rem;
+  }
+}
+@media only screen and (min-width:1024px) {
+  #inven .curso-vegano {
+    font-size: 24px;
+    font-size: 2.4rem;
+  }
+}
+@media only screen and (min-width:1160px) {
+  #inven .curso-vegano {
+    font-size: 28px;
+    font-size: 2.8rem;
   }
 }

@@ -387,7 +387,7 @@ $messageUsr ="
 						<p class='lead'>Gracias por descargar el  recetario digital de Cocina Vegana, desde aquí puedes acceder al recetario en cualquier momento y compartirlo con quien quieras.
 ¿Sabias que en el tema de la alimentación no es suficiente cuidar las calorías? es necesario también cuidar la calidad de los nutrientes que consumimos. 
                        </p>
-                       <img src='/images/video.png' alt='Video sobre la alimentación basada en plantas'>
+                       <a href='http://player.vimeo.com/video/143192866'><img src='http://umvirtual.org/recetario-vegano/images/video.png' alt='Video sobre la alimentación basada en plantas'></a>
                         </div>
 						
                         <!-- Callout Panel -->
@@ -406,7 +406,7 @@ $messageUsr ="
 						</table><!-- /Callout Panel -->
 						
 						<div mc:edit='note'>
-						<a href='http://e42.um.edu.mx/lite/Login.aspx?clavee42=47945'><img src='/images/cta2.png' alt='Quiero mi curso ratis' width='100%' style='margin-bottom: 2em;'></a>
+						<a href='http://umvirtual.org/recetario-vegano/recetario.html'><img src='http://umvirtual.org/recetario-vegano/images/cta2.png' alt='Quiero mi curso gratis' width='100%' style='margin-bottom: 2em;'></a>
 						<h3>Saludos cordiales,</h3>
 						<p>Mtra. Lorena Neria de Girarte<br>
 Dir. UM Virtual<br>
@@ -527,7 +527,7 @@ $headers[] = "From: $from";
 $headers[] = "Reply-To: $nombre <$email>";
 
 //Enviar mail a UM Virtual
-mail($to,$subject,$message,implode("\r\n", $headers));
+mail($from,$subject,$message,implode("\r\n", $headers));
 
 //Headers Usuario
 $headersUsr   = array();
@@ -540,6 +540,6 @@ $headersUsr[] = "Reply-To: UM Virtual <umvirtual@um.edu.mx>";
 mail($toUsr,$subjectUsr,$messageUsr,implode("\r\n", $headersUsr));
 
 //Redirigir a gracias.html
-echo"<script>window.location='gracias.html'</script>;"
+echo"<script>window.location='http://umvirtual.org/recetario-vegano/gracias.html'</script>;"
     
 ?>

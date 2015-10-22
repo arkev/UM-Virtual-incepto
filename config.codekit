@@ -47518,6 +47518,26 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/recetario-vegano\/download.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/recetario-vegano\/download.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/recetario-vegano\/ensalada-garbanzo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11513e+06,
+		"inputAbbreviatedPath": "\/recetario-vegano\/ensalada-garbanzo.jpg",
+		"outputAbbreviatedPath": "\/recetario-vegano\/ensalada-garbanzo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/recetario-vegano\/gracias.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -47556,6 +47576,61 @@
 		"initialSize": 217260,
 		"inputAbbreviatedPath": "\/recetario-vegano\/images\/cta2.png",
 		"outputAbbreviatedPath": "\/recetario-vegano\/images\/cta2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/recetario-vegano\/images\/raya.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1539,
+		"inputAbbreviatedPath": "\/recetario-vegano\/images\/raya.png",
+		"outputAbbreviatedPath": "\/recetario-vegano\/images\/raya.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/recetario-vegano\/images\/recetario.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69069,
+		"inputAbbreviatedPath": "\/recetario-vegano\/images\/recetario.png",
+		"outputAbbreviatedPath": "\/recetario-vegano\/images\/recetario.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/recetario-vegano\/images\/separador.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133365,
+		"inputAbbreviatedPath": "\/recetario-vegano\/images\/separador.png",
+		"outputAbbreviatedPath": "\/recetario-vegano\/images\/separador.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/recetario-vegano\/images\/separador2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134865,
+		"inputAbbreviatedPath": "\/recetario-vegano\/images\/separador2.png",
+		"outputAbbreviatedPath": "\/recetario-vegano\/images\/separador2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/recetario-vegano\/images\/separador3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71452,
+		"inputAbbreviatedPath": "\/recetario-vegano\/images\/separador3.png",
+		"outputAbbreviatedPath": "\/recetario-vegano\/images\/separador3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47600,7 +47675,27 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 0
+		},
+	"\/recetario-vegano\/jugo-verde.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 923313,
+		"inputAbbreviatedPath": "\/recetario-vegano\/jugo-verde.jpg",
+		"outputAbbreviatedPath": "\/recetario-vegano\/jugo-verde.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/recetario-vegano\/recetario.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/recetario-vegano\/recetario.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/recetario-vegano\/send.php": {
 		"fileType": 8192,
