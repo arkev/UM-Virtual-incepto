@@ -48053,6 +48053,15 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/template\/download.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/template\/download.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/template\/gracias.html": {
 		"fileType": 8192,
 		"ignore": 0,

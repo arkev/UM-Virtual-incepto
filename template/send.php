@@ -406,7 +406,7 @@ Se estima que la inactividad física es la causa principal de aproximadamente un
 						</table><!-- /Callout Panel -->
 						
 						<div mc:edit='note'>
-						<a href='http://e42.um.edu.mx/lite/Login.aspx?clavee42=47945'><img src='/images/cta2.png' alt='Quiero mi plantilla gratis' width='100%' style='margin-bottom: 2em;'></a>
+						<a href='http://umvirtual.org/template/download.php?file=plantilla.pdf'><img src='http://umvirtual.org/template//images/cta2.png' alt='Quiero mi plantilla gratis' width='100%' style='margin-bottom: 2em;'></a>
 						<h3>Saludos cordiales,</h3>
 						<p>Mtra. Lorena Neria de Girarte<br>
 Dir. UM Virtual<br>
@@ -527,7 +527,7 @@ $headers[] = "From: $from";
 $headers[] = "Reply-To: $nombre <$email>";
 
 //Enviar mail a UM Virtual
-mail($to,$subject,$message,implode("\r\n", $headers));
+mail($from,$subject,$message,implode("\r\n", $headers));
 
 //Headers Usuario
 $headersUsr   = array();

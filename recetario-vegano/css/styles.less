@@ -17,6 +17,8 @@
 @Montserrat: ~"'Montserrat', sans-serif;";
 @Lato: ~"'Lato', sans-serif;";
 @gloria: ~"'Gloria Hallelujah', cursive;";
+@ipad:~"only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 2)";
+@iphone6:~"only screen and (min-device-width : 375px) and (max-device-width : 667px)";
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah);
@@ -74,6 +76,13 @@ body {
 header {
     #logos {
         .maxWidth();
+        @media @ipad{
+            display: block;
+            .col-xs{
+                display: inline-block;
+                
+            }
+        }
         .box-row {
             img {
                 @media @mobile {
@@ -475,7 +484,7 @@ footer {
                 .font-size(26);
             }
             @media @smallTablet {
-                .font-size(38);
+                .font-size(29);
             }
         }
         .fa-stack-2x {
@@ -684,9 +693,6 @@ footer {
         @media @mobile {
                 .font-size(18);
             }
-             @media @smallTablet {
-                .font-size(18);
-            }
             @media @tablet {
                 .font-size(21);
             }
@@ -696,5 +702,29 @@ footer {
             @media @desktop {
                 .font-size(28);
             }
+    }
+    .middle-xs{
+        @media @ipad{
+            display: block;
+            .col-xs-2, .col-xs-10{
+                display: inline-block;
+            }
+            .col-xs-10{
+                flex-basis: 80%;
+                max-width: 80%;
+            }
+        }
+    }
+    .middle-xs{
+        @media @iphone6{
+            display: block;
+            .col-xs-2, .col-xs-10{
+                display: inline-block;
+            }
+            .col-xs-10{
+                flex-basis: 80%;
+                max-width: 80%;
+            }
+        }
     }
 }

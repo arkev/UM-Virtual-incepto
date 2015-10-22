@@ -22,6 +22,14 @@ header #logos {
   margin: 0 auto;
   width: 90%;
 }
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+  header #logos {
+    display: block;
+  }
+  header #logos .col-xs {
+    display: inline-block;
+  }
+}
 @media only screen and (min-width:320px) {
   header #logos .box-row img {
     margin: 1em 0;
@@ -608,8 +616,8 @@ footer .row {
 }
 @media only screen and (min-width: 569px) {
   footer .row .fa-lg {
-    font-size: 38px;
-    font-size: 3.8rem;
+    font-size: 29px;
+    font-size: 2.9rem;
   }
 }
 footer .row .fa-stack-2x {
@@ -957,12 +965,6 @@ footer .row .fa-inverse {
     font-size: 1.8rem;
   }
 }
-@media only screen and (min-width: 569px) {
-  #inven .curso-vegano {
-    font-size: 18px;
-    font-size: 1.8rem;
-  }
-}
 @media only screen and (min-width:768px) {
   #inven .curso-vegano {
     font-size: 21px;
@@ -979,5 +981,31 @@ footer .row .fa-inverse {
   #inven .curso-vegano {
     font-size: 28px;
     font-size: 2.8rem;
+  }
+}
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+  #inven .middle-xs {
+    display: block;
+  }
+  #inven .middle-xs .col-xs-2,
+  #inven .middle-xs .col-xs-10 {
+    display: inline-block;
+  }
+  #inven .middle-xs .col-xs-10 {
+    flex-basis: 80%;
+    max-width: 80%;
+  }
+}
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+  #inven .middle-xs {
+    display: block;
+  }
+  #inven .middle-xs .col-xs-2,
+  #inven .middle-xs .col-xs-10 {
+    display: inline-block;
+  }
+  #inven .middle-xs .col-xs-10 {
+    flex-basis: 80%;
+    max-width: 80%;
   }
 }

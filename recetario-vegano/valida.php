@@ -3,7 +3,6 @@
 //variables
 $nombre=$_POST["nombre"];
 $email=$_POST["email"];
-$errors = array(); // declaramos un array para almacenar los errores
 
 function valida_email($mail){   
   if(eregi("^([_a-z0-9-]+)(\.[_a-z0-9-]+)*@([a-z0-9-]+)(\.[a-z0-9-]+)*(\.[a-z]{2,4})$", $mail))   
