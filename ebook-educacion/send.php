@@ -405,7 +405,7 @@ Se trata, de una generación autodidacta. Por primera vez en la historia, dicen 
                         </tr>
 						</table><!-- /Callout Panel -->
 						<div mc:edit='note'>
-						<a href='umvirtual.org/ebook-educacion/ebook_retos_ensenar_nuevas_generaciones.pdf'><img src='umvirtual.org/ebook-educacion/images/cta2.png' alt='Descargar mi eBook' width='100%' style='margin-bottom: 2em;'></a>
+						<a href='http://umvirtual.org/ebook-educacion/download.php?file=ebook_retos_ensenar_nuevas_generaciones.pdf'><img src='http://umvirtual.org/ebook-educacion/images/cta2.png' alt='Descargar mi eBook' width='100%' style='margin-bottom: 2em;'></a>
 						<h3>Saludos cordiales,</h3>
 						<p>Mtra. Lorena Neria de Girarte<br>
 Dir. UM Virtual<br>
@@ -526,7 +526,7 @@ $headers[] = "From: $from";
 $headers[] = "Reply-To: $nombre <$email>";
 
 //Enviar mail a UM Virtual
-mail($to,$subject,$message,implode("\r\n", $headers));
+mail($from,$subject,$message,implode("\r\n", $headers));
 
 //Headers Usuario
 $headersUsr   = array();

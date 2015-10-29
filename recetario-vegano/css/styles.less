@@ -80,8 +80,16 @@ header {
             display: block;
             .col-xs{
                 display: inline-block;
-                
+                width: 44%;
             }
+            .espacio{display: none;}
+        }
+        @media @iphone6{
+            .col-xs{
+                display: inline-block;
+                width: 44%;
+            }
+            .espacio{display: none;}
         }
         .box-row {
             img {
@@ -609,6 +617,13 @@ footer {
         display: block;
         margin: 3em auto;
     }
+    @media @iphone6{
+        .col-xs-12{
+            display: inline-block;
+            width: 100%;
+            margin: 0 auto;
+        }
+    }
 }
 
 #receta1, #receta2{
@@ -727,4 +742,13 @@ footer {
             }
         }
     }
+}
+
+#palface{
+    opacity: 0;
+    visibility: hidden;
+    display: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }

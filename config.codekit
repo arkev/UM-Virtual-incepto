@@ -11828,6 +11828,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/curso-salud-espiritual\/images\/facebook-04.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 332206,
+		"inputAbbreviatedPath": "\/curso-salud-espiritual\/images\/facebook-04.jpg",
+		"outputAbbreviatedPath": "\/curso-salud-espiritual\/images\/facebook-04.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/curso-salud-espiritual\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14157,6 +14168,15 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/ebook-educacion\/download.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ebook-educacion\/download.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/ebook-educacion\/gracias.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -14195,6 +14215,17 @@
 		"initialSize": 217260,
 		"inputAbbreviatedPath": "\/ebook-educacion\/images\/cta2.png",
 		"outputAbbreviatedPath": "\/ebook-educacion\/images\/cta2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/ebook-educacion\/images\/facebook-03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 374542,
+		"inputAbbreviatedPath": "\/ebook-educacion\/images\/facebook-03.jpg",
+		"outputAbbreviatedPath": "\/ebook-educacion\/images\/facebook-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -47580,6 +47611,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/recetario-vegano\/images\/facebook-01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 365812,
+		"inputAbbreviatedPath": "\/recetario-vegano\/images\/facebook-01.jpg",
+		"outputAbbreviatedPath": "\/recetario-vegano\/images\/facebook-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/recetario-vegano\/images\/raya.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -48100,6 +48142,17 @@
 		"initialSize": 217260,
 		"inputAbbreviatedPath": "\/template\/images\/cta2.png",
 		"outputAbbreviatedPath": "\/template\/images\/cta2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/template\/images\/facebook-02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 458166,
+		"inputAbbreviatedPath": "\/template\/images\/facebook-02.jpg",
+		"outputAbbreviatedPath": "\/template\/images\/facebook-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

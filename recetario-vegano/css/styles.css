@@ -28,6 +28,19 @@ header #logos {
   }
   header #logos .col-xs {
     display: inline-block;
+    width: 44%;
+  }
+  header #logos .espacio {
+    display: none;
+  }
+}
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+  header #logos .col-xs {
+    display: inline-block;
+    width: 44%;
+  }
+  header #logos .espacio {
+    display: none;
   }
 }
 @media only screen and (min-width:320px) {
@@ -775,6 +788,14 @@ footer .row .fa-inverse {
   display: block;
   margin: 3em auto;
 }
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+  #garbanzo .col-xs-12,
+  #verde .col-xs-12 {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+  }
+}
 #receta1,
 #receta2 {
   background: #2ab97e;
@@ -1008,4 +1029,12 @@ footer .row .fa-inverse {
     flex-basis: 80%;
     max-width: 80%;
   }
+}
+#palface {
+  opacity: 0;
+  visibility: hidden;
+  display: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
 }

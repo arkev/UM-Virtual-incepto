@@ -4,18 +4,29 @@
 $nombre=$_POST["nombre"];
 $email=$_POST["email"];
 
-//validación
-if ($nombre=="" || $email=="") {
-    echo "Los campos son obligatorios";
+function valida_email($mail){   
+  if(eregi("^([_a-z0-9-]+)(\.[_a-z0-9-]+)*@([a-z0-9-]+)(\.[a-z0-9-]+)*(\.[a-z]{2,4})$", $mail))   
+  return true;   
+    else  
+  return false;
 }
-elseif ($nombre=="" && $email!="") {
-    echo "El campo nombre es obligatorio";
+
+function valida_nombre($nombre){   
+  if($nombre!="")   
+  return true;   
+    else  
+  return false;
 }
-elseif ($nombre!="" && $email=="") {
-    echo "El campo email es obligatorio";
+
+if(valida_nombre($nombre) and valida_email($email))
+{ 
+include("send.php");
+}elseif (valida_nombre($nombre) xor valida_email($email)) {
+    echo "los campos no son validos";
 }
-else {
-    include("send.php");
+else { 
+echo "El campo nombre y email NO son validos"; 
 }
+    
 
 ?>
