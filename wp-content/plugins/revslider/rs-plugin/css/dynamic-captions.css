@@ -1,3 +1,84 @@
+.tp-caption.largepinkbg {
+position:absolute;
+color:#fff;
+text-shadow:none;
+font-weight:300;
+font-size:50px;
+line-height:70px;
+font-family:"Open Sans";
+background-color:#db4360;
+padding:0px 20px;
+-webkit-border-radius:0px;
+-moz-border-radius:0px;
+border-radius:0px;
+}
+
+.tp-caption.thinheadline_dark {
+position:absolute;
+color:rgba(0,0,0,0.85);
+text-shadow:none;
+font-weight:300;
+font-size:30px;
+line-height:30px;
+font-family:"Open Sans";
+background-color:transparent;
+}
+
+.tp-caption.large_text {
+position:absolute;
+color:#fff;
+text-shadow:0px 2px 5px rgba(0, 0, 0, 0.5);
+font-weight:700;
+font-size:40px;
+line-height:40px;
+font-family:Arial;
+margin:0px;
+border-width:0px;
+border-style:none;
+white-space:nowrap;
+}
+
+.tp-caption.medium_light_white {
+font-size:30px;
+line-height:36px;
+font-weight:300;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+padding:0px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bg_darkblue {
+font-size:20px;
+line-height:20px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:rgb(52, 73, 94);
+padding:10px;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.medium_bold_orange {
+font-size:24px;
+line-height:30px;
+font-weight:800;
+font-family:"Open Sans";
+color:rgb(243, 156, 18);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
 .tp-caption.largebgmorado {
 font-size:25px;
 line-height:1.2em;
@@ -56,20 +137,6 @@ background-color:transparent;
 text-shadow:none;
 border-width:0px;
 border-color:rgb(0, 0, 0);
-border-style:none;
-}
-
-.tp-caption.medium_light_black {
-font-size:30px;
-line-height:36px;
-font-weight:300;
-font-family:"Open Sans";
-color:rgb(0, 0, 0);
-text-decoration:none;
-background-color:transparent;
-padding:0px;
-border-width:0px;
-border-color:rgb(255, 214, 88);
 border-style:none;
 }
 

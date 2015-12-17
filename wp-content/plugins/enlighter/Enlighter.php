@@ -3,7 +3,7 @@
 	Plugin Name: Enlighter - Customizable Syntax Highlighter
 	Plugin URI: http://andidittrich.de/go/enlighterjs
 	Description: Enlighter is a free, easy-to-use, syntax highlighting tool with a build-in theme editor.
-	Version: 2.9
+	Version: 2.11
 	Author: Andi Dittrich
 	Author URI: http://andidittrich.de
 	License: MIT X11-License
@@ -22,7 +22,7 @@
 */
 
 define('ENLIGHTER_INIT', true);
-define('ENLIGHTER_VERSION', '2.9');
+define('ENLIGHTER_VERSION', '2.11');
 define('ENLIGHTER_PLUGIN_PATH', dirname(__FILE__));
 
 // check php version
@@ -41,6 +41,7 @@ if (version_compare(phpversion(), '5.3', '>=')){
 	require_once(ENLIGHTER_PLUGIN_PATH.'/class/ContextualHelp.php');
 	require_once(ENLIGHTER_PLUGIN_PATH.'/class/ConfigGenerator.php');
 	require_once(ENLIGHTER_PLUGIN_PATH.'/class/ObjectCache.php');
+    require_once(ENLIGHTER_PLUGIN_PATH.'/class/GoogleWebfontResources.php');
 	
 	// run enlighter
 	Enlighter::run();
@@ -58,4 +59,3 @@ function Enlighter_SetupEnvironmentError(){
 function Enlighter_EnvironmentError(){
 	include(ENLIGHTER_PLUGIN_PATH.'/views/admin/EnvironmentError.phtml');
 }
-?>
