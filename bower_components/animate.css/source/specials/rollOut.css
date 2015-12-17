@@ -1,7 +1,7 @@
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
 
 @keyframes rollOut {
-  from {
+  0% {
     opacity: 1;
   }
 

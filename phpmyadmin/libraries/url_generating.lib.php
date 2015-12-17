@@ -179,6 +179,7 @@ function PMA_URL_getCommon($params = array(), $encode = 'html', $divider = '?')
     if (isset($GLOBALS['server'])
         && $GLOBALS['server'] != $GLOBALS['cfg']['ServerDefault']
         && ! isset($params['server'])
+        && ! defined('PMA_SETUP')
     ) {
         $params['server'] = $GLOBALS['server'];
     }
@@ -252,4 +253,3 @@ function PMA_URL_getArgSeparator($encode = 'none')
     }
 }
 
-?>

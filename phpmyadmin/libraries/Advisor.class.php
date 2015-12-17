@@ -176,7 +176,7 @@ class Advisor
     public function translate($str, $param = null)
     {
         $string = _gettext(Advisor::escapePercent($str));
-        if ( ! is_null($param)) {
+        if (! is_null($param)) {
             $params = $this->ruleExprEvaluate('array(' . $param . ')');
         } else {
             $params = array();
@@ -267,7 +267,7 @@ class Advisor
      */
     private function _replaceLinkURL($matches)
     {
-        return 'href="' . PMA_linkURL($matches[2]) . '"';
+        return 'href="' . PMA_linkURL($matches[2]) . '" target="_blank"';
     }
 
     /**
@@ -522,5 +522,3 @@ function ADVISOR_formatByteDown($value, $limes = 6, $comma = 0)
 {
     return implode(' ', PMA_Util::formatByteDown($value, $limes, $comma));
 }
-
-?>

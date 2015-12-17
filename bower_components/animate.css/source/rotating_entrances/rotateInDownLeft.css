@@ -1,5 +1,5 @@
 @keyframes rotateInDownLeft {
-  from {
+  0% {
     transform-origin: left bottom;
     transform: rotate3d(0, 0, 1, -45deg);
     opacity: 0;

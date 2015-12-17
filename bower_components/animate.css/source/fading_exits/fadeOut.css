@@ -1,5 +1,5 @@
 @keyframes fadeOut {
-  from {opacity: 1;}
+  0% {opacity: 1;}
   100% {opacity: 0;}
 }
 
