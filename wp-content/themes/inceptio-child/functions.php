@@ -10,3 +10,5 @@ if (!function_exists('inc_after_enqueue_all_child')) {
 add_action('inc_after_enqueue_all', 'inc_after_enqueue_all_child');
 
 /* Your custom code must be added below this line */
+
+Remove_action('wp_head', 'wp_generator');
