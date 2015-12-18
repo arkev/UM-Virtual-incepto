@@ -71,6 +71,17 @@ redirect 301 /portafolio-vidasaludable.html /promocion-vida-saludable
 redirect 301 /Portafolio-estilos-vida.html /estilo-de-vida-saludable
 redirect 301 /portafolio-spot1.html /proiectum/salud/
 
+# protege archivo wp-config
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+
+# protege archivo .htaccess
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
 
 
 
