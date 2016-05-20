@@ -985,9 +985,7 @@ $color-cta:#f7941e;
 			font-size: 0.8em;
 		}
 
-		&.big {
-			font-size: 1.35em;
-		}
+		&.big {font-size: 1.35em;}
 
 		&.special {
 			background-color:$color-cta;
@@ -996,11 +994,11 @@ $color-cta:#f7941e;
 			color: _palette(accent1, fg-bold) !important;
 
 			&:hover {
-				background-color: lighten(_palette(accent1, bg), 5);
+				background-color: lighten($color-cta, 10);
 			}
 
 			&:active {
-				background-color: darken(_palette(accent1, bg), 5);
+				background-color: darken($color-cta, 10);
 			}
 
 			&.icon {
