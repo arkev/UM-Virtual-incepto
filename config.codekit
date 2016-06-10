@@ -8874,16 +8874,16 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/creando-oportunidades\/CSS\/styles.css": {
+	"\/creando-oportunidades\/css\/styles.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/creando-oportunidades\/CSS\/styles.css",
+		"inputAbbreviatedPath": "\/creando-oportunidades\/css\/styles.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/creando-oportunidades\/CSS\/styles.less": {
+	"\/creando-oportunidades\/css\/styles.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
@@ -8891,7 +8891,7 @@
 		"ieCompatibility": 1,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/creando-oportunidades\/CSS\/styles.less",
+		"inputAbbreviatedPath": "\/creando-oportunidades\/css\/styles.less",
 		"outputAbbreviatedPath": "\/creando-oportunidades\/css\/styles.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -8902,6 +8902,15 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
+		},
+	"\/creando-oportunidades\/gracias.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/creando-oportunidades\/gracias.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/creando-oportunidades\/images\/beneficios.jpg": {
 		"fileType": 16384,
@@ -8914,13 +8923,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/creando-oportunidades\/images\/Roberto_Salas.jpg": {
+	"\/creando-oportunidades\/images\/Gessica_Chacin.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5663,
-		"inputAbbreviatedPath": "\/creando-oportunidades\/images\/Roberto_Salas.jpg",
-		"outputAbbreviatedPath": "\/creando-oportunidades\/images\/Roberto_Salas.jpg",
+		"initialSize": 29480,
+		"inputAbbreviatedPath": "\/creando-oportunidades\/images\/Gessica_Chacin.jpg",
+		"outputAbbreviatedPath": "\/creando-oportunidades\/images\/Gessica_Chacin.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13150,7 +13159,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 184288,
+		"initialSize": 303507,
 		"inputAbbreviatedPath": "\/ebook-de-educacion\/images\/bg.jpg",
 		"outputAbbreviatedPath": "\/ebook-de-educacion\/images\/bg.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -13498,10 +13507,10 @@
 		"outputAbbreviatedPath": "\/ebook-educacion\/css\/styles.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
