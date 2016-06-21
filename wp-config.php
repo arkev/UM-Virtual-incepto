@@ -1,5 +1,5 @@
 <?php
-/**
+/** 
  * Configuración básica de WordPress.
  *
  * Este archivo contiene las siguientes configuraciones: ajustes de MySQL, prefijo de tablas,
@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
-define('SECURE_AUTH_KEY', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
-define('LOGGED_IN_KEY', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
-define('NONCE_KEY', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
-define('AUTH_SALT', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
-define('SECURE_AUTH_SALT', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
-define('LOGGED_IN_SALT', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
-define('NONCE_SALT', 'pon aquí tu frase aleatoria'); // Cambia esto por tu frase aleatoria.
+define('AUTH_KEY',         '+7(oP8sE*^o}ckkOS+-mI0-J|?{oa@9c.iTC[~H.YD{Kvd:-[65F5AopEim-O z>');
+define('SECURE_AUTH_KEY',  'lriFUBVn-gL[?*o6Zc>W1pA:bQT5>hjjQW*G78zZZ!zQp%nJ;O7nDD-AMu%R<Rb(');
+define('LOGGED_IN_KEY',    'V},XB&~&wQqYXWKcC8fGaQD;-kofn/tYeIoA@qTHXszD~x$hgL&m>gWQH-O501S5');
+define('NONCE_KEY',        'DZ><NMa4lyvGrW|f,+s.i-d|Hddu+1WK;HRwJ@Im}sVJl}=HRy9DLc|JM&1V5Zo%');
+define('AUTH_SALT',        '9F9z_!6>;~|)cev}xs[?[x2sRi?B}Z6ZN[`}ReX(<U@KeSIg-S;9&87&>Pn}DC8G');
+define('SECURE_AUTH_SALT', '|0A8H{g?p$SV=-+~+s`dm_ZIfgQn8I7-+at#.MVJe3EBp-g3mbH]ImKKWhlER8]4');
+define('LOGGED_IN_SALT',   'L8+F_%^T7Uk-4aONr#YP5J2,5bUu+F4wXH45:F~qpE!$dTc;O#fdfcCvxNv}V&mb');
+define('NONCE_SALT',       'e$abOjT|)Z.7Br3E7jWB/ji(}<YK<NfeOPmk0EEnecv=b9CEDr{zrNmXW^ ,?@[(');
 
 /**#@-*/
 
@@ -61,16 +61,7 @@ define('NONCE_SALT', 'pon aquí tu frase aleatoria'); // Cambia esto por tu fras
  */
 $table_prefix  = 'wp_';
 
-/**
- * Idioma de WordPress.
- *
- * Cambia lo siguiente para tener WordPress en tu idioma. El correspondiente archivo MO
- * del lenguaje elegido debe encontrarse en wp-content/languages.
- * Por ejemplo, instala ca_ES.mo copiándolo a wp-content/languages y define WPLANG como 'ca_ES'
- * para traducir WordPress al catalán.
- */
 define('WPLANG', 'es_ES');
-
 /**
  * Para desarrolladores: modo debug de WordPress.
  *
@@ -88,3 +79,4 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
+

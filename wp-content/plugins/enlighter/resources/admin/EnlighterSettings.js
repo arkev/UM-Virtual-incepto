@@ -120,6 +120,13 @@ requires:
 				jQuery(el).val('#' + hex);
 				jQuery(el).css('background-color', '#' + hex);
 				jQuery(el).ColorPickerHide();
+
+                // foreground color based on background (best contrast)
+                if (hsb.b > 50){
+                    jQuery(el).css('color', '#000000');
+                }else{
+                    jQuery(el).css('color', '#f0f0f0');
+                }
 			},
 			onBeforeShow : function(){
 				jQuery(this).ColorPickerSetColor(this.value);
@@ -133,6 +140,16 @@ requires:
 			// color available ?
 			if (color.length > 0){
 				jQuery(this).css('background-color', color);
+
+                // get color as HSV
+                var hsv = jQuery.Color(color);
+
+                // foreground color based on background (best contrast)
+                if (hsv.lightness() > 0.5){
+                    jQuery(this).css('color', '#000000');
+                }else{
+                    jQuery(this).css('color', '#f0f0f0');
+                }
 			}
 		});
 
@@ -148,6 +165,17 @@ requires:
 			}
 		}).change();
 
+        /**
+         * Editor Customization
+         */
+        jQuery('#enlighter_editorstylesDefault').click(function(){
+            // set font styles
+            jQuery('#enlighter-editorFontFamily').val('"Source Code Pro", "Liberation Mono", "Courier New", Courier, monospace');
+            jQuery('#enlighter-editorFontSize').val('0.7em');
+            jQuery('#enlighter-editorLineHeight').val('1.4em');
+            setElementColor('#enlighter-editorFontColor', '#565b60');
+            setElementColor('#enlighter-editorBackgroundColor', '#f7f7f7');
+        });
 
 		/**
 		 * THEME CUSTOMIZER

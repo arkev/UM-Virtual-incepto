@@ -1,5 +1,4 @@
 <?php
-
 if (!function_exists('inc_after_enqueue_all_child')) {
     function inc_after_enqueue_all_child()
     {
@@ -8,5 +7,4 @@ if (!function_exists('inc_after_enqueue_all_child')) {
     }
 }
 add_action('inc_after_enqueue_all', 'inc_after_enqueue_all_child');
-
 /* Your custom code must be added below this line */

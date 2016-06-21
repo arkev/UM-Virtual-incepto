@@ -1,8 +1,9 @@
 /**
- *  Advanced iframe external workaround file v6.3 free 
+ *  Advanced iframe external workaround file v7.1.x free 
+ *  Created: PARAM_TIMESTAMP  
 */ 
 
-var domain_PARAM_ID = 'WORDPRESS_SITE_URL'; // Check if this is your wordpress root
+var domain_PARAM_ID = 'PLUGIN_URL'; // Check if this is your wordpress directory of ai
  
  // Variables are checked with typeof before because this enables that the user can
 // define this values before and after including this file and they don't have to set 
@@ -39,7 +40,7 @@ function aiExecuteWorkaround_PARAM_ID() {
 
       if (updateIframeHeight == 'true') { 
         // add the iframe dynamically
-        var url = domain_PARAM_ID+'/wp-content/plugins/advanced-iframe/js/iframe_height.html';
+        var url = domain_PARAM_ID+'/js/iframe_height.html';
         var empty_url = 'javascript:false;';
         var newElementStr = '<iframe id="ai_hidden_iframe_PARAM_ID" style="display:none;clear:both" width="0" height="0" src="';
         newElementStr += empty_url +'">Iframes not supported.</iframe>';
@@ -77,7 +78,7 @@ function aiExecuteWorkaround_PARAM_ID() {
         }
       } else if (hide_page_until_loaded_external == 'true') {  // only one iframe is rendered - if auto height is disabled still the parent has to be informed to show the iframe ;).
         // add the iframe dynamically
-        var url = domain_PARAM_ID + '/wp-content/plugins/advanced-iframe/js/iframe_show.html?id='+ iframe_id_PARAM_ID;
+        var url = domain_PARAM_ID + '/js/iframe_show.html?id='+ iframe_id_PARAM_ID;
         var newElementStr = '<iframe id="ai_hidden_iframe_show_PARAM_ID" style="display:none;" width="0" height="0" src="';
         newElementStr += url+'">Iframes not supported.</iframe>';
         var newElement = aiCreate(newElementStr);

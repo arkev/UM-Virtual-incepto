@@ -6,6 +6,17 @@
 	margin: 15px 0px 15px 0px;
 }
 
+#EnlighterTitleBadge{
+    display: inline-block;
+    padding: 0px 10px 0px 0px;
+    width: 35px;
+    height: 29px;
+    vertical-align: middle;
+    background-image: url(badge35.png);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+}
+
 #EnlighterSettings #post-body-content ul{
 	padding-left: 30px;
 	list-style: square;
@@ -16,7 +27,7 @@
 
 .EnlighterBlockcontent h4{
 	color: #0074a2;
-	displa: block;
+	display: block;
 	border-bottom: dotted 2px #c0c0c0;
 }
 .EnlighterBlockcontent img{
@@ -30,7 +41,7 @@
 	float: left;
 	width: 250px;
 	font-weight: bold;
-	hieght: 30px;
+	height: 30px;
 	line-height: 30px;
 }
 
@@ -41,7 +52,7 @@
 	float: left;
 }
 .EnlighterCustomSettingItem label{
-	hieght: 30px;
+	height: 30px;
 	line-height: 30px;
 	padding: 0px 5px 0px 0px;
 }
@@ -92,17 +103,16 @@
 /* Column Layout
 -------------------------------- */
 #EnlighterSettings .postbox h3{
-	background-color: #333333 !important;
+	background-color: #23282d !important;
 	color: #ffffff !important;
 	cursor: default;
 	font-style: italic;
 }
 
-
 /* Footer
 -------------------------------- */
 #EnlighterSettings .credits{
-	font-color: #333333;
+	color: #333333;
 	font-style: italic;
 }
 

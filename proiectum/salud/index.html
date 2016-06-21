@@ -253,5 +253,59 @@ $.extend($.validator.messages, {
 		ga('create', 'UA-49916110-1', 'umvirtual.org');
 		ga('send', 'pageview');
 	</script>
+	<!-- Goal tracking de Mailchimp -->
+<script type="text/javascript">
+	var $mcGoal = {'settings':{'uuid':'458128645c72adf41ccbd28cd','dc':'us7'}};
+	(function() {
+		 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+		sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+	})(); 
+</script>
+<!-- End Goal tracking de Mailchimp -->
+
+<!-- Google Code para etiquetas de remarketing -->
+    <script>
+        /* <![CDATA[ */
+        var google_conversion_id = 957296960;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="Doble click" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/957296960/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+<!-- End Google Code para etiquetas de remarketing -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        ! function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window,
+            document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '954439487953611');
+        fbq('track', "PageView");
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=954439487953611&ev=PageView&noscript=1" /></noscript>
+    <!-- End Facebook Pixel Code -->
 </body>
 </html>

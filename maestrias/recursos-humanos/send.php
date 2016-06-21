@@ -3,6 +3,7 @@
 $nombre=$_POST["nombre"];
 $email=$_POST["email"];
 $to = "umvirtual@um.edu.mx";
+//$to = "elifelet@um.edu.mx";
 $from = "Allen Zapien <allenzapien@um.edu.mx>";
 $subject = "$nombre está solicitando una beca en la Maestría en Recursos Humanos";
 

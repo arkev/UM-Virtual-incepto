@@ -7,7 +7,7 @@
  * not intended to be perfect code and look, only shows how you can
  * integrate this functionality in your application.
  *
- * It uses OpenID pear package, see http://pear.php.net/package/OpenID
+ * It uses OpenID pear package, see https://pear.php.net/package/OpenID
  *
  * User first authenticates using OpenID and based on content of $AUTH_MAP
  * the login information is passed to phpMyAdmin in session data.
@@ -24,7 +24,7 @@ if (false === @include_once 'OpenID/RelyingParty.php') {
  * Map of authenticated users to MySQL user/password pairs.
  */
 $AUTH_MAP = array(
-    'http://launchpad.net/~username' => array(
+    'https://launchpad.net/~username' => array(
         'user' => 'root',
         'password' => '',
         ),
@@ -40,7 +40,7 @@ $AUTH_MAP = array(
 function Show_page($contents)
 {
     header('Content-Type: text/html; charset=utf-8');
-    echo '<?xml version="1.0" encoding="utf-8"?>' . "\n";
+    echo '<?xml version="1.0" encoding="utf-8"?>' , "\n";
     ?>
     <!DOCTYPE HTML>
     <html lang="en" dir="ltr">
@@ -53,7 +53,7 @@ function Show_page($contents)
     <body>
     <?php
     if (isset($_SESSION) && isset($_SESSION['PMA_single_signon_error_message'])) {
-        echo '<p class="error">' . $_SESSION['PMA_single_signon_message'] . '</p>';
+        echo '<p class="error">' , $_SESSION['PMA_single_signon_message'] , '</p>';
         unset($_SESSION['PMA_single_signon_message']);
     }
     echo $contents;
@@ -79,7 +79,7 @@ $base .= '://' . $_SERVER['SERVER_NAME'] . ':' . $_SERVER['SERVER_PORT'];
 
 $realm = $base . '/';
 $returnTo = $base . dirname($_SERVER['PHP_SELF']);
-if ($returnTo[/*overload*/mb_strlen($returnTo) - 1] != '/') {
+if ($returnTo[mb_strlen($returnTo) - 1] != '/') {
     $returnTo .= '/';
 }
 $returnTo .= 'openid.php';

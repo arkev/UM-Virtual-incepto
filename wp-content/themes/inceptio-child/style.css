@@ -9,3 +9,71 @@ Version: 1.5
 */
 
 @import url("../inceptio/style.css");
+@import url("../../../bower_components/Font-Awesome/css/font-awesome.min.css");
+
+body {
+    font-size: 14px;
+}
+
+.container {
+    width: 1140px;
+}
+
+.one-half, .one-third, .one-fourth, .two-thirds, .three-fourths {
+    max-width: inherit;
+}
+
+ul.portfolio-grid > li.one-fourth {
+    width: 270px;
+}
+ul.portfolio-grid > li.one-third {
+    width: 366px;
+}
+
+.home .fa-clock-o,.home .fa-usd,.home .fa-graduation-cap{
+    display: inherit;
+    text-align: center;
+    font-size: 10em;
+}
+.home .fa-usd{
+    margin-top: .15em;
+}
+.home .titulo{
+    text-align: center;
+    font-size: 2.3em;
+    margin: .5em 0 2em;
+    padding-bottom: 1em;
+}
+.home h3{
+    text-align: center;
+    font-size: 1.8em;
+}
+.home .parrafo {
+    font-size: 1.6em;
+    line-height: 1.5em;
+}
+.home .container .last {
+    margin-bottom: 4em;
+}
+.home .one-third p{
+    font-size: 1.8em;
+    text-align: center;
+    line-height: 1.3em;
+}
+.home .one-third h4{
+    font-size: 2.1em;
+    text-align: center;
+    line-height: 1.3em;
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1140px){
+    #plan-teologia .tabla {
+       max-width: 449px!important;
+   }
+}
+@media only screen and (min-width: 1141px){
+    #plan-teologia .tabla {
+       max-width: 340px!important;
+   }
+}
+

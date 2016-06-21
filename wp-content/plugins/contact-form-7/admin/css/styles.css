@@ -11,6 +11,11 @@ span.shortcode {
 	margin: 2px 0;
 }
 
+span.shortcode.old {
+	background: #777;
+	color: #fff;
+}
+
 span.shortcode > input {
 	background: inherit;
 	color: inherit;
@@ -34,6 +39,10 @@ span.shortcode > input {
 	color: #a00;
 }
 
+#submitpost input.delete:hover {
+	color: #f00;
+}
+
 #submitpost input.delete:focus {
 	outline: thin dotted;
 }
@@ -45,6 +54,12 @@ span.shortcode > input {
 .keyboard-interaction {
 	visibility: hidden;
 	color: #23282d;
+}
+
+div.config-error, span.config-error {
+	color: #d00;
+	font-style: normal;
+	font-size: 13px;
 }
 
 /*
@@ -98,7 +113,7 @@ span.shortcode > input {
 	color: #000;
 }
 
-#contact-form-editor .contact-form-editor-panel h3 {
+#contact-form-editor .contact-form-editor-panel h2 {
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 24px;
@@ -249,6 +264,13 @@ span.shortcode > input {
 }
 
 /*
+ * Messages Panel
+ */
+#messages-panel p.description {
+	margin: 5px 0 10px;
+}
+
+/*
  * List Table
  */
 .fixed .column-title {
@@ -262,6 +284,13 @@ span.shortcode > input {
 /*
  * Welcome Panel
  */
+.welcome-panel h3 {
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 2.1em;
+	margin: 1.33em 0 0;
+}
+
 .welcome-panel p.message {
 	line-height: 1.4em;
 	margin-right: 25px;
@@ -281,6 +310,7 @@ span.shortcode > input {
 .card {
 	background: #fff none repeat scroll 0 0;
 	border: 1px solid #e5e5e5;
+	border-left: 4px solid #e5e5e5;
 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
 	margin-top: 20px;
 	max-width: 520px;
@@ -290,12 +320,19 @@ span.shortcode > input {
 }
 
 .card.active {
-	background-color: #f7fcfe;
+	border-color: #00a0d2;
 }
 
-.card h3.title {
+.card img.icon {
 	float: left;
-	max-width: 260px;
+	margin: 8px 8px 8px -8px;
+}
+
+.card h2.title {
+	float: left;
+	max-width: 240px;
+	font-size: 1.3em;
+	font-weight: 600;
 }
 
 .card .infobox {
@@ -305,4 +342,13 @@ span.shortcode > input {
 	margin: 2px 0 5px;
 	line-height: 1.5;
 	max-width: 240px;
+}
+
+.card .inside .form-table th {
+	padding: 15px 10px 15px 0;
+	width: 160px;
+}
+
+.card .inside .form-table td {
+	padding: 10px 10px;
 }

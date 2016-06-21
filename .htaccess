@@ -1,0 +1,166 @@
+# BEGIN iThemes Security - Do not modify or remove this line
+# iThemes Security Config Details: 2
+# Quick ban IP. Will be updated on next formal rules save.
+SetEnvIF REMOTE_ADDR "^195\.206\.253\.146$" DenyAccess
+SetEnvIF X-FORWARDED-FOR "^195\.206\.253\.146$" DenyAccess
+SetEnvIF X-CLUSTER-CLIENT-IP "^195\.206\.253\.146$" DenyAccess
+<IfModule mod_authz_core.c>
+	<RequireAll>
+		Require all granted
+		Require not env DenyAccess
+		Require not ip 195.206.253.146
+	</RequireAll>
+</IfModule>
+<IfModule !mod_authz_core.c>
+	Order allow,deny
+	Deny from env=DenyAccess
+	Deny from 195.206.253.146
+	Allow from all
+</IfModule>
+# END iThemes Security - Do not modify or remove this line
+
+# BEGIN iThemes Security - Do not modify or remove this line
+# iThemes Security Config Details: 2
+# Quick ban IP. Will be updated on next formal rules save.
+SetEnvIF REMOTE_ADDR "^213\.251\.182\.115$" DenyAccess
+SetEnvIF X-FORWARDED-FOR "^213\.251\.182\.115$" DenyAccess
+SetEnvIF X-CLUSTER-CLIENT-IP "^213\.251\.182\.115$" DenyAccess
+<IfModule mod_authz_core.c>
+	<RequireAll>
+		Require all granted
+		Require not env DenyAccess
+		Require not ip 213.251.182.115
+	</RequireAll>
+</IfModule>
+<IfModule !mod_authz_core.c>
+	Order allow,deny
+	Deny from env=DenyAccess
+	Deny from 213.251.182.115
+	Allow from all
+</IfModule>
+# END iThemes Security - Do not modify or remove this line
+
+# BEGIN iThemes Security - Do not modify or remove this line
+# iThemes Security Config Details: 2
+# Quick ban IP. Will be updated on next formal rules save.
+SetEnvIF REMOTE_ADDR "^185\.109\.144\.236$" DenyAccess
+SetEnvIF X-FORWARDED-FOR "^185\.109\.144\.236$" DenyAccess
+SetEnvIF X-CLUSTER-CLIENT-IP "^185\.109\.144\.236$" DenyAccess
+<IfModule mod_authz_core.c>
+	<RequireAll>
+		Require all granted
+		Require not env DenyAccess
+		Require not ip 185.109.144.236
+	</RequireAll>
+</IfModule>
+<IfModule !mod_authz_core.c>
+	Order allow,deny
+	Deny from env=DenyAccess
+	Deny from 185.109.144.236
+	Allow from all
+</IfModule>
+# END iThemes Security - Do not modify or remove this line
+
+# BEGIN iThemes Security - Do not modify or remove this line
+# iThemes Security Config Details: 2
+# Quick ban IP. Will be updated on next formal rules save.
+SetEnvIF REMOTE_ADDR "^204\.12\.204\.178$" DenyAccess
+SetEnvIF X-FORWARDED-FOR "^204\.12\.204\.178$" DenyAccess
+SetEnvIF X-CLUSTER-CLIENT-IP "^204\.12\.204\.178$" DenyAccess
+<IfModule mod_authz_core.c>
+	<RequireAll>
+		Require all granted
+		Require not env DenyAccess
+		Require not ip 204.12.204.178
+	</RequireAll>
+</IfModule>
+<IfModule !mod_authz_core.c>
+	Order allow,deny
+	Deny from env=DenyAccess
+	Deny from 204.12.204.178
+	Allow from all
+</IfModule>
+# END iThemes Security - Do not modify or remove this line
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+RewriteRule  ^innova-educacion$ /innova-educacion.html [QSA,L]
+
+redirect 301 /formacion_del_caracter /formacion-del-caracter
+redirect 301 /principios_de_hermeneutica /principios-de-hermeneutica
+redirect 301 /principios_de_hermeneutica /introduccion-a-la-investigacion
+redirect 301 /descargas/PDF/QVS/Salud_Espiritual /educacion-continua
+redirect 301 /edu_continua.html /educacion-continua
+redirect 301 /testimonials.html /acerca/testimonios
+redirect 301 /autofinanciamiento.html /autofinanciamiento
+redirect 301 /contacto.html /contacto
+redirect 301 /portafolio-espiritualidadpredicador.html /la-espiritualidad-del-predicador
+redirect 301 /portafolio-educativo.html /educacion-continua
+redirect 301 /portafolio-formacionTutores.html /formacion-en-tutoria-virtual
+redirect 301 /portafolio-muerte.html /educacion-continua
+redirect 301 /portafolio-tutoriavirtual.html /formacion-en-tutoria-virtual
+redirect 301 /portfolio-2cols.html /educacion-continua
+redirect 301 /page-administracion-educativa.html /maestria-en-educacion
+redirect 301 /ventajas-de-estudiar-en-umvirtual /acerca
+redirect 301 /descargas/PDF/QVS/Activacion_Fisica.pdf /portfolio/activacion-fisica-para-el-bienestar-personal
+redirect 301 /wp-content/cursomuestra/data/presentation.xml /educacion-continua
+redirect 301 /wp-content/cursomuestra/data/playerproperties.xml /educacion-continua
+redirect 301 portfolio-2cols.html /educacion-continua
+redirect 301 /educacion_cristiana_vs_secular /educacion-cristiana-vs-secular
+redirect 301 /Dios_programador /dios-el-mejor-programador
+redirect 301 /portafolio-entorno.html /formacion-en-tutoria-virtual
+redirect 301 /experienciaUM /educacion-continua
+redirect 301 /wp-content/cursomuestra/player.html /educacion-continua
+redirect 301 /griego_1 /griego-l
+redirect 301 /posgrado.html /posgrado
+redirect 301 /wp-content/cursomuestra/data/presentation.xml /educacion-continua
+redirect 301 /portafolio-saludEmp.html /educacion-continua
+redirect 301 /portafolio-enfermedades.html /salud-mental-y-bienestar-personal
+redirect 301 /portafolio-herramientas.html /como-disenar-actividades-que-desarrollan-competencias
+redirect 301 /evangelismo-tecnologico-spot3 /evangelismo-tecnologico
+redirect 301 /portafolio-huerto.html /educacion-continua
+redirect 301 /descargas/PDF/QVS/Salud_mental.pdf /educacion-continua
+redirect 301 /portafolio-salud-mental.html /salud-mental-y-bienestar-personal
+redirect 301 /Portafolio-centros-influencia.html /como-crear-un-centro-de-influencia
+redirect 301 /portafolio-ventaefectiva.html /tecnicas-de-ventas-efectivas
+redirect 301 /portafolio-cultural.html /educacion-continua
+redirect 301 /portafolio-escribas.html /escribas-y-manuscritos-del-nuevo-testamento
+redirect 301 /portafolio-fisica.html /activacion-fisica-para-el-bienestar-personal
+redirect 301 /portafolio-estrategico.html /plan-estrategico-de-desarrollo
+redirect 301 /portafolio-OrientacionProfetica.html /orientacion-profetica
+redirect 301 /portafolio-contemporaneo.html /la-educacion-adventista-en-el-ambiente-contemporaneo/
+redirect 301 /portafolio-evapublico.html /evangelismo-publico
+redirect 301 /page-teologia.html /teologia
+redirect 301 /portafolio-8Remedios.html /quiero-vivir-sano-8-habitos-saludables
+redirect 301 /portfolio.html /educacion-continua
+redirect 301 /about-us.html /acerca
+redirect 301 /portafolio-orientacionFamiliar.html /orientacion-familiar
+redirect 301 /portafolio-marketing.html /plan-de-marketing
+redirect 301 /portafolio-estrategias.html /estrategias-de-ensenanza-para-las-nuevas-generaciones
+redirect 301 /portafolio-familia.html /fundamentos-firmes-para-la-familia-contemporanea
+redirect 301 /cursos_cortos.html /cursos-cortos
+redirect 301 /portafolio-vidasaludable.html /promocion-vida-saludable
+redirect 301 /Portafolio-estilos-vida.html /estilo-de-vida-saludable
+redirect 301 /portafolio-spot1.html /proiectum/salud/
+
+# protege archivo wp-config
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+
+# protege archivo .htaccess
+<files .htaccess>
+order allow,deny
+deny from all
+</files>

@@ -1,10 +1,10 @@
 /* hover color */
-ol.wpcustomEnlighterJS li.hoverEnabled:hover, ul.wpcustomEnlighterJS li.hoverEnabled:hover{
+ol.wpcustomEnlighterJS.hoverEnabled li:hover, ul.wpcustomEnlighterJS.hoverEnabled li:hover{
 	background-color: $(HOVER_BG_COLOR);
 }
 
 /* special line highlight color */
-ol.wpcustomEnlighterJS li.specialline {
+ol.wpcustomEnlighterJS li.specialline, ul.wpcustomEnlighterJS li.specialline{
 	background-color: $(HIGHLIGHT_BG_COLOR);
 }
 

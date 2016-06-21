@@ -18,16 +18,7 @@
         if($query_args){
             $query = new wp_query($query_args);
             if ($query->have_posts()) { ?>
-    <!-- begin related posts -->
-    <section class="related-posts-wrap">
-        <h3><?php _e('Related Posts', INCEPTIO_THEME_NAME); ?></h3>
-        <ul class="square">
-            <?php while ( $query->have_posts() ) { $query->the_post(); ?>
-            <li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
-            <?php } ?>
-        </ul>
-    </section>
-    <!-- end related posts -->
+    
     <?php } wp_reset_query(); ?>
     <?php } ?>
     <?php } ?>

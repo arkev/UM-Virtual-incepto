@@ -4,7 +4,7 @@ FAQ - Frequently Asked Questions
 ================================
 
 Please have a look at our `Link section
-<http://www.phpmyadmin.net/home_page/docs.php>`_ on the official
+<https://www.phpmyadmin.net/docs/>`_ on the official
 phpMyAdmin homepage for in-depth coverage of phpMyAdmin's features and
 or interface.
 
@@ -129,7 +129,7 @@ and after execution of your :term:`SQL` commands, removed.
 -------------------------------------------------------
 
 The MySQL manual explains how to `reset the permissions
-<http://dev.mysql.com/doc/mysql/en/resetting-permissions.html>`_.
+<https://dev.mysql.com/doc/mysql/en/resetting-permissions.html>`_.
 
 .. _faq1_13:
 
@@ -186,24 +186,14 @@ hosting provider is unwilling to change the settings:
 
 .. _faq1_17:
 
-1.17 Which MySQL versions does phpMyAdmin support?
---------------------------------------------------
+1.17 Which Database versions does phpMyAdmin support?
+-----------------------------------------------------
 
-Since phpMyAdmin 3.0.x, only MySQL 5.0.1 and newer are supported. For
-older MySQL versions, you need to use the latest 2.x branch.
-phpMyAdmin can connect to your MySQL server using PHP's classic `MySQL
-extension <http://php.net/mysql>`_ as well as the `improved MySQL
-extension (MySQLi) <http://php.net/mysqli>`_ that is available in PHP
-5.0. The latter one should be used unless you have a good reason not
-to do so. When compiling PHP, we strongly recommend that you manually
-link the MySQL extension of your choice to a MySQL client library of
-at least the same minor version since the one that is bundled with
-some PHP distributions is rather old and might cause problems see
-:ref:`faq1_17a`. `MariaDB <http://mariadb.org/>`_ is also supported
-(versions 5.1 and 5.2 were tested).
+For `MySQL <http://www.mysql.com/>`_, versions 5.5 and newer are supported. 
+For older MySQL versions, our `Downloads <https://www.phpmyadmin.net/downloads/>`_ page offers older phpMyAdmin versions 
+(which may have become unsupported).
 
-.. versionchanged:: 3.5
-    Since phpMyAdmin 3.5 `Drizzle <http://www.drizzle.org/>`_ is supported.
+For `MariaDB <http://mariadb.org/>`_, versions 5.5 and newer are supported.
 
 .. _faq1_17a:
 
@@ -220,7 +210,7 @@ The proper solution is to use the `mysqli extension
 <http://www.php.net/mysqli>`_ with the proper client library to match
 your MySQL installation. More
 information (and several workarounds) are located in the `MySQL
-Documentation <http://dev.mysql.com/doc/mysql/en/old-client.html>`_.
+Documentation <https://dev.mysql.com/doc/mysql/en/old-client.html>`_.
 
 .. _faq1_18:
 
@@ -393,8 +383,7 @@ MMCache but upgrading MMCache to version 2.3.21 solves the problem.
 
 Yes.
 
-Since release 4.1 phpMyAdmin supports only PHP 5.3 and newer. For PHP 5.2 you
-can use 4.0.x releases.
+Since release 4.5, phpMyAdmin supports only PHP 5.5 and newer. Since release 4.1 phpMyAdmin supports only PHP 5.3 and newer. For PHP 5.2 you can use 4.0.x releases.
 
 .. _faq1_32:
 
@@ -620,6 +609,25 @@ some robots accessing your installation.
 
 Because your PHP's ``memory_limit`` is too low; adjust it in :file:`php.ini`.
 
+.. _faq1:44:
+
+1.44 How can I reduce the installed size of phpMyAdmin on disk?
+---------------------------------------------------------------
+
+Some users have requested to be able to reduce the size of the phpMyAdmin installation.
+This is not recommended and could lead to confusion over missing features, but can be done.
+A list of files and corresponding functionality which degrade gracefully when removed include:
+
+* :file:`./libraries/tcpdf` folder (exporting to PDF)
+* :file:`./locale/` folder, or unused subfolders (interface translations)
+* Any unused themes in :file:`./themes/`
+* :file:`./js/jquery/src/` (included for licensing reasons)
+* :file:`./js/line_counts.php`
+* :file:`./doc/` (documentation)
+* :file:`./setup/` (setup script)
+* :file:`./examples/`
+* :file:`./sql/` (SQL scripts to configure advanced functionality)
+
 .. _faqconfig:
 
 Configuration
@@ -685,7 +693,7 @@ Here is a fix suggested by Brad Ummer:
   '0755').
 
 Have also a look at the `corresponding section of the MySQL
-documentation <http://dev.mysql.com/doc/en/can-not-connect-to-
+documentation <https://dev.mysql.com/doc/en/can-not-connect-to-
 server.html>`_.
 
 .. _faq2_4:
@@ -704,8 +712,11 @@ revision.
 2.5 Each time I want to insert or change a row or drop a database or a table, an error 404 (page not found) is displayed or, with HTTP or cookie authentication, I'm asked to log in again. What's wrong?
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Check the value you set for the :config:option:`$cfg['PmaAbsoluteUri']` directive in the phpMyAdmin
-configuration file.
+Check your webserver setup if it correctly fills in either PHP_SELF or REQUEST_URI variables.
+
+If you are running phpMyAdmin older than 4.6.0, you can also check the value
+you set for the :config:option:`$cfg['PmaAbsoluteUri']` directive in the
+phpMyAdmin configuration file.
 
 .. _faq2_6:
 
@@ -791,7 +802,7 @@ Here are a few points to check:
 ---------------------------------
 
 To be able to see a progress bar during your uploads, your server must
-have the `APC <http://pecl.php.net/package/APC>`_ extension, the
+have the `APC <http://php.net/manual/en/book.apc.php>`_ extension, the
 `uploadprogress <http://pecl.php.net/package/uploadprogress>`_ one, or
 you must be running PHP 5.4.0 or higher. Moreover, the JSON extension
 has to be enabled in your PHP.
@@ -836,7 +847,7 @@ dump, you have to use another way.
 3.3 With InnoDB tables, I lose foreign key relationships when I rename a table or a column.
 -------------------------------------------------------------------------------------------
 
-This is an InnoDB bug, see <http://bugs.mysql.com/bug.php?id=21704>.
+This is an InnoDB bug, see <https://bugs.mysql.com/bug.php?id=21704>.
 
 .. _faq3_4:
 
@@ -902,7 +913,7 @@ just put your own input-elements inside. If you use a custom submit
 input field, the form will submit itself to the displaying page again,
 where you can validate the $HTTP\_POST\_VARS in a transformation. For
 a tutorial on how to effectively use transformations, see our `Link
-section <http://www.phpmyadmin.net/home_page/docs.php>`_ on the
+section <https://www.phpmyadmin.net/docs/>`_ on the
 official phpMyAdmin-homepage.
 
 .. _faq3_9:
@@ -912,7 +923,7 @@ official phpMyAdmin-homepage.
 
 When MySQL is running in ANSI-compatibility mode, there are some major
 differences in how :term:`SQL` is structured (see
-<http://dev.mysql.com/doc/mysql/en/ansi-mode.html>). Most important of all, the
+<https://dev.mysql.com/doc/mysql/en/ansi-mode.html>). Most important of all, the
 quote-character (") is interpreted as an identifier quote character and not as
 a string quote character, which makes many internal phpMyAdmin operations into
 invalid :term:`SQL` statements. There is no
@@ -1493,7 +1504,7 @@ schema layout. Which tables will go on which pages?
 ---------------------------------------------------------
 
 No, it's MySQL that is doing `silent column type changing
-<http://dev.mysql.com/doc/en/silent-column-changes.html>`_.
+<https://dev.mysql.com/doc/en/silent-column-changes.html>`_.
 
 .. _underscore:
 
@@ -1521,7 +1532,7 @@ It means "average".
 **Structure:**
 
 * "Add DROP TABLE" will add a line telling MySQL to `drop the table
-  <http://dev.mysql.com/doc/mysql/en/drop-table.html>`_, if it already
+  <https://dev.mysql.com/doc/mysql/en/drop-table.html>`_, if it already
   exists during the import. It does NOT drop the table after your
   export, it only affects the import file.
 * "If Not Exists" will only create the table if it doesn't exist.
@@ -1542,10 +1553,10 @@ It means "average".
 * "Extended inserts" provides a shorter dump file by using only once the
   INSERT verb and the table name.
 * "Delayed inserts" are best explained in the `MySQL manual - INSERT DELAYED Syntax
-  <http://dev.mysql.com/doc/mysql/en/insert-delayed.html>`_.
+  <https://dev.mysql.com/doc/mysql/en/insert-delayed.html>`_.
 * "Ignore inserts" treats errors as a warning instead. Again, more info
   is provided in the `MySQL manual - INSERT Syntax
-  <http://dev.mysql.com/doc/mysql/en/insert.html>`_, but basically with
+  <https://dev.mysql.com/doc/mysql/en/insert.html>`_, but basically with
   this selected, invalid values are adjusted and inserted rather than
   causing the entire statement to fail.
 
@@ -1601,8 +1612,8 @@ mimetypes by heart so he/she can enter it at will?
 
 .. _faqbookmark:
 
-6.18 Bookmarks: Where can I store bookmarks? Why can't I see any bookmarks below the query box? What is this variable for?
---------------------------------------------------------------------------------------------------------------------------
+6.18 Bookmarks: Where can I store bookmarks? Why can't I see any bookmarks below the query box? What are these variables for?
+-----------------------------------------------------------------------------------------------------------------------------
 
 Any query you have executed can be stored as a bookmark on the page
 where the results are displayed. You will find a button labeled
@@ -1611,39 +1622,38 @@ stored a bookmark, it is related to the database you run the query on.
 You can now access a bookmark dropdown on each page, the query box
 appears on for that database.
 
-You can also have, inside the query, a placeholder for a variable.
-This is done by inserting into the query a SQL comment between ``/*`` and
-``*/``. Inside the comment, the special string ``[VARIABLE]`` is used.
-Be aware that the whole query minus the SQL comment must be
+You can also have, inside the query, placeholders for variables.
+This is done by inserting into the query SQL comments between ``/*`` and
+``*/``. Inside the comments, the special strings ``[VARIABLE{variable-number}]`` is used.
+Be aware that the whole query minus the SQL comments must be
 valid by itself, otherwise you won't be able to store it as a bookmark.
 
-When you execute the bookmark, everything typed into the *value*
-input box on the query box page will replace the string ``/*[VARIABLE]*/`` in
+When you execute the bookmark, everything typed into the *Variables*
+input boxes on the query box page will replace the strings ``/*[VARIABLE{variable-number}]*/`` in
 your stored query.
 
-Also remember, that everything else inside the ``/*[VARIABLE]*/`` string for
+Also remember, that everything else inside the ``/*[VARIABLE{variable-number}]*/`` string for
 your query will remain the way it is, but will be stripped of the ``/**/``
 chars. So you can use:
 
 .. code-block:: mysql
 
-    /*, [VARIABLE] AS myname */
+    /*, [VARIABLE1] AS myname */
 
 which will be expanded to
 
 .. code-block:: mysql
 
-    , VARIABLE as myname
+    , VARIABLE1 as myname
 
-in your query, where VARIABLE is the string you entered in the input box. If an
-empty string is provided, no replacements are made.
+in your query, where VARIABLE1 is the string you entered in the Variable 1 input box.
 
 A more complex example. Say you have stored
 this query:
 
 .. code-block:: mysql
 
-    SELECT Name, Address FROM addresses WHERE 1 /* AND Name LIKE '%[VARIABLE]%' */
+    SELECT Name, Address FROM addresses WHERE 1 /* AND Name LIKE '%[VARIABLE1]%' */
 
 Say, you now enter "phpMyAdmin" as the variable for the stored query, the full
 query will be:
@@ -1652,17 +1662,10 @@ query will be:
 
     SELECT Name, Address FROM addresses WHERE 1 AND Name LIKE '%phpMyAdmin%'
 
-You can use multiple occurrences of ``/*[VARIABLE]*/`` in a single query
-(that is, multiple occurrences of the *same* variable).
-
 **NOTE THE ABSENCE OF SPACES** inside the ``/**/`` construct. Any spaces
 inserted there will be later also inserted as spaces in your query and may lead
 to unexpected results especially when using the variable expansion inside of a
 "LIKE ''" expression.
-
-Your initial query which is going to be stored as a bookmark has to yield at
-least one result row so you can store the bookmark. You may have that to work
-around using well positioned ``/**/`` comments.
 
 .. _faq6_19:
 
@@ -1692,7 +1695,7 @@ DATABASES, LOCK TABLES. Those privileges also enable users to see all the
 database names. So if your users do not need those privileges, you can remove
 them and their databases list will shorten.
 
-.. seealso:: <http://bugs.mysql.com/179>
+.. seealso:: <https://bugs.mysql.com/179>
 
 .. _faq6_21:
 
@@ -1759,7 +1762,7 @@ in Browse mode or on the Structure page.
 -----------------------------------
 
 In all places where phpMyAdmin accepts format strings, you can use
-``@VARIABLE@`` expansion and `strftime <http://php.net/strftime>`_
+``@VARIABLE@`` expansion and `strftime <https://php.net/strftime>`_
 format strings. The expanded variables depend on a context (for
 example, if you haven't chosen a table, you can not get the table
 name), but the following variables can be used:
@@ -1886,7 +1889,7 @@ to display the plot.
 After the plot is generated, you can use the
 mousewheel to zoom in and out of the plot. In addition, panning
 feature is enabled to navigate through the plot. You can zoom-in to a
-certail level of detail and use panning to locate your area of
+certain level of detail and use panning to locate your area of
 interest. Clicking on a point opens a dialogue box, displaying field
 values of the data row represented by the point. You can edit the
 values if required and click on submit to issue an update query. Basic
@@ -1988,7 +1991,7 @@ On startup of the wizard, user gets to select upto what normal form they want to
 normalize the table structure.
 
 Here is an example table which you can use to test all of the three First, Second and
-Third Normal From.
+Third Normal Form.
 
 .. code-block:: mysql
 
@@ -2019,6 +2022,78 @@ Which says, OwnerEmail depends on OwnerLastName and OwnerFirstName.
 OwnerPhone depends on OwnerLastName and OwnerFirstName.
 PetType depends on PetBreed.
 
+.. _faq6_38:
+
+6.38 How can I reassign auto-incremented values? 
+------------------------------------------------
+
+Some users prefer their AUTO_INCREMENT values to be consecutive; this is not
+always the case after row deletion.
+
+Here are the steps to accomplish this. These are manual steps because they
+involve a manual verification at one point.
+
+* Ensure that you have exclusive access to the table to rearrange
+
+* On your primary key column (i.e. id), remove the AUTO_INCREMENT setting
+
+* Delete your primary key in Structure > indexes
+
+* Create a new column future_id as primary key, AUTO_INCREMENT
+
+* Browse your table and verify that the new increments correspond to what
+  you're expecting
+
+* Drop your old id column
+
+* Rename the future_id column to id
+
+* Move the new id column via Structure > Move columns
+
+.. _faq6_39:
+
+6.39 What is the "Adjust privileges" option when renaming, copying, or moving a database, table, column, or procedure?
+----------------------------------------------------------------------------------------------------------------------
+
+When renaming/copying/moving a database/table/column/procedure,
+MySQL does not adjust the original privileges relating to these objects
+on its own. By selecting this option, phpMyAdmin will adjust the privilege
+table so that users have the same privileges on the new items.
+
+For example: A user 'bob'@'localhost' has a 'SELECT' privilege on a
+column named 'id'. Now, if this column is renamed to 'id_new', MySQL,
+on its own, would **not** adjust the column privileges to the new column name.
+phpMyAdmin can make this adjustment for you automatically.
+
+Notes:
+
+* While adjusting privileges for a database, the privileges of all
+  database-related elements (tables, columns and procedures) are also adjusted
+  to the database's new name.
+
+* Similarly, while adjusting privileges for a table, the privileges of all
+  the columns inside the new table are also adjusted.
+
+* While adjusting privileges, the user performing the operation **must** have the following
+  privileges:
+
+  * SELECT, INSERT, UPDATE, DELETE privileges on following tables:
+    `mysql`.`db`, `mysql`.`columns_priv`, `mysql`.`tables_priv`, `mysql`.`procs_priv`
+  * FLUSH privilege (GLOBAL)
+
+Thus, if you want to replicate the database/table/column/procedure as it is
+while renaming/copying/moving these objects, make sure you have checked this option.
+
+.. _faq6_40:
+
+6.40 I see "Bind parameters" checkbox in the "SQL" page. How do I write parameterized SQL queries?
+--------------------------------------------------------------------------------------------------
+
+From version 4.5, phpMyAdmin allows users to execute parameterized queries in the "SQL" page.
+Parameters should be prefixed with a colon(:) and when the "Bind parameters" checkbox is checked
+these parameters will be identified and input fields for these parameters will be presented.
+Values entered in these field will be substituted in the query before being executed.
+
 .. _faqproject:
 
 phpMyAdmin project
@@ -2029,9 +2104,7 @@ phpMyAdmin project
 7.1 I have found a bug. How do I inform developers?
 ---------------------------------------------------
 
-Our Bug Tracker is located at <http://sf.net/projects/phpmyadmin/> under the
-Bugs section. But please first discuss your bug with other users:
-<https://sourceforge.net/projects/phpmyadmin/forums>.
+Our issues tracker is located at <https://github.com/phpmyadmin/phpmyadmin/issues>.
 
 .. _faq7_2:
 
@@ -2042,7 +2115,7 @@ Translations are very welcome and all you need to have are the
 language skills. The easiest way is to use our `online translation
 service <https://hosted.weblate.org/projects/phpmyadmin/>`_. You can check
 out all the possibilities to translate in the `translate section on
-our website <http://www.phpmyadmin.net/home_page/translate.php>`_.
+our website <https://www.phpmyadmin.net/translate/>`_.
 
 .. _faq7_3:
 
@@ -2052,7 +2125,7 @@ our website <http://www.phpmyadmin.net/home_page/translate.php>`_.
 We welcome every contribution to the development of phpMyAdmin. You
 can check out all the possibilities to contribute in the `contribute
 section on our website
-<http://www.phpmyadmin.net/home_page/improve.php>`_.
+<https://www.phpmyadmin.net/contribute/>`_.
 
 .. seealso:: :ref:`developers`
 
@@ -2066,7 +2139,7 @@ Security
 8.1 Where can I get information about the security alerts issued for phpMyAdmin?
 --------------------------------------------------------------------------------
 
-Please refer to <http://www.phpmyadmin.net/home_page/security.php>.
+Please refer to <https://www.phpmyadmin.net/security/>.
 
 .. _faq8_2:
 
@@ -2094,6 +2167,13 @@ logs. Currently there are two variables available:
 
 You can then use any log analyzing tools to detect possible break-in
 attempts.
+
+.. _faq8_3:
+
+8.3 Why are there path disclosures when directly loading certain files?
+-----------------------------------------------------------------------
+
+This is a server configuration problem. Never enable ``display_errors`` on a production site.
 
 .. _faqsynchronization:
 

@@ -1,18 +1,18 @@
 phpMyAdmin - Readme
 ===================
 
-Version 4.4.3
+Version 4.6.2
 
-A set of PHP-scripts to manage MySQL over the web.
+A web interface for MySQL and MariaDB.
 
-http://www.phpmyadmin.net/
+https://www.phpmyadmin.net/
 
 Summary
 -------
 
 phpMyAdmin is intended to handle the administration of MySQL over the web.
 For a summary of features, list of requirements, and installation instructions,
-please see the documentation in the ./doc/ folder or at http://docs.phpmyadmin.net/
+please see the documentation in the ./doc/ folder or at https://docs.phpmyadmin.net/
 
 Copyright
 ---------

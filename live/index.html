@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Foro Desafíos de la educación en línea para las Instituciones Adventistas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="description" content="Cuenta regresiva para el foro Desafíos de la educación en línea para las Instituciones Adventistas - proyección del Modelo Educativo Adventista en esta modalidad">
+    <link rel="stylesheet" href="../bower_components/normalize-css/normalize.css">
+    <link href="http://umvirtual.org/wp-content/uploads/favicon.png" type="image/x-icon" rel="shortcut icon">
+    <script src="../bower_components/modernizr/modernizr.js"></script>
+    <style>
+        @import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
+        
+        #days {
+            font-size: 200px;
+            font-weight: 700;
+            color: #db4844;
+        }
+        
+        #days span {
+            font-weight: 300;
+        }
+        
+        #hours {
+            font-size: 150px;
+            color: #f07c22;
+            font-weight: 700;
+        }
+        
+        #hours span {
+            font-weight: 300;
+        }
+        
+        #minutes {
+            font-size: 100px;
+            color: #f6da74;
+            font-weight: 700;
+        }
+        
+        #minutes span {
+            font-weight: 300;
+        }
+        
+        #seconds {
+            font-size: 50px;
+            color: #abcd58;
+            font-weight: 700;
+        }
+        
+        #seconds span {
+            font-weight: 300;
+        }
+        
+        div {
+            display: inline-block;
+            line-height: 1;
+            padding: 20px;
+            font-size: 40px;
+        }
+        
+        #timer,
+        img {
+            display: block;
+        }
+        #timer{display: none;}
+        img {
+            width: 100%;
+            max-width: 200px;
+            margin: 2em auto;
+        }
+        
+        span {
+            display: block;
+            font-size: 20px;
+            color: white;
+        }
+        
+        body {
+            text-align: center;
+            font-family: 'Oswald', sans-serif;
+            color: white;
+            background-color: #2A2B2F;
+            background-image: url(images/bkg-live.jpg);
+            background-repeat: no-repeat;
+            background-origin: center top;
+            background-size: cover;
+        }
+        .mod-box{
+            width: 920px;
+            margin: 0 auto;
+        }
+        .videoenvivo, .chatenvivo{margin: 0;padding: 0;}
+        .chatenvivo{width:350px;}
+        .imgvivo img{margin: 0 auto;}
+    </style>
+</head>
+
+<body>
+    <img src="images/collaboration-meeting.png" alt="Collaboration Meeting">
+    <div id="timer">
+        <div id="days"></div>
+        <div id="hours"></div>
+        <div id="minutes"></div>
+        <div id="seconds"></div>
+    </div>
+    <div class="mod-box">
+        <div class="videoenvivo">
+            <object type="application/x-shockwave-flash" data="http://streamradiohd.com/mediacp/system/misc/flvplayer/FLVplayer_Custom.swf" width="560" height="400" id="MediaPlayerTAB" style="visibility: visible;">
+                <param name="menu" value="true">
+                <param name="allowfullscreen" value="true">
+                <param name="flashvars" value="flvpFolderLocation=http://streamradiohd.com/mediacp/system/misc/flvplayer/flvplayer/&amp;flvpVideoSource=rtmp://streamradiohd.com/8276,8276&amp;flvpWidth=560&amp;flvpHeight=400&amp;flvpVideoBuffer=5&amp;flvpAutoStartMovie=true">
+            </object>
+            <script type="text/javascript" src="http://streamradiohd.com/mediacp/system/misc/flvplayer/swfobject.js"></script>
+            <script type="text/javascript">
+                var flashvars = {
+                    flvpFolderLocation: "http://streamradiohd.com/mediacp/system/misc/flvplayer/flvplayer/",
+                    flvpVideoSource: "rtmp://streamradiohd.com/8276,8276",
+                    flvpWidth: "560",
+                    flvpHeight: "400",
+                    flvpVideoBuffer: "5",
+                    flvpAutoStartMovie: true
+
+                };
+
+                var params = {
+                    menu: "true",
+                    allowfullscreen: "true"
+                };
+
+                swfobject.embedSWF("http://streamradiohd.com/mediacp/system/misc/flvplayer/FLVplayer_Custom.swf", "MediaPlayerTAB", "560", "400", "9.0.0", "http://streamradiohd.com/mediacp//system/misc/flvplayer/expressInstall.swf", flashvars, params);
+            </script>
+        </div>
+
+        <div class="chatenvivo">
+
+            <iframe src="http://www.ustream.tv/socialstream/742361" style="border: 0 none transparent;" webkitallowfullscreen="" allowfullscreen="" frameborder="no" width="360" height="355"></iframe>
+
+            <br>
+
+        </div>
+
+        <div class="botoneslinks">
+
+            <div class="imgvivo">
+                <a href="http://streamradiohd.com:1935/8276/8276/playlist.m3u8">
+                    <img border="0" src="http://www.um.edu.mx/wp-content/uploads/2013/05/vivo1.jpg">
+                </a>
+            </div>
+
+            <div class="imgvivo">
+                <a href="rtsp://streamradiohd.com/8276/8276">
+                    <img border="0" src="http://www.um.edu.mx/wp-content/uploads/2013/05/vivo2.jpg">
+                </a>
+            </div>
+
+            <div class="imgvivo">
+                <a href="rtsp://streamradiohd.com/8276/8276">
+                    <img border="0" src="http://www.um.edu.mx/wp-content/uploads/2013/05/vivo3.jpg">
+                </a>
+            </div>
+
+        </div>
+
+
+    </div>
+    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
+    <script>
+        function makeTimer() {
+
+            var endTime = new Date("November 17, 2015 10:59:59 PDT");
+            var endTime = (Date.parse(endTime)) / 1000;
+
+            var now = new Date();
+            var now = (Date.parse(now) / 1000);
+
+            var timeLeft = endTime - now;
+
+            var days = Math.floor(timeLeft / 86400);
+            var hours = Math.floor((timeLeft - (days * 86400)) / 3600);
+            var minutes = Math.floor((timeLeft - (days * 86400) - (hours * 3600)) / 60);
+            var seconds = Math.floor((timeLeft - (days * 86400) - (hours * 3600) - (minutes * 60)));
+
+            if (hours < "10") {
+                hours = "0" + hours;
+            }
+            if (minutes < "10") {
+                minutes = "0" + minutes;
+            }
+            if (seconds < "10") {
+                seconds = "0" + seconds;
+            }
+
+            $("#days").html(days + "<span>Days</span>");
+            $("#hours").html(hours + "<span>Hours</span>");
+            $("#minutes").html(minutes + "<span>Minutes</span>");
+            $("#seconds").html(seconds + "<span>Seconds</span>");
+
+        }
+
+        setInterval(function () {
+            makeTimer();
+        }, 1000);
+    </script>
+    <!-- Google Code para analitycs -->
+    <script>
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-49916110-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <!-- Goal tracking de Mailchimp -->
+<script type="text/javascript">
+	var $mcGoal = {'settings':{'uuid':'458128645c72adf41ccbd28cd','dc':'us7'}};
+	(function() {
+		 var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+		sp.src = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+	})(); 
+</script>
+<!-- End Goal tracking de Mailchimp -->
+
+<!-- Google Code para etiquetas de remarketing -->
+    <script>
+        /* <![CDATA[ */
+        var google_conversion_id = 957296960;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="Doble click" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/957296960/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+<!-- End Google Code para etiquetas de remarketing -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        ! function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window,
+            document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '954439487953611');
+        fbq('track', "PageView");
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=954439487953611&ev=PageView&noscript=1" /></noscript>
+    <!-- End Facebook Pixel Code -->
+</body>
+
+</html>
