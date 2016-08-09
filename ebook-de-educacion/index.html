@@ -29,7 +29,7 @@
             <p>Descarga el eBook gratis "Retos y desafías de la enseñanza a las nuevas generaciones"</p>
             
             <div id="mc_embed_signup">
-            <form accept-charset="UTF-8" name="mc-embedded-subscribe-form" class="validate" id="mc-embedded-subscribe-form" action="//umvirtual.us7.list-manage.com/subscribe/post?u=458128645c72adf41ccbd28cd&amp;id=70c393376d" method="post" novalidate>
+            <form action="//umvirtual.us7.list-manage.com/subscribe/post?u=458128645c72adf41ccbd28cd&amp;id=d89c468f30" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
                <fieldset>
                 <div class="row uniform placeholder-example">
                     <div class="6u 12u$(xsmall)">
@@ -45,8 +45,7 @@
                     <div class="12u$">
                         <ul class="actions">
                             <li>
-                                <input type="text" name="b_458128645c72adf41ccbd28cd_70c393376d" tabindex="-1" value="" class="hide">
-                                <input type="text" value="Landing Retos y desafías de la enseñanza" name="FUENTE" class="hide" id="mce-FUENTE">
+                                <input type="text" name="b_458128645c72adf41ccbd28cd_d89c468f30" tabindex="-1" value="" style="display:none;">
                                 <input type="submit" value="Lo quiero" class="special button" id="mc-embedded-subscribe" name="subscribe" tabindex="4">
                             </li>
                         </ul>
@@ -88,7 +87,41 @@
     <script src="assets/js/min/main-min.js"></script>
     
     <!-- Validación del formulario -->
-    <script type='text/javascript' src='http://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+    <script src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+    <script>
+        (function ($) {
+        window.fnames = new Array();
+        window.ftypes = new Array();
+        fnames[0] = 'EMAIL';
+        ftypes[0] = 'email';
+        fnames[1] = 'NOMBRE';
+        ftypes[1] = 'text';
+        /*
+         * Translated default messages for the $ validation plugin.
+         * Locale: ES
+         */
+        $.extend($.validator.messages, {
+            required: "Este campo es obligatorio.",
+            remote: "Por favor, rellena este campo.",
+            email: "Por favor, escribe una dirección de correo válida",
+            url: "Por favor, escribe una URL válida.",
+            date: "Por favor, escribe una fecha válida.",
+            dateISO: "Por favor, escribe una fecha (ISO) válida.",
+            number: "Por favor, escribe un número entero válido.",
+            digits: "Por favor, escribe sólo dígitos.",
+            creditcard: "Por favor, escribe un número de tarjeta válido.",
+            equalTo: "Por favor, escribe el mismo valor de nuevo.",
+            accept: "Por favor, escribe un valor con una extensión aceptada.",
+            maxlength: $.validator.format("Por favor, no escribas más de {0} caracteres."),
+            minlength: $.validator.format("Por favor, no escribas menos de {0} caracteres."),
+            rangelength: $.validator.format("Por favor, escribe un valor entre {0} y {1} caracteres."),
+            range: $.validator.format("Por favor, escribe un valor entre {0} y {1}."),
+            max: $.validator.format("Por favor, escribe un valor menor o igual a {0}."),
+            min: $.validator.format("Por favor, escribe un valor mayor o igual a {0}.")
+        });
+    }(jQuery));
+    var $mcj = jQuery.noConflict(true);
+    </script>
 
     
     <!-- Analytics -->

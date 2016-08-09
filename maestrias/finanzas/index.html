@@ -24,22 +24,47 @@
                 <h2>Solicitud de beca promocional</h2>
                 <h3>Maestría en Administración con acentuación en Finanzas</h3>
             </header>
-            <form method="post" action="send.php" accept-charset="UTF-8" id="form_contacto">
-                <div class="row uniform">
+            <form class="form-view" id="agile-form" action="https://umvirtual.agilecrm.com/formsubmit" method="POST" accept-charset="UTF-8">
+               <div>
+                    <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Creando Oportunidades" style="display:none;">
+                    <input type="hidden" id="_agile_domain" name="_agile_domain" value="umvirtual" style="display:none;">
+                    <input type="hidden" id="_agile_api" name="_agile_api" value="kgvg33jvsno6dgik0eqpgb0cgl" style="display:none;">
+                    <input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="http://umvirtual.org/creando-oportunidades/gracias.html" style="display:none;">
+                    <input type="hidden" id="_agile_form_id_tags" name="tags" value="creando oportunidades, lead, educación formal" style="display:none;">
+                    <input type="hidden" id="programa" name="Programa formal" value="Maestría en Finanzas" style="display:none;">
+                </div>
+                <div class="row uniform placeholder-example">
                     <div class="6u 12u$(xsmall)">
-                        <input type="text" name="nombre" id="nombre" title="Nombre" tabindex="1" required>
+                        <input type="text" name="first_name" placeholder="Nombre(s)" class="agile-height-default" id="nombre-3" title="Nombre" tabindex="1"  required>
+                    </div>
+                    <div class="6u 12u$(xsmall)">
+                        <input type="text" name="last_name" placeholder="Apellidos" class="agile-height-default" id="Apellidos" title="Apellidos" tabindex="2"  required>
+                    </div>
+                    <div class="6u 12u$(xsmall)">
+                        <input type="tel" name="phone" placeholder="Teléfono (Opcional)" class="agile-height-default" id="telefono" title="Teléfono" tabindex="3">
                     </div>
                     <div class="6u$ 12u$(xsmall)">
-                        <input type="email" name="email" id="email" title="Email" tabindex="2" required>
+                        <input type="email" name="email" id="email" class="agile-height-default" placeholder="Correo electrónico" title="Email" autocomplete="off" tabindex="4" required>
                     </div>
                     <div id="res_contacto"></div>
                     <div class="12u$">
                         <ul class="actions">
                             <li>
-                                <input type="submit" value="Solicitar beca" class="special" name="submit" tabindex="3">
+                                <input type="submit" value="Solicitar beca" class="special agile-button" name="submit" tabindex="5">
                             </li>
                         </ul>
                     </div>
+                    <div id="res_contacto"></div>
+                    <div class="agile-group row center-xs">
+                    <div class="agile-field col-xs">
+                        <div>
+                            <span id="agile-error-msg"></span>
+                        </div>
+                    </div>
+                </div>
+                <section id="respuesta">
+                
+                </section>
                 </div>
             </form>
 

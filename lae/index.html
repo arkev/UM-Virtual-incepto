@@ -37,12 +37,21 @@
             </section>
 
             <section id="form">
-                <form method="post" action="valida.php" accept-charset="UTF-8" id="form_contacto">
+                <form class="form-view" id="agile-form" action="https://umvirtual.agilecrm.com/formsubmit" method="POST" accept-charset="UTF-8">
                     <button id="close" class="fa fa-times-circle-o"></button>
-                    <input type="text" name="nombre" id="nombre" title="Nombre" tabindex="1" required>
-                    <input type="email" name="email" id="email" title="Email" tabindex="2" required>
-                    <input type="submit" value="Obtener beca" name="submit" tabindex="3">
-                    <div id="res_contacto"></div>
+                     <div>
+                    <input type="hidden" id="_agile_form_name" name="_agile_form_name" value="Creando Oportunidades">
+                    <input type="hidden" id="_agile_domain" name="_agile_domain" value="umvirtual">
+                    <input type="hidden" id="_agile_api" name="_agile_api" value="kgvg33jvsno6dgik0eqpgb0cgl">
+                    <input type="hidden" id="_agile_redirect_url" name="_agile_redirect_url" value="http://umvirtual.org/creando-oportunidades/gracias.html">
+                    <input type="hidden" id="_agile_form_id_tags" name="tags" value="creando oportunidades, lead, educación formal">
+                    <input type="hidden" id="programa" name="Programa formal" value="Lic. Administración de Empresas">
+                </div>
+                    <input type="text" placeholder="Nombre(s)" name="first_name" class="agile-height-default" id="nombre-3" title="Nombre" tabindex="1" required>
+                    <input type="email" name="email" id="email" class="agile-height-default" placeholder="Correo electrónico" title="Email" tabindex="2" required>
+                    <input type="submit" class="agile-button" value="Obtener beca" name="submit" tabindex="3">
+                    
+                    <section id="respuesta"></section>
                 </form>
             </section>
 
